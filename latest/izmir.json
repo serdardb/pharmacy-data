@@ -3,7 +3,7 @@
   "cityName": "İzmir",
   "cityId": 35,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-14T22:30:11.100Z",
+  "updatedAt": "2026-02-14T22:41:15.153Z",
   "count": 71,
   "pharmacies": [
     {
@@ -15,7 +15,8 @@
       "city": "İzmir",
       "latitude": 38.429488,
       "longitude": 27.19608,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-1-6",
@@ -26,7 +27,8 @@
       "city": "İzmir",
       "latitude": 38.384122,
       "longitude": 27.058046,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-2-7",
@@ -37,7 +39,8 @@
       "city": "İzmir",
       "latitude": 38.397276,
       "longitude": 27.105395,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-3-9",
@@ -48,7 +51,8 @@
       "city": "İzmir",
       "latitude": 38.464583,
       "longitude": 27.163323,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-4-10",
@@ -59,7 +63,8 @@
       "city": "İzmir",
       "latitude": 38.466379,
       "longitude": 27.22001,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-5-11",
@@ -70,7 +75,8 @@
       "city": "İzmir",
       "latitude": 38.461806,
       "longitude": 27.207664,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-6-12",
@@ -81,7 +87,8 @@
       "city": "İzmir",
       "latitude": 38.458643,
       "longitude": 27.175782,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-7-14",
@@ -92,7 +99,8 @@
       "city": "İzmir",
       "latitude": 38.39805,
       "longitude": 27.128027,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-8-15",
@@ -103,7 +111,8 @@
       "city": "İzmir",
       "latitude": 38.390152,
       "longitude": 27.165648,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-9-16",
@@ -114,7 +123,8 @@
       "city": "İzmir",
       "latitude": 38.436676,
       "longitude": 27.199539,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-10-17",
@@ -125,7 +135,8 @@
       "city": "İzmir",
       "latitude": 38.495836,
       "longitude": 27.050079,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-11-17",
@@ -136,7 +147,8 @@
       "city": "İzmir",
       "latitude": 38.486321,
       "longitude": 27.059453,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-12-17",
@@ -147,7 +159,8 @@
       "city": "İzmir",
       "latitude": 38.530921,
       "longitude": 27.050859,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-13-20",
@@ -158,7 +171,8 @@
       "city": "İzmir",
       "latitude": 38.405675,
       "longitude": 27.128712,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-14-22",
@@ -169,7 +183,8 @@
       "city": "İzmir",
       "latitude": 38.312682,
       "longitude": 27.132616,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-15-23",
@@ -180,7 +195,8 @@
       "city": "İzmir",
       "latitude": 38.368278,
       "longitude": 27.145947,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-16-25",
@@ -191,7 +207,8 @@
       "city": "İzmir",
       "latitude": 38.415852,
       "longitude": 27.181625,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-17-26",
@@ -202,7 +219,8 @@
       "city": "İzmir",
       "latitude": 38.470451,
       "longitude": 27.129699,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-18-28",
@@ -213,7 +231,8 @@
       "city": "İzmir",
       "latitude": 38.375014,
       "longitude": 26.872981,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-19-31",
@@ -224,7 +243,8 @@
       "city": "İzmir",
       "latitude": 38.39303,
       "longitude": 27.033796,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-20-32",
@@ -235,7 +255,8 @@
       "city": "İzmir",
       "latitude": 38.384399,
       "longitude": 27.130116,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-21-37",
@@ -246,7 +267,8 @@
       "city": "İzmir",
       "latitude": 38.390879,
       "longitude": 27.025491,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-22-39",
@@ -257,7 +279,8 @@
       "city": "İzmir",
       "latitude": 38.429856,
       "longitude": 27.273705,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-23-42",
@@ -268,7 +291,8 @@
       "city": "İzmir",
       "latitude": 38.403725,
       "longitude": 27.117167,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-24-43",
@@ -279,7 +303,8 @@
       "city": "İzmir",
       "latitude": 38.423262,
       "longitude": 27.160405,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-25-44",
@@ -290,7 +315,8 @@
       "city": "İzmir",
       "latitude": 38.397339,
       "longitude": 27.113001,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-26-45",
@@ -301,7 +327,8 @@
       "city": "İzmir",
       "latitude": 38.384805,
       "longitude": 27.184072,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-27-46",
@@ -312,7 +339,8 @@
       "city": "İzmir",
       "latitude": 38.376286,
       "longitude": 27.180172,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-28-48",
@@ -323,7 +351,8 @@
       "city": "İzmir",
       "latitude": 38.297236,
       "longitude": 27.167904,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-29-50",
@@ -334,7 +363,8 @@
       "city": "İzmir",
       "latitude": 38.394881,
       "longitude": 27.147801,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-30-51",
@@ -345,7 +375,8 @@
       "city": "İzmir",
       "latitude": 38.798596,
       "longitude": 26.96538,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-31-52",
@@ -356,7 +387,8 @@
       "city": "İzmir",
       "latitude": 38.238031,
       "longitude": 27.279253,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-32-53",
@@ -367,7 +399,8 @@
       "city": "İzmir",
       "latitude": 38.22133,
       "longitude": 27.649414,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-33-54",
@@ -378,7 +411,8 @@
       "city": "İzmir",
       "latitude": 39.120605,
       "longitude": 27.179393,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-34-55",
@@ -389,7 +423,8 @@
       "city": "İzmir",
       "latitude": 38.085323,
       "longitude": 28.208369,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-35-58",
@@ -400,7 +435,8 @@
       "city": "İzmir",
       "latitude": 38.256217,
       "longitude": 27.130722,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-36-61",
@@ -411,7 +447,8 @@
       "city": "İzmir",
       "latitude": 39.071753,
       "longitude": 26.888731,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-37-62",
@@ -422,7 +459,8 @@
       "city": "İzmir",
       "latitude": 38.659082,
       "longitude": 26.764558,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-38-63",
@@ -433,7 +471,8 @@
       "city": "İzmir",
       "latitude": 38.738804,
       "longitude": 26.838447,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-39-64",
@@ -444,7 +483,8 @@
       "city": "İzmir",
       "latitude": 38.634972,
       "longitude": 26.522727,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-40-65",
@@ -455,7 +495,8 @@
       "city": "İzmir",
       "latitude": 38.518282,
       "longitude": 26.625497,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-41-66",
@@ -466,7 +507,8 @@
       "city": "İzmir",
       "latitude": 38.429998,
       "longitude": 27.412054,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-42-67",
@@ -477,7 +519,8 @@
       "city": "İzmir",
       "latitude": 39.087162,
       "longitude": 27.383935,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-43-68",
@@ -488,7 +531,8 @@
       "city": "İzmir",
       "latitude": 38.231234,
       "longitude": 28.205193,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-44-69",
@@ -499,7 +543,8 @@
       "city": "İzmir",
       "latitude": 38.609168,
       "longitude": 27.071199,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-45-70",
@@ -510,7 +555,8 @@
       "city": "İzmir",
       "latitude": 38.234313,
       "longitude": 27.976921,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-46-70",
@@ -521,7 +567,8 @@
       "city": "İzmir",
       "latitude": 38.233562,
       "longitude": 27.976508,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-47-71",
@@ -532,7 +579,8 @@
       "city": "İzmir",
       "latitude": 38.194902,
       "longitude": 26.836549,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-48-72",
@@ -543,7 +591,8 @@
       "city": "İzmir",
       "latitude": 37.949381,
       "longitude": 27.370911,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-49-73",
@@ -554,7 +603,8 @@
       "city": "İzmir",
       "latitude": 38.32222,
       "longitude": 26.766,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-50-74",
@@ -565,7 +615,8 @@
       "city": "İzmir",
       "latitude": 38.088951,
       "longitude": 27.740875,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-51-75",
@@ -576,7 +627,8 @@
       "city": "İzmir",
       "latitude": 38.151471,
       "longitude": 27.367484,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-52-75",
@@ -587,7 +639,8 @@
       "city": "İzmir",
       "latitude": 38.17286,
       "longitude": 27.349242,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-53-76",
@@ -598,7 +651,8 @@
       "city": "İzmir",
       "latitude": 38.889168,
       "longitude": 27.065746,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-54-77",
@@ -609,7 +663,8 @@
       "city": "İzmir",
       "latitude": 38.463794,
       "longitude": 27.120399,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-55-78",
@@ -620,7 +675,8 @@
       "city": "İzmir",
       "latitude": 38.468026,
       "longitude": 27.091548,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-56-79",
@@ -631,7 +687,8 @@
       "city": "İzmir",
       "latitude": 38.45989,
       "longitude": 27.104916,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-57-80",
@@ -642,7 +699,8 @@
       "city": "İzmir",
       "latitude": 38.454912,
       "longitude": 27.109034,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-58-82",
@@ -653,7 +711,8 @@
       "city": "İzmir",
       "latitude": 38.432865,
       "longitude": 27.149753,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-59-83",
@@ -664,7 +723,8 @@
       "city": "İzmir",
       "latitude": 38.392845,
       "longitude": 27.086847,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-60-84",
@@ -675,7 +735,8 @@
       "city": "İzmir",
       "latitude": 38.398154,
       "longitude": 27.079324,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-61-89",
@@ -686,7 +747,8 @@
       "city": "İzmir",
       "latitude": 38.936379,
       "longitude": 26.934386,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-62-101",
@@ -697,7 +759,8 @@
       "city": "İzmir",
       "latitude": 38.472052,
       "longitude": 27.187707,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-63-102",
@@ -708,7 +771,8 @@
       "city": "İzmir",
       "latitude": 38.371877,
       "longitude": 27.107846,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-64-103",
@@ -719,7 +783,8 @@
       "city": "İzmir",
       "latitude": 38.432112,
       "longitude": 27.161852,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-65-106",
@@ -730,7 +795,8 @@
       "city": "İzmir",
       "latitude": 38.448071,
       "longitude": 27.229566,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-66-107",
@@ -741,7 +807,8 @@
       "city": "İzmir",
       "latitude": 38.550989,
       "longitude": 27.045011,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-67-108",
@@ -752,7 +819,8 @@
       "city": "İzmir",
       "latitude": 38.390634,
       "longitude": 26.747354,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-68-109",
@@ -763,7 +831,8 @@
       "city": "İzmir",
       "latitude": 38.368106,
       "longitude": 26.837361,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-69-112",
@@ -774,7 +843,8 @@
       "city": "İzmir",
       "latitude": 38.19121,
       "longitude": 26.784998,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "izmir-70-113",
@@ -785,7 +855,8 @@
       "city": "İzmir",
       "latitude": 38.079549,
       "longitude": 26.957288,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     }
   ]
 }

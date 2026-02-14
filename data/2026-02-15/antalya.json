@@ -3,7 +3,7 @@
   "cityName": "Antalya",
   "cityId": 7,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-14T22:30:11.100Z",
+  "updatedAt": "2026-02-14T22:41:15.153Z",
   "count": 38,
   "pharmacies": [
     {
@@ -15,7 +15,8 @@
       "city": "Antalya",
       "latitude": 36.89289920872836,
       "longitude": 30.68023093738237,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-1",
@@ -26,7 +27,8 @@
       "city": "Antalya",
       "latitude": 36.8921588446,
       "longitude": 30.6916503088,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-2",
@@ -37,7 +39,8 @@
       "city": "Antalya",
       "latitude": 36.895426738226895,
       "longitude": 30.72520532024646,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-3",
@@ -48,7 +51,8 @@
       "city": "Antalya",
       "latitude": 36.886204,
       "longitude": 30.727063,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-4",
@@ -59,7 +63,8 @@
       "city": "Antalya",
       "latitude": 36.86725104982666,
       "longitude": 30.735822439729112,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-5",
@@ -70,7 +75,8 @@
       "city": "Antalya",
       "latitude": 36.8531876725,
       "longitude": 30.7582175557,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-6",
@@ -81,7 +87,8 @@
       "city": "Antalya",
       "latitude": 36.87562773097577,
       "longitude": 30.829890367516324,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-7",
@@ -92,7 +99,8 @@
       "city": "Antalya",
       "latitude": 36.91846667,
       "longitude": 30.67563333,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-8",
@@ -103,7 +111,8 @@
       "city": "Antalya",
       "latitude": 36.9175268305,
       "longitude": 30.7086818554,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-9",
@@ -114,7 +123,8 @@
       "city": "Antalya",
       "latitude": 36.93617789879637,
       "longitude": 30.680129170372947,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-10",
@@ -125,7 +135,8 @@
       "city": "Antalya",
       "latitude": 36.9125413,
       "longitude": 30.643222,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-11",
@@ -136,7 +147,8 @@
       "city": "Antalya",
       "latitude": 36.8919827559,
       "longitude": 30.6261582358,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-12",
@@ -147,7 +159,8 @@
       "city": "Antalya",
       "latitude": 36.87668551272149,
       "longitude": 30.652182698249817,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-13",
@@ -158,7 +171,8 @@
       "city": "Antalya",
       "latitude": 37.02817566461992,
       "longitude": 30.59719204902649,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-14",
@@ -169,7 +183,8 @@
       "city": "Antalya",
       "latitude": 36.936442166230925,
       "longitude": 30.81950694322586,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-15",
@@ -180,7 +195,8 @@
       "city": "Antalya",
       "latitude": 36.54739840086216,
       "longitude": 31.99433594942093,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-16",
@@ -191,7 +207,8 @@
       "city": "Antalya",
       "latitude": 36.5552874688,
       "longitude": 31.9901414311,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-17",
@@ -202,7 +219,8 @@
       "city": "Antalya",
       "latitude": 36.54089059404464,
       "longitude": 31.99860541500288,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-18",
@@ -213,7 +231,8 @@
       "city": "Antalya",
       "latitude": 36.47727531093414,
       "longitude": 32.10852689979706,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-19",
@@ -224,7 +243,8 @@
       "city": "Antalya",
       "latitude": 36.59141503710927,
       "longitude": 31.85940237470163,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-20",
@@ -235,7 +255,8 @@
       "city": "Antalya",
       "latitude": 36.79049849094501,
       "longitude": 31.466281414031982,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-21",
@@ -246,7 +267,8 @@
       "city": "Antalya",
       "latitude": 36.786609,
       "longitude": 31.442149,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-22",
@@ -257,7 +279,8 @@
       "city": "Antalya",
       "latitude": 0,
       "longitude": 0,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-23",
@@ -268,7 +291,8 @@
       "city": "Antalya",
       "latitude": 36.73837328808137,
       "longitude": 29.918716610773117,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-24",
@@ -279,7 +303,8 @@
       "city": "Antalya",
       "latitude": 36.199636,
       "longitude": 29.660008,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-25",
@@ -290,7 +315,8 @@
       "city": "Antalya",
       "latitude": 36.27104915474865,
       "longitude": 29.41239595413208,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-26",
@@ -301,7 +327,8 @@
       "city": "Antalya",
       "latitude": 36.35216144470179,
       "longitude": 29.31785253887017,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-27",
@@ -312,7 +339,8 @@
       "city": "Antalya",
       "latitude": 36.24479493,
       "longitude": 29.9871305212,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-28",
@@ -323,7 +351,8 @@
       "city": "Antalya",
       "latitude": 36.30521735324553,
       "longitude": 30.14374852180481,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-29",
@@ -334,7 +363,8 @@
       "city": "Antalya",
       "latitude": 36.35115800026078,
       "longitude": 30.13111573875705,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-30",
@@ -345,7 +375,8 @@
       "city": "Antalya",
       "latitude": 36.33796232592061,
       "longitude": 30.214403496863937,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-31",
@@ -356,7 +387,8 @@
       "city": "Antalya",
       "latitude": 36.366744600137515,
       "longitude": 30.28728425502777,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-32",
@@ -367,7 +399,8 @@
       "city": "Antalya",
       "latitude": 36.6150582997278,
       "longitude": 30.55024266242981,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-33",
@@ -378,7 +411,8 @@
       "city": "Antalya",
       "latitude": 36.731977658150534,
       "longitude": 30.562957674264908,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-34",
@@ -389,7 +423,8 @@
       "city": "Antalya",
       "latitude": 36.91584618473026,
       "longitude": 31.084389835596085,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-35",
@@ -400,7 +435,8 @@
       "city": "Antalya",
       "latitude": 36.27021046051974,
       "longitude": 32.30931413904285,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-36",
@@ -411,7 +447,8 @@
       "city": "Antalya",
       "latitude": 37.046704329412094,
       "longitude": 31.789321303367615,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     },
     {
       "id": "antalya-37",
@@ -422,7 +459,8 @@
       "city": "Antalya",
       "latitude": 36.876696,
       "longitude": 30.735134,
-      "dutyHours": "14 Şub 08:00 → 15 Şub 08:00"
+      "dutyStart": "2026-02-14T08:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:00:00.000Z"
     }
   ]
 }

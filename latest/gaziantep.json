@@ -3,7 +3,7 @@
   "cityName": "Gaziantep",
   "cityId": 27,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-14T22:30:11.100Z",
+  "updatedAt": "2026-02-14T22:41:15.153Z",
   "count": 21,
   "pharmacies": [
     {
@@ -15,7 +15,8 @@
       "city": "Gaziantep",
       "latitude": 37.05291,
       "longitude": 37.372311,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-1",
@@ -26,7 +27,8 @@
       "city": "Gaziantep",
       "latitude": 37.06675232813354,
       "longitude": 37.38321304321289,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-2",
@@ -37,7 +39,8 @@
       "city": "Gaziantep",
       "latitude": 37.054283,
       "longitude": 37.414627,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-3",
@@ -48,7 +51,8 @@
       "city": "Gaziantep",
       "latitude": 37.054488,
       "longitude": 37.338285,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-4",
@@ -59,7 +63,8 @@
       "city": "Gaziantep",
       "latitude": 37.015812,
       "longitude": 37.384708,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-5",
@@ -70,7 +75,8 @@
       "city": "Gaziantep",
       "latitude": 36.992325,
       "longitude": 37.310696,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-6",
@@ -81,7 +87,8 @@
       "city": "Gaziantep",
       "latitude": 37.087571,
       "longitude": 37.426272,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-7",
@@ -92,7 +99,8 @@
       "city": "Gaziantep",
       "latitude": 37.06675232813354,
       "longitude": 37.38321304321289,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-8",
@@ -103,7 +111,8 @@
       "city": "Gaziantep",
       "latitude": 37.076103,
       "longitude": 37.369022,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-9",
@@ -114,7 +123,8 @@
       "city": "Gaziantep",
       "latitude": 37.072529,
       "longitude": 37.363998,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-10",
@@ -125,7 +135,8 @@
       "city": "Gaziantep",
       "latitude": 37.080127,
       "longitude": 37.325458,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-11",
@@ -136,7 +147,8 @@
       "city": "Gaziantep",
       "latitude": 37.067677,
       "longitude": 37.346973,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-12",
@@ -147,7 +159,8 @@
       "city": "Gaziantep",
       "latitude": 37.0667389684466,
       "longitude": 37.38323319911137,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-13",
@@ -158,7 +171,8 @@
       "city": "Gaziantep",
       "latitude": 37.084186,
       "longitude": 37.361328,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-14",
@@ -169,7 +183,8 @@
       "city": "Gaziantep",
       "latitude": 37.076954,
       "longitude": 37.366833,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-15",
@@ -180,7 +195,8 @@
       "city": "Gaziantep",
       "latitude": 37.06675232813354,
       "longitude": 37.38321304321289,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-16",
@@ -191,7 +207,8 @@
       "city": "Gaziantep",
       "latitude": 37.425385,
       "longitude": 37.689556,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-17",
@@ -202,7 +219,8 @@
       "city": "Gaziantep",
       "latitude": 36.961414,
       "longitude": 37.521286,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-18",
@@ -213,7 +231,8 @@
       "city": "Gaziantep",
       "latitude": 37.06675232813354,
       "longitude": 37.38321304321289,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-19",
@@ -224,7 +243,8 @@
       "city": "Gaziantep",
       "latitude": 37.185209,
       "longitude": 36.733781,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "gaziantep-20",
@@ -235,7 +255,8 @@
       "city": "Gaziantep",
       "latitude": 37.096748,
       "longitude": 37.426849,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     }
   ]
 }

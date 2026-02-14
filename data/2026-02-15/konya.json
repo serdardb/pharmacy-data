@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-14T22:30:11.100Z",
+  "updatedAt": "2026-02-14T22:41:15.153Z",
   "count": 31,
   "pharmacies": [
     {
@@ -15,7 +15,8 @@
       "city": "Konya",
       "latitude": 37.87746,
       "longitude": 32.49213,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-1",
@@ -26,7 +27,8 @@
       "city": "Konya",
       "latitude": 37.8784195,
       "longitude": 32.468792,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-2",
@@ -37,7 +39,8 @@
       "city": "Konya",
       "latitude": 37.89784,
       "longitude": 32.44813,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-3",
@@ -48,7 +51,8 @@
       "city": "Konya",
       "latitude": 37.8708987,
       "longitude": 32.4558463,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-4",
@@ -59,7 +63,8 @@
       "city": "Konya",
       "latitude": 37.8980615,
       "longitude": 32.5310105,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-5",
@@ -70,7 +75,8 @@
       "city": "Konya",
       "latitude": 37.8663686,
       "longitude": 32.4780306,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-6",
@@ -81,7 +87,8 @@
       "city": "Konya",
       "latitude": 37.8602906,
       "longitude": 32.5244049,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-7",
@@ -92,7 +99,8 @@
       "city": "Konya",
       "latitude": 37.90201,
       "longitude": 32.4893,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-8",
@@ -103,7 +111,8 @@
       "city": "Konya",
       "latitude": 37.9260838,
       "longitude": 32.4917185,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-9",
@@ -114,7 +123,8 @@
       "city": "Konya",
       "latitude": 37.95203,
       "longitude": 32.48309,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-10",
@@ -125,7 +135,8 @@
       "city": "Konya",
       "latitude": 37.975001,
       "longitude": 32.5209517,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-11",
@@ -136,7 +147,8 @@
       "city": "Konya",
       "latitude": 37.83899,
       "longitude": 32.49087,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-12",
@@ -147,7 +159,8 @@
       "city": "Konya",
       "latitude": 38.3472494,
       "longitude": 31.4274367,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-13",
@@ -158,7 +171,8 @@
       "city": "Konya",
       "latitude": 38.3072871,
       "longitude": 32.8636853,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-14",
@@ -169,7 +183,8 @@
       "city": "Konya",
       "latitude": 37.68373,
       "longitude": 31.72814,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-15",
@@ -180,7 +195,8 @@
       "city": "Konya",
       "latitude": 37.1891307,
       "longitude": 32.2434062,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-16",
@@ -191,7 +207,8 @@
       "city": "Konya",
       "latitude": 38.6653723,
       "longitude": 32.9219152,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-17",
@@ -202,7 +219,8 @@
       "city": "Konya",
       "latitude": 38.87074,
       "longitude": 32.79009,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-18",
@@ -213,7 +231,8 @@
       "city": "Konya",
       "latitude": 39.02085,
       "longitude": 31.79182,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-19",
@@ -224,7 +243,8 @@
       "city": "Konya",
       "latitude": 37.57179,
       "longitude": 32.78225,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-20",
@@ -235,7 +255,8 @@
       "city": "Konya",
       "latitude": 38.1422592,
       "longitude": 31.6840085,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-21",
@@ -246,7 +267,8 @@
       "city": "Konya",
       "latitude": 37.47073,
       "longitude": 34.04533,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-22",
@@ -257,7 +279,8 @@
       "city": "Konya",
       "latitude": 37.9531609,
       "longitude": 31.5983827,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-23",
@@ -268,7 +291,8 @@
       "city": "Konya",
       "latitude": 38.2797085,
       "longitude": 31.9130333,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-24",
@@ -279,7 +303,8 @@
       "city": "Konya",
       "latitude": 38.2400752,
       "longitude": 32.2109389,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-25",
@@ -290,7 +315,8 @@
       "city": "Konya",
       "latitude": 37.7147945,
       "longitude": 33.5433604,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-26",
@@ -301,7 +327,8 @@
       "city": "Konya",
       "latitude": 39.1049,
       "longitude": 33.08144,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-27",
@@ -312,7 +339,8 @@
       "city": "Konya",
       "latitude": 38.26101,
       "longitude": 32.40545,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-28",
@@ -323,7 +351,8 @@
       "city": "Konya",
       "latitude": 37.41944,
       "longitude": 31.8460273,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-29",
@@ -334,7 +363,8 @@
       "city": "Konya",
       "latitude": 38.4760048,
       "longitude": 31.6266913,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     },
     {
       "id": "konya-30",
@@ -345,7 +375,8 @@
       "city": "Konya",
       "latitude": 38.81437,
       "longitude": 31.73315,
-      "dutyHours": "14 Şub 09:00 → 15 Şub 09:00"
+      "dutyStart": "2026-02-14T09:00:00.000Z",
+      "dutyEnd": "2026-02-15T09:00:00.000Z"
     }
   ]
 }

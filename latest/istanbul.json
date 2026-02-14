@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-14T22:30:11.100Z",
+  "updatedAt": "2026-02-14T22:41:15.153Z",
   "count": 150,
   "pharmacies": [
     {
@@ -15,7 +15,8 @@
       "city": "İstanbul",
       "latitude": 40.8866464981268,
       "longitude": 29.260302706819424,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25270",
@@ -26,7 +27,8 @@
       "city": "İstanbul",
       "latitude": 41.0619554310019,
       "longitude": 28.975919879050142,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-20858",
@@ -37,7 +39,8 @@
       "city": "İstanbul",
       "latitude": 41.08921839329507,
       "longitude": 28.99330282060007,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-12744",
@@ -48,7 +51,8 @@
       "city": "İstanbul",
       "latitude": 41.053118480806475,
       "longitude": 28.90297472532267,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25788",
@@ -59,7 +63,8 @@
       "city": "İstanbul",
       "latitude": 40.9947690001564,
       "longitude": 28.841220999644438,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25116",
@@ -70,7 +75,8 @@
       "city": "İstanbul",
       "latitude": 41.18536430762556,
       "longitude": 28.73714627438651,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25910",
@@ -81,7 +87,8 @@
       "city": "İstanbul",
       "latitude": 40.98371360223428,
       "longitude": 29.046810753138594,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-14234",
@@ -92,7 +99,8 @@
       "city": "İstanbul",
       "latitude": 41.03283678746182,
       "longitude": 28.98378256615099,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-26958",
@@ -103,7 +111,8 @@
       "city": "İstanbul",
       "latitude": 41.04830600040281,
       "longitude": 28.921144000399558,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-32272",
@@ -114,7 +123,8 @@
       "city": "İstanbul",
       "latitude": 40.995783999781736,
       "longitude": 28.854022000107765,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-19388",
@@ -125,7 +135,8 @@
       "city": "İstanbul",
       "latitude": 40.98152059709694,
       "longitude": 29.081896865532304,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-18704",
@@ -136,7 +147,8 @@
       "city": "İstanbul",
       "latitude": 41.02107683234566,
       "longitude": 28.69709659781955,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-12146",
@@ -147,7 +159,8 @@
       "city": "İstanbul",
       "latitude": 41.05441896162266,
       "longitude": 28.87193467745099,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-24000",
@@ -158,7 +171,8 @@
       "city": "İstanbul",
       "latitude": 41.07255778888316,
       "longitude": 28.68479489349734,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-16790",
@@ -169,7 +183,8 @@
       "city": "İstanbul",
       "latitude": 40.9927870643043,
       "longitude": 28.883298526612922,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-28254",
@@ -180,7 +195,8 @@
       "city": "İstanbul",
       "latitude": 41.122097812677396,
       "longitude": 28.783568013168612,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-24426",
@@ -191,7 +207,8 @@
       "city": "İstanbul",
       "latitude": 41.043623951341196,
       "longitude": 29.043950289877575,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-26946",
@@ -202,7 +219,8 @@
       "city": "İstanbul",
       "latitude": 41.00450799989693,
       "longitude": 29.127487000524237,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-31004",
@@ -213,7 +231,8 @@
       "city": "İstanbul",
       "latitude": 40.95926114490405,
       "longitude": 29.099601293134267,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-16912",
@@ -224,7 +243,8 @@
       "city": "İstanbul",
       "latitude": 40.87696457629667,
       "longitude": 29.229710812551538,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-28942",
@@ -235,7 +255,8 @@
       "city": "İstanbul",
       "latitude": 40.883886226364105,
       "longitude": 29.23508182127415,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-33676",
@@ -246,7 +267,8 @@
       "city": "İstanbul",
       "latitude": 41.10586899981241,
       "longitude": 28.85355499986829,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-23298",
@@ -257,7 +279,8 @@
       "city": "İstanbul",
       "latitude": 41.09690453970636,
       "longitude": 28.891400056209783,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-2338",
@@ -268,7 +291,8 @@
       "city": "İstanbul",
       "latitude": 40.87998754997831,
       "longitude": 29.06919493887321,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-12778",
@@ -279,7 +303,8 @@
       "city": "İstanbul",
       "latitude": 41.05207430541868,
       "longitude": 28.959786541281506,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-35784",
@@ -290,7 +315,8 @@
       "city": "İstanbul",
       "latitude": 41.01037399975516,
       "longitude": 28.94679999992778,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-21756",
@@ -301,7 +327,8 @@
       "city": "İstanbul",
       "latitude": 40.981220457378,
       "longitude": 28.79338681786404,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-23512",
@@ -312,7 +339,8 @@
       "city": "İstanbul",
       "latitude": 41.06381890705967,
       "longitude": 29.003383681525683,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-31652",
@@ -323,7 +351,8 @@
       "city": "İstanbul",
       "latitude": 40.918003469340825,
       "longitude": 29.191463996245226,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-29254",
@@ -334,7 +363,8 @@
       "city": "İstanbul",
       "latitude": 41.01397965432303,
       "longitude": 29.0831140685649,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-6638",
@@ -345,7 +375,8 @@
       "city": "İstanbul",
       "latitude": 40.91038290210339,
       "longitude": 29.05476093340845,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-20390",
@@ -356,7 +387,8 @@
       "city": "İstanbul",
       "latitude": 41.032584942390116,
       "longitude": 29.10322176263064,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25162",
@@ -367,7 +399,8 @@
       "city": "İstanbul",
       "latitude": 40.958130053807835,
       "longitude": 29.266144458504844,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-28262",
@@ -378,7 +411,8 @@
       "city": "İstanbul",
       "latitude": 40.99662409982479,
       "longitude": 28.712977725161053,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-19138",
@@ -389,7 +423,8 @@
       "city": "İstanbul",
       "latitude": 40.83691791666359,
       "longitude": 29.360457258554668,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-23876",
@@ -400,7 +435,8 @@
       "city": "İstanbul",
       "latitude": 40.99006600010646,
       "longitude": 29.078357999679387,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-26458",
@@ -411,7 +447,8 @@
       "city": "İstanbul",
       "latitude": 40.986762282638935,
       "longitude": 29.132019697544777,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-15478",
@@ -422,7 +459,8 @@
       "city": "İstanbul",
       "latitude": 41.05083083606184,
       "longitude": 28.994973260284095,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25324",
@@ -433,7 +471,8 @@
       "city": "İstanbul",
       "latitude": 41.00286101495404,
       "longitude": 29.19679432407578,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-29616",
@@ -444,7 +483,8 @@
       "city": "İstanbul",
       "latitude": 41.10794206715251,
       "longitude": 28.863313796622826,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-26234",
@@ -455,7 +495,8 @@
       "city": "İstanbul",
       "latitude": 41.01698166597855,
       "longitude": 28.557325514421738,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-22376",
@@ -466,7 +507,8 @@
       "city": "İstanbul",
       "latitude": 41.04810600229131,
       "longitude": 28.794199999628596,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-12122",
@@ -477,7 +519,8 @@
       "city": "İstanbul",
       "latitude": 41.01150336628624,
       "longitude": 28.777229144477765,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-18616",
@@ -488,7 +531,8 @@
       "city": "İstanbul",
       "latitude": 41.00613472052973,
       "longitude": 28.62947271288129,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-29106",
@@ -499,7 +543,8 @@
       "city": "İstanbul",
       "latitude": 40.99082899968902,
       "longitude": 28.784160000108752,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-19934",
@@ -510,7 +555,8 @@
       "city": "İstanbul",
       "latitude": 41.0441029997626,
       "longitude": 28.819230000351606,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-34032",
@@ -521,7 +567,8 @@
       "city": "İstanbul",
       "latitude": 41.062903702543366,
       "longitude": 28.85497961082364,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-30738",
@@ -532,7 +579,8 @@
       "city": "İstanbul",
       "latitude": 40.95343599956058,
       "longitude": 29.10294499967059,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-26194",
@@ -543,7 +591,8 @@
       "city": "İstanbul",
       "latitude": 40.9768489788281,
       "longitude": 28.73133320277868,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-22612",
@@ -554,7 +603,8 @@
       "city": "İstanbul",
       "latitude": 41.04847360402806,
       "longitude": 28.844978423751066,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-21820",
@@ -565,7 +615,8 @@
       "city": "İstanbul",
       "latitude": 41.01281251547873,
       "longitude": 28.605357923871978,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-15832",
@@ -576,7 +627,8 @@
       "city": "İstanbul",
       "latitude": 41.11462526767554,
       "longitude": 29.054866351018696,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-20466",
@@ -587,7 +639,8 @@
       "city": "İstanbul",
       "latitude": 40.90321099721235,
       "longitude": 29.185667118424725,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-18362",
@@ -598,7 +651,8 @@
       "city": "İstanbul",
       "latitude": 41.03337380105952,
       "longitude": 28.80027965119908,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-20180",
@@ -609,7 +663,8 @@
       "city": "İstanbul",
       "latitude": 41.03266927681573,
       "longitude": 29.181183451121637,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-13762",
@@ -620,7 +675,8 @@
       "city": "İstanbul",
       "latitude": 40.87805005093138,
       "longitude": 29.099723346130244,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25026",
@@ -631,7 +687,8 @@
       "city": "İstanbul",
       "latitude": 41.00381584372403,
       "longitude": 28.656073917945974,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-23988",
@@ -642,7 +699,8 @@
       "city": "İstanbul",
       "latitude": 40.968198999894035,
       "longitude": 29.09440199941354,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-30952",
@@ -653,7 +711,8 @@
       "city": "İstanbul",
       "latitude": 40.96437899994616,
       "longitude": 29.279454999642404,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-21714",
@@ -664,7 +723,8 @@
       "city": "İstanbul",
       "latitude": 41.07821318873354,
       "longitude": 28.249524485723295,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-17052",
@@ -675,7 +735,8 @@
       "city": "İstanbul",
       "latitude": 41.03409835535296,
       "longitude": 28.96429654320729,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-26970",
@@ -686,7 +747,8 @@
       "city": "İstanbul",
       "latitude": 40.98223099996296,
       "longitude": 29.262071999591736,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-34536",
@@ -697,7 +759,8 @@
       "city": "İstanbul",
       "latitude": 40.98270465455,
       "longitude": 28.858470794662185,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-10088",
@@ -708,7 +771,8 @@
       "city": "İstanbul",
       "latitude": 41.08601831989948,
       "longitude": 29.008622206082354,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-21920",
@@ -719,7 +783,8 @@
       "city": "İstanbul",
       "latitude": 41.05876185327719,
       "longitude": 29.02456578715152,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-29410",
@@ -730,7 +795,8 @@
       "city": "İstanbul",
       "latitude": 40.97028300024224,
       "longitude": 29.114219000353994,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-24370",
@@ -741,7 +807,8 @@
       "city": "İstanbul",
       "latitude": 41.03603760637408,
       "longitude": 28.83204010113984,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-14108",
@@ -752,7 +819,8 @@
       "city": "İstanbul",
       "latitude": 41.067226499538684,
       "longitude": 29.042896944746104,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-22822",
@@ -763,7 +831,8 @@
       "city": "İstanbul",
       "latitude": 41.03139357376116,
       "longitude": 28.87459795632987,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25660",
@@ -774,7 +843,8 @@
       "city": "İstanbul",
       "latitude": 41.020735700104176,
       "longitude": 29.18594344181924,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-23018",
@@ -785,7 +855,8 @@
       "city": "İstanbul",
       "latitude": 41.01582776260494,
       "longitude": 28.925830699406735,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-34408",
@@ -796,7 +867,8 @@
       "city": "İstanbul",
       "latitude": 41.00535199980102,
       "longitude": 28.79827199955475,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-22390",
@@ -807,7 +879,8 @@
       "city": "İstanbul",
       "latitude": 41.07592101167736,
       "longitude": 29.01234740359764,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-31268",
@@ -818,7 +891,8 @@
       "city": "İstanbul",
       "latitude": 41.050938000294806,
       "longitude": 28.866040999646085,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-31504",
@@ -829,7 +903,8 @@
       "city": "İstanbul",
       "latitude": 41.02165499997513,
       "longitude": 28.948838999759825,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-27420",
@@ -840,7 +915,8 @@
       "city": "İstanbul",
       "latitude": 41.07481058093495,
       "longitude": 28.786373702089463,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-18396",
@@ -851,7 +927,8 @@
       "city": "İstanbul",
       "latitude": 41.0751700681623,
       "longitude": 28.8868085774626,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25330",
@@ -862,7 +939,8 @@
       "city": "İstanbul",
       "latitude": 41.136125254316056,
       "longitude": 28.465765106662015,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-24630",
@@ -873,7 +951,8 @@
       "city": "İstanbul",
       "latitude": 40.99594700022801,
       "longitude": 28.765096999469517,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-18180",
@@ -884,7 +963,8 @@
       "city": "İstanbul",
       "latitude": 40.940903000250756,
       "longitude": 29.143350999946655,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-23348",
@@ -895,7 +975,8 @@
       "city": "İstanbul",
       "latitude": 40.88702007334752,
       "longitude": 29.265232095420153,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-20294",
@@ -906,7 +987,8 @@
       "city": "İstanbul",
       "latitude": 40.864647428463506,
       "longitude": 29.297833264275013,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-16932",
@@ -917,7 +999,8 @@
       "city": "İstanbul",
       "latitude": 41.10921543097014,
       "longitude": 28.788843174224578,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-6852",
@@ -928,7 +1011,8 @@
       "city": "İstanbul",
       "latitude": 40.96163540833854,
       "longitude": 28.824460607530543,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-13912",
@@ -939,7 +1023,8 @@
       "city": "İstanbul",
       "latitude": 40.9186982245326,
       "longitude": 29.14602796011412,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-12656",
@@ -950,7 +1035,8 @@
       "city": "İstanbul",
       "latitude": 41.01090206707261,
       "longitude": 29.05178250859522,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-15218",
@@ -961,7 +1047,8 @@
       "city": "İstanbul",
       "latitude": 40.99945650892999,
       "longitude": 28.83867433862436,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-20596",
@@ -972,7 +1059,8 @@
       "city": "İstanbul",
       "latitude": 41.056497530856724,
       "longitude": 28.672010642771166,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-15152",
@@ -983,7 +1071,8 @@
       "city": "İstanbul",
       "latitude": 41.096975818378105,
       "longitude": 28.873601036493817,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-23902",
@@ -994,7 +1083,8 @@
       "city": "İstanbul",
       "latitude": 41.087958564085355,
       "longitude": 28.243004948622996,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-35392",
@@ -1005,7 +1095,8 @@
       "city": "İstanbul",
       "latitude": 41.048809000065425,
       "longitude": 28.930719999497764,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-24840",
@@ -1016,7 +1107,8 @@
       "city": "İstanbul",
       "latitude": 41.07719197991841,
       "longitude": 28.900362392795174,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-15928",
@@ -1027,7 +1119,8 @@
       "city": "İstanbul",
       "latitude": 41.00021399988692,
       "longitude": 28.91538600052452,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-26288",
@@ -1038,7 +1131,8 @@
       "city": "İstanbul",
       "latitude": 41.008019999579034,
       "longitude": 28.953770999729862,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-30666",
@@ -1049,7 +1143,8 @@
       "city": "İstanbul",
       "latitude": 40.90398812744432,
       "longitude": 29.226599487148896,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-33410",
@@ -1060,7 +1155,8 @@
       "city": "İstanbul",
       "latitude": 40.912594000069014,
       "longitude": 29.159107999761225,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-16534",
@@ -1071,7 +1167,8 @@
       "city": "İstanbul",
       "latitude": 40.91383635920464,
       "longitude": 29.290867047815997,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-18734",
@@ -1082,7 +1179,8 @@
       "city": "İstanbul",
       "latitude": 40.92317047532018,
       "longitude": 29.13066846947701,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-24158",
@@ -1093,7 +1191,8 @@
       "city": "İstanbul",
       "latitude": 41.00831757545812,
       "longitude": 29.148434400644025,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-23774",
@@ -1104,7 +1203,8 @@
       "city": "İstanbul",
       "latitude": 40.99500068799402,
       "longitude": 29.029341738882376,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-24258",
@@ -1115,7 +1215,8 @@
       "city": "İstanbul",
       "latitude": 41.053840999939425,
       "longitude": 28.987421000457957,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-15742",
@@ -1126,7 +1227,8 @@
       "city": "İstanbul",
       "latitude": 41.02639543862046,
       "longitude": 29.09204755814196,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25948",
@@ -1137,7 +1239,8 @@
       "city": "İstanbul",
       "latitude": 41.06179845290694,
       "longitude": 28.962161155765575,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-34220",
@@ -1148,7 +1251,8 @@
       "city": "İstanbul",
       "latitude": 41.120530940941826,
       "longitude": 29.000016393124227,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-18190",
@@ -1159,7 +1263,8 @@
       "city": "İstanbul",
       "latitude": 41.17826326930678,
       "longitude": 28.745941447139792,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-7134",
@@ -1170,7 +1275,8 @@
       "city": "İstanbul",
       "latitude": 41.015934772634665,
       "longitude": 29.026775246159847,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-14752",
@@ -1181,7 +1287,8 @@
       "city": "İstanbul",
       "latitude": 41.054633822369,
       "longitude": 28.378304336625042,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25998",
@@ -1192,7 +1299,8 @@
       "city": "İstanbul",
       "latitude": 41.09440564506929,
       "longitude": 28.969772488428287,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-17578",
@@ -1203,7 +1311,8 @@
       "city": "İstanbul",
       "latitude": 40.96339538238672,
       "longitude": 29.233991356626927,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-14258",
@@ -1214,7 +1323,8 @@
       "city": "İstanbul",
       "latitude": 41.020525678201736,
       "longitude": 28.867882997178352,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-39146",
@@ -1225,7 +1335,8 @@
       "city": "İstanbul",
       "latitude": 40.99054899978969,
       "longitude": 29.08050500021812,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-26438",
@@ -1236,7 +1347,8 @@
       "city": "İstanbul",
       "latitude": 40.99289615895065,
       "longitude": 28.625624804258685,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-12256",
@@ -1247,7 +1359,8 @@
       "city": "İstanbul",
       "latitude": 41.06395812664149,
       "longitude": 28.893892511196754,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-16580",
@@ -1258,7 +1371,8 @@
       "city": "İstanbul",
       "latitude": 40.98446400051846,
       "longitude": 28.657226669453603,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-24138",
@@ -1269,7 +1383,8 @@
       "city": "İstanbul",
       "latitude": 40.87329499965295,
       "longitude": 29.12815199973678,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-24764",
@@ -1280,7 +1395,8 @@
       "city": "İstanbul",
       "latitude": 40.918275213204836,
       "longitude": 29.303083867049896,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-16620",
@@ -1291,7 +1407,8 @@
       "city": "İstanbul",
       "latitude": 41.08150786796596,
       "longitude": 28.992315840318575,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-19976",
@@ -1302,7 +1419,8 @@
       "city": "İstanbul",
       "latitude": 41.09604239315453,
       "longitude": 29.091810464753348,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-32930",
@@ -1313,7 +1431,8 @@
       "city": "İstanbul",
       "latitude": 41.15644200002858,
       "longitude": 28.619561000214997,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-21094",
@@ -1324,7 +1443,8 @@
       "city": "İstanbul",
       "latitude": 40.82940733088382,
       "longitude": 29.321378036868882,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-7780",
@@ -1335,7 +1455,8 @@
       "city": "İstanbul",
       "latitude": 41.00831190261388,
       "longitude": 29.24067137820295,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-20218",
@@ -1346,7 +1467,8 @@
       "city": "İstanbul",
       "latitude": 41.01102935337227,
       "longitude": 28.658976148792043,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-21190",
@@ -1357,7 +1479,8 @@
       "city": "İstanbul",
       "latitude": 41.07200480277852,
       "longitude": 28.726207479681577,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-30768",
@@ -1368,7 +1491,8 @@
       "city": "İstanbul",
       "latitude": 41.01904299978275,
       "longitude": 28.89972799971572,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-20276",
@@ -1379,7 +1503,8 @@
       "city": "İstanbul",
       "latitude": 41.02911392787657,
       "longitude": 28.66726375055803,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-9754",
@@ -1390,7 +1515,8 @@
       "city": "İstanbul",
       "latitude": 41.00355599994004,
       "longitude": 28.85153300044656,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-6952",
@@ -1401,7 +1527,8 @@
       "city": "İstanbul",
       "latitude": 41.15565697136049,
       "longitude": 29.03335015368823,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-21572",
@@ -1412,7 +1539,8 @@
       "city": "İstanbul",
       "latitude": 41.03383983802346,
       "longitude": 28.52220334580865,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-30766",
@@ -1423,7 +1551,8 @@
       "city": "İstanbul",
       "latitude": 41.02150095025692,
       "longitude": 28.83977473992798,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-15900",
@@ -1434,7 +1563,8 @@
       "city": "İstanbul",
       "latitude": 41.03629009751261,
       "longitude": 28.90880251150583,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-33496",
@@ -1445,7 +1575,8 @@
       "city": "İstanbul",
       "latitude": 40.998002000428,
       "longitude": 29.035266000063924,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-22336",
@@ -1456,7 +1587,8 @@
       "city": "İstanbul",
       "latitude": 41.07818800001341,
       "longitude": 28.956761999480086,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-26834",
@@ -1467,7 +1599,8 @@
       "city": "İstanbul",
       "latitude": 41.049924196521474,
       "longitude": 29.0856364239421,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-30468",
@@ -1478,7 +1611,8 @@
       "city": "İstanbul",
       "latitude": 41.03813800015642,
       "longitude": 28.850059999791497,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-32178",
@@ -1489,7 +1623,8 @@
       "city": "İstanbul",
       "latitude": 41.03545100027321,
       "longitude": 28.879497999948693,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-17788",
@@ -1500,7 +1635,8 @@
       "city": "İstanbul",
       "latitude": 41.02359399981454,
       "longitude": 29.110795999558864,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-17796",
@@ -1511,7 +1647,8 @@
       "city": "İstanbul",
       "latitude": 41.01633630803653,
       "longitude": 28.65206480083407,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-23928",
@@ -1522,7 +1659,8 @@
       "city": "İstanbul",
       "latitude": 40.98021651815272,
       "longitude": 29.118361813284423,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25214",
@@ -1533,7 +1671,8 @@
       "city": "İstanbul",
       "latitude": 41.19696337150071,
       "longitude": 29.02868181480499,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-25088",
@@ -1544,7 +1683,8 @@
       "city": "İstanbul",
       "latitude": 41.00595799994624,
       "longitude": 29.21571900034534,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-32220",
@@ -1555,7 +1695,8 @@
       "city": "İstanbul",
       "latitude": 41.06424500031042,
       "longitude": 28.98747499988933,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-32102",
@@ -1566,7 +1707,8 @@
       "city": "İstanbul",
       "latitude": 40.98583899975193,
       "longitude": 28.904148000541895,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-33730",
@@ -1577,7 +1719,8 @@
       "city": "İstanbul",
       "latitude": 40.971011000001674,
       "longitude": 29.07697499970208,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-13858",
@@ -1588,7 +1731,8 @@
       "city": "İstanbul",
       "latitude": 41.11570233293261,
       "longitude": 29.09604152738637,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-7530",
@@ -1599,7 +1743,8 @@
       "city": "İstanbul",
       "latitude": 41.01941697206963,
       "longitude": 28.94320488709185,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-26948",
@@ -1610,7 +1755,8 @@
       "city": "İstanbul",
       "latitude": 41.024389999665786,
       "longitude": 28.850725000181303,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-23926",
@@ -1621,7 +1767,8 @@
       "city": "İstanbul",
       "latitude": 41.03994700002912,
       "longitude": 28.68763599949366,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-11268",
@@ -1632,7 +1779,8 @@
       "city": "İstanbul",
       "latitude": 41.181781006912,
       "longitude": 28.882238566297232,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-8976",
@@ -1643,7 +1791,8 @@
       "city": "İstanbul",
       "latitude": 41.139166752321906,
       "longitude": 29.85684207593813,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
       "id": "istanbul-14328",
@@ -1654,7 +1803,8 @@
       "city": "İstanbul",
       "latitude": 41.17249797611738,
       "longitude": 29.609468818315975,
-      "dutyHours": "14 Şub 21:00 → 15 Şub 20:59"
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
     }
   ]
 }

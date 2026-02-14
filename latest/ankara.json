@@ -3,7 +3,7 @@
   "cityName": "Ankara",
   "cityId": 6,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-14T22:30:11.100Z",
+  "updatedAt": "2026-02-14T22:41:15.153Z",
   "count": 58,
   "pharmacies": [
     {
@@ -15,7 +15,8 @@
       "city": "Ankara",
       "latitude": 39.902192344155,
       "longitude": 32.812801306472,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-1",
@@ -26,7 +27,8 @@
       "city": "Ankara",
       "latitude": 39.931962887119,
       "longitude": 32.829401493073,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-2",
@@ -37,7 +39,8 @@
       "city": "Ankara",
       "latitude": 39.966451845607,
       "longitude": 32.773040235043,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-3",
@@ -48,7 +51,8 @@
       "city": "Ankara",
       "latitude": 39.964186426168,
       "longitude": 32.81089425087,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-4",
@@ -59,7 +63,8 @@
       "city": "Ankara",
       "latitude": 39.908562853077,
       "longitude": 32.92922665123,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-5",
@@ -70,7 +75,8 @@
       "city": "Ankara",
       "latitude": 39.9067817374,
       "longitude": 32.858852148056,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-6",
@@ -81,7 +87,8 @@
       "city": "Ankara",
       "latitude": 39.878382441862,
       "longitude": 32.875358462334,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-7",
@@ -92,7 +99,8 @@
       "city": "Ankara",
       "latitude": 39.921480952042,
       "longitude": 32.848442929517,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-8",
@@ -103,7 +111,8 @@
       "city": "Ankara",
       "latitude": 39.953769567297,
       "longitude": 32.865533530712,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-9",
@@ -114,7 +123,8 @@
       "city": "Ankara",
       "latitude": 39.984223121246,
       "longitude": 32.844378948212,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-10",
@@ -125,7 +135,8 @@
       "city": "Ankara",
       "latitude": 39.969156066073,
       "longitude": 32.831481546164,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-11",
@@ -136,7 +147,8 @@
       "city": "Ankara",
       "latitude": 39.961627974305,
       "longitude": 32.935793023917,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-12",
@@ -147,7 +159,8 @@
       "city": "Ankara",
       "latitude": 40.003703316613,
       "longitude": 32.856642007828,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-13",
@@ -158,7 +171,8 @@
       "city": "Ankara",
       "latitude": 39.989451263434,
       "longitude": 32.875581085682,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-14",
@@ -169,7 +183,8 @@
       "city": "Ankara",
       "latitude": 39.901999955344,
       "longitude": 32.846245765686,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-15",
@@ -180,7 +195,8 @@
       "city": "Ankara",
       "latitude": 39.885676061295,
       "longitude": 32.83960648605,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-16",
@@ -191,7 +207,8 @@
       "city": "Ankara",
       "latitude": 39.874903748422,
       "longitude": 32.816671729088,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-17",
@@ -202,7 +219,8 @@
       "city": "Ankara",
       "latitude": 40.019201307687,
       "longitude": 32.330703735352,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-18",
@@ -213,7 +231,8 @@
       "city": "Ankara",
       "latitude": 39.961842809822,
       "longitude": 32.580395936966,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-19",
@@ -224,7 +243,8 @@
       "city": "Ankara",
       "latitude": 39.948359288185,
       "longitude": 32.588694691658,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-20",
@@ -235,7 +255,8 @@
       "city": "Ankara",
       "latitude": 39.984048431915,
       "longitude": 32.570714575395,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-21",
@@ -246,7 +267,8 @@
       "city": "Ankara",
       "latitude": 40.130486987837,
       "longitude": 33.081515729427,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-22",
@@ -257,7 +279,8 @@
       "city": "Ankara",
       "latitude": 40.166281254207,
       "longitude": 31.92626953125,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-23",
@@ -268,7 +291,8 @@
       "city": "Ankara",
       "latitude": 39.952535393082,
       "longitude": 32.616569914899,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-24",
@@ -279,7 +303,8 @@
       "city": "Ankara",
       "latitude": 39.944859470693,
       "longitude": 32.648770809174,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-25",
@@ -290,7 +315,8 @@
       "city": "Ankara",
       "latitude": 39.883773038886,
       "longitude": 32.655825018883,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-26",
@@ -301,7 +327,8 @@
       "city": "Ankara",
       "latitude": 39.985493201397,
       "longitude": 32.65499670515,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-27",
@@ -312,7 +339,8 @@
       "city": "Ankara",
       "latitude": 39.43851310464,
       "longitude": 32.495112419128,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-28",
@@ -323,7 +351,8 @@
       "city": "Ankara",
       "latitude": 40.21089629349,
       "longitude": 32.682028757772,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-29",
@@ -334,7 +363,8 @@
       "city": "Ankara",
       "latitude": 40.470834312559,
       "longitude": 32.648214586079,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-30",
@@ -345,7 +375,8 @@
       "city": "Ankara",
       "latitude": 39.964030187577,
       "longitude": 33.107439279556,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-31",
@@ -356,7 +387,8 @@
       "city": "Ankara",
       "latitude": 0,
       "longitude": 0,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-32",
@@ -367,7 +399,8 @@
       "city": "Ankara",
       "latitude": 39.565313384733,
       "longitude": 32.138303518295,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-33",
@@ -378,7 +411,8 @@
       "city": "Ankara",
       "latitude": 40.043409873426,
       "longitude": 32.906814068556,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-34",
@@ -389,7 +423,8 @@
       "city": "Ankara",
       "latitude": 39.869390995946,
       "longitude": 33.457124233246,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-35",
@@ -400,7 +435,8 @@
       "city": "Ankara",
       "latitude": 0,
       "longitude": 0,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-36",
@@ -411,7 +447,8 @@
       "city": "Ankara",
       "latitude": 0,
       "longitude": 0,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-37",
@@ -422,7 +459,8 @@
       "city": "Ankara",
       "latitude": 39.598744363923,
       "longitude": 33.379865884781,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-38",
@@ -433,7 +471,8 @@
       "city": "Ankara",
       "latitude": 40.097114480436,
       "longitude": 33.408908843994,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-39",
@@ -444,7 +483,8 @@
       "city": "Ankara",
       "latitude": 39.79213709517,
       "longitude": 32.825211882591,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-40",
@@ -455,7 +495,8 @@
       "city": "Ankara",
       "latitude": 39.861778840506,
       "longitude": 33.480503708124,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-41",
@@ -466,7 +507,8 @@
       "city": "Ankara",
       "latitude": 39.844073582109,
       "longitude": 33.503172397614,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-42",
@@ -477,7 +519,8 @@
       "city": "Ankara",
       "latitude": 39.862013548384,
       "longitude": 32.713525034487,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-43",
@@ -488,7 +531,8 @@
       "city": "Ankara",
       "latitude": 39.901773614875,
       "longitude": 32.691580206156,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-44",
@@ -499,7 +543,8 @@
       "city": "Ankara",
       "latitude": 40.23024002195,
       "longitude": 33.032173812389,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-45",
@@ -510,7 +555,8 @@
       "city": "Ankara",
       "latitude": 39.925268394471,
       "longitude": 32.905204407871,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-46",
@@ -521,7 +567,8 @@
       "city": "Ankara",
       "latitude": 0,
       "longitude": 0,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-47",
@@ -532,7 +579,8 @@
       "city": "Ankara",
       "latitude": 40.20877009282,
       "longitude": 32.244186401367,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-48",
@@ -543,7 +591,8 @@
       "city": "Ankara",
       "latitude": 39.558588858532,
       "longitude": 33.118286132812,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-49",
@@ -554,7 +603,8 @@
       "city": "Ankara",
       "latitude": 39.998689957679,
       "longitude": 33.180084228516,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-50",
@@ -565,7 +615,8 @@
       "city": "Ankara",
       "latitude": 39.67366974166,
       "longitude": 33.615289656445,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-51",
@@ -576,7 +627,8 @@
       "city": "Ankara",
       "latitude": 39.726681681766,
       "longitude": 32.354539185762,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-52",
@@ -587,7 +639,8 @@
       "city": "Ankara",
       "latitude": 39.909849391713,
       "longitude": 33.717153034522,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-53",
@@ -598,7 +651,8 @@
       "city": "Ankara",
       "latitude": 39.915200483975,
       "longitude": 33.236861228943,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-54",
@@ -609,7 +663,8 @@
       "city": "Ankara",
       "latitude": 39.990082148191,
       "longitude": 32.708505920705,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-55",
@@ -620,7 +675,8 @@
       "city": "Ankara",
       "latitude": 39.950542984882,
       "longitude": 32.715353965759,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-56",
@@ -631,7 +687,8 @@
       "city": "Ankara",
       "latitude": 40.013059232194,
       "longitude": 32.51705288887,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "ankara-57",
@@ -642,7 +699,8 @@
       "city": "Ankara",
       "latitude": 0,
       "longitude": 0,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     }
   ]
 }

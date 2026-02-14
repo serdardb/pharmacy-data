@@ -3,7 +3,7 @@
   "cityName": "Mersin",
   "cityId": 33,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-14T22:30:11.100Z",
+  "updatedAt": "2026-02-14T22:41:15.153Z",
   "count": 17,
   "pharmacies": [
     {
@@ -15,7 +15,8 @@
       "city": "Mersin",
       "latitude": 36.764217,
       "longitude": 34.548006,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-1",
@@ -26,7 +27,8 @@
       "city": "Mersin",
       "latitude": 36.819278,
       "longitude": 34.614734,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-2",
@@ -37,7 +39,8 @@
       "city": "Mersin",
       "latitude": 36.855186,
       "longitude": 34.610473,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-3",
@@ -48,7 +51,8 @@
       "city": "Mersin",
       "latitude": 36.807409,
       "longitude": 34.635095,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-4",
@@ -59,7 +63,8 @@
       "city": "Mersin",
       "latitude": 36.807054,
       "longitude": 34.628214,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-5",
@@ -70,7 +75,8 @@
       "city": "Mersin",
       "latitude": 36.784138,
       "longitude": 34.540848,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-6",
@@ -81,7 +87,8 @@
       "city": "Mersin",
       "latitude": 36.779325,
       "longitude": 34.575039,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-7",
@@ -92,7 +99,8 @@
       "city": "Mersin",
       "latitude": 36.909113,
       "longitude": 34.883176,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-8",
@@ -103,7 +111,8 @@
       "city": "Mersin",
       "latitude": 36.914494,
       "longitude": 34.912114,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-9",
@@ -114,7 +123,8 @@
       "city": "Mersin",
       "latitude": 36.380857,
       "longitude": 33.926887,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-10",
@@ -125,7 +135,8 @@
       "city": "Mersin",
       "latitude": 36.343264,
       "longitude": 33.918316,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-11",
@@ -136,7 +147,8 @@
       "city": "Mersin",
       "latitude": 36.635849,
       "longitude": 33.439814,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-12",
@@ -147,7 +159,8 @@
       "city": "Mersin",
       "latitude": 36.338381,
       "longitude": 33.40337,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-13",
@@ -158,7 +171,8 @@
       "city": "Mersin",
       "latitude": 36.610709,
       "longitude": 34.302688,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-14",
@@ -169,7 +183,8 @@
       "city": "Mersin",
       "latitude": 36.106187,
       "longitude": 32.970492,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-15",
@@ -180,7 +195,8 @@
       "city": "Mersin",
       "latitude": 36.152821,
       "longitude": 33.33882,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
       "id": "mersin-16",
@@ -191,7 +207,8 @@
       "city": "Mersin",
       "latitude": 36.07743,
       "longitude": 32.836977,
-      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+      "dutyStart": "2026-02-14T08:30:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
     }
   ]
 }
