@@ -1,0 +1,197 @@
+{
+  "city": "mersin",
+  "cityName": "Mersin",
+  "cityId": 33,
+  "date": "2026-02-15",
+  "updatedAt": "2026-02-14T21:50:12.053Z",
+  "count": 17,
+  "pharmacies": [
+    {
+      "id": "mersin-0",
+      "name": "ABAY ECZANESİ",
+      "address": "ATATÜRK MH. 31039 SK. DAMLA SİTESİ A BLOK NO:10/A",
+      "phone": "03243587375",
+      "district": "Mezi̇tli̇",
+      "city": "Mersin",
+      "latitude": 36.764217,
+      "longitude": 34.548006,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-1",
+      "name": "AYŞEM ECZANESİ",
+      "address": "TOZKOPARAN MH. 87045 SK. NO:19/A",
+      "phone": "03243202026",
+      "district": "Toroslar",
+      "city": "Mersin",
+      "latitude": 36.819278,
+      "longitude": 34.614734,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-2",
+      "name": "GÜLSÜM ECZANESİ",
+      "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39 C/C2",
+      "phone": "03244086575",
+      "district": "Toroslar",
+      "city": "Mersin",
+      "latitude": 36.855186,
+      "longitude": 34.610473,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-3",
+      "name": "MERİÇ ECZANESİ",
+      "address": "YENİ MH. 5314 SK. NO:14A",
+      "phone": "03242371874",
+      "district": "Akdeni̇z",
+      "city": "Mersin",
+      "latitude": 36.807409,
+      "longitude": 34.635095,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-4",
+      "name": "SAĞLIK ECZANESİ",
+      "address": "MESUDİYE MH. ÇAKMAK CD. NO:79/A",
+      "phone": "03242323882",
+      "district": "Akdeni̇z",
+      "city": "Mersin",
+      "latitude": 36.807054,
+      "longitude": 34.628214,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-5",
+      "name": "ÜNİVERSİTE ECZANESİ",
+      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. ÜTOPYA SİT. A BLOK NO:18AD",
+      "phone": "03245020514",
+      "district": "Yeni̇şehi̇r",
+      "city": "Mersin",
+      "latitude": 36.784138,
+      "longitude": 34.540848,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-6",
+      "name": "YONCA YILMAZ ECZANESİ",
+      "address": "BARBAROS MAH. 2148 SOK NO:22/A",
+      "phone": "03243267474",
+      "district": "Yeni̇şehi̇r",
+      "city": "Mersin",
+      "latitude": 36.779325,
+      "longitude": 34.575039,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-7",
+      "name": "ÇAKIR ECZANESİ",
+      "address": "ÖGRETMENLER MH. DUMLUPINAR BULV. NO:2/1D",
+      "phone": "03246130062",
+      "district": "Tarsus",
+      "city": "Mersin",
+      "latitude": 36.909113,
+      "longitude": 34.883176,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-8",
+      "name": "ÜNAL ECZANESİ",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D",
+      "phone": "03246244070",
+      "district": "Tarsus",
+      "city": "Mersin",
+      "latitude": 36.914494,
+      "longitude": 34.912114,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-9",
+      "name": "BURAK ECZANESİ",
+      "address": "GÖKSU MH. CELAL BAYAR CD. NO:14/B",
+      "phone": "03247151033",
+      "district": "Si̇li̇fke",
+      "city": "Mersin",
+      "latitude": 36.380857,
+      "longitude": 33.926887,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-10",
+      "name": "UYSALLAR ECZANESİ",
+      "address": "BURUNUCU MH. HASTANE CAD. NO:4/C",
+      "phone": "03247140830",
+      "district": "Si̇li̇fke",
+      "city": "Mersin",
+      "latitude": 36.343264,
+      "longitude": 33.918316,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-11",
+      "name": "TUĞBA ECZANESİ",
+      "address": "KÜLTÜR MAH.ELBEYLİ CAD.NO:11/A",
+      "phone": "03247747191",
+      "district": "Mut",
+      "city": "Mersin",
+      "latitude": 36.635849,
+      "longitude": 33.439814,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-12",
+      "name": "ARIKAN ECZANESİ",
+      "address": "SARAY MAH.DEMİROLUK CAD.NO:4/5",
+      "phone": "03247517282",
+      "district": "Gülnar",
+      "city": "Mersin",
+      "latitude": 36.338381,
+      "longitude": 33.40337,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-13",
+      "name": "MERYEM ECZANESİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR CD. MEHMET ATAR KONUTLARI NO:80/F",
+      "phone": "03245154343",
+      "district": "Erdemli̇",
+      "city": "Mersin",
+      "latitude": 36.610709,
+      "longitude": 34.302688,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-14",
+      "name": "ATALAY ECZANESİ",
+      "address": "MERKEZ MAH. SAĞLIK OCAĞI ÖZCAN ÇETİNKAYA APT.NO:10/A",
+      "phone": "03248513399",
+      "district": "Bozyazi",
+      "city": "Mersin",
+      "latitude": 36.106187,
+      "longitude": 32.970492,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-15",
+      "name": "KUTAY ECZANESİ",
+      "address": "CUMHURİYET MAH. SİLİFKE CAD. NO:1/D",
+      "phone": "03248412233",
+      "district": "Aydincik",
+      "city": "Mersin",
+      "latitude": 36.152821,
+      "longitude": 33.33882,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "mersin-16",
+      "name": "SAĞLIK ECZANESİ",
+      "address": "SAĞLIK MAH.HALIDE EDiP ADIVAR CAD. ÖZALTIN İŞHANI NO:21/8",
+      "phone": "03248149586",
+      "district": "Anamur",
+      "city": "Mersin",
+      "latitude": 36.07743,
+      "longitude": 32.836977,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    }
+  ]
+}

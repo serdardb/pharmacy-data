@@ -1,0 +1,76 @@
+{
+  "city": "sinop",
+  "cityName": "Sinop",
+  "cityId": 57,
+  "date": "2026-02-15",
+  "updatedAt": "2026-02-14T21:50:12.053Z",
+  "count": 6,
+  "pharmacies": [
+    {
+      "id": "sinop-20",
+      "name": "KAYA  ECZANESİ",
+      "address": "KORUCUK KÖYÜ TIRKIŞLAR MEVKİİ NO:9/1-B",
+      "phone": "03682614540",
+      "district": "Merkez",
+      "city": "Sinop",
+      "latitude": 42.003084,
+      "longitude": 35.078468,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "sinop-21",
+      "name": "ÖNCEL ECZANESİ",
+      "address": "YALI MAH. ATATÜRK CAD. NO.21/B",
+      "phone": "03686131395",
+      "district": "Ayancık",
+      "city": "Sinop",
+      "latitude": 41.944097,
+      "longitude": 34.588553,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "sinop-22",
+      "name": "ANKA ECZANESİ",
+      "address": "CAMİİKEBİR MAH. ADNAN MENDERES BULVARI NO:43/F",
+      "phone": "03683151808",
+      "district": "Boyabat",
+      "city": "Sinop",
+      "latitude": 41.466108,
+      "longitude": 34.771533,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "sinop-23",
+      "name": "NAZLI ECZANESİ",
+      "address": "MERKEZ MAH. PLEVNE CAD. NO:47/B",
+      "phone": "03684161057",
+      "district": "Durağan",
+      "city": "Sinop",
+      "latitude": 41.416371,
+      "longitude": 35.058495,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "sinop-24",
+      "name": "ERFELEK ECZANESİ",
+      "address": "CUMHURİYET MEYDANI NO:18",
+      "phone": "03685112039",
+      "district": "Erfelek",
+      "city": "Sinop",
+      "latitude": 41.879923,
+      "longitude": 34.906679,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "sinop-25",
+      "name": "EKİN ECZANESİ",
+      "address": "HAMİDİYE MAH. RECAİ KURUOĞLU BULVARI NO:39",
+      "phone": "03687184837",
+      "district": "Gerze",
+      "city": "Sinop",
+      "latitude": 41.807084,
+      "longitude": 35.198167,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    }
+  ]
+}

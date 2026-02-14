@@ -1,0 +1,241 @@
+{
+  "city": "samsun",
+  "cityName": "Samsun",
+  "cityId": 55,
+  "date": "2026-02-15",
+  "updatedAt": "2026-02-14T21:50:12.053Z",
+  "count": 21,
+  "pharmacies": [
+    {
+      "id": "samsun-0",
+      "name": "MURAT ECZANESİ",
+      "address": "KAZIM KARABEKİR MAH. GAZİ ETHEM BUL. ŞEHİT FERİT SOK. NO:1",
+      "phone": "03622369325",
+      "district": "İlkadım",
+      "city": "Samsun",
+      "latitude": 41.269883,
+      "longitude": 36.325804,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-1",
+      "name": "KETENCİ ECZANESİ",
+      "address": "SAİTBEY MAH. RUŞEN SOK. NO:8/A",
+      "phone": "03624316503",
+      "district": "İlkadım",
+      "city": "Samsun",
+      "latitude": 41.29097,
+      "longitude": 36.328087,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-2",
+      "name": "HAYAT ECZANESİ",
+      "address": "ZAFER MAH. İSTİKLAL CAD. NO:95/1",
+      "phone": "03624324036",
+      "district": "İlkadım",
+      "city": "Samsun",
+      "latitude": 41.284551,
+      "longitude": 36.335399,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-3",
+      "name": "KARDELEN ECZANESİ",
+      "address": "GAZI OSMAN PASA MAH. SEHIT MESUT BIRINCI CADDESI NO:166",
+      "phone": "03622284628",
+      "district": "Canik",
+      "city": "Samsun",
+      "latitude": 41.261833,
+      "longitude": 36.353788,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-4",
+      "name": "ATABAY ECZANESİ",
+      "address": "MEVLANA MAH. ABDULLAH GÜL BULVARI NO:37/B",
+      "phone": "03627141956",
+      "district": "Atakum",
+      "city": "Samsun",
+      "latitude": 41.325546,
+      "longitude": 36.282921,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-5",
+      "name": "MOCAN ECZANESİ",
+      "address": "YENİMAHALLE MAH. ATAKENT BUL. NO:5/B",
+      "phone": "03622306767",
+      "district": "Atakum",
+      "city": "Samsun",
+      "latitude": 41.335328,
+      "longitude": 36.254078,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-6",
+      "name": "FAZİLET ECZANESİ",
+      "address": "19 MAYIS MAH. TEYFİK ÖZTÜRK CAD. NO:4-6/C",
+      "phone": "03622560651",
+      "district": "Tekkeköy",
+      "city": "Samsun",
+      "latitude": 41.212819,
+      "longitude": 36.459526,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-7",
+      "name": "GAMZE ECZANESİ",
+      "address": "YENİ CAMİ MAH. LİSE CAD. NO:64/A",
+      "phone": "03626222619",
+      "district": "Alaçam",
+      "city": "Samsun",
+      "latitude": 41.611041,
+      "longitude": 35.600489,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-8",
+      "name": "CEDİT ECZANESİ",
+      "address": "BİÇİMCİK MAH.ESEN SOK.NO:11",
+      "phone": "03627913256",
+      "district": "Asarcık",
+      "city": "Samsun",
+      "latitude": 41.036344,
+      "longitude": 36.225344,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-9",
+      "name": "SAĞLIK ECZANESİ",
+      "address": "EYÜP SULTAN MAH.MOLLA GÜRANİ SOK. NO.21/1",
+      "phone": "03628132021",
+      "district": "Ayvacık",
+      "city": "Samsun",
+      "latitude": 41.002886,
+      "longitude": 36.629819,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-10",
+      "name": "GAZİLER ECZANESİ",
+      "address": "GAZI PASA MAH. TÜRKOCAGI CAD. NO:43/A",
+      "phone": "03625434001",
+      "district": "Bafra",
+      "city": "Samsun",
+      "latitude": 41.572391,
+      "longitude": 35.908238,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-11",
+      "name": "DEVA ECZANESİ",
+      "address": "CUMHURIYET MAH. CUMHURIYET CAD. NO:6",
+      "phone": "03625434327",
+      "district": "Bafra",
+      "city": "Samsun",
+      "latitude": 41.567827,
+      "longitude": 35.904122,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-12",
+      "name": "NİLÜFER ECZANESİ",
+      "address": "KIRAZLIK ÇAY MAH. DEGIRMENBASI CAD.NO:164",
+      "phone": "03628333970",
+      "district": "Çarşamba",
+      "city": "Samsun",
+      "latitude": 41.188772,
+      "longitude": 36.718506,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-13",
+      "name": "SÜMER ECZANESİ",
+      "address": "25 MAYIS MAH. ŞEHİT JAN.ER MAHMUT KÖKSAL SOK. NO:25/A",
+      "phone": "03629991029",
+      "district": "Havza",
+      "city": "Samsun",
+      "latitude": 40.969462,
+      "longitude": 35.666249,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-14",
+      "name": "SEDA ECZANESİ",
+      "address": "MEHMET PAŞA MAH.FATİH SULTAN MEHMET CAD.NO:23/A",
+      "phone": "03627414848",
+      "district": "Kavak",
+      "city": "Samsun",
+      "latitude": 41.077259,
+      "longitude": 36.043461,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-15",
+      "name": "LADİK ELİF ECZANESİ",
+      "address": "BAHŞİ MAH.GAZİ CAD.NO:56/A",
+      "phone": "03627713091",
+      "district": "Ladik",
+      "city": "Samsun",
+      "latitude": 40.911071,
+      "longitude": 35.894904,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-16",
+      "name": "ŞİFA ECZANESİ",
+      "address": "PAZAR MAH. FATİH CAD. NO:36",
+      "phone": "03625113278",
+      "district": "Ondokuzmayıs",
+      "city": "Samsun",
+      "latitude": 41.492863,
+      "longitude": 36.07451,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-17",
+      "name": "OVALI ECZANESİ",
+      "address": "BEREKET MAH. ŞEHİT ORHAN ERDOĞAN BULVARI NO:2",
+      "phone": "03628213747",
+      "district": "Salıpazarı",
+      "city": "Samsun",
+      "latitude": 41.08338,
+      "longitude": 36.825099,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-18",
+      "name": "AKALIN ECZANESİ",
+      "address": "FENK MAH.CUMHURIYET MEYDANI CAMİİ ŞERİF SOK.NO:1/A",
+      "phone": "03628762197",
+      "district": "Terme",
+      "city": "Samsun",
+      "latitude": 41.208823,
+      "longitude": 36.972143,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-19",
+      "name": "TAŞKALE ECZANESİ",
+      "address": "ATATÜRK MAH. KÖPRÜLÜLER CAD.NO:143",
+      "phone": "03626472255",
+      "district": "Vezirköprü",
+      "city": "Samsun",
+      "latitude": 41.135317,
+      "longitude": 35.462682,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "samsun-26",
+      "name": "ÖZLEM  ECZANESİ",
+      "address": "GÜZELYURT MAH.CUMHURİYET CAD.NO:10/B",
+      "phone": "03686712692",
+      "district": "Türkeli",
+      "city": "Samsun",
+      "latitude": 41.946565,
+      "longitude": 34.336792,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    }
+  ]
+}

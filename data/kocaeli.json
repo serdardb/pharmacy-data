@@ -1,0 +1,230 @@
+{
+  "city": "kocaeli",
+  "cityName": "Kocaeli",
+  "cityId": 41,
+  "date": "2026-02-15",
+  "updatedAt": "2026-02-14T21:50:12.053Z",
+  "count": 20,
+  "pharmacies": [
+    {
+      "id": "kocaeli-0",
+      "name": "İZMİT ECZANESİ",
+      "address": "TEPECİK MAH. FETHİYE CAD. ÖZSOY İŞHANI 33/A İZMİT",
+      "phone": "02623310181",
+      "district": "İzmit",
+      "city": "Kocaeli",
+      "latitude": 40.764468,
+      "longitude": 29.925995,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-1",
+      "name": "KORHAN ECZANESİ",
+      "address": "CEDİT MAH. DEVLET HAST. SOK. NO:22/B İZMİT",
+      "phone": "02623240475",
+      "district": "İzmit",
+      "city": "Kocaeli",
+      "latitude": 40.766995,
+      "longitude": 29.937503,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-2",
+      "name": "LOTUS ECZANESİ",
+      "address": "YAHYA KAPTAN MAH. DEMOKRASİ BULVARI NO:8 İZMİT",
+      "phone": "02623115500",
+      "district": "İzmit",
+      "city": "Kocaeli",
+      "latitude": 40.766852,
+      "longitude": 29.968221,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-3",
+      "name": "MELEK ECZANESİ",
+      "address": "YENI MAH. INKILAP CAD. NO:2/B İZMİT",
+      "phone": "02622262554",
+      "district": "İzmit",
+      "city": "Kocaeli",
+      "latitude": 40.764093,
+      "longitude": 29.887777,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-4",
+      "name": "YEŞİL ECZANESİ",
+      "address": "GÜNDOĞDU MAH.BOĞAZOVA CAD.B BLOK NO:18/E İZMİT",
+      "phone": "02625021741",
+      "district": "İzmit",
+      "city": "Kocaeli",
+      "latitude": 40.787843,
+      "longitude": 29.958575,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-5",
+      "name": "CEYLAN ECZANESİ",
+      "address": "YENİKÖY MERKEZ MAH.TEKNOPARK CAD.NO:5/A",
+      "phone": "02623412542",
+      "district": "Başiskele",
+      "city": "Kocaeli",
+      "latitude": 40.701314,
+      "longitude": 29.884423,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-6",
+      "name": "DÜLGEROĞLU ECZANESİ",
+      "address": "ÖZGÜRLÜK MAH.ADNAN KAHVECİ CAD.NO:80/B ÇAYIROVA",
+      "phone": "02627444184",
+      "district": "Çayırova",
+      "city": "Kocaeli",
+      "latitude": 40.832693,
+      "longitude": 29.379704,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-7",
+      "name": "ERDOĞMUŞ ECZANESİ",
+      "address": "KAZIM KARABEKİR MAH. ŞEHİT TAHSİN SARITOSUN CAD. NO:149/A DARICA",
+      "phone": "02627457419",
+      "district": "Darıca",
+      "city": "Kocaeli",
+      "latitude": 40.774361,
+      "longitude": 29.386694,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-8",
+      "name": "DARICA ECZANESİ",
+      "address": "KAZIM KARABEKİR MAH.GENÇ OSMAN CAD.NO:95/A",
+      "phone": "02625029250",
+      "district": "Dilovası",
+      "city": "Kocaeli",
+      "latitude": 40.777452,
+      "longitude": 29.394687,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-9",
+      "name": "ANADOLU ECZANESİ",
+      "address": "CUMHURİYET MAH. İBNİ SİNA CAD. NO:6/C DİLOVASI",
+      "phone": "05398547935",
+      "district": "Kartepe",
+      "city": "Kocaeli",
+      "latitude": 40.784501,
+      "longitude": 29.541721,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-10",
+      "name": "KARTEPE ECZANESİ",
+      "address": "FATİH SULTAN MEHMET MAH.17 AĞUSTOS CAD. NO:23/B KARTEPE/KOCAELİ",
+      "phone": "05316648441",
+      "district": "Kartepe",
+      "city": "Kocaeli",
+      "latitude": 40.743931,
+      "longitude": 30.015515,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-11",
+      "name": "GÜL ECZANESİ",
+      "address": "SULTAN ORHAN MAH.1122 SOK.NO:20/A",
+      "phone": "02626442288",
+      "district": "Gebze",
+      "city": "Kocaeli",
+      "latitude": 40.800967,
+      "longitude": 29.440606,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-12",
+      "name": "NEHİR ECZANESİ",
+      "address": "GÜZELLER MAH.953.SOK.NO:2/A",
+      "phone": "05411094141",
+      "district": "Gebze",
+      "city": "Kocaeli",
+      "latitude": 40.805187,
+      "longitude": 29.437107,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-13",
+      "name": "EBRU ECZANESİ",
+      "address": "OSMAN YILMAZ MAH. İSTASYON CAD. NO:636/B GEBZE",
+      "phone": "02626423535",
+      "district": "Gebze",
+      "city": "Kocaeli",
+      "latitude": 40.789772,
+      "longitude": 29.422014,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-14",
+      "name": "TURAN ECZANESİ",
+      "address": "YENİ MAH. 288. SOKAK NO:6/A GÖLCÜK",
+      "phone": "02624355365",
+      "district": "Gölcük",
+      "city": "Kocaeli",
+      "latitude": 40.714583,
+      "longitude": 29.815782,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-15",
+      "name": "SEÇİL ECZANESİ",
+      "address": "ATATÜRK MAH.3037.SOK. 5/B GÖLCÜK",
+      "phone": "02624264500",
+      "district": "Gölcük",
+      "city": "Kocaeli",
+      "latitude": 40.717677,
+      "longitude": 29.785561,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-16",
+      "name": "ÖZDECAN ECZANESİ",
+      "address": "ŞİRİNKÖY MAH. KERVANSARAY CAD. NO:11 İÇ KAPI NO: 21-22 GÖLCÜK",
+      "phone": "02624224604",
+      "district": "Gölcük",
+      "city": "Kocaeli",
+      "latitude": 40.69536,
+      "longitude": 29.829113,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-17",
+      "name": "TOKİ ECZANESİ",
+      "address": "ORHAN MAH.KABAAĞAÇ CAD.NO:22/D",
+      "phone": "02625514888",
+      "district": "Kandıra",
+      "city": "Kocaeli",
+      "latitude": 41.06595,
+      "longitude": 30.135492,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-18",
+      "name": "DONANMA ECZANESİ",
+      "address": "GÜNEY MAH. ALBAY SOK. NO: 8/A KÖRFEZ",
+      "phone": "02625278595",
+      "district": "Körfez",
+      "city": "Kocaeli",
+      "latitude": 40.760031,
+      "longitude": 29.787397,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "kocaeli-19",
+      "name": "UÇAN ECZANESİ",
+      "address": "DUMLUPINAR MAH.KAHRAMANLAR CAD.NO:116/A DERİNCE",
+      "phone": "02622291313",
+      "district": "Derince",
+      "city": "Kocaeli",
+      "latitude": 40.752659,
+      "longitude": 29.827529,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    }
+  ]
+}

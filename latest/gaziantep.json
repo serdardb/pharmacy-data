@@ -1,0 +1,241 @@
+{
+  "city": "gaziantep",
+  "cityName": "Gaziantep",
+  "cityId": 27,
+  "date": "2026-02-15",
+  "updatedAt": "2026-02-14T21:50:12.053Z",
+  "count": 21,
+  "pharmacies": [
+    {
+      "id": "gaziantep-0",
+      "name": "KUMRUOGLU ECZANESI",
+      "address": "Eski Garajlar(Eski Garajlar Büyük Velic Oteli 500 Metre Yukarısı Sağlık Ocağı Karşısı)",
+      "phone": "03423216929",
+      "district": "Şahi̇nbey",
+      "city": "Gaziantep",
+      "latitude": 37.05291,
+      "longitude": 37.372311,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-1",
+      "name": "URHAN ECZANESİ",
+      "address": "Güneş Mahallesi 87001 Nolu Cadde No:179/B(Güneş sosyal tesisi civarı, Taşkın unlu mamülleri bitişiği)",
+      "phone": "05334947683",
+      "district": "Şahi̇nbey",
+      "city": "Gaziantep",
+      "latitude": 37.06675232813354,
+      "longitude": 37.38321304321289,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-2",
+      "name": "MEHMET ÖZDEMİR ECZANESİ",
+      "address": "PERİLİKAYA MAH DEMOKRASi BULVarı NO 210 A ŞAHİNBEY GAZİANTEP (Şahinbey kavşağından ABDULKADİR YÜKSEL DEVLET HASTANESİ kavşağına doğru giderken yolun sağında ulutaç mobilya karşısı perilikaya konutları yanı)",
+      "phone": "03422262929",
+      "district": "Şahi̇nbey",
+      "city": "Gaziantep",
+      "latitude": 37.054283,
+      "longitude": 37.414627,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-3",
+      "name": "BURAK ECZANESİ",
+      "address": "Binevler Mahallesi Üniversite Bulvarı No:142B/A (Eski Renault-Dacia) Bayii yanı, Bulvar Kebap karşısı",
+      "phone": "03422317378",
+      "district": "Şahi̇nbey",
+      "city": "Gaziantep",
+      "latitude": 37.054488,
+      "longitude": 37.338285,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-4",
+      "name": "YUSUF ECZANESİ",
+      "address": "İbni Sina Mahallesi 400 Nolu Cadde No: 81/CG (Gaziantep Şehir Hastanesi Acil Karşısı)",
+      "phone": "03422304441",
+      "district": "Şahi̇nbey",
+      "city": "Gaziantep",
+      "latitude": 37.015812,
+      "longitude": 37.384708,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-5",
+      "name": "ASİL ECZANESİ",
+      "address": "BEŞTEPE MAHALLESİ ONKOLOJİ BULVARI NO:13/H (ONKOLOJİ HASTANESİ YANI)",
+      "phone": "03424720616",
+      "district": "Şahi̇nbey",
+      "city": "Gaziantep",
+      "latitude": 36.992325,
+      "longitude": 37.310696,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-6",
+      "name": "BAHADIR ECZANESİ",
+      "address": "15 Temmuz Mahallesi 148255 Nolu Cadde No:6/J ( Üniversite Hastanesi Poliklinikleri Karşısı )",
+      "phone": "05346886618",
+      "district": "Şahi̇nbey",
+      "city": "Gaziantep",
+      "latitude": 37.087571,
+      "longitude": 37.426272,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-7",
+      "name": "BERKAY ECZANESİ",
+      "address": "Ertuğrulgazi Mahallesi 189012 Nolu Cadde No:9/C (Doğuser Seramik Karşı Sokağı)",
+      "phone": "05540223837",
+      "district": "Şahi̇nbey",
+      "city": "Gaziantep",
+      "latitude": 37.06675232813354,
+      "longitude": 37.38321304321289,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-8",
+      "name": "NEFES ECZANESİ",
+      "address": "Mücahitler Mahallesi Kudüs Caddesi No:32/A (Teymur Otel Karşısı)",
+      "phone": "05324347044",
+      "district": "Şehi̇tkami̇l",
+      "city": "Gaziantep",
+      "latitude": 37.076103,
+      "longitude": 37.369022,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-9",
+      "name": "DOSTLAR ECZANESI",
+      "address": "Değirmiçem Mah. Ökkeş Bahri Cad. No:7 (Topkapı Sarayı Restaurantı Arkası)",
+      "phone": "03423236888",
+      "district": "Şehi̇tkami̇l",
+      "city": "Gaziantep",
+      "latitude": 37.072529,
+      "longitude": 37.363998,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-10",
+      "name": "CADDEBOSTAN ECZANESİ",
+      "address": "İbrahimli Mahallesi Naci Topcuoğlu Bulvarı No:16/A (Caddebostan Konutları altı)",
+      "phone": "05072276532",
+      "district": "Şehi̇tkami̇l",
+      "city": "Gaziantep",
+      "latitude": 37.080127,
+      "longitude": 37.325458,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-11",
+      "name": "ŞEKER ECZANESİ",
+      "address": "Pancarlı mahallesi Milli Egemenlik caddesi no:66/B (Dentalazer ve derma dermatoloji karşısı)",
+      "phone": "03423232627",
+      "district": "Şehi̇tkami̇l",
+      "city": "Gaziantep",
+      "latitude": 37.067677,
+      "longitude": 37.346973,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-12",
+      "name": "ŞEYMA ECZANESİ",
+      "address": "29 Ekim Mahallesi 81053 Nolu Sokak No:30/B ( 141 Nolu Taziye Evi Karşısı)",
+      "phone": "05072272729",
+      "district": "Şehi̇tkami̇l",
+      "city": "Gaziantep",
+      "latitude": 37.0667389684466,
+      "longitude": 37.38323319911137,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-13",
+      "name": "DOGRU ECZANESI",
+      "address": "Zeytinli Mah. Çetin Emeç Caddesi No:9/A Şehitkamil/GAZİANTEP (Kalender Plaza Kavşağı ,Shell Petrol Yanı)",
+      "phone": "03423241933",
+      "district": "Şehi̇tkami̇l",
+      "city": "Gaziantep",
+      "latitude": 37.084186,
+      "longitude": 37.361328,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-14",
+      "name": "YALKIN ECZANESİ",
+      "address": "Eyüpsultan Mahallesi Hafız Tevfik Caddesi No:164/G(Anka Hastane Yanı)",
+      "phone": "03423230767",
+      "district": "Şehi̇tkami̇l",
+      "city": "Gaziantep",
+      "latitude": 37.076954,
+      "longitude": 37.366833,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-15",
+      "name": "ÇAKIRCA ECZANESİ",
+      "address": "Hafızpaşa Mahallesi Küpeli Sokak No:11/A (DEVLET HASTANESİ SEMT POLİKLİNİĞİ YANI)",
+      "phone": "03425176655",
+      "district": "Ni̇zi̇p",
+      "city": "Gaziantep",
+      "latitude": 37.06675232813354,
+      "longitude": 37.38321304321289,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-16",
+      "name": "MUHTAR ECZANESI",
+      "address": "Mehmet Gökçek Mahallesi Dr.Asım Güzelbey Caddesi No:28/A-ARABAN",
+      "phone": "03426113234",
+      "district": "Araban",
+      "city": "Gaziantep",
+      "latitude": 37.425385,
+      "longitude": 37.689556,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-17",
+      "name": "furkan eczanesi",
+      "address": "Fatih Mahallesi Yunus Sokak No:2/A OĞUZELİ",
+      "phone": "05525172624",
+      "district": "Oğuzeli̇",
+      "city": "Gaziantep",
+      "latitude": 36.961414,
+      "longitude": 37.521286,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-18",
+      "name": "MERVE ECZANESİ",
+      "address": "Çamlıca Mahallesi İstasyon Caddesi No:9/A (Eski emniyet karşısı,cumhuriyet ilkokulu yanı)",
+      "phone": "05078348718",
+      "district": "İslahi̇ye",
+      "city": "Gaziantep",
+      "latitude": 37.06675232813354,
+      "longitude": 37.38321304321289,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-19",
+      "name": "AMANOS ECZANESİ",
+      "address": "Bahçelievler Mahallesi Hilmi Kutlubay Caddesi No:3/Z01",
+      "phone": "03426712029",
+      "district": "Nurdaği",
+      "city": "Gaziantep",
+      "latitude": 37.185209,
+      "longitude": 36.733781,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    },
+    {
+      "id": "gaziantep-20",
+      "name": "ÖZLEM ECZANESI",
+      "address": "Özlem Eczanesi Hürriyet Mah. İnönü Cad. No =9/A YAVUZELİ",
+      "phone": "05549525101",
+      "district": "Yavuzeli̇",
+      "city": "Gaziantep",
+      "latitude": 37.096748,
+      "longitude": 37.426849,
+      "dutyHours": "14 Şub 08:30 → 15 Şub 08:30"
+    }
+  ]
+}
