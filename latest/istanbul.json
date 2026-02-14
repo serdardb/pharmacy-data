@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-14T23:00:12.911Z",
+  "updatedAt": "2026-02-14T23:30:12.192Z",
   "count": 150,
   "pharmacies": [
     {
@@ -667,18 +667,6 @@
       "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
-      "id": "istanbul-13762",
-      "name": "HAYAT ECZANESİ",
-      "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
-      "phone": "+902163519907",
-      "district": "ADALAR",
-      "city": "İstanbul",
-      "latitude": 40.87805005093138,
-      "longitude": 29.099723346130244,
-      "dutyStart": "2026-02-14T21:00:00.000Z",
-      "dutyEnd": "2026-02-15T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25026",
       "name": "HAYAT ECZANESİ",
       "address": "Barış Mahallesi, Bestekar Sokak, 2P",
@@ -687,6 +675,18 @@
       "city": "İstanbul",
       "latitude": 41.00381584372403,
       "longitude": 28.656073917945974,
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-13762",
+      "name": "HAYAT ECZANESİ",
+      "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
+      "phone": "+902163519907",
+      "district": "ADALAR",
+      "city": "İstanbul",
+      "latitude": 40.87805005093138,
+      "longitude": 29.099723346130244,
       "dutyStart": "2026-02-14T21:00:00.000Z",
       "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
@@ -1279,18 +1279,6 @@
       "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
-      "id": "istanbul-14752",
-      "name": "TUĞBA ECZANESİ",
-      "address": "Selimpaşa Merkez Mahallesi 202. Caddesi 23",
-      "phone": "+902127316938",
-      "district": "SİLİVRİ",
-      "city": "İstanbul",
-      "latitude": 41.054633822369,
-      "longitude": 28.378304336625042,
-      "dutyStart": "2026-02-14T21:00:00.000Z",
-      "dutyEnd": "2026-02-15T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25998",
       "name": "TUĞBA ECZANESİ",
       "address": "Hamidiye Mahallesi, Karaman Sokak, 7A",
@@ -1299,6 +1287,18 @@
       "city": "İstanbul",
       "latitude": 41.09440564506929,
       "longitude": 28.969772488428287,
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-14752",
+      "name": "TUĞBA ECZANESİ",
+      "address": "Selimpaşa Merkez Mahallesi 202. Caddesi 23",
+      "phone": "+902127316938",
+      "district": "SİLİVRİ",
+      "city": "İstanbul",
+      "latitude": 41.054633822369,
+      "longitude": 28.378304336625042,
       "dutyStart": "2026-02-14T21:00:00.000Z",
       "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
@@ -1771,18 +1771,6 @@
       "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11268",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Göktürk Merkez Mahallesi, İstanbul Caddesi, 42",
-      "phone": "+902123222101",
-      "district": "EYÜPSULTAN",
-      "city": "İstanbul",
-      "latitude": 41.181781006912,
-      "longitude": 28.882238566297232,
-      "dutyStart": "2026-02-14T21:00:00.000Z",
-      "dutyEnd": "2026-02-15T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-8976",
       "name": "ŞİFA ECZANESİ",
       "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
@@ -1791,6 +1779,18 @@
       "city": "İstanbul",
       "latitude": 41.139166752321906,
       "longitude": 29.85684207593813,
+      "dutyStart": "2026-02-14T21:00:00.000Z",
+      "dutyEnd": "2026-02-15T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11268",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Göktürk Merkez Mahallesi, İstanbul Caddesi, 42",
+      "phone": "+902123222101",
+      "district": "EYÜPSULTAN",
+      "city": "İstanbul",
+      "latitude": 41.181781006912,
+      "longitude": 28.882238566297232,
       "dutyStart": "2026-02-14T21:00:00.000Z",
       "dutyEnd": "2026-02-15T20:59:59.000Z"
     },
