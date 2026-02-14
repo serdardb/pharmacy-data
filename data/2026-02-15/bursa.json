@@ -3,44 +3,11 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-14T22:16:58.331Z",
+  "updatedAt": "2026-02-14T22:30:11.100Z",
   "count": 30,
   "pharmacies": [
     {
       "id": "bursa-0",
-      "name": "SELANİK ECZANESİ",
-      "address": "ALTINŞEHİR MAH. ABDİ İPEKÇİ CAD. NO:32/A,  (ŞAHİNKAYA ÇOCUK PARKI KARŞISI) ,  0224 413 74 84",
-      "phone": "02244137484",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.227316,
-      "longitude": 28.920282,
-      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
-    },
-    {
-      "id": "bursa-1",
-      "name": "NİLÜFER PARK ECZANESİ",
-      "address": "KONAK MAH. BARIŞ SOK. KONAK BUTİK-2 SİTESİ NO:8/D,  (ÖZEL NİLÜFER DORUK HASTANESİ ARKA GİRİŞ KAPISI KARŞISI) ,  0224 502 11 14",
-      "phone": "02245021114",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.20974196343837,
-      "longitude": 28.991286543171075,
-      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
-    },
-    {
-      "id": "bursa-2",
-      "name": "GÜLŞAH ECZANESİ",
-      "address": "ATAEVLER MAH. GAZİOSMANPAŞA CAD. NO:10-I/A,  (BULVAR PARK EVLERİ SİTESİ - ŞOK MARKET YANI) ,  0224 502 32 34",
-      "phone": "02245023234",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.21927,
-      "longitude": 28.955019,
-      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
-    },
-    {
-      "id": "bursa-3",
       "name": "PERA BALAT ECZANESİ",
       "address": "BALAT MAH. BAĞ (300) SOK. NO:12B/12,  (BALAT CAMİ VE ŞOK MARKET KARŞISI) ,  0530 931 33 43",
       "phone": "05309313343",
@@ -51,7 +18,7 @@
       "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
     },
     {
-      "id": "bursa-4",
+      "id": "bursa-1",
       "name": "KAZANÇ ECZANESİ",
       "address": "KIZILCIKLI MAH. TURAÇ SOK. D-BLOK NO:15D/K,  (HASANAĞA TOKİ - MİNİBÜS DURAKLARI KARŞISI) ,  0553 080 16 17",
       "phone": "05530801617",
@@ -62,7 +29,7 @@
       "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
     },
     {
-      "id": "bursa-5",
+      "id": "bursa-2",
       "name": "ÖZLEM TATALLAR ECZANESİ",
       "address": "BEŞEVLER MAH. BEŞEVLER CAD. NO:106/B,  (KARAFATMA HEYKELİ YANI - DİŞ HASTANESİ KARŞISI) ,  0224 452 16 06",
       "phone": "02244521606",
@@ -73,62 +40,40 @@
       "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
     },
     {
+      "id": "bursa-3",
+      "name": "SELANİK ECZANESİ",
+      "address": "ALTINŞEHİR MAH. ABDİ İPEKÇİ CAD. NO:32/A,  (ŞAHİNKAYA ÇOCUK PARKI KARŞISI) ,  0224 413 74 84",
+      "phone": "02244137484",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.227316,
+      "longitude": 28.920282,
+      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
+    },
+    {
+      "id": "bursa-4",
+      "name": "NİLÜFER PARK ECZANESİ",
+      "address": "KONAK MAH. BARIŞ SOK. KONAK BUTİK-2 SİTESİ NO:8/D,  (ÖZEL NİLÜFER DORUK HASTANESİ ARKA GİRİŞ KAPISI KARŞISI) ,  0224 502 11 14",
+      "phone": "02245021114",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.20974196343837,
+      "longitude": 28.991286543171075,
+      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
+    },
+    {
+      "id": "bursa-5",
+      "name": "GÜLŞAH ECZANESİ",
+      "address": "ATAEVLER MAH. GAZİOSMANPAŞA CAD. NO:10-I/A,  (BULVAR PARK EVLERİ SİTESİ - ŞOK MARKET YANI) ,  0224 502 32 34",
+      "phone": "02245023234",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.21927,
+      "longitude": 28.955019,
+      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
+    },
+    {
       "id": "bursa-6",
-      "name": "AŞAN ECZANESİ",
-      "address": "BAĞLARBAŞI MAH. SANAYİ CAD. NO:242,  (BAĞLARBAŞI METRO İSTASYONU - DORUK TIP MERKEZİ ESENTEPE ŞB. YANI) ,  0224 247 24 79",
-      "phone": "02242472479",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.22866119,
-      "longitude": 28.98807049,
-      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
-    },
-    {
-      "id": "bursa-7",
-      "name": "SOĞANLI BULVAR ECZANESİ",
-      "address": "SOĞANLI MAH. ÇELEBİ MEHMET BULVARI NO:202/D,  (BOSTANCI KENT 5.ETAP 3.BLOK) ,  0224 999 43 65",
-      "phone": "02249994365",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.21174585323292,
-      "longitude": 29.04489977334442,
-      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
-    },
-    {
-      "id": "bursa-8",
-      "name": "YENİ ÇATALFIRIN ECZANESİ",
-      "address": "ÇIRPAN MAH. 7.OKUL SOK. NO:3/A,  (ÇARŞAMBA SAĞLIK OCAĞI KARŞI ARASI) ,  0224 221 07 22 / 0224 2207219",
-      "phone": "02242210722",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.19485801105761,
-      "longitude": 29.054768979549408,
-      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
-    },
-    {
-      "id": "bursa-9",
-      "name": "YENİ ZAFER ECZANESİ",
-      "address": "NAMIK KEMAL MAH. NAMIK KEMAL CAD. NO:105,  (ZAFER DOLMUŞ DURAĞI KARŞISI) ,  0224 255 75 70",
-      "phone": "02242557570",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.19587894773291,
-      "longitude": 29.080939243908944,
-      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
-    },
-    {
-      "id": "bursa-10",
-      "name": "KARAKIZ ECZANESİ",
-      "address": "HOCAALİZADE MAH. RESSAM ŞEFİK BURSALI CAD. NO:13/1,  (HEYKEL KAFKAS PASTANESİ ÜSTÜ - NURHAN APT.) ,  0224 221 13 01",
-      "phone": "02242211301",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.18256912215556,
-      "longitude": 29.065534692820734,
-      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
-    },
-    {
-      "id": "bursa-11",
       "name": "YENİKALE ECZANESİ",
       "address": "DİKKALDIRIM MAH. HAT CAD. NO:1/1-B,  (ZÜBEYDE HANIM DOĞUMEVİ KARŞISI) ,  0224 236 46 98",
       "phone": "02242364698",
@@ -139,18 +84,62 @@
       "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
     },
     {
-      "id": "bursa-12",
-      "name": "DENGE ECZANESİ",
-      "address": "BAĞLARALTI MAH. 2.CAD. A309.SOK. NO:3,  (PAZAR YERİ VE 39 NO'LU BAĞLARALTI ASM YANI - ERİKLİ ÜSTÜ) ,  0224 340 00 26 / 5511838979",
-      "phone": "02243400026",
-      "district": "YILDIRIM",
+      "id": "bursa-7",
+      "name": "AŞAN ECZANESİ",
+      "address": "BAĞLARBAŞI MAH. SANAYİ CAD. NO:242,  (BAĞLARBAŞI METRO İSTASYONU - DORUK TIP MERKEZİ ESENTEPE ŞB. YANI) ,  0224 247 24 79",
+      "phone": "02242472479",
+      "district": "OSMANGAZİ",
       "city": "Bursa",
-      "latitude": 40.18426508459091,
-      "longitude": 29.138245775463247,
+      "latitude": 40.22866119,
+      "longitude": 28.98807049,
       "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-8",
+      "name": "SOĞANLI BULVAR ECZANESİ",
+      "address": "SOĞANLI MAH. ÇELEBİ MEHMET BULVARI NO:202/D,  (BOSTANCI KENT 5.ETAP 3.BLOK) ,  0224 999 43 65",
+      "phone": "02249994365",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.21174585323292,
+      "longitude": 29.04489977334442,
+      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
+    },
+    {
+      "id": "bursa-9",
+      "name": "YENİ ÇATALFIRIN ECZANESİ",
+      "address": "ÇIRPAN MAH. 7.OKUL SOK. NO:3/A,  (ÇARŞAMBA SAĞLIK OCAĞI KARŞI ARASI) ,  0224 221 07 22 / 0224 2207219",
+      "phone": "02242210722",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.19485801105761,
+      "longitude": 29.054768979549408,
+      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
+    },
+    {
+      "id": "bursa-10",
+      "name": "YENİ ZAFER ECZANESİ",
+      "address": "NAMIK KEMAL MAH. NAMIK KEMAL CAD. NO:105,  (ZAFER DOLMUŞ DURAĞI KARŞISI) ,  0224 255 75 70",
+      "phone": "02242557570",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.19587894773291,
+      "longitude": 29.080939243908944,
+      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
+    },
+    {
+      "id": "bursa-11",
+      "name": "KARAKIZ ECZANESİ",
+      "address": "HOCAALİZADE MAH. RESSAM ŞEFİK BURSALI CAD. NO:13/1,  (HEYKEL KAFKAS PASTANESİ ÜSTÜ - NURHAN APT.) ,  0224 221 13 01",
+      "phone": "02242211301",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.18256912215556,
+      "longitude": 29.065534692820734,
+      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
+    },
+    {
+      "id": "bursa-12",
       "name": "ÖMER ECZANESİ",
       "address": "DUAÇINARI MAH. SAMANLI CAD. NO:7,  (YILDIRIM DORUK TIP MERKEZİ) ,  0224 362 05 55",
       "phone": "02243620555",
@@ -161,7 +150,7 @@
       "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-13",
       "name": "AHISKA ECZANESİ",
       "address": "SIRACEVİZLER MAH. KURTBASAN CAD. NO:33/A,  (KURTBASAN CAD. ESKİ PTT YERİ) ,  0501 298 16 22",
       "phone": "05012981622",
@@ -169,6 +158,17 @@
       "city": "Bursa",
       "latitude": 40.1773836,
       "longitude": 29.0902363,
+      "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
+    },
+    {
+      "id": "bursa-14",
+      "name": "DENGE ECZANESİ",
+      "address": "BAĞLARALTI MAH. 2.CAD. A309.SOK. NO:3,  (PAZAR YERİ VE 39 NO'LU BAĞLARALTI ASM YANI - ERİKLİ ÜSTÜ) ,  0224 340 00 26 / 5511838979",
+      "phone": "02243400026",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.18426508459091,
+      "longitude": 29.138245775463247,
       "dutyHours": "14 Şub 17:00 → 15 Şub 08:30"
     },
     {
