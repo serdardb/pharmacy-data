@@ -3,7 +3,7 @@
   "cityName": "Ankara",
   "cityId": 6,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-15T09:30:12.684Z",
+  "updatedAt": "2026-02-15T10:00:12.987Z",
   "count": 58,
   "pharmacies": [
     {
@@ -565,8 +565,8 @@
       "phone": "03125119770",
       "district": "Gölbaşı",
       "city": "Ankara",
-      "latitude": 39.805836810511,
-      "longitude": 32.699125412364,
+      "latitude": 39.824304849629,
+      "longitude": 32.723219295979,
       "dutyStart": "2026-02-15T08:30:00.000Z",
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },

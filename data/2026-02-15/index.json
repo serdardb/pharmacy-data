@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T09:30:12.684Z",
+  "updatedAt": "2026-02-15T10:00:12.987Z",
   "date": "2026-02-15",
   "cities": [
     {
@@ -15,12 +15,6 @@
       "count": 39
     },
     {
-      "city": "konya",
-      "cityName": "Konya",
-      "cityId": 42,
-      "count": 33
-    },
-    {
       "city": "bursa",
       "cityName": "Bursa",
       "cityId": 16,
@@ -31,6 +25,12 @@
       "cityName": "İzmir",
       "cityId": 35,
       "count": 73
+    },
+    {
+      "city": "konya",
+      "cityName": "Konya",
+      "cityId": 42,
+      "count": 33
     },
     {
       "city": "adana",
