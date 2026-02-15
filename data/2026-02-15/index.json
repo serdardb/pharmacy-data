@@ -1,13 +1,7 @@
 {
-  "updatedAt": "2026-02-15T18:00:15.187Z",
+  "updatedAt": "2026-02-15T18:30:12.578Z",
   "date": "2026-02-15",
   "cities": [
-    {
-      "city": "antalya",
-      "cityName": "Antalya",
-      "cityId": 7,
-      "count": 39
-    },
     {
       "city": "ankara",
       "cityName": "Ankara",
@@ -15,16 +9,10 @@
       "count": 58
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 73
-    },
-    {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
+      "city": "antalya",
+      "cityName": "Antalya",
+      "cityId": 7,
+      "count": 39
     },
     {
       "city": "bursa",
@@ -33,21 +21,33 @@
       "count": 37
     },
     {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 73
+    },
+    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
       "count": 33
     },
     {
-      "city": "mersin",
-      "cityName": "Mersin",
-      "cityId": 33,
-      "count": 24
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
     },
     {
       "city": "kocaeli",
       "cityName": "Kocaeli",
       "cityId": 41,
+      "count": 21
+    },
+    {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
       "count": 21
     },
     {
@@ -63,16 +63,16 @@
       "count": 6
     },
     {
+      "city": "mersin",
+      "cityName": "Mersin",
+      "cityId": 33,
+      "count": 24
+    },
+    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 150
-    }
-  ],
-  "errors": [
-    {
-      "city": "gaziantep",
-      "error": "HTTP 500 from https://www.gaziantep.bel.tr/tr/nobetci-eczaneler"
     }
   ]
 }
