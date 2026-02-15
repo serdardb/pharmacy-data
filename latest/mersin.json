@@ -3,8 +3,8 @@
   "cityName": "Mersin",
   "cityId": 33,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-15T15:30:10.798Z",
-  "count": 25,
+  "updatedAt": "2026-02-15T16:00:15.582Z",
+  "count": 24,
   "pharmacies": [
     {
       "id": "mersin-0",
@@ -200,18 +200,6 @@
     },
     {
       "id": "mersin-16",
-      "name": "SUSANOĞLU ECZANESİ",
-      "address": "Atakent Mh. Alparslan Türkeş Bulv. E Blok Apt. No:179 E/3",
-      "phone": "03247224686",
-      "district": "Si̇li̇fke",
-      "city": "Mersin",
-      "latitude": 36.405326,
-      "longitude": 34.069948,
-      "dutyStart": "2026-02-15T08:30:00.000Z",
-      "dutyEnd": "2026-02-16T08:30:00.000Z"
-    },
-    {
-      "id": "mersin-17",
       "name": "TAŞUCU ECZANESİ",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1",
       "phone": "03247414986",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "mersin-18",
+      "id": "mersin-17",
       "name": "MEYDAN ECZANESİ",
       "address": "KARSIYAKA MAH. DONATIM CAD. NO:7",
       "phone": "03247747277",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "mersin-19",
+      "id": "mersin-18",
       "name": "ARIKAN ECZANESİ",
       "address": "SARAY MAH.DEMİROLUK CAD.NO:4/5",
       "phone": "03247517282",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "mersin-20",
+      "id": "mersin-19",
       "name": "EMRAH ECZANESİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:74/H",
       "phone": "03245157020",
@@ -259,7 +247,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "mersin-21",
+      "id": "mersin-20",
       "name": "GÜL ECZANESİ",
       "address": "MERKEZ MAH.ABDURRAHMAN ŞEVKİ CAD.NO:19/A",
       "phone": "03245152552",
@@ -271,7 +259,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "mersin-22",
+      "id": "mersin-21",
       "name": "BİRGÜL ECZANESİ",
       "address": "ÇOPURLU MAH.ŞEHITLER CAD.NO:89/b",
       "phone": "03248514477",
@@ -283,7 +271,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "mersin-23",
+      "id": "mersin-22",
       "name": "KUTAY ECZANESİ",
       "address": "CUMHURİYET MAH. SİLİFKE CAD. NO:1/D",
       "phone": "03248412233",
@@ -295,7 +283,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "mersin-24",
+      "id": "mersin-23",
       "name": "SİNANOĞLU ECZANESİ",
       "address": "SARAY MAH.BANKALAR CAD.NO.81",
       "phone": "03248141256",
