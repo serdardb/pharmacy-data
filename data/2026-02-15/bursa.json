@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-14T23:30:12.192Z",
+  "updatedAt": "2026-02-15T00:00:15.794Z",
   "count": 30,
   "pharmacies": [
     {
@@ -152,6 +152,18 @@
     },
     {
       "id": "bursa-12",
+      "name": "AHISKA ECZANESİ",
+      "address": "SIRACEVİZLER MAH. KURTBASAN CAD. NO:33/A,  (KURTBASAN CAD. ESKİ PTT YERİ) ,  0501 298 16 22",
+      "phone": "05012981622",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.1773836,
+      "longitude": 29.0902363,
+      "dutyStart": "2026-02-14T17:00:00.000Z",
+      "dutyEnd": "2026-02-15T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-13",
       "name": "DENGE ECZANESİ",
       "address": "BAĞLARALTI MAH. 2.CAD. A309.SOK. NO:3,  (PAZAR YERİ VE 39 NO'LU BAĞLARALTI ASM YANI - ERİKLİ ÜSTÜ) ,  0224 340 00 26 / 5511838979",
       "phone": "02243400026",
@@ -163,7 +175,7 @@
       "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-14",
       "name": "ÖMER ECZANESİ",
       "address": "DUAÇINARI MAH. SAMANLI CAD. NO:7,  (YILDIRIM DORUK TIP MERKEZİ) ,  0224 362 05 55",
       "phone": "02243620555",
@@ -171,18 +183,6 @@
       "city": "Bursa",
       "latitude": 40.19242756001876,
       "longitude": 29.109726773296188,
-      "dutyStart": "2026-02-14T17:00:00.000Z",
-      "dutyEnd": "2026-02-15T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-14",
-      "name": "AHISKA ECZANESİ",
-      "address": "SIRACEVİZLER MAH. KURTBASAN CAD. NO:33/A,  (KURTBASAN CAD. ESKİ PTT YERİ) ,  0501 298 16 22",
-      "phone": "05012981622",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.1773836,
-      "longitude": 29.0902363,
       "dutyStart": "2026-02-14T17:00:00.000Z",
       "dutyEnd": "2026-02-15T08:30:00.000Z"
     },
