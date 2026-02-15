@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-15T04:30:19.989Z",
-  "count": 21,
+  "updatedAt": "2026-02-15T05:00:21.183Z",
+  "count": 19,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -188,18 +188,6 @@
     },
     {
       "id": "samsun-15",
-      "name": "LADİK ELİF ECZANESİ",
-      "address": "BAHŞİ MAH.GAZİ CAD.NO:56/A",
-      "phone": "03627713091",
-      "district": "Ladik",
-      "city": "Samsun",
-      "latitude": 40.911071,
-      "longitude": 35.894904,
-      "dutyStart": "2026-02-15T08:30:00.000Z",
-      "dutyEnd": "2026-02-16T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-16",
       "name": "ŞİFA ECZANESİ",
       "address": "PAZAR MAH. FATİH CAD. NO:36",
       "phone": "03625113278",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "samsun-17",
+      "id": "samsun-16",
       "name": "OVALI ECZANESİ",
       "address": "BEREKET MAH. ŞEHİT ORHAN ERDOĞAN BULVARI NO:2",
       "phone": "03628213747",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "samsun-18",
+      "id": "samsun-17",
       "name": "AKALIN ECZANESİ",
       "address": "FENK MAH.CUMHURIYET MEYDANI CAMİİ ŞERİF SOK.NO:1/A",
       "phone": "03628762197",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "samsun-19",
+      "id": "samsun-18",
       "name": "TAŞKALE ECZANESİ",
       "address": "ATATÜRK MAH. KÖPRÜLÜLER CAD.NO:143",
       "phone": "03626472255",
@@ -243,18 +231,6 @@
       "city": "Samsun",
       "latitude": 41.135317,
       "longitude": 35.462682,
-      "dutyStart": "2026-02-15T08:30:00.000Z",
-      "dutyEnd": "2026-02-16T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-26",
-      "name": "ÖZLEM  ECZANESİ",
-      "address": "GÜZELYURT MAH.CUMHURİYET CAD.NO:10/B",
-      "phone": "03686712692",
-      "district": "Türkeli",
-      "city": "Samsun",
-      "latitude": 41.946565,
-      "longitude": 34.336792,
       "dutyStart": "2026-02-15T08:30:00.000Z",
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     }
