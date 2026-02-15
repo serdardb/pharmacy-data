@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-15",
-  "updatedAt": "2026-02-15T12:00:10.197Z",
+  "updatedAt": "2026-02-15T12:30:10.178Z",
   "count": 38,
   "pharmacies": [
     {
@@ -92,42 +92,6 @@
     },
     {
       "id": "bursa-7",
-      "name": "MAKSEM ECZANESİ",
-      "address": "MAKSEM MAH. 8.MURAT SOK. NO:3,  (MAKSEM HİZMET BİNASI KARŞISI) ,  0224 220 28 87",
-      "phone": "02242202887",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.178102261278106,
-      "longitude": 29.061649518863533,
-      "dutyStart": "2026-02-15T08:30:00.000Z",
-      "dutyEnd": "2026-02-16T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-8",
-      "name": "ASUMAN ECZANESİ",
-      "address": "EMEK ZEKAİ GÜMÜŞDİŞ MAH. GÜLER SOK. NO:25/A,  (EMEK ZEKAİ GÜMÜŞDİŞ ASM KARŞISI) ,  0224 243 00 42",
-      "phone": "02242430042",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.2541145850913,
-      "longitude": 28.95705074071884,
-      "dutyStart": "2026-02-15T08:30:00.000Z",
-      "dutyEnd": "2026-02-16T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-9",
-      "name": "MEYDAN ECZANESİ",
-      "address": "İSTİKLAL MAH. 5.DİNÇ SOK. NO:3,  (HÜRRİYET MEYDANI) ,  0534 828 32 50",
-      "phone": "05348283250",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.221723129839255,
-      "longitude": 29.005968742216368,
-      "dutyStart": "2026-02-15T08:30:00.000Z",
-      "dutyEnd": "2026-02-16T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-10",
       "name": "AİLEM ECZANESİ",
       "address": "HAMİTLER MAH. 2.COŞKUN SOK. NO:3/B,  (HAMİTLER MACERA PARKI VE 53 NO'LU ŞEHİT ÜTĞM.AYKUT KÖROĞLU ASM KARŞISI) ,  0224 999 58 38",
       "phone": "02249995838",
@@ -139,7 +103,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-8",
       "name": "CÖMERT ECZANESİ",
       "address": "KÜKÜRTLÜ MAH. KÜKÜRTLÜ CAD. NO:28/C,  (KÜKÜRTLÜ TİCARET VE SANAYİ ODASI ORTAOKULU KARŞISI) ,  0224 242 32 92",
       "phone": "02242423292",
@@ -151,7 +115,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
+      "id": "bursa-9",
       "name": "YENİ ÖZGE ECZANESİ",
       "address": "SAKARYA MAH. GAZCILAR CAD. NO:54/2A,  (CEM SULTAN LİSESİ TRAFİK LAMBALARI) ,  0224 222 24 34 / 0224 252 14 83",
       "phone": "02242222434",
@@ -163,7 +127,7 @@
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-10",
       "name": "HACEGAN ECZANESİ",
       "address": "FATİH MAH. ETİBANK CAD. NO:175/A,  (BEŞYOL LAMBALARI GİRİŞİ) ,  0224 255 84 91",
       "phone": "02242558491",
@@ -171,6 +135,42 @@
       "city": "Bursa",
       "latitude": 40.2096487,
       "longitude": 29.0582273,
+      "dutyStart": "2026-02-15T08:30:00.000Z",
+      "dutyEnd": "2026-02-16T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "MAKSEM ECZANESİ",
+      "address": "MAKSEM MAH. 8.MURAT SOK. NO:3,  (MAKSEM HİZMET BİNASI KARŞISI) ,  0224 220 28 87",
+      "phone": "02242202887",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.178102261278106,
+      "longitude": 29.061649518863533,
+      "dutyStart": "2026-02-15T08:30:00.000Z",
+      "dutyEnd": "2026-02-16T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-12",
+      "name": "ASUMAN ECZANESİ",
+      "address": "EMEK ZEKAİ GÜMÜŞDİŞ MAH. GÜLER SOK. NO:25/A,  (EMEK ZEKAİ GÜMÜŞDİŞ ASM KARŞISI) ,  0224 243 00 42",
+      "phone": "02242430042",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.2541145850913,
+      "longitude": 28.95705074071884,
+      "dutyStart": "2026-02-15T08:30:00.000Z",
+      "dutyEnd": "2026-02-16T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-13",
+      "name": "MEYDAN ECZANESİ",
+      "address": "İSTİKLAL MAH. 5.DİNÇ SOK. NO:3,  (HÜRRİYET MEYDANI) ,  0534 828 32 50",
+      "phone": "05348283250",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.221723129839255,
+      "longitude": 29.005968742216368,
       "dutyStart": "2026-02-15T08:30:00.000Z",
       "dutyEnd": "2026-02-16T08:30:00.000Z"
     },
