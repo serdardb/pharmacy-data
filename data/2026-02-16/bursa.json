@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-16",
-  "updatedAt": "2026-02-16T18:30:06.734Z",
+  "updatedAt": "2026-02-16T19:00:08.127Z",
   "count": 35,
   "pharmacies": [
     {
@@ -80,30 +80,6 @@
     },
     {
       "id": "bursa-6",
-      "name": "ENGİN ECZANESİ",
-      "address": "SOĞANLI MAH. SADIK AHMET CAD. NO:408/A,  (GAZİAKDEMİR DOLMUŞ DURAĞI KARŞISI) ,  0224 232 04 02",
-      "phone": "02242320402",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.20284383,
-      "longitude": 29.04458731,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
-      "name": "HİLYE ŞİFA ECZANESİ",
-      "address": "BAHAR MAH. 5.HÜRRİYET SOK. NO:49,  (ÇINAR LİSESİ ALTI - BAHAR MAH. MEYDANI VE ASM KARŞISI) ,  0224 256 01 11",
-      "phone": "02242560111",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.203167,
-      "longitude": 29.067102,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-8",
       "name": "DOĞUMEVİ MERKEZ ECZANESİ",
       "address": "DİKKALDIRIM MAH. HAT CAD. GÖKTAŞ-2 SİTESİ NO:3/B ,  (BURSA İL SAĞLIK MÜDÜRLÜĞÜ KARŞISI) ,  0224 233 08 58",
       "phone": "02242330858",
@@ -115,19 +91,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
-      "name": "MİNE ECZANESİ",
-      "address": "TUZPAZARI MAH. CUMHURİYET CAD. NO:105/B ,  (NOSTALJİK TRAMVAY YOLU) ,  0224 221 48 20",
-      "phone": "02242214820",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.18557207803877,
-      "longitude": 29.065388609262072,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-10",
+      "id": "bursa-7",
       "name": "ÇARDAK ECZANESİ",
       "address": "YENİ KARAMAN MAH. POLAT CAD. NO:68/A,  (MUDANYA YOLU MELİKE DÖNER ARALIĞI) ,  0224 245 20 93",
       "phone": "02242452093",
@@ -139,7 +103,19 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-8",
+      "name": "HİLYE ŞİFA ECZANESİ",
+      "address": "BAHAR MAH. 5.HÜRRİYET SOK. NO:49,  (ÇINAR LİSESİ ALTI - BAHAR MAH. MEYDANI VE ASM KARŞISI) ,  0224 256 01 11",
+      "phone": "02242560111",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.203167,
+      "longitude": 29.067102,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-9",
       "name": "SEDA ECZANESİ",
       "address": "EMEK ADNAN MENDERES MAH. OĞUZHAN CAD. NO:31/A ,  (KORUPARK AVM ARKASI) ,  0224 243 06 16",
       "phone": "02242430616",
@@ -151,7 +127,19 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
+      "id": "bursa-10",
+      "name": "MİNE ECZANESİ",
+      "address": "TUZPAZARI MAH. CUMHURİYET CAD. NO:105/B ,  (NOSTALJİK TRAMVAY YOLU) ,  0224 221 48 20",
+      "phone": "02242214820",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.18557207803877,
+      "longitude": 29.065388609262072,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
       "name": "YUNUSELİ MERKEZ ECZANESİ",
       "address": "YUNUSELİ MAH. ALPARSLAN TÜRKEŞ CAD. NO:87/A ,  0224 248 58 59 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02242485859",
@@ -159,6 +147,18 @@
       "city": "Bursa",
       "latitude": 40.245801,
       "longitude": 29.010269,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-12",
+      "name": "ENGİN ECZANESİ",
+      "address": "SOĞANLI MAH. SADIK AHMET CAD. NO:408/A,  (GAZİAKDEMİR DOLMUŞ DURAĞI KARŞISI) ,  0224 232 04 02",
+      "phone": "02242320402",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.20284383,
+      "longitude": 29.04458731,
       "dutyStart": "2026-02-16T18:30:00.000Z",
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
