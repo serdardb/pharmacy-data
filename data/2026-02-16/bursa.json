@@ -3,8 +3,8 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-16",
-  "updatedAt": "2026-02-16T04:30:25.676Z",
-  "count": 33,
+  "updatedAt": "2026-02-16T05:00:31.370Z",
+  "count": 32,
   "pharmacies": [
     {
       "id": "bursa-0",
@@ -389,18 +389,6 @@
       "longitude": 29.096680717158733,
       "dutyStart": "2026-02-15T08:30:00.000Z",
       "dutyEnd": "2026-02-16T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-32",
-      "name": "CEM ECZANESİ",
-      "address": "KURTULUŞ MAH. ATATÜRK CAD. NO:64/A ,  0224 773 60 48 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02247736048",
-      "district": "YENİŞEHİR",
-      "city": "Bursa",
-      "latitude": 40.26771160285151,
-      "longitude": 29.651635587215424,
-      "dutyStart": "2026-02-15T08:00:00.000Z",
-      "dutyEnd": "2026-02-16T08:00:00.000Z"
     }
   ]
 }

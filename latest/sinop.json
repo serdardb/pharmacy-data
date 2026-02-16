@@ -3,11 +3,11 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-02-16",
-  "updatedAt": "2026-02-16T04:30:25.676Z",
-  "count": 6,
+  "updatedAt": "2026-02-16T05:00:31.370Z",
+  "count": 5,
   "pharmacies": [
     {
-      "id": "sinop-20",
+      "id": "sinop-19",
       "name": "KARADENİZ ECZANESİ",
       "address": "GELİNCİK MAH.FATİH CAD.NO.35",
       "phone": "03682600018",
@@ -19,7 +19,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "sinop-21",
+      "id": "sinop-20",
       "name": "SIHHAT  ECZANESİ",
       "address": "PROF DR.SEDAT DEMİRCAN NO:33/A",
       "phone": "03686131025",
@@ -31,19 +31,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "sinop-22",
-      "name": "COŞKUN ECZANESİ",
-      "address": "ÇAMLICA MAH. EROL DEMİRKOL CAD. HASTANE ALTI NO:1",
-      "phone": "03683155632",
-      "district": "Boyabat",
-      "city": "Sinop",
-      "latitude": 41.463476,
-      "longitude": 34.783555,
-      "dutyStart": "2026-02-16T08:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "sinop-23",
+      "id": "sinop-21",
       "name": "TEK ECZANESİ",
       "address": "MERKEZ MAH. YUSUF KEMAL TENGİRŞEK CAD. NO:28/A",
       "phone": "03684161152",
@@ -55,7 +43,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "sinop-24",
+      "id": "sinop-22",
       "name": "ŞİFA ECZANESİ",
       "address": "MERKEZ MAH. CUMHURİYET CAD. NO:2",
       "phone": "03685112115",
@@ -67,7 +55,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "sinop-25",
+      "id": "sinop-23",
       "name": "YENİCE  ECZANESİ",
       "address": "HAMİDİYE MAH.VATAN BULVARI NO:38/A",
       "phone": "03687184885",
