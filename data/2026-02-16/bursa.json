@@ -3,59 +3,11 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-16",
-  "updatedAt": "2026-02-16T16:30:06.338Z",
-  "count": 36,
+  "updatedAt": "2026-02-16T17:00:07.644Z",
+  "count": 35,
   "pharmacies": [
     {
       "id": "bursa-0",
-      "name": "ÖZLÜCE BULVAR ECZANESİ",
-      "address": "19 MAYIS MAH. ANADOLU CAD. NO:19/B,  (HÜSNÜ ZÜBER İLKOKULU KARŞISI - ÖZEL ÖNCÜ OKULLARI YANI) ,  0224 413 91 77 / 0553 713 91 77",
-      "phone": "02244139177",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.22863,
-      "longitude": 28.9065,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-1",
-      "name": "KONAK UĞUR ECZANESİ",
-      "address": "KONAK MAH. İLGİ SOK. NO:4,  (NİLÜFER METRO İSTASYONU ARKASI - FATİH LİSESİ YANI) ,  0224 453 00 29",
-      "phone": "02244530029",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.20881925,
-      "longitude": 28.98727119,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-2",
-      "name": "BÜŞRA ECZANESİ",
-      "address": "23 NİSAN MAH. YUNUSEMRE CAD. NO:11/D,  (İZMİR YOLU METRO MARKET ARKASI) ,  0224 408 92 92 / 5306858292",
-      "phone": "02244089292",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.216786,
-      "longitude": 28.94231000000002,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-3",
-      "name": "NİLÜFER YAŞAM ECZANESİ",
-      "address": "CUMHURİYET MAH. GAZİ CAD. MAVİ SOK. NO:6/D,  (KAPALI PAZAR YERİ KARŞISI) ,  0224 452 81 62",
-      "phone": "02244528162",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.22196252,
-      "longitude": 28.97303402,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-4",
       "name": "KONSEPT BALAT ECZANESİ",
       "address": "AHMET YESEVİ MAH. BEY SOK. NO:10B/E,  (ERGİN CONCEPT - BALAT ORMANI ALTI) ,  0224 503 87 87",
       "phone": "02245038787",
@@ -67,7 +19,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-5",
+      "id": "bursa-1",
       "name": "GÜLERYÜZ ECZANESİ",
       "address": "30 AĞUSTOS ZAFER MAH. ATLIÇAYIR BULVARI NO:37D/C,  (KAYAPA TOKİ KARŞISI - ÖZHAN MARKET YANI) ,  0224 503 77 22",
       "phone": "02245037722",
@@ -79,14 +31,62 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
+      "id": "bursa-2",
+      "name": "ÖZLÜCE BULVAR ECZANESİ",
+      "address": "19 MAYIS MAH. ANADOLU CAD. NO:19/B,  (HÜSNÜ ZÜBER İLKOKULU KARŞISI - ÖZEL ÖNCÜ OKULLARI YANI) ,  0224 413 91 77 / 0553 713 91 77",
+      "phone": "02244139177",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.22863,
+      "longitude": 28.9065,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-3",
+      "name": "KONAK UĞUR ECZANESİ",
+      "address": "KONAK MAH. İLGİ SOK. NO:4,  (NİLÜFER METRO İSTASYONU ARKASI - FATİH LİSESİ YANI) ,  0224 453 00 29",
+      "phone": "02244530029",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.20881925,
+      "longitude": 28.98727119,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-4",
+      "name": "BÜŞRA ECZANESİ",
+      "address": "23 NİSAN MAH. YUNUSEMRE CAD. NO:11/D,  (İZMİR YOLU METRO MARKET ARKASI) ,  0224 408 92 92 / 5306858292",
+      "phone": "02244089292",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.216786,
+      "longitude": 28.94231000000002,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-5",
+      "name": "NİLÜFER YAŞAM ECZANESİ",
+      "address": "CUMHURİYET MAH. GAZİ CAD. MAVİ SOK. NO:6/D,  (KAPALI PAZAR YERİ KARŞISI) ,  0224 452 81 62",
+      "phone": "02244528162",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.22196252,
+      "longitude": 28.97303402,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
       "id": "bursa-6",
-      "name": "SEDA ECZANESİ",
-      "address": "EMEK ADNAN MENDERES MAH. OĞUZHAN CAD. NO:31/A ,  (KORUPARK AVM ARKASI) ,  0224 243 06 16",
-      "phone": "02242430616",
+      "name": "DOĞUMEVİ MERKEZ ECZANESİ",
+      "address": "DİKKALDIRIM MAH. HAT CAD. GÖKTAŞ-2 SİTESİ NO:3/B ,  (BURSA İL SAĞLIK MÜDÜRLÜĞÜ KARŞISI) ,  0224 233 08 58",
+      "phone": "02242330858",
       "district": "OSMANGAZİ",
       "city": "Bursa",
-      "latitude": 40.2539517,
-      "longitude": 28.9619625,
+      "latitude": 40.2079302410793,
+      "longitude": 29.0174192183606,
       "dutyStart": "2026-02-16T18:30:00.000Z",
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
@@ -104,42 +104,18 @@
     },
     {
       "id": "bursa-8",
-      "name": "YUNUSELİ MERKEZ ECZANESİ",
-      "address": "YUNUSELİ MAH. ALPARSLAN TÜRKEŞ CAD. NO:87/A ,  0224 248 58 59 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02242485859",
+      "name": "ÇARDAK ECZANESİ",
+      "address": "YENİ KARAMAN MAH. POLAT CAD. NO:68/A,  (MUDANYA YOLU MELİKE DÖNER ARALIĞI) ,  0224 245 20 93",
+      "phone": "02242452093",
       "district": "OSMANGAZİ",
       "city": "Bursa",
-      "latitude": 40.245801,
-      "longitude": 29.010269,
+      "latitude": 40.221368,
+      "longitude": 28.99868200000003,
       "dutyStart": "2026-02-16T18:30:00.000Z",
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
       "id": "bursa-9",
-      "name": "ENGİN ECZANESİ",
-      "address": "SOĞANLI MAH. SADIK AHMET CAD. NO:408/A,  (GAZİAKDEMİR DOLMUŞ DURAĞI KARŞISI) ,  0224 232 04 02",
-      "phone": "02242320402",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.20284383,
-      "longitude": 29.04458731,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-10",
-      "name": "DOĞUMEVİ MERKEZ ECZANESİ",
-      "address": "DİKKALDIRIM MAH. HAT CAD. GÖKTAŞ-2 SİTESİ NO:3/B ,  (BURSA İL SAĞLIK MÜDÜRLÜĞÜ KARŞISI) ,  0224 233 08 58",
-      "phone": "02242330858",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.2079302410793,
-      "longitude": 29.0174192183606,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-11",
       "name": "MİNE ECZANESİ",
       "address": "TUZPAZARI MAH. CUMHURİYET CAD. NO:105/B ,  (NOSTALJİK TRAMVAY YOLU) ,  0224 221 48 20",
       "phone": "02242214820",
@@ -151,14 +127,38 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
-      "name": "ÇARDAK ECZANESİ",
-      "address": "YENİ KARAMAN MAH. POLAT CAD. NO:68/A,  (MUDANYA YOLU MELİKE DÖNER ARALIĞI) ,  0224 245 20 93",
-      "phone": "02242452093",
+      "id": "bursa-10",
+      "name": "SEDA ECZANESİ",
+      "address": "EMEK ADNAN MENDERES MAH. OĞUZHAN CAD. NO:31/A ,  (KORUPARK AVM ARKASI) ,  0224 243 06 16",
+      "phone": "02242430616",
       "district": "OSMANGAZİ",
       "city": "Bursa",
-      "latitude": 40.221368,
-      "longitude": 28.99868200000003,
+      "latitude": 40.2539517,
+      "longitude": 28.9619625,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "YUNUSELİ MERKEZ ECZANESİ",
+      "address": "YUNUSELİ MAH. ALPARSLAN TÜRKEŞ CAD. NO:87/A ,  0224 248 58 59 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02242485859",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.245801,
+      "longitude": 29.010269,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-12",
+      "name": "ENGİN ECZANESİ",
+      "address": "SOĞANLI MAH. SADIK AHMET CAD. NO:408/A,  (GAZİAKDEMİR DOLMUŞ DURAĞI KARŞISI) ,  0224 232 04 02",
+      "phone": "02242320402",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.20284383,
+      "longitude": 29.04458731,
       "dutyStart": "2026-02-16T18:30:00.000Z",
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
@@ -344,18 +344,6 @@
     },
     {
       "id": "bursa-28",
-      "name": "ÇALI CEREN ECZANESİ",
-      "address": "ÇALI MAH. 149. SOKAK NO:4/A,  (İCAP NÖBETÇİDİR) ,  0224 482 28 28",
-      "phone": "02244822828",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.17215205635093,
-      "longitude": 28.92035437203072,
-      "dutyStart": "2026-02-16T18:00:00.000Z",
-      "dutyEnd": "2026-02-16T20:00:00.000Z"
-    },
-    {
-      "id": "bursa-29",
       "name": "MUTLU ECZANESİ",
       "address": "GÜZELYALI EĞİTİM MAH. LİSE CAD. NO:25/B ,  0224 224 55 66 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02242245566",
@@ -367,7 +355,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-30",
+      "id": "bursa-29",
       "name": "GÜNAYDIN ECZANESİ",
       "address": "ÖMERBEY MAH. 2.PINAR SOK. NO:10/A ,  0501 004 24 34 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "05010042434",
@@ -379,7 +367,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-31",
+      "id": "bursa-30",
       "name": "DERMAN ECZANESİ",
       "address": "HAMZABEY MAH. DEĞİRMEN SOK. NO:20/A ,  0224 613 91 30 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02246139130",
@@ -391,7 +379,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-32",
+      "id": "bursa-31",
       "name": "YALÇIN ECZANESİ",
       "address": "İSMETPAŞA MAH. CAMİ KARŞISI SOK. NO:3 ,  0224-8171286 / 0224-8171286 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02248171286",
@@ -403,7 +391,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-33",
+      "id": "bursa-32",
       "name": "SEVİM ECZANESİ",
       "address": "ARAPZADE MAH. YALOVA CAD. NO:13 ,  0224-5739360 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02245739360",
@@ -415,7 +403,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-34",
+      "id": "bursa-33",
       "name": "GÜLEÇ ECZANESİ",
       "address": "DEMİRTAŞ CUMHURİYET MAH. CUMHURİYET CAD. NO:2 ,  0224-2623522 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02242623522",
@@ -427,7 +415,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-35",
+      "id": "bursa-34",
       "name": "ACAR ECZANESİ",
       "address": "KURTULUŞ MAH. İZNİK CAD. NO:21 ,  0224 773 05 06 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02247730506",
