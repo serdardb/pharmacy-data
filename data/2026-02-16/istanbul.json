@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-16",
-  "updatedAt": "2026-02-16T16:00:07.740Z",
+  "updatedAt": "2026-02-16T16:30:06.338Z",
   "count": 134,
   "pharmacies": [
     {
@@ -619,18 +619,6 @@
       "dutyEnd": "2026-02-16T20:59:59.000Z"
     },
     {
-      "id": "istanbul-9892",
-      "name": "HİLAL ECZANESİ",
-      "address": "Balat Mahallesi Manyasizade Caddesi 51/A-B",
-      "phone": "+902125245926",
-      "district": "FATİH",
-      "city": "İstanbul",
-      "latitude": 41.02758229766981,
-      "longitude": 28.946289583306775,
-      "dutyStart": "2026-02-15T21:00:00.000Z",
-      "dutyEnd": "2026-02-16T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-26820",
       "name": "HİLAL ECZANESİ",
       "address": "Atakent Mahallesi, 235. Sokak, 19/3",
@@ -639,6 +627,18 @@
       "city": "İstanbul",
       "latitude": 41.03922147678363,
       "longitude": 28.77934596382377,
+      "dutyStart": "2026-02-15T21:00:00.000Z",
+      "dutyEnd": "2026-02-16T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-9892",
+      "name": "HİLAL ECZANESİ",
+      "address": "Balat Mahallesi Manyasizade Caddesi 51/A-B",
+      "phone": "+902125245926",
+      "district": "FATİH",
+      "city": "İstanbul",
+      "latitude": 41.02758229766981,
+      "longitude": 28.946289583306775,
       "dutyStart": "2026-02-15T21:00:00.000Z",
       "dutyEnd": "2026-02-16T20:59:59.000Z"
     },

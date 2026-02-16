@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T16:00:07.740Z",
+  "updatedAt": "2026-02-16T16:30:06.338Z",
   "date": "2026-02-16",
   "cities": [
     {
@@ -9,16 +9,16 @@
       "count": 39
     },
     {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
+      "city": "ankara",
+      "cityName": "Ankara",
+      "cityId": 6,
+      "count": 59
     },
     {
-      "city": "konya",
-      "cityName": "Konya",
-      "cityId": 42,
-      "count": 32
+      "city": "bursa",
+      "cityName": "Bursa",
+      "cityId": 16,
+      "count": 36
     },
     {
       "city": "izmir",
@@ -27,10 +27,28 @@
       "count": 73
     },
     {
-      "city": "bursa",
-      "cityName": "Bursa",
-      "cityId": 16,
-      "count": 36
+      "city": "konya",
+      "cityName": "Konya",
+      "cityId": 42,
+      "count": 32
+    },
+    {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
+    },
+    {
+      "city": "kocaeli",
+      "cityName": "Kocaeli",
+      "cityId": 41,
+      "count": 23
+    },
+    {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
     },
     {
       "city": "mersin",
@@ -51,28 +69,10 @@
       "count": 6
     },
     {
-      "city": "kocaeli",
-      "cityName": "Kocaeli",
-      "cityId": 41,
-      "count": 23
-    },
-    {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
-    },
-    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 134
-    }
-  ],
-  "errors": [
-    {
-      "city": "ankara",
-      "error": "HTTP 500 from https://www.aeo.org.tr/getPharmacies/2026-02-16"
     }
   ]
 }
