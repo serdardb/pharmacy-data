@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-17",
-  "updatedAt": "2026-02-16T23:00:03.317Z",
+  "updatedAt": "2026-02-16T23:30:03.314Z",
   "count": 32,
   "pharmacies": [
     {
@@ -92,18 +92,6 @@
     },
     {
       "id": "bursa-7",
-      "name": "HİLYE ŞİFA ECZANESİ",
-      "address": "BAHAR MAH. 5.HÜRRİYET SOK. NO:49,  (ÇINAR LİSESİ ALTI - BAHAR MAH. MEYDANI VE ASM KARŞISI) ,  0224 256 01 11",
-      "phone": "02242560111",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.203167,
-      "longitude": 29.067102,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-8",
       "name": "ÇARDAK ECZANESİ",
       "address": "YENİ KARAMAN MAH. POLAT CAD. NO:68/A,  (MUDANYA YOLU MELİKE DÖNER ARALIĞI) ,  0224 245 20 93",
       "phone": "02242452093",
@@ -111,6 +99,18 @@
       "city": "Bursa",
       "latitude": 40.221368,
       "longitude": 28.99868200000003,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-8",
+      "name": "HİLYE ŞİFA ECZANESİ",
+      "address": "BAHAR MAH. 5.HÜRRİYET SOK. NO:49,  (ÇINAR LİSESİ ALTI - BAHAR MAH. MEYDANI VE ASM KARŞISI) ,  0224 256 01 11",
+      "phone": "02242560111",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.203167,
+      "longitude": 29.067102,
       "dutyStart": "2026-02-16T18:30:00.000Z",
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
@@ -164,18 +164,6 @@
     },
     {
       "id": "bursa-13",
-      "name": "ÇELEBİ ECZANESİ",
-      "address": "ERTUĞRULGAZİ MAH. OKUL SOK. NO:11/A,  (A-BLOK GÖĞÜS HASTANESİ KARŞISI) ,  0224 369 07 40 / 0224 369 07 60",
-      "phone": "02243690740",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.17746338,
-      "longitude": 29.11485314,
-      "dutyStart": "2026-02-16T18:30:00.000Z",
-      "dutyEnd": "2026-02-17T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-14",
       "name": "KÜBRA ŞİFA ECZANESİ",
       "address": "MEHMET AKİF ERSOY MAH. T.MEHMET ALİ CAD. NO:63/B,  (YEŞİLYAYLA PTT ŞUBESİ KARŞISI) ,  0224 361 14 41",
       "phone": "02243611441",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
     {
-      "id": "bursa-15",
+      "id": "bursa-14",
       "name": "SÜMBÜL ECZANESİ",
       "address": "MİLLET MAH. CENGİZHAN CAD. NO:4/B,  (CENGİZHAN CAD. A-101 MARKET KARŞISI) ,  0224 364 19 91 / 5358866999",
       "phone": "02243641991",
@@ -195,6 +183,18 @@
       "city": "Bursa",
       "latitude": 40.21088,
       "longitude": 29.09205,
+      "dutyStart": "2026-02-16T18:30:00.000Z",
+      "dutyEnd": "2026-02-17T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-15",
+      "name": "ÇELEBİ ECZANESİ",
+      "address": "ERTUĞRULGAZİ MAH. OKUL SOK. NO:11/A,  (A-BLOK GÖĞÜS HASTANESİ KARŞISI) ,  0224 369 07 40 / 0224 369 07 60",
+      "phone": "02243690740",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.17746338,
+      "longitude": 29.11485314,
       "dutyStart": "2026-02-16T18:30:00.000Z",
       "dutyEnd": "2026-02-17T08:30:00.000Z"
     },
