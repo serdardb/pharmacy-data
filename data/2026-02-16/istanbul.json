@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-16",
-  "updatedAt": "2026-02-16T12:00:08.523Z",
+  "updatedAt": "2026-02-16T12:30:07.625Z",
   "count": 134,
   "pharmacies": [
     {
@@ -475,6 +475,18 @@
       "dutyEnd": "2026-02-16T20:59:59.000Z"
     },
     {
+      "id": "istanbul-34414",
+      "name": "FUAT ECZANESİ",
+      "address": "İnönü Mahallesi, Narçiçeği Sokak, No:13/A",
+      "phone": "+902165720172",
+      "district": "ATAŞEHİR",
+      "city": "İstanbul",
+      "latitude": 40.97555300000456,
+      "longitude": 29.143944000531405,
+      "dutyStart": "2026-02-15T21:00:00.000Z",
+      "dutyEnd": "2026-02-16T20:59:59.000Z"
+    },
+    {
       "id": "istanbul-35170",
       "name": "FURKAN DAĞDELEN ECZANESİ",
       "address": "Zühtüpaşa Mahallesi, Recep Peker Caddesi, 34/1A",
@@ -607,18 +619,6 @@
       "dutyEnd": "2026-02-16T20:59:59.000Z"
     },
     {
-      "id": "istanbul-9892",
-      "name": "HİLAL ECZANESİ",
-      "address": "Balat Mahallesi Manyasizade Caddesi 51/A-B",
-      "phone": "+902125245926",
-      "district": "FATİH",
-      "city": "İstanbul",
-      "latitude": 41.02758229766981,
-      "longitude": 28.946289583306775,
-      "dutyStart": "2026-02-15T21:00:00.000Z",
-      "dutyEnd": "2026-02-16T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-26820",
       "name": "HİLAL ECZANESİ",
       "address": "Atakent Mahallesi, 235. Sokak, 19/3",
@@ -627,6 +627,18 @@
       "city": "İstanbul",
       "latitude": 41.03922147678363,
       "longitude": 28.77934596382377,
+      "dutyStart": "2026-02-15T21:00:00.000Z",
+      "dutyEnd": "2026-02-16T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-9892",
+      "name": "HİLAL ECZANESİ",
+      "address": "Balat Mahallesi Manyasizade Caddesi 51/A-B",
+      "phone": "+902125245926",
+      "district": "FATİH",
+      "city": "İstanbul",
+      "latitude": 41.02758229766981,
+      "longitude": 28.946289583306775,
       "dutyStart": "2026-02-15T21:00:00.000Z",
       "dutyEnd": "2026-02-16T20:59:59.000Z"
     },
@@ -667,18 +679,6 @@
       "dutyEnd": "2026-02-16T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29470",
-      "name": "KELEBEK ECZANESİ",
-      "address": "Anadolu Mahallesi, Güllübahçe Sokak., 32/A",
-      "phone": "+902125670708",
-      "district": "ARNAVUTKÖY",
-      "city": "İstanbul",
-      "latitude": 41.18588800027751,
-      "longitude": 28.750050999432407,
-      "dutyStart": "2026-02-15T21:00:00.000Z",
-      "dutyEnd": "2026-02-16T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29302",
       "name": "KELEBEK ECZANESİ",
       "address": "19 Mayıs Mahallesi, Şemsettin Günaltay Caddesi, 172/C",
@@ -687,6 +687,18 @@
       "city": "İstanbul",
       "latitude": 40.97297577337503,
       "longitude": 29.08304561248609,
+      "dutyStart": "2026-02-15T21:00:00.000Z",
+      "dutyEnd": "2026-02-16T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29470",
+      "name": "KELEBEK ECZANESİ",
+      "address": "Anadolu Mahallesi, Güllübahçe Sokak., 32/A",
+      "phone": "+902125670708",
+      "district": "ARNAVUTKÖY",
+      "city": "İstanbul",
+      "latitude": 41.18588800027751,
+      "longitude": 28.750050999432407,
       "dutyStart": "2026-02-15T21:00:00.000Z",
       "dutyEnd": "2026-02-16T20:59:59.000Z"
     },
@@ -1407,18 +1419,6 @@
       "city": "İstanbul",
       "latitude": 41.07405500006522,
       "longitude": 29.034061999748374,
-      "dutyStart": "2026-02-15T21:00:00.000Z",
-      "dutyEnd": "2026-02-16T20:59:59.000Z"
-    },
-    {
-      "id": "istanbul-34800",
-      "name": "ZEYTİN AĞACI ECZANESİ",
-      "address": "İnönü Mahallesi, Kartal Caddesi, No:40/B",
-      "phone": "+902165768595",
-      "district": "ATAŞEHİR",
-      "city": "İstanbul",
-      "latitude": 40.97797599997093,
-      "longitude": 29.133973000252393,
       "dutyStart": "2026-02-15T21:00:00.000Z",
       "dutyEnd": "2026-02-16T20:59:59.000Z"
     },
