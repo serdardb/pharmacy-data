@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-16",
-  "updatedAt": "2026-02-16T18:00:08.124Z",
+  "updatedAt": "2026-02-16T18:30:06.734Z",
   "count": 134,
   "pharmacies": [
     {
@@ -679,18 +679,6 @@
       "dutyEnd": "2026-02-16T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29302",
-      "name": "KELEBEK ECZANESİ",
-      "address": "19 Mayıs Mahallesi, Şemsettin Günaltay Caddesi, 172/C",
-      "phone": "+902165048090",
-      "district": "KADIKÖY",
-      "city": "İstanbul",
-      "latitude": 40.97297577337503,
-      "longitude": 29.08304561248609,
-      "dutyStart": "2026-02-15T21:00:00.000Z",
-      "dutyEnd": "2026-02-16T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29470",
       "name": "KELEBEK ECZANESİ",
       "address": "Anadolu Mahallesi, Güllübahçe Sokak., 32/A",
@@ -699,6 +687,18 @@
       "city": "İstanbul",
       "latitude": 41.18588800027751,
       "longitude": 28.750050999432407,
+      "dutyStart": "2026-02-15T21:00:00.000Z",
+      "dutyEnd": "2026-02-16T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29302",
+      "name": "KELEBEK ECZANESİ",
+      "address": "19 Mayıs Mahallesi, Şemsettin Günaltay Caddesi, 172/C",
+      "phone": "+902165048090",
+      "district": "KADIKÖY",
+      "city": "İstanbul",
+      "latitude": 40.97297577337503,
+      "longitude": 29.08304561248609,
       "dutyStart": "2026-02-15T21:00:00.000Z",
       "dutyEnd": "2026-02-16T20:59:59.000Z"
     },
