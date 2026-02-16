@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-16",
-  "updatedAt": "2026-02-16T08:00:24.177Z",
+  "updatedAt": "2026-02-16T08:30:04.333Z",
   "count": 32,
   "pharmacies": [
     {
@@ -200,18 +200,6 @@
     },
     {
       "id": "konya-16",
-      "name": "ÇOBANOĞLU ECZANESİ",
-      "address": "ATÇEKEN MAHALLESİ HASTANE CADDESİ NO:52A,NECİP FAZIL KISAKÜREK CADDESİ NO:1A",
-      "phone": "903326734763",
-      "district": "Ci̇hanbeyli̇",
-      "city": "Konya",
-      "latitude": 38.6656125,
-      "longitude": 32.9220006,
-      "dutyStart": "2026-02-16T09:00:00.000Z",
-      "dutyEnd": "2026-02-17T09:00:00.000Z"
-    },
-    {
-      "id": "konya-17",
       "name": "SAĞLIK ECZANESİ",
       "address": "YENİCEOBA MAHALLESİ YENİCEOBA CADDESİ NO:84C",
       "phone": "903326762504",
@@ -219,6 +207,18 @@
       "city": "Konya",
       "latitude": 38.8709,
       "longitude": 32.78807,
+      "dutyStart": "2026-02-16T09:00:00.000Z",
+      "dutyEnd": "2026-02-17T09:00:00.000Z"
+    },
+    {
+      "id": "konya-17",
+      "name": "ÇOBANOĞLU ECZANESİ",
+      "address": "ATÇEKEN MAHALLESİ HASTANE CADDESİ NO:52A,NECİP FAZIL KISAKÜREK CADDESİ NO:1A",
+      "phone": "903326734763",
+      "district": "Ci̇hanbeyli̇",
+      "city": "Konya",
+      "latitude": 38.6656125,
+      "longitude": 32.9220006,
       "dutyStart": "2026-02-16T09:00:00.000Z",
       "dutyEnd": "2026-02-17T09:00:00.000Z"
     },
