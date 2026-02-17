@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-17T22:00:45.469Z",
+  "updatedAt": "2026-02-17T22:30:44.267Z",
   "date": "2026-02-18",
   "cities": [
     {
@@ -9,16 +9,16 @@
       "count": 40
     },
     {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 74
+    },
+    {
       "city": "bursa",
       "cityName": "Bursa",
       "cityId": 16,
       "count": 32
-    },
-    {
-      "city": "ankara",
-      "cityName": "Ankara",
-      "cityId": 6,
-      "count": 57
     },
     {
       "city": "adana",
@@ -27,10 +27,10 @@
       "count": 34
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 74
+      "city": "ankara",
+      "cityName": "Ankara",
+      "cityId": 6,
+      "count": 57
     },
     {
       "city": "mersin",
