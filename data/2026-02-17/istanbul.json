@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-17",
-  "updatedAt": "2026-02-17T16:00:06.765Z",
+  "updatedAt": "2026-02-17T16:30:05.467Z",
   "count": 135,
   "pharmacies": [
     {
@@ -211,18 +211,6 @@
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
     {
-      "id": "istanbul-33016",
-      "name": "AİLE ECZANESİ",
-      "address": "Emek Mahallesi, Kayalar Caddesi, 78/A",
-      "phone": "+902166211361",
-      "district": "SANCAKTEPE",
-      "city": "İstanbul",
-      "latitude": 41.004174999568804,
-      "longitude": 29.198776999429494,
-      "dutyStart": "2026-02-16T21:00:00.000Z",
-      "dutyEnd": "2026-02-17T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17632",
       "name": "AİLE ECZANESİ",
       "address": "50. Yıl Mahallesi, O Caddesi, 84/A-B",
@@ -231,6 +219,18 @@
       "city": "İstanbul",
       "latitude": 41.09246679224944,
       "longitude": 28.870227072948023,
+      "dutyStart": "2026-02-16T21:00:00.000Z",
+      "dutyEnd": "2026-02-17T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-33016",
+      "name": "AİLE ECZANESİ",
+      "address": "Emek Mahallesi, Kayalar Caddesi, 78/A",
+      "phone": "+902166211361",
+      "district": "SANCAKTEPE",
+      "city": "İstanbul",
+      "latitude": 41.004174999568804,
+      "longitude": 29.198776999429494,
       "dutyStart": "2026-02-16T21:00:00.000Z",
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
@@ -991,18 +991,6 @@
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
     {
-      "id": "istanbul-9636",
-      "name": "PINAR ECZANESİ",
-      "address": "Gürpınar Mahallesi, Gürpınar Caddesi, 64E",
-      "phone": "+902128802238",
-      "district": "BEYLİKDÜZÜ",
-      "city": "İstanbul",
-      "latitude": 40.99171997817492,
-      "longitude": 28.61170156165955,
-      "dutyStart": "2026-02-16T21:00:00.000Z",
-      "dutyEnd": "2026-02-17T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-18768",
       "name": "PINAR ECZANESİ",
       "address": "Siyavuşpaşa Mahallesi, Çamlık Caddesi, 22",
@@ -1011,6 +999,18 @@
       "city": "İstanbul",
       "latitude": 41.001039228154035,
       "longitude": 28.85708177319538,
+      "dutyStart": "2026-02-16T21:00:00.000Z",
+      "dutyEnd": "2026-02-17T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-9636",
+      "name": "PINAR ECZANESİ",
+      "address": "Gürpınar Mahallesi, Gürpınar Caddesi, 64E",
+      "phone": "+902128802238",
+      "district": "BEYLİKDÜZÜ",
+      "city": "İstanbul",
+      "latitude": 40.99171997817492,
+      "longitude": 28.61170156165955,
       "dutyStart": "2026-02-16T21:00:00.000Z",
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
@@ -1147,18 +1147,6 @@
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
     {
-      "id": "istanbul-17660",
-      "name": "SEMT ECZANESİ",
-      "address": "Mehmet Nesih Özmen Mahallesi, Nadide Sokak, 39/C",
-      "phone": "+902124810483",
-      "district": "GÜNGÖREN",
-      "city": "İstanbul",
-      "latitude": 41.014473813028175,
-      "longitude": 28.890099944967268,
-      "dutyStart": "2026-02-16T21:00:00.000Z",
-      "dutyEnd": "2026-02-17T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-12908",
       "name": "SEMT ECZANESİ",
       "address": "Sanayi Mahallesi, Muratpaşa Caddesi, 55",
@@ -1167,6 +1155,18 @@
       "city": "İstanbul",
       "latitude": 41.01955389351313,
       "longitude": 28.88003997002031,
+      "dutyStart": "2026-02-16T21:00:00.000Z",
+      "dutyEnd": "2026-02-17T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-17660",
+      "name": "SEMT ECZANESİ",
+      "address": "Mehmet Nesih Özmen Mahallesi, Nadide Sokak, 39/C",
+      "phone": "+902124810483",
+      "district": "GÜNGÖREN",
+      "city": "İstanbul",
+      "latitude": 41.014473813028175,
+      "longitude": 28.890099944967268,
       "dutyStart": "2026-02-16T21:00:00.000Z",
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
@@ -1579,14 +1579,14 @@
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
     {
-      "id": "istanbul-27074",
+      "id": "istanbul-8976",
       "name": "ŞİFA ECZANESİ",
-      "address": "Pınar Mahallesi, Ondokuz Mayıs Bulvarı, 48",
-      "phone": "+902127580027",
-      "district": "ESENYURT",
+      "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
+      "phone": "+902167218169",
+      "district": "ŞİLE",
       "city": "İstanbul",
-      "latitude": 41.02977799991953,
-      "longitude": 28.668232000084892,
+      "latitude": 41.139166752321906,
+      "longitude": 29.85684207593813,
       "dutyStart": "2026-02-16T21:00:00.000Z",
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
@@ -1603,14 +1603,14 @@
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
     {
-      "id": "istanbul-8976",
+      "id": "istanbul-27074",
       "name": "ŞİFA ECZANESİ",
-      "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
-      "phone": "+902167218169",
-      "district": "ŞİLE",
+      "address": "Pınar Mahallesi, Ondokuz Mayıs Bulvarı, 48",
+      "phone": "+902127580027",
+      "district": "ESENYURT",
       "city": "İstanbul",
-      "latitude": 41.139166752321906,
-      "longitude": 29.85684207593813,
+      "latitude": 41.02977799991953,
+      "longitude": 28.668232000084892,
       "dutyStart": "2026-02-16T21:00:00.000Z",
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
