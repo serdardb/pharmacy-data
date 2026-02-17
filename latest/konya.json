@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-17",
-  "updatedAt": "2026-02-17T16:30:05.467Z",
+  "updatedAt": "2026-02-17T17:00:05.467Z",
   "count": 32,
   "pharmacies": [
     {
@@ -260,18 +260,6 @@
     },
     {
       "id": "konya-21",
-      "name": "KARATAŞ ECZANESİ",
-      "address": "ÜÇGÖZ MAHALLESİ 90607 SOKAK NO: 16A",
-      "phone": "903327124741",
-      "district": "Ereğli̇",
-      "city": "Konya",
-      "latitude": 37.5047181,
-      "longitude": 34.0400853,
-      "dutyStart": "2026-02-17T09:00:00.000Z",
-      "dutyEnd": "2026-02-18T09:00:00.000Z"
-    },
-    {
-      "id": "konya-22",
       "name": "YÜCEL ECZANESİ",
       "address": "TOROS MAHALLESİ ŞEHİT METİN DÜZGÜN CADDESİ NO:20A-20",
       "phone": "903327105333",
@@ -279,6 +267,18 @@
       "city": "Konya",
       "latitude": 37.5087457,
       "longitude": 34.058179,
+      "dutyStart": "2026-02-17T09:00:00.000Z",
+      "dutyEnd": "2026-02-18T09:00:00.000Z"
+    },
+    {
+      "id": "konya-22",
+      "name": "KARATAŞ ECZANESİ",
+      "address": "ÜÇGÖZ MAHALLESİ 90607 SOKAK NO: 16A",
+      "phone": "903327124741",
+      "district": "Ereğli̇",
+      "city": "Konya",
+      "latitude": 37.5047181,
+      "longitude": 34.0400853,
       "dutyStart": "2026-02-17T09:00:00.000Z",
       "dutyEnd": "2026-02-18T09:00:00.000Z"
     },
