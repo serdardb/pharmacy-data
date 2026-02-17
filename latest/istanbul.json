@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-17",
-  "updatedAt": "2026-02-17T20:00:21.139Z",
+  "updatedAt": "2026-02-17T20:30:16.832Z",
   "count": 135,
   "pharmacies": [
     {
@@ -991,18 +991,6 @@
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
     {
-      "id": "istanbul-18768",
-      "name": "PINAR ECZANESİ",
-      "address": "Siyavuşpaşa Mahallesi, Çamlık Caddesi, 22",
-      "phone": "+902125071030",
-      "district": "BAHÇELİEVLER",
-      "city": "İstanbul",
-      "latitude": 41.001039228154035,
-      "longitude": 28.85708177319538,
-      "dutyStart": "2026-02-16T21:00:00.000Z",
-      "dutyEnd": "2026-02-17T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-9636",
       "name": "PINAR ECZANESİ",
       "address": "Gürpınar Mahallesi, Gürpınar Caddesi, 64E",
@@ -1011,6 +999,18 @@
       "city": "İstanbul",
       "latitude": 40.99171997817492,
       "longitude": 28.61170156165955,
+      "dutyStart": "2026-02-16T21:00:00.000Z",
+      "dutyEnd": "2026-02-17T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-18768",
+      "name": "PINAR ECZANESİ",
+      "address": "Siyavuşpaşa Mahallesi, Çamlık Caddesi, 22",
+      "phone": "+902125071030",
+      "district": "BAHÇELİEVLER",
+      "city": "İstanbul",
+      "latitude": 41.001039228154035,
+      "longitude": 28.85708177319538,
       "dutyStart": "2026-02-16T21:00:00.000Z",
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
@@ -1147,18 +1147,6 @@
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
     {
-      "id": "istanbul-17660",
-      "name": "SEMT ECZANESİ",
-      "address": "Mehmet Nesih Özmen Mahallesi, Nadide Sokak, 39/C",
-      "phone": "+902124810483",
-      "district": "GÜNGÖREN",
-      "city": "İstanbul",
-      "latitude": 41.014473813028175,
-      "longitude": 28.890099944967268,
-      "dutyStart": "2026-02-16T21:00:00.000Z",
-      "dutyEnd": "2026-02-17T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-12908",
       "name": "SEMT ECZANESİ",
       "address": "Sanayi Mahallesi, Muratpaşa Caddesi, 55",
@@ -1167,6 +1155,18 @@
       "city": "İstanbul",
       "latitude": 41.01955389351313,
       "longitude": 28.88003997002031,
+      "dutyStart": "2026-02-16T21:00:00.000Z",
+      "dutyEnd": "2026-02-17T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-17660",
+      "name": "SEMT ECZANESİ",
+      "address": "Mehmet Nesih Özmen Mahallesi, Nadide Sokak, 39/C",
+      "phone": "+902124810483",
+      "district": "GÜNGÖREN",
+      "city": "İstanbul",
+      "latitude": 41.014473813028175,
+      "longitude": 28.890099944967268,
       "dutyStart": "2026-02-16T21:00:00.000Z",
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
