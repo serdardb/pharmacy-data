@@ -3,7 +3,7 @@
   "cityName": "Ankara",
   "cityId": 6,
   "date": "2026-02-17",
-  "updatedAt": "2026-02-17T12:30:06.666Z",
+  "updatedAt": "2026-02-17T13:00:12.459Z",
   "count": 57,
   "pharmacies": [
     {
@@ -20,13 +20,13 @@
     },
     {
       "id": "ankara-1",
-      "name": "GÖKSU ECZANESİ",
-      "address": "Bahçelievler Mah. Kazakistan Cad.No:1/19 (1/B) Çankaya/ANKARA , Gazi Ünv.Tıp Fak.Hastanesi Karşısı 03122131897",
-      "phone": "03122131897",
+      "name": "MADENOĞLU ECZANESİ",
+      "address": "Bahçelievler Mah. Kazakistan Cad. No:1/A Çankaya/ ANKARA , Gazi Ünv.Tıp Fak.Hast.kar. 03122152690",
+      "phone": "03122152690",
       "district": "Çankaya",
       "city": "Ankara",
-      "latitude": 39.932487353088,
-      "longitude": 32.823125123978,
+      "latitude": 39.932187071103,
+      "longitude": 32.822889089584,
       "dutyStart": "2026-02-17T08:30:00.000Z",
       "dutyEnd": "2026-02-18T08:30:00.000Z"
     },
