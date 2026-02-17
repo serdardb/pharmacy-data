@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-17",
-  "updatedAt": "2026-02-17T07:00:05.771Z",
+  "updatedAt": "2026-02-17T07:30:03.876Z",
   "count": 36,
   "pharmacies": [
     {
@@ -92,18 +92,6 @@
     },
     {
       "id": "bursa-7",
-      "name": "ÖZGÜR ECZANESİ",
-      "address": "SOĞANLI MAH. 2.KANAL CAD. NO:209/A,  (ATIŞ PREMIUM SİTESİ-MEŞELİ CAMİ KARŞISI) ,  0224-2522631",
-      "phone": "02242522631",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.2147841,
-      "longitude": 29.0482548,
-      "dutyStart": "2026-02-17T18:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-8",
       "name": "AYFER ECZANESİ",
       "address": "HÜDAVENDİGAR MAH. DEĞİRMEN SOK. NO:10/2,  (ÇEKİRGE DEVLET HASTANESİ ALTI - DOĞUMEVİ YÖNÜ) ,  0224 233 79 69 / 0224 2337970",
       "phone": "02242337969",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-18T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-8",
       "name": "PRESTİJ ECZANESİ",
       "address": "YUNUSELİ MAH. RECEP TAYYİP ERDOĞAN BULVARI NO:7/D,  (PRESTİJ PARK SİTESİ I-BLOK) ,  0224 502 49 88 / 0505 981 16 41",
       "phone": "02245024988",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-02-18T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-9",
       "name": "HÜMA ECZANESİ",
       "address": "PANAYIR MAH. 2.DERMAN CAD. NO:56/A,  (44 NOLU PANAYIR AİLE SAĞLIĞI MERKEZİ YANI) ,  0224 211 15 15",
       "phone": "02242111515",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-02-18T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-10",
       "name": "MERKEZ BURSA ECZANESİ",
       "address": "İNTİZAM MAH. ÇARŞAMBA CAD. NO: 18/A,  (YENİ VALİLİK TAKSİ İLERİSİ - BİM KARŞISI) ,  0224 253 13 19",
       "phone": "02242531319",
@@ -151,7 +139,7 @@
       "dutyEnd": "2026-02-18T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
+      "id": "bursa-11",
       "name": "EMİN ECZANESİ",
       "address": "EMEK ADNAN MENDERES MAH. OĞUZHAN CAD. NO:29,  (KORUPARK AVM ARKASI - ÇAMLIK MEVKİİ) ,  0224 242 86 80",
       "phone": "02242428680",
@@ -159,6 +147,18 @@
       "city": "Bursa",
       "latitude": 40.25422922,
       "longitude": 28.96172047,
+      "dutyStart": "2026-02-17T18:30:00.000Z",
+      "dutyEnd": "2026-02-18T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-12",
+      "name": "ÖZGÜR ECZANESİ",
+      "address": "SOĞANLI MAH. 2.KANAL CAD. NO:209/A,  (ATIŞ PREMIUM SİTESİ-MEŞELİ CAMİ KARŞISI) ,  0224-2522631",
+      "phone": "02242522631",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.2147841,
+      "longitude": 29.0482548,
       "dutyStart": "2026-02-17T18:30:00.000Z",
       "dutyEnd": "2026-02-18T08:30:00.000Z"
     },

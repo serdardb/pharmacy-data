@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-17",
-  "updatedAt": "2026-02-17T07:00:05.771Z",
+  "updatedAt": "2026-02-17T07:30:03.876Z",
   "count": 135,
   "pharmacies": [
     {
@@ -991,18 +991,6 @@
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
     {
-      "id": "istanbul-20310",
-      "name": "PINAR ECZANESİ",
-      "address": "Batıköy Mahallesi, Çarmıklı Caddesi, 402/F",
-      "phone": "+902128632163",
-      "district": "BÜYÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.00371715349404,
-      "longitude": 28.533283753756205,
-      "dutyStart": "2026-02-16T21:00:00.000Z",
-      "dutyEnd": "2026-02-17T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-18768",
       "name": "PINAR ECZANESİ",
       "address": "Siyavuşpaşa Mahallesi, Çamlık Caddesi, 22",
@@ -1011,6 +999,18 @@
       "city": "İstanbul",
       "latitude": 41.001039228154035,
       "longitude": 28.85708177319538,
+      "dutyStart": "2026-02-16T21:00:00.000Z",
+      "dutyEnd": "2026-02-17T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-20310",
+      "name": "PINAR ECZANESİ",
+      "address": "Batıköy Mahallesi, Çarmıklı Caddesi, 402/F",
+      "phone": "+902128632163",
+      "district": "BÜYÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.00371715349404,
+      "longitude": 28.533283753756205,
       "dutyStart": "2026-02-16T21:00:00.000Z",
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
@@ -1579,6 +1579,18 @@
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
     {
+      "id": "istanbul-8976",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
+      "phone": "+902167218169",
+      "district": "ŞİLE",
+      "city": "İstanbul",
+      "latitude": 41.139166752321906,
+      "longitude": 29.85684207593813,
+      "dutyStart": "2026-02-16T21:00:00.000Z",
+      "dutyEnd": "2026-02-17T20:59:59.000Z"
+    },
+    {
       "id": "istanbul-27074",
       "name": "ŞİFA ECZANESİ",
       "address": "Pınar Mahallesi, Ondokuz Mayıs Bulvarı, 48",
@@ -1599,18 +1611,6 @@
       "city": "İstanbul",
       "latitude": 40.959572126665385,
       "longitude": 28.823341098254648,
-      "dutyStart": "2026-02-16T21:00:00.000Z",
-      "dutyEnd": "2026-02-17T20:59:59.000Z"
-    },
-    {
-      "id": "istanbul-8976",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
-      "phone": "+902167218169",
-      "district": "ŞİLE",
-      "city": "İstanbul",
-      "latitude": 41.139166752321906,
-      "longitude": 29.85684207593813,
       "dutyStart": "2026-02-16T21:00:00.000Z",
       "dutyEnd": "2026-02-17T20:59:59.000Z"
     },
