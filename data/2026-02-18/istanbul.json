@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-18",
-  "updatedAt": "2026-02-18T11:00:52.629Z",
+  "updatedAt": "2026-02-18T11:30:52.324Z",
   "count": 135,
   "pharmacies": [
     {
@@ -319,18 +319,6 @@
       "dutyEnd": "2026-02-18T20:59:59.000Z"
     },
     {
-      "id": "istanbul-17288",
-      "name": "DEVA ECZANESİ",
-      "address": "Kumbaba Mahallesi, Ayvalık Caddesi, 1/1",
-      "phone": "+902167122023",
-      "district": "ŞİLE",
-      "city": "İstanbul",
-      "latitude": 41.16516189811898,
-      "longitude": 29.581553404784398,
-      "dutyStart": "2026-02-17T21:00:00.000Z",
-      "dutyEnd": "2026-02-18T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-15664",
       "name": "DEVA ECZANESİ",
       "address": "İslambey Mahallesi, Fahri Korutürk Caddesi, 62/A",
@@ -339,6 +327,18 @@
       "city": "İstanbul",
       "latitude": 41.049545353769176,
       "longitude": 28.930678801789664,
+      "dutyStart": "2026-02-17T21:00:00.000Z",
+      "dutyEnd": "2026-02-18T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-17288",
+      "name": "DEVA ECZANESİ",
+      "address": "Kumbaba Mahallesi, Ayvalık Caddesi, 1/1",
+      "phone": "+902167122023",
+      "district": "ŞİLE",
+      "city": "İstanbul",
+      "latitude": 41.16516189811898,
+      "longitude": 29.581553404784398,
       "dutyStart": "2026-02-17T21:00:00.000Z",
       "dutyEnd": "2026-02-18T20:59:59.000Z"
     },
