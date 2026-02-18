@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T19:00:52.598Z",
+  "updatedAt": "2026-02-18T19:30:52.400Z",
   "date": "2026-02-18",
   "cities": [
     {
@@ -45,9 +45,9 @@
       "count": 23
     },
     {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
+      "city": "kocaeli",
+      "cityName": "Kocaeli",
+      "cityId": 41,
       "count": 21
     },
     {
@@ -63,9 +63,9 @@
       "count": 6
     },
     {
-      "city": "kocaeli",
-      "cityName": "Kocaeli",
-      "cityId": 41,
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
       "count": 21
     },
     {
