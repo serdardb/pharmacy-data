@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T01:00:43.665Z",
+  "updatedAt": "2026-02-18T01:30:38.575Z",
   "date": "2026-02-18",
   "cities": [
     {
@@ -13,6 +13,12 @@
       "cityName": "Ankara",
       "cityId": 6,
       "count": 57
+    },
+    {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 74
     },
     {
       "city": "bursa",
@@ -33,21 +39,15 @@
       "count": 17
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 74
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
     },
     {
       "city": "kocaeli",
       "cityName": "Kocaeli",
       "cityId": 41,
-      "count": 21
-    },
-    {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
       "count": 21
     },
     {
@@ -63,16 +63,16 @@
       "count": 6
     },
     {
+      "city": "konya",
+      "cityName": "Konya",
+      "cityId": 42,
+      "count": 31
+    },
+    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 135
-    }
-  ],
-  "errors": [
-    {
-      "city": "konya",
-      "error": "HTTP 520 from https://www.konyanobetcieczaneleri.com/"
     }
   ]
 }
