@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-18",
-  "updatedAt": "2026-02-18T17:00:51.211Z",
-  "count": 21,
+  "updatedAt": "2026-02-18T17:30:50.702Z",
+  "count": 20,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -80,18 +80,6 @@
     },
     {
       "id": "samsun-6",
-      "name": "TAFLAN ECZANESİ",
-      "address": "YALI MAH. ATATÜRK BULVARI 8. KISIM NO:67/A",
-      "phone": "03624670268",
-      "district": "Atakum Sayfiye",
-      "city": "Samsun",
-      "latitude": 41.429987,
-      "longitude": 36.151313,
-      "dutyStart": "2026-02-18T08:30:00.000Z",
-      "dutyEnd": "2026-02-19T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-7",
       "name": "SANCAR ECZANESİ",
       "address": "19 MAYIS MAH. HACI ALİ EKİNCİ BULVARI 7/C",
       "phone": "03622560909",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-8",
+      "id": "samsun-7",
       "name": "ALAÇAM ECZANESİ",
       "address": "YENİ CAMİ MAH. BAFRA CAD. NO:16/A",
       "phone": "03626220110",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-9",
+      "id": "samsun-8",
       "name": "CEDİT ECZANESİ",
       "address": "BİÇİMCİK MAH.ESEN SOK.NO:11",
       "phone": "03627913256",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-10",
+      "id": "samsun-9",
       "name": "YENİ AYVACIK ECZANESİ",
       "address": "EYÜP SULTAN MAH. MUSTAFA GÜLER SOK. NO:6/A",
       "phone": "03628132125",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-11",
+      "id": "samsun-10",
       "name": "GÜNDAY  ECZANESİ",
       "address": "EMİREFENDİ MAH. SÜLEYMAN TÜRK CAD.SERAP SOK. NO:25",
       "phone": "03625433574",
@@ -151,7 +139,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-12",
+      "id": "samsun-11",
       "name": "ECE KOÇER  ECZANESİ",
       "address": "SUNGURLU MAH.SUNGURLU CAD. NO:20/B",
       "phone": "03628341834",
@@ -163,7 +151,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-13",
+      "id": "samsun-12",
       "name": "KAPLICALAR ECZANESİ",
       "address": "MEDRESE MAH. ATATÜRK SK. NO:11/A",
       "phone": "03627141601",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-14",
+      "id": "samsun-13",
       "name": "KAVAK ECZANESİ",
       "address": "19 MAYIS MAH. ADNAN MENDERES CAD. NO:73/A",
       "phone": "03627412412",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-15",
+      "id": "samsun-14",
       "name": "LADİK ELİF ECZANESİ",
       "address": "BAHŞİ MAH.GAZİ CAD.NO:56/A",
       "phone": "03627713091",
@@ -199,7 +187,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-16",
+      "id": "samsun-15",
       "name": "ENGİZ ECZANESİ",
       "address": "PAZAR MAH. FATİH CAD. NO:3",
       "phone": "03625112888",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-17",
+      "id": "samsun-16",
       "name": "YAMAN ECZANESİ",
       "address": "BEREKET MAH.ŞEHİT ORHAN ERDOĞAN CAD.NO:9/A",
       "phone": "03628212277",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-18",
+      "id": "samsun-17",
       "name": "KARADENİZ ECZANESİ",
       "address": "FENK MAH. HASTANE SOK.NO:5/B",
       "phone": "03628769986",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-19",
+      "id": "samsun-18",
       "name": "SAĞLIK ECZANESİ",
       "address": "CUMHURİYET MAH.1.ZİRAAT SOKAK NO:17/B",
       "phone": "03626474078",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "samsun-26",
+      "id": "samsun-25",
       "name": "YAŞAM  ECZANESİ",
       "address": "GÜZELYURT MAH.OSMAN GAZİ SOK.NO.3/A",
       "phone": "03686712276",
