@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-02-18T00:30:39.976Z",
+  "updatedAt": "2026-02-18T01:00:43.665Z",
   "date": "2026-02-18",
   "cities": [
-    {
-      "city": "ankara",
-      "cityName": "Ankara",
-      "cityId": 6,
-      "count": 57
-    },
     {
       "city": "antalya",
       "cityName": "Antalya",
       "cityId": 7,
       "count": 40
+    },
+    {
+      "city": "ankara",
+      "cityName": "Ankara",
+      "cityId": 6,
+      "count": 57
     },
     {
       "city": "bursa",
@@ -21,16 +21,22 @@
       "count": 32
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 74
-    },
-    {
       "city": "adana",
       "cityName": "Adana",
       "cityId": 1,
       "count": 34
+    },
+    {
+      "city": "mersin",
+      "cityName": "Mersin",
+      "cityId": 33,
+      "count": 17
+    },
+    {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 74
     },
     {
       "city": "kocaeli",
@@ -39,10 +45,10 @@
       "count": 21
     },
     {
-      "city": "mersin",
-      "cityName": "Mersin",
-      "cityId": 33,
-      "count": 17
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
     },
     {
       "city": "samsun",
@@ -57,22 +63,16 @@
       "count": 6
     },
     {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
-    },
-    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 135
-    },
+    }
+  ],
+  "errors": [
     {
       "city": "konya",
-      "cityName": "Konya",
-      "cityId": 42,
-      "count": 31
+      "error": "HTTP 520 from https://www.konyanobetcieczaneleri.com/"
     }
   ]
 }
