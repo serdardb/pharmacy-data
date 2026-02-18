@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-18",
-  "updatedAt": "2026-02-18T19:30:52.400Z",
+  "updatedAt": "2026-02-18T20:00:54.104Z",
   "count": 34,
   "pharmacies": [
     {
@@ -80,18 +80,6 @@
     },
     {
       "id": "bursa-6",
-      "name": "İSTASYON BAHAR ECZANESİ",
-      "address": "ÇIRPAN MAH. DARMSTAD CAD. 1.DURAK SOK. NO:3/A,  (OSMANGAZİ METRO İSTASYONU) ,  0224 222 92 77",
-      "phone": "02242229277",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.195647,
-      "longitude": 29.057164,
-      "dutyStart": "2026-02-18T18:30:00.000Z",
-      "dutyEnd": "2026-02-19T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
       "name": "ERENCAN ECZANESİ",
       "address": "HÜDAVENDİGAR MAH. DİKKALDIRIM CAD. NO:75/B ,  0224-2382141 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02242382141",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-7",
       "name": "ÇİĞDEM ECZANESİ",
       "address": "EMEK ZEKAİ GÜMÜŞDİŞ MAH. GÜLER SOK. NO:23,  (ZEKAİ GÜMÜŞDİŞ HİZMET BİNASI ÇAPRAZI) ,  0224 243 84 42",
       "phone": "02242438442",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-8",
       "name": "MERİNOS ECZANESİ",
       "address": "ÇİFTEHAVUZLAR MAH. ÇİRİŞHANE CAD. NO:123 ,  (ÇELEBİ MEHMET BULVARI ÜZERİ) ,  0224 251 64 08",
       "phone": "02242516408",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-9",
       "name": "ALYA SAĞLIK ECZANESİ",
       "address": "HAMİTLER MAH. KUTLUKBEY CAD. NO:135/1,  (YUNUSELİ ŞEHİT GÜRCAN ULUCAN İLKOKULU ÇAPRAZI) ,  0224 573 50 50",
       "phone": "02245735050",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-10",
       "name": "NERGİS ECZANESİ",
       "address": "İBRAHİMPAŞA MAH. İBRAHİMPAŞA CAD. NO:1/A,  (HEYKEL KIZ LİSESİ YOKUŞU) ,  0224 224 59 21",
       "phone": "02242245921",
@@ -147,6 +135,18 @@
       "city": "Bursa",
       "latitude": 40.1811521,
       "longitude": 29.06510353,
+      "dutyStart": "2026-02-18T18:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "İSTASYON BAHAR ECZANESİ",
+      "address": "ÇIRPAN MAH. DARMSTAD CAD. 1.DURAK SOK. NO:3/A,  (OSMANGAZİ METRO İSTASYONU) ,  0224 222 92 77",
+      "phone": "02242229277",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.195647,
+      "longitude": 29.057164,
       "dutyStart": "2026-02-18T18:30:00.000Z",
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
