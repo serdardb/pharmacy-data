@@ -3,7 +3,7 @@
   "cityName": "Adana",
   "cityId": 1,
   "date": "2026-02-18",
-  "updatedAt": "2026-02-17T23:30:40.774Z",
+  "updatedAt": "2026-02-18T00:00:44.970Z",
   "count": 34,
   "pharmacies": [
     {
@@ -15,8 +15,8 @@
       "city": "Adana",
       "latitude": 37.004886,
       "longitude": 35.314886,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-1",
@@ -27,8 +27,8 @@
       "city": "Adana",
       "latitude": 36.985136,
       "longitude": 35.262537,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-2",
@@ -39,8 +39,8 @@
       "city": "Adana",
       "latitude": 37.020008,
       "longitude": 35.310442,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-3",
@@ -51,8 +51,8 @@
       "city": "Adana",
       "latitude": 37.002563323603596,
       "longitude": 35.27209750683579,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-4",
@@ -63,8 +63,8 @@
       "city": "Adana",
       "latitude": 37.029016,
       "longitude": 35.269043,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-5",
@@ -75,8 +75,8 @@
       "city": "Adana",
       "latitude": 36.98616008610838,
       "longitude": 35.32463082189221,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-6",
@@ -87,8 +87,8 @@
       "city": "Adana",
       "latitude": 37.018622,
       "longitude": 35.320949,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-7",
@@ -99,8 +99,8 @@
       "city": "Adana",
       "latitude": 36.973493,
       "longitude": 35.306258,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-8",
@@ -111,8 +111,8 @@
       "city": "Adana",
       "latitude": 36.997535,
       "longitude": 35.326616,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-9",
@@ -123,8 +123,8 @@
       "city": "Adana",
       "latitude": 37.022073,
       "longitude": 35.292551,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-10",
@@ -135,8 +135,8 @@
       "city": "Adana",
       "latitude": 37.049698166035625,
       "longitude": 35.29085729629973,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-11",
@@ -147,8 +147,8 @@
       "city": "Adana",
       "latitude": 37.051855511819966,
       "longitude": 35.26607629465507,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-12",
@@ -159,8 +159,8 @@
       "city": "Adana",
       "latitude": 37.039035,
       "longitude": 35.287796,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-13",
@@ -171,8 +171,8 @@
       "city": "Adana",
       "latitude": 37.035023,
       "longitude": 35.316734,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-14",
@@ -183,8 +183,8 @@
       "city": "Adana",
       "latitude": 36.978113,
       "longitude": 35.365333,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-15",
@@ -195,8 +195,8 @@
       "city": "Adana",
       "latitude": 37.002701,
       "longitude": 35.372331,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-16",
@@ -207,8 +207,8 @@
       "city": "Adana",
       "latitude": 36.991205,
       "longitude": 35.339872,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-17",
@@ -219,8 +219,8 @@
       "city": "Adana",
       "latitude": 37.009332,
       "longitude": 35.352062,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-18",
@@ -231,8 +231,8 @@
       "city": "Adana",
       "latitude": 37.034632,
       "longitude": 35.403719,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-19",
@@ -243,119 +243,11 @@
       "city": "Adana",
       "latitude": 37.03916,
       "longitude": 35.420288,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
       "id": "adana-20",
-      "name": "GÜVEN ECZANESİ",
-      "address": "ÇATALAN CAD. YENİ MAH. NO.1 SALBAŞ BELDESİ KARAİSALI YOLU ÜZERİ , 03225612611 Harita Konum",
-      "phone": "03225612611",
-      "district": "Sariçam",
-      "city": "Adana",
-      "latitude": 37.110333,
-      "longitude": 35.112186,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
-    },
-    {
-      "id": "adana-21",
-      "name": "ELİF ÖZMÜ ECZANESİ",
-      "address": "HÜRRİYET MAH. FATİH SULTAN MEHMET BULV. NO:6/A İŞ BANKASI CİVARI , 05056773001 Harita Konum",
-      "phone": "05056773001",
-      "district": "İmamoğlu",
-      "city": "Adana",
-      "latitude": 37.256763,
-      "longitude": 35.661338,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
-    },
-    {
-      "id": "adana-22",
-      "name": "MİHRAP ECZANESİ",
-      "address": "İSTİKLAL MH.GİRNE CD.NO:111/A SAĞLIK OCAĞI YANI , 03227819020 Harita Konum",
-      "phone": "03227819020",
-      "district": "Tufanbeyli̇",
-      "city": "Adana",
-      "latitude": 0,
-      "longitude": 0,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
-    },
-    {
-      "id": "adana-23",
-      "name": "AYAS KORKMAZ ECZANESİ",
-      "address": "DERVİŞİYE MAHALLESİ ATATÜRK CADDESİ NO:74 BAYRAK DİREĞİ YANI , 03226712002 Harita Konum",
-      "phone": "03226712002",
-      "district": "Yumurtalik",
-      "city": "Adana",
-      "latitude": 36.774401,
-      "longitude": 35.793648,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
-    },
-    {
-      "id": "adana-24",
-      "name": "YENİ HASTANE ECZANESİ",
-      "address": "KARAİSALI DEVLET HASTANESİ ACİL KARŞISI , 03225513400 Harita Konum",
-      "phone": "03225513400",
-      "district": "Karai̇sali",
-      "city": "Adana",
-      "latitude": 37.257336,
-      "longitude": 35.058017,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
-    },
-    {
-      "id": "adana-25",
-      "name": "SAİMBEYLİ ECZANESİ",
-      "address": "GÜL PASTANESİ YANI , 03227612626 Harita Konum",
-      "phone": "03227612626",
-      "district": "Sai̇mbeyli̇",
-      "city": "Adana",
-      "latitude": 37.985192,
-      "longitude": 36.089414,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
-    },
-    {
-      "id": "adana-26",
-      "name": "ALADAĞ ECZANESİ",
-      "address": "ALADAĞ SAĞLIK OCAĞI CİVARI , 03225912641 Harita Konum",
-      "phone": "03225912641",
-      "district": "Aladağ",
-      "city": "Adana",
-      "latitude": 37.54732,
-      "longitude": 35.395053,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
-    },
-    {
-      "id": "adana-27",
-      "name": "UTKU ECZANESİ",
-      "address": "KOZAN DEVLET HASTANESİ KAVŞAĞI MANAVLAR YANI , 03225152288 Harita Konum",
-      "phone": "03225152288",
-      "district": "Kozan",
-      "city": "Adana",
-      "latitude": 37.465217,
-      "longitude": 35.826057,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
-    },
-    {
-      "id": "adana-28",
-      "name": "ÖZDEMİR ECZANESİ",
-      "address": "TUFANPAŞA MAH. FEHMİ ÖZEL TÜRKAY CAD. 4 NOLU SAĞLIK OCAĞI KARŞISI MEZARLIK YOLU ÜZERİ , 03225158983 Harita Konum",
-      "phone": "03225158983",
-      "district": "Kozan",
-      "city": "Adana",
-      "latitude": 37.459956495914014,
-      "longitude": 35.82660247301238,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
-    },
-    {
-      "id": "adana-29",
       "name": "TAŞPINAR ECZANESİ",
       "address": "ZAFER MAH. İNÖNÜ CAD. POZANTI ASM KARŞISI ÖZTÜRK PASTANESİ KARŞI KÖŞESİ , 03225814303 Harita Konum",
       "phone": "03225814303",
@@ -363,11 +255,11 @@
       "city": "Adana",
       "latitude": 37.433492,
       "longitude": 34.87347,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
-      "id": "adana-30",
+      "id": "adana-21",
       "name": "YAKAMOZ ECZANESİ",
       "address": "ZİRAAT BANKASI KARŞISI , 03226812599 Harita Konum",
       "phone": "03226812599",
@@ -375,11 +267,11 @@
       "city": "Adana",
       "latitude": 36.565566,
       "longitude": 35.384119,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
-      "id": "adana-31",
+      "id": "adana-22",
       "name": "YILMAZ ECZANESİ",
       "address": "ANA CADDE ÜZERİNDE ZİRAAT BANKASI KARŞISINDA , 3227412555 Harita Konum",
       "phone": "3227412555",
@@ -387,11 +279,11 @@
       "city": "Adana",
       "latitude": 37.814847,
       "longitude": 35.911924,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
-      "id": "adana-32",
+      "id": "adana-23",
       "name": "ÇAMLIYOL ECZANESİ",
       "address": "ÖZEL ÇINAR HASTANESİ YANI , 03226131576 Harita Konum",
       "phone": "03226131576",
@@ -399,11 +291,11 @@
       "city": "Adana",
       "latitude": 37.019568,
       "longitude": 35.824148,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     },
     {
-      "id": "adana-33",
+      "id": "adana-24",
       "name": "SELVİ ECZANESİ",
       "address": "İSTİKLAL MAH. İBRAHİM METE BLV. NO: 141 CEYHAN ASRİ MEZARLIK ARKASI CEYHAN İTFAİYESİ CİVARI , 3226112644 Harita Konum",
       "phone": "3226112644",
@@ -411,8 +303,116 @@
       "city": "Adana",
       "latitude": 37.02557,
       "longitude": 35.834764,
-      "dutyStart": "2026-02-17T08:00:00.000Z",
-      "dutyEnd": "2026-02-18T08:00:00.000Z"
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
+    },
+    {
+      "id": "adana-25",
+      "name": "GÜVEN ECZANESİ",
+      "address": "ÇATALAN CAD. YENİ MAH. NO.1 SALBAŞ BELDESİ KARAİSALI YOLU ÜZERİ , 03225612611 Harita Konum",
+      "phone": "03225612611",
+      "district": "Ceyhan",
+      "city": "Adana",
+      "latitude": 37.110333,
+      "longitude": 35.112186,
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
+    },
+    {
+      "id": "adana-26",
+      "name": "ELİF ÖZMÜ ECZANESİ",
+      "address": "HÜRRİYET MAH. FATİH SULTAN MEHMET BULV. NO:6/A İŞ BANKASI CİVARI , 05056773001 Harita Konum",
+      "phone": "05056773001",
+      "district": "İmamoğlu",
+      "city": "Adana",
+      "latitude": 37.256763,
+      "longitude": 35.661338,
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
+    },
+    {
+      "id": "adana-27",
+      "name": "MİHRAP ECZANESİ",
+      "address": "İSTİKLAL MH.GİRNE CD.NO:111/A SAĞLIK OCAĞI YANI , 03227819020 Harita Konum",
+      "phone": "03227819020",
+      "district": "Tufanbeyli̇",
+      "city": "Adana",
+      "latitude": 0,
+      "longitude": 0,
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
+    },
+    {
+      "id": "adana-28",
+      "name": "AYAS KORKMAZ ECZANESİ",
+      "address": "DERVİŞİYE MAHALLESİ ATATÜRK CADDESİ NO:74 BAYRAK DİREĞİ YANI , 03226712002 Harita Konum",
+      "phone": "03226712002",
+      "district": "Yumurtalik",
+      "city": "Adana",
+      "latitude": 36.774401,
+      "longitude": 35.793648,
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
+    },
+    {
+      "id": "adana-29",
+      "name": "YENİ HASTANE ECZANESİ",
+      "address": "KARAİSALI DEVLET HASTANESİ ACİL KARŞISI , 03225513400 Harita Konum",
+      "phone": "03225513400",
+      "district": "Karai̇sali",
+      "city": "Adana",
+      "latitude": 37.257336,
+      "longitude": 35.058017,
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
+    },
+    {
+      "id": "adana-30",
+      "name": "SAİMBEYLİ ECZANESİ",
+      "address": "GÜL PASTANESİ YANI , 03227612626 Harita Konum",
+      "phone": "03227612626",
+      "district": "Sai̇mbeyli̇",
+      "city": "Adana",
+      "latitude": 37.985192,
+      "longitude": 36.089414,
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
+    },
+    {
+      "id": "adana-31",
+      "name": "ALADAĞ ECZANESİ",
+      "address": "ALADAĞ SAĞLIK OCAĞI CİVARI , 03225912641 Harita Konum",
+      "phone": "03225912641",
+      "district": "Aladağ",
+      "city": "Adana",
+      "latitude": 37.54732,
+      "longitude": 35.395053,
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
+    },
+    {
+      "id": "adana-32",
+      "name": "UTKU ECZANESİ",
+      "address": "KOZAN DEVLET HASTANESİ KAVŞAĞI MANAVLAR YANI , 03225152288 Harita Konum",
+      "phone": "03225152288",
+      "district": "Kozan",
+      "city": "Adana",
+      "latitude": 37.465217,
+      "longitude": 35.826057,
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
+    },
+    {
+      "id": "adana-33",
+      "name": "ÖZDEMİR ECZANESİ",
+      "address": "TUFANPAŞA MAH. FEHMİ ÖZEL TÜRKAY CAD. 4 NOLU SAĞLIK OCAĞI KARŞISI MEZARLIK YOLU ÜZERİ , 03225158983 Harita Konum",
+      "phone": "03225158983",
+      "district": "Kozan",
+      "city": "Adana",
+      "latitude": 37.459956495914014,
+      "longitude": 35.82660247301238,
+      "dutyStart": "2026-02-18T08:00:00.000Z",
+      "dutyEnd": "2026-02-19T08:00:00.000Z"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-18",
-  "updatedAt": "2026-02-17T23:30:40.774Z",
+  "updatedAt": "2026-02-18T00:00:44.970Z",
   "count": 20,
   "pharmacies": [
     {
@@ -15,8 +15,8 @@
       "city": "Samsun",
       "latitude": 41.300998,
       "longitude": 36.330946,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-1",
@@ -27,8 +27,8 @@
       "city": "Samsun",
       "latitude": 41.281871,
       "longitude": 36.337996,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-2",
@@ -39,8 +39,8 @@
       "city": "Samsun",
       "latitude": 41.284785,
       "longitude": 36.330483,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-3",
@@ -51,8 +51,8 @@
       "city": "Samsun",
       "latitude": 41.26435,
       "longitude": 36.352887,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-4",
@@ -63,8 +63,8 @@
       "city": "Samsun",
       "latitude": 41.342302,
       "longitude": 36.236472,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-5",
@@ -75,8 +75,8 @@
       "city": "Samsun",
       "latitude": 41.32697,
       "longitude": 36.274727,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-6",
@@ -87,8 +87,8 @@
       "city": "Samsun",
       "latitude": 41.220397,
       "longitude": 36.458927,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-7",
@@ -99,8 +99,8 @@
       "city": "Samsun",
       "latitude": 41.607941,
       "longitude": 35.598059,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-8",
@@ -111,8 +111,8 @@
       "city": "Samsun",
       "latitude": 41.036083,
       "longitude": 36.226183,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-9",
@@ -123,8 +123,8 @@
       "city": "Samsun",
       "latitude": 41.002525,
       "longitude": 36.62958,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-10",
@@ -135,8 +135,8 @@
       "city": "Samsun",
       "latitude": 41.558196,
       "longitude": 35.892495,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-11",
@@ -147,8 +147,8 @@
       "city": "Samsun",
       "latitude": 41.202464,
       "longitude": 36.722454,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-12",
@@ -159,8 +159,8 @@
       "city": "Samsun",
       "latitude": 40.96883,
       "longitude": 35.663566,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-13",
@@ -171,8 +171,8 @@
       "city": "Samsun",
       "latitude": 41.073138,
       "longitude": 36.034277,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-14",
@@ -183,8 +183,8 @@
       "city": "Samsun",
       "latitude": 40.911691,
       "longitude": 35.894975,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-15",
@@ -195,8 +195,8 @@
       "city": "Samsun",
       "latitude": 41.495025,
       "longitude": 36.083116,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-16",
@@ -207,8 +207,8 @@
       "city": "Samsun",
       "latitude": 41.081484,
       "longitude": 36.827518,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-17",
@@ -219,8 +219,8 @@
       "city": "Samsun",
       "latitude": 41.209499,
       "longitude": 36.974419,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-18",
@@ -231,8 +231,8 @@
       "city": "Samsun",
       "latitude": 41.143395,
       "longitude": 35.458135,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
       "id": "samsun-25",
@@ -243,8 +243,8 @@
       "city": "Samsun",
       "latitude": 41.94604,
       "longitude": 34.337565,
-      "dutyStart": "2026-02-17T08:30:00.000Z",
-      "dutyEnd": "2026-02-18T08:30:00.000Z"
+      "dutyStart": "2026-02-18T08:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
     }
   ]
 }
