@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-18",
-  "updatedAt": "2026-02-18T00:00:44.970Z",
+  "updatedAt": "2026-02-18T00:30:39.976Z",
   "count": 135,
   "pharmacies": [
     {
@@ -319,18 +319,6 @@
       "dutyEnd": "2026-02-18T20:59:59.000Z"
     },
     {
-      "id": "istanbul-15664",
-      "name": "DEVA ECZANESİ",
-      "address": "İslambey Mahallesi, Fahri Korutürk Caddesi, 62/A",
-      "phone": "+902126161919",
-      "district": "EYÜPSULTAN",
-      "city": "İstanbul",
-      "latitude": 41.049545353769176,
-      "longitude": 28.930678801789664,
-      "dutyStart": "2026-02-17T21:00:00.000Z",
-      "dutyEnd": "2026-02-18T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17288",
       "name": "DEVA ECZANESİ",
       "address": "Kumbaba Mahallesi, Ayvalık Caddesi, 1/1",
@@ -339,6 +327,18 @@
       "city": "İstanbul",
       "latitude": 41.16516189811898,
       "longitude": 29.581553404784398,
+      "dutyStart": "2026-02-17T21:00:00.000Z",
+      "dutyEnd": "2026-02-18T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-15664",
+      "name": "DEVA ECZANESİ",
+      "address": "İslambey Mahallesi, Fahri Korutürk Caddesi, 62/A",
+      "phone": "+902126161919",
+      "district": "EYÜPSULTAN",
+      "city": "İstanbul",
+      "latitude": 41.049545353769176,
+      "longitude": 28.930678801789664,
       "dutyStart": "2026-02-17T21:00:00.000Z",
       "dutyEnd": "2026-02-18T20:59:59.000Z"
     },
@@ -415,18 +415,6 @@
       "dutyEnd": "2026-02-18T20:59:59.000Z"
     },
     {
-      "id": "istanbul-9262",
-      "name": "EFEOĞLU ECZANESİ",
-      "address": "Şehremini Mahallesi, Turgut Özal Millet Caddesi, 131 A",
-      "phone": "+902125874766",
-      "district": "FATİH",
-      "city": "İstanbul",
-      "latitude": 41.015035339394736,
-      "longitude": 28.933125977901394,
-      "dutyStart": "2026-02-17T21:00:00.000Z",
-      "dutyEnd": "2026-02-18T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-26124",
       "name": "EFEOĞLU ECZANESİ",
       "address": "Kağıthane Merkez Mahallesi, Cendere Caddesi, 16/1 ",
@@ -435,6 +423,18 @@
       "city": "İstanbul",
       "latitude": 41.083870000392665,
       "longitude": 28.977620999409318,
+      "dutyStart": "2026-02-17T21:00:00.000Z",
+      "dutyEnd": "2026-02-18T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-9262",
+      "name": "EFEOĞLU ECZANESİ",
+      "address": "Şehremini Mahallesi, Turgut Özal Millet Caddesi, 131 A",
+      "phone": "+902125874766",
+      "district": "FATİH",
+      "city": "İstanbul",
+      "latitude": 41.015035339394736,
+      "longitude": 28.933125977901394,
       "dutyStart": "2026-02-17T21:00:00.000Z",
       "dutyEnd": "2026-02-18T20:59:59.000Z"
     },
