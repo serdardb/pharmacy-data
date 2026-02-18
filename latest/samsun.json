@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-18",
-  "updatedAt": "2026-02-18T04:30:55.149Z",
-  "count": 20,
+  "updatedAt": "2026-02-18T05:01:02.237Z",
+  "count": 19,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -231,18 +231,6 @@
       "city": "Samsun",
       "latitude": 41.143395,
       "longitude": 35.458135,
-      "dutyStart": "2026-02-18T08:30:00.000Z",
-      "dutyEnd": "2026-02-19T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-25",
-      "name": "TÜRKELİ ECZANESİ",
-      "address": "GÜZELYURT MAH. OSMAN GAZİ SOK. NO:9/B",
-      "phone": "03686712420",
-      "district": "Türkeli",
-      "city": "Samsun",
-      "latitude": 41.94604,
-      "longitude": 34.337565,
       "dutyStart": "2026-02-18T08:30:00.000Z",
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     }
