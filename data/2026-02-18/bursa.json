@@ -3,23 +3,11 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-18",
-  "updatedAt": "2026-02-18T18:30:50.898Z",
+  "updatedAt": "2026-02-18T19:00:52.598Z",
   "count": 34,
   "pharmacies": [
     {
       "id": "bursa-0",
-      "name": "PEKER ECZANESİ",
-      "address": "KARAMAN MAH. BİÇEN SOK. NO:9/C,  (BİYOFİZ TIP MERKEZİ KARŞISI) ,  0224 249 88 20",
-      "phone": "02242498820",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.215207894059645,
-      "longitude": 28.996020558474697,
-      "dutyStart": "2026-02-18T18:30:00.000Z",
-      "dutyEnd": "2026-02-19T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-1",
       "name": "BEYOĞLU ECZANESİ",
       "address": "DUMLUPINAR MAH. AKDENİZ CAD. NO:2 D/B GÖRÜKLE,  (NURHAYAT EVLERİ SİTESİ - ŞEYDA ÖĞRETMEN ANAOKULU YANI) ,  0224 242 42 04 / 0543 810 73 05",
       "phone": "02242424204",
@@ -31,7 +19,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "bursa-2",
+      "id": "bursa-1",
       "name": "ASLI ECZANESİ",
       "address": "100.YIL MAH. PROF.DR.ERDAL İNÖNÜ CAD. NO: 25/9-I,  (ÖZLÜCE PARK İŞ MERKEZİ - SAYGINKENT YANI) ,  0224 413 75 33",
       "phone": "02244137533",
@@ -43,7 +31,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "bursa-3",
+      "id": "bursa-2",
       "name": "AKİDE ECZANESİ",
       "address": "KONAK MAH. YILDIRIM CAD. NO:118 ,  0224-4511988 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02244511988",
@@ -55,7 +43,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "bursa-4",
+      "id": "bursa-3",
       "name": "ALTIN ECZANESİ",
       "address": "FETHİYE MAH. DR.MEHMET OKTAY SOK. NO:9/B,  (YÜKSEK İHTİSAS EĞT. ARŞ. HST. NİLÜFER EK BİNA KARŞISI) ,  0224 243 20 29",
       "phone": "02242432029",
@@ -67,7 +55,7 @@
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
     {
-      "id": "bursa-5",
+      "id": "bursa-4",
       "name": "DOĞA YAŞAM ECZANESİ",
       "address": "ATAEVLER MAH. ALİ RIZA BEY CAD. NO:33/1A,  (ÖZEN GROSS MARKET YANI - MAGAZİN AVM İLERİSİ) ,  0224 443 02 02",
       "phone": "02244430202",
@@ -75,6 +63,18 @@
       "city": "Bursa",
       "latitude": 40.2209957,
       "longitude": 28.9599014,
+      "dutyStart": "2026-02-18T18:30:00.000Z",
+      "dutyEnd": "2026-02-19T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-5",
+      "name": "PEKER ECZANESİ",
+      "address": "KARAMAN MAH. BİÇEN SOK. NO:9/C,  (BİYOFİZ TIP MERKEZİ KARŞISI) ,  0224 249 88 20",
+      "phone": "02242498820",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.215207894059645,
+      "longitude": 28.996020558474697,
       "dutyStart": "2026-02-18T18:30:00.000Z",
       "dutyEnd": "2026-02-19T08:30:00.000Z"
     },
