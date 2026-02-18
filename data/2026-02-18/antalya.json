@@ -3,7 +3,7 @@
   "cityName": "Antalya",
   "cityId": 7,
   "date": "2026-02-18",
-  "updatedAt": "2026-02-18T13:00:56.830Z",
+  "updatedAt": "2026-02-18T13:30:55.830Z",
   "count": 37,
   "pharmacies": [
     {
@@ -21,7 +21,7 @@
     {
       "id": "antalya-1",
       "name": "YAKAMOZ ECZANESİ",
-      "address": "VARLIK MAH. KAZIM KARABEKİR CAD. ACAR APT.NO:22/A MURATPAŞA (Antalya Eğitim Araştırma Hastanesi Acil Çıkışı kapısı çaprazında, 100.Yıl bulvarına doğru inerken otobüs durağı arkasında )",
+      "address": "VARLIK MAH. KAZIM KARABEKİR CAD. ACAR APT.NO:22/A MURATPAŞA (Antalya Eğitim Araştırma Hastanesi Acil Çıkış kapısı çaprazında)",
       "phone": "02423443132",
       "district": "Antalya",
       "city": "Antalya",
