@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T12:30:52.522Z",
+  "updatedAt": "2026-02-18T13:00:56.830Z",
   "date": "2026-02-18",
   "cities": [
     {
@@ -21,12 +21,6 @@
       "count": 35
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 72
-    },
-    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
@@ -43,6 +37,12 @@
       "cityName": "Mersin",
       "cityId": 33,
       "count": 23
+    },
+    {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 72
     },
     {
       "city": "kocaeli",
