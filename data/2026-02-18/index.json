@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T10:00:51.325Z",
+  "updatedAt": "2026-02-18T10:30:50.824Z",
   "date": "2026-02-18",
   "cities": [
     {
@@ -39,16 +39,16 @@
       "count": 32
     },
     {
-      "city": "mersin",
-      "cityName": "Mersin",
-      "cityId": 33,
-      "count": 23
-    },
-    {
       "city": "kocaeli",
       "cityName": "Kocaeli",
       "cityId": 41,
       "count": 21
+    },
+    {
+      "city": "mersin",
+      "cityName": "Mersin",
+      "cityId": 33,
+      "count": 23
     },
     {
       "city": "samsun",
