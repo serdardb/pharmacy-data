@@ -3,59 +3,11 @@
   "cityName": "Adana",
   "cityId": 1,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T19:00:31.268Z",
+  "updatedAt": "2026-02-19T19:30:31.268Z",
   "count": 34,
   "pharmacies": [
     {
       "id": "adana-0",
-      "name": "BERİKA ECZANESİ",
-      "address": "SÜMER MAH. İBO OSMAN PAZARI KARŞISI ÖZÜTÜKENMEZ SİTESİ A BLOK AYGAZ YANI , 03222273432 Harita Konum",
-      "phone": "03222273432",
-      "district": "Seyhan",
-      "city": "Adana",
-      "latitude": 37.021629333496094,
-      "longitude": 35.313743591308594,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-1",
-      "name": "NESLİ ECZANESİ",
-      "address": "YEŞİLEVLER MAH. MEHMET AKİF ERSOY CAD. HAYAT TIP MERKEZİ YANI YEŞİLEVLER CAMİ KARŞISI EMİN DONDURMA CİVARI , 05530340203 Harita Konum",
-      "phone": "05530340203",
-      "district": "Seyhan",
-      "city": "Adana",
-      "latitude": 36.99907,
-      "longitude": 35.288148,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-2",
-      "name": "HACETTEPE ECZANESİ",
-      "address": "ORTADOĞU HASTANESİNİN ÖN KAPISININ KARŞISI ZİYAPAŞA MAHALLESİ 67055 SOKAK , 03222273028 Harita Konum",
-      "phone": "03222273028",
-      "district": "Seyhan",
-      "city": "Adana",
-      "latitude": 37.014297,
-      "longitude": 35.324703,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-3",
-      "name": "YILDIRIM ECZANESİ",
-      "address": "REŞATBEY MAH. ATATÜRK CAD. DURA APT. A GİRİŞİ NO:34/C(ATATÜRK PARKI KARŞISI,KUYUMCULAR ÇARŞISI YANI) , 03229995299 Harita Konum",
-      "phone": "03229995299",
-      "district": "Seyhan",
-      "city": "Adana",
-      "latitude": 36.99820853156112,
-      "longitude": 35.32467751168426,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-4",
       "name": "GÖRKEM ECZANESİ",
       "address": "GÜRSELPAŞA MAH. ABİDİN DİNO BULVARI YEŞİL FIRIN CİVARI , 05345736256 03229995819 Harita Konum",
       "phone": "05345736256",
@@ -67,7 +19,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-5",
+      "id": "adana-1",
       "name": "ŞAHİN ECZANESİ",
       "address": "SAYDAM CAD. ASANSÖRLÜ OTOPARK VE HADIRLI DOLMUŞ DURAĞI KARŞISI , 05359318875 Harita Konum",
       "phone": "05359318875",
@@ -79,7 +31,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-6",
+      "id": "adana-2",
       "name": "EZGİ ECZANESİ",
       "address": "MUSTAFA KEMAL PAŞA BULVARI, NAMIK KEMAL MAH, MEDİCALPARK (SEYHAN) HASTANESI ACİL KAPISI YANI , 03229998884 Harita Konum",
       "phone": "03229998884",
@@ -91,7 +43,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-7",
+      "id": "adana-3",
       "name": "SEMA TAŞPINAR ECZANESİ",
       "address": "PINAR MAHALLESİ 74045. SOKAK, İL SAĞLIK MÜDÜRLÜĞÜ EK HİZMET BİNASI YANI, CANER SAĞLIK KABİNİ ARASI , 05309029203 Harita Konum",
       "phone": "05309029203",
@@ -103,7 +55,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-8",
+      "id": "adana-4",
       "name": "BİRBİRİ ECZANESİ",
       "address": "AKKAPI MAH. ŞIH CEMİL CAD. NO:194/A AKKAPI MUHTARLIK BİNASI KARŞISI , 05528038873 Harita Konum",
       "phone": "05528038873",
@@ -115,7 +67,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-9",
+      "id": "adana-5",
       "name": "SEÇGİN ECZANESİ",
       "address": "ONUR MAH. ONUR CAD. SİVASLI KAHVESİ CİVARI (ŞAKİRPAŞA) ÖMÜR TIP MERKEZİ YANI , 05465700009 03224286969 Harita Konum",
       "phone": "05465700009",
@@ -127,19 +79,55 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-10",
-      "name": "ALPEREN ECZANESİ",
-      "address": "RUH SAĞLIĞI HASTANESİ KARŞISI , 03222390454 03222394666 Harita Konum",
-      "phone": "03222390454",
-      "district": "Çukurova",
+      "id": "adana-6",
+      "name": "BERİKA ECZANESİ",
+      "address": "SÜMER MAH. İBO OSMAN PAZARI KARŞISI ÖZÜTÜKENMEZ SİTESİ A BLOK AYGAZ YANI , 03222273432 Harita Konum",
+      "phone": "03222273432",
+      "district": "Seyhan",
       "city": "Adana",
-      "latitude": 37.050192,
-      "longitude": 35.263613,
+      "latitude": 37.021629333496094,
+      "longitude": 35.313743591308594,
       "dutyStart": "2026-02-19T08:00:00.000Z",
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-11",
+      "id": "adana-7",
+      "name": "NESLİ ECZANESİ",
+      "address": "YEŞİLEVLER MAH. MEHMET AKİF ERSOY CAD. HAYAT TIP MERKEZİ YANI YEŞİLEVLER CAMİ KARŞISI EMİN DONDURMA CİVARI , 05530340203 Harita Konum",
+      "phone": "05530340203",
+      "district": "Seyhan",
+      "city": "Adana",
+      "latitude": 36.99907,
+      "longitude": 35.288148,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "adana-8",
+      "name": "HACETTEPE ECZANESİ",
+      "address": "ORTADOĞU HASTANESİNİN ÖN KAPISININ KARŞISI ZİYAPAŞA MAHALLESİ 67055 SOKAK , 03222273028 Harita Konum",
+      "phone": "03222273028",
+      "district": "Seyhan",
+      "city": "Adana",
+      "latitude": 37.014297,
+      "longitude": 35.324703,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "adana-9",
+      "name": "YILDIRIM ECZANESİ",
+      "address": "REŞATBEY MAH. ATATÜRK CAD. DURA APT. A GİRİŞİ NO:34/C(ATATÜRK PARKI KARŞISI,KUYUMCULAR ÇARŞISI YANI) , 03229995299 Harita Konum",
+      "phone": "03229995299",
+      "district": "Seyhan",
+      "city": "Adana",
+      "latitude": 36.99820853156112,
+      "longitude": 35.32467751168426,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "adana-10",
       "name": "ZEYNEP ECZANESİ",
       "address": "HUZUREVLERİ MAH.İSMET ATLI BLV. HUZUREVLERİ 2 ASM KARŞISI MİGROS YANI PAŞAM KEBAP CİVARI , 03222482332 Harita Konum",
       "phone": "03222482332",
@@ -151,7 +139,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-12",
+      "id": "adana-11",
       "name": "SÜRÜCÜ ECZANESİ",
       "address": "KENAN EVREN BULVARI CADDE ÜZERİ TOROS MAH. ADASA SİTESİ B BLOK ALTI SEMT PAZARI CİVARI , 03226062060 Harita Konum",
       "phone": "03226062060",
@@ -163,7 +151,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-13",
+      "id": "adana-12",
       "name": "GÖKÇEN ECZANESİ",
       "address": "TURGUT ÖZAL BULVARI POLİS EVİ KAVŞAĞI AŞAĞISI 1. NOLU FETHİ ZENGİN SAĞLIK OCAĞI YANI MİGROS KARŞISI , 03222348910 Harita Konum",
       "phone": "03222348910",
@@ -175,19 +163,19 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-14",
-      "name": "AFETEVLERİ ECZANESİ",
-      "address": "ATAKENT MAHALLESİ YAŞAR DOĞU CADDESİ AFETEVLERİ SAĞLIK OCAĞI KARŞISI , 03223220005 Harita Konum",
-      "phone": "03223220005",
-      "district": "Yüreği̇r",
+      "id": "adana-13",
+      "name": "ALPEREN ECZANESİ",
+      "address": "RUH SAĞLIĞI HASTANESİ KARŞISI , 03222390454 03222394666 Harita Konum",
+      "phone": "03222390454",
+      "district": "Çukurova",
       "city": "Adana",
-      "latitude": 36.997181,
-      "longitude": 35.370144,
+      "latitude": 37.050192,
+      "longitude": 35.263613,
       "dutyStart": "2026-02-19T08:00:00.000Z",
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-15",
+      "id": "adana-14",
       "name": "SARIÇAM ECZANESİ",
       "address": "AKINCILAR SAĞLIK OCAĞI KARŞISI YÜREĞİR SARIÇAM MAHALLESİ KOZAN CAD. NO:236/A YÜREĞİR VERGİ DAİRESİ CİVARI , 03223223119 Harita Konum",
       "phone": "03223223119",
@@ -199,7 +187,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-16",
+      "id": "adana-15",
       "name": "UYGUN ECZANESİ",
       "address": "SELAHATTİN EYYÜBİ MAH.MUSTAFA KEMAL PAŞA BULV. İTFAİYE IŞIKLARI CİVARI ÇD DÖNER YANI NO:123/B YÜREĞİR DOMİNOS PİZZA YANI , 03223282800 Harita Konum",
       "phone": "03223282800",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-17",
+      "id": "adana-16",
       "name": "BADEMİR ECZANESİ",
       "address": "CUMHURİYET MH. YALIM EREZ ASM KRŞ ESKİ BOSSA FABRİKASI ARKASI ESKİ DEVLET HASTANESİ ACİL ÇIKIŞI KARŞI SOKAĞI , 03223233232 Harita Konum",
       "phone": "03223233232",
@@ -223,19 +211,19 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-18",
-      "name": "NAR ECZANESİ",
-      "address": "ESENTEPE MAH. DİLEK ATLIĞ CAD. ESKİ SOFULU KÖY YOLU İŞ BANKASI KARŞI CAD. KAPANAN ESKİ PETROL ARASI SOFULU 3 ASM CİVARI , 03223415139 Harita Konum",
-      "phone": "03223415139",
-      "district": "Sariçam",
+      "id": "adana-17",
+      "name": "AFETEVLERİ ECZANESİ",
+      "address": "ATAKENT MAHALLESİ YAŞAR DOĞU CADDESİ AFETEVLERİ SAĞLIK OCAĞI KARŞISI , 03223220005 Harita Konum",
+      "phone": "03223220005",
+      "district": "Yüreği̇r",
       "city": "Adana",
-      "latitude": 37.033342,
-      "longitude": 35.410194,
+      "latitude": 36.997181,
+      "longitude": 35.370144,
       "dutyStart": "2026-02-19T08:00:00.000Z",
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-19",
+      "id": "adana-18",
       "name": "ÖZGEM ECZANESİ",
       "address": "MEHMET AKİF ERSOY MAH. KOZAN YOLU ÜSTÜ KABAKTEPE SHELL PETROL YAKINI, EKMEK BÜFESİ YANI , 05054559101 Harita Konum",
       "phone": "05054559101",
@@ -247,67 +235,19 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
+      "id": "adana-19",
+      "name": "NAR ECZANESİ",
+      "address": "ESENTEPE MAH. DİLEK ATLIĞ CAD. ESKİ SOFULU KÖY YOLU İŞ BANKASI KARŞI CAD. KAPANAN ESKİ PETROL ARASI SOFULU 3 ASM CİVARI , 03223415139 Harita Konum",
+      "phone": "03223415139",
+      "district": "Sariçam",
+      "city": "Adana",
+      "latitude": 37.033342,
+      "longitude": 35.410194,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
       "id": "adana-20",
-      "name": "ÇAKIT ECZANESİ",
-      "address": "ÇARŞI MERKEZ ZOPCUK MARKET KARŞISI , 3225513863 Harita Konum",
-      "phone": "3225513863",
-      "district": "Karai̇sali",
-      "city": "Adana",
-      "latitude": 37.253127,
-      "longitude": 35.057496,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-21",
-      "name": "SAİMBEYLİ ECZANESİ",
-      "address": "GÜL PASTANESİ YANI , 03227612626 Harita Konum",
-      "phone": "03227612626",
-      "district": "Sai̇mbeyli̇",
-      "city": "Adana",
-      "latitude": 37.985192,
-      "longitude": 36.089414,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-22",
-      "name": "KEKLİK ECZANESİ",
-      "address": "ALADAĞ SAĞLIK OCAĞI CİVARI , 03225912424 Harita Konum",
-      "phone": "03225912424",
-      "district": "Aladağ",
-      "city": "Adana",
-      "latitude": 37.551095,
-      "longitude": 35.392546,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-23",
-      "name": "ÇETİN ECZANESİ",
-      "address": "TUFANPAŞA MAH. FEHMİ ÖZEL TÜRKAY CAD. 4 NOLU SAĞLIK OCAĞI KARŞISI MEZARLIK YOLU ÜZERİ , 3225154000 Harita Konum",
-      "phone": "3225154000",
-      "district": "Kozan",
-      "city": "Adana",
-      "latitude": 37.456356,
-      "longitude": 35.825284,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-24",
-      "name": "ÇUKUROVA PLUS ECZANESİ",
-      "address": "MÜFTÜLÜK VE ÇİFTE MİNARELİ CAMİ KARŞISI TUFANPAŞA MAH. İMAM HATİP SOKAK NO: 40 , 3225151270 Harita Konum",
-      "phone": "3225151270",
-      "district": "Kozan",
-      "city": "Adana",
-      "latitude": 37.457138,
-      "longitude": 35.818386,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-25",
       "name": "ARİF DÖŞLÜ ECZANESİ",
       "address": "ÖZTÜRK PASTANESİ KARŞISI , 03225813434 Harita Konum",
       "phone": "03225813434",
@@ -319,7 +259,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-26",
+      "id": "adana-21",
       "name": "KILIÇ ECZANESİ",
       "address": "KEMALİYE MAH. ATATÜRK CAD. TEDAŞ VE ESKİ POLİS LOJMANI ÇAPRAZ KARŞISI , 05317851033 Harita Konum",
       "phone": "05317851033",
@@ -331,7 +271,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-27",
+      "id": "adana-22",
       "name": "GİZEM ECZANESİ",
       "address": "FEKE İLÇE DEVLET HASTANESİ KARŞI ÇAPRAZI , 03227412576 Harita Konum",
       "phone": "03227412576",
@@ -343,19 +283,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-28",
-      "name": "YENİ TEKELİ ECZANESİ",
-      "address": "SANAYİ SİTESİ 3.BLOK CAMİ YANI NO:16/A , 3226112626 Harita Konum",
-      "phone": "3226112626",
-      "district": "Ceyhan",
-      "city": "Adana",
-      "latitude": 37.042331,
-      "longitude": 35.818229,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-29",
+      "id": "adana-23",
       "name": "TEKELİ ECZANESİ",
       "address": "MODERN EVLER MAHALLESİ ÖZMAYA(LASEFFRE) KARŞI SOKAĞI MURADİYE SAĞLIK OCAĞI YANI , 03226135474 3226123800_ Harita Konum",
       "phone": "03226135474",
@@ -367,7 +295,19 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-30",
+      "id": "adana-24",
+      "name": "YENİ TEKELİ ECZANESİ",
+      "address": "SANAYİ SİTESİ 3.BLOK CAMİ YANI NO:16/A , 3226112626 Harita Konum",
+      "phone": "3226112626",
+      "district": "Ceyhan",
+      "city": "Adana",
+      "latitude": 37.042331,
+      "longitude": 35.818229,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "adana-25",
       "name": "GÜVEN ECZANESİ",
       "address": "ÇATALAN CAD. YENİ MAH. NO.1 SALBAŞ BELDESİ KARAİSALI YOLU ÜZERİ , 03225612611 Harita Konum",
       "phone": "03225612611",
@@ -379,7 +319,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-31",
+      "id": "adana-26",
       "name": "MÜGEM ECZANESİ",
       "address": "DEVLET HASTANESİ KARŞISI , 3228913544 Harita Konum",
       "phone": "3228913544",
@@ -391,7 +331,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-32",
+      "id": "adana-27",
       "name": "DEMİRCİOĞLU ECZANESİ",
       "address": "İSTİKLAL MAH. TUFANBEYLİ AİLE SAĞLIĞI MERKEZİ KARŞISI , 03227818787 Harita Konum",
       "phone": "03227818787",
@@ -403,7 +343,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-33",
+      "id": "adana-28",
       "name": "SENA ECZANESİ",
       "address": "DERVİŞİYE MAH. ATATÜRK YUMURTALIK BULV.YUMURTALIK MERKEZ SAĞLIK OCAĞI KARŞISI NO:71 , 03225045699 Harita Konum",
       "phone": "03225045699",
@@ -411,6 +351,66 @@
       "city": "Adana",
       "latitude": 36.77576176416216,
       "longitude": 35.79329088279276,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "adana-29",
+      "name": "ÇAKIT ECZANESİ",
+      "address": "ÇARŞI MERKEZ ZOPCUK MARKET KARŞISI , 3225513863 Harita Konum",
+      "phone": "3225513863",
+      "district": "Karai̇sali",
+      "city": "Adana",
+      "latitude": 37.253127,
+      "longitude": 35.057496,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "adana-30",
+      "name": "SAİMBEYLİ ECZANESİ",
+      "address": "GÜL PASTANESİ YANI , 03227612626 Harita Konum",
+      "phone": "03227612626",
+      "district": "Sai̇mbeyli̇",
+      "city": "Adana",
+      "latitude": 37.985192,
+      "longitude": 36.089414,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "adana-31",
+      "name": "KEKLİK ECZANESİ",
+      "address": "ALADAĞ SAĞLIK OCAĞI CİVARI , 03225912424 Harita Konum",
+      "phone": "03225912424",
+      "district": "Aladağ",
+      "city": "Adana",
+      "latitude": 37.551095,
+      "longitude": 35.392546,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "adana-32",
+      "name": "ÇUKUROVA PLUS ECZANESİ",
+      "address": "MÜFTÜLÜK VE ÇİFTE MİNARELİ CAMİ KARŞISI TUFANPAŞA MAH. İMAM HATİP SOKAK NO: 40 , 3225151270 Harita Konum",
+      "phone": "3225151270",
+      "district": "Kozan",
+      "city": "Adana",
+      "latitude": 37.457138,
+      "longitude": 35.818386,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "adana-33",
+      "name": "ÇETİN ECZANESİ",
+      "address": "TUFANPAŞA MAH. FEHMİ ÖZEL TÜRKAY CAD. 4 NOLU SAĞLIK OCAĞI KARŞISI MEZARLIK YOLU ÜZERİ , 3225154000 Harita Konum",
+      "phone": "3225154000",
+      "district": "Kozan",
+      "city": "Adana",
+      "latitude": 37.456356,
+      "longitude": 35.825284,
       "dutyStart": "2026-02-19T08:00:00.000Z",
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     }
