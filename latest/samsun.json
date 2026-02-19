@@ -3,7 +3,7 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T14:00:31.270Z",
+  "updatedAt": "2026-02-19T14:30:31.268Z",
   "count": 21,
   "pharmacies": [
     {
@@ -224,13 +224,13 @@
     },
     {
       "id": "samsun-18",
-      "name": "KANDAZ ECZANESİ",
-      "address": "FENK MAH. LİSE SOK. NO:29",
-      "phone": "03628761251",
+      "name": "KOCAMAN ECZANESİ",
+      "address": "FENK MAH. HASTANE GEÇ. NO:3/D",
+      "phone": "03628750323",
       "district": "Terme",
       "city": "Samsun",
-      "latitude": 41.209525,
-      "longitude": 36.974501,
+      "latitude": 41.209897,
+      "longitude": 36.974382,
       "dutyStart": "2026-02-19T08:30:00.000Z",
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
