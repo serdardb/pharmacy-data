@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-19T21:00:31.267Z",
+  "updatedAt": "2026-02-19T21:30:31.269Z",
   "date": "2026-02-20",
   "cities": [
     {
@@ -27,16 +27,16 @@
       "count": 73
     },
     {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
-    },
-    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
       "count": 31
+    },
+    {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
     },
     {
       "city": "mersin",
