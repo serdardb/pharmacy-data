@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T16:00:31.268Z",
+  "updatedAt": "2026-02-19T16:30:31.268Z",
   "count": 32,
   "pharmacies": [
     {
@@ -260,18 +260,6 @@
     },
     {
       "id": "konya-21",
-      "name": "YASEMİN ECZANESİ",
-      "address": "TALATPAŞA MAHALLESİ KAZIM KARABEKİR CADDESİ ŞELALE APATMANI NO:69B",
-      "phone": "903327102055",
-      "district": "Ereğli̇",
-      "city": "Konya",
-      "latitude": 37.51846,
-      "longitude": 34.06216,
-      "dutyStart": "2026-02-19T09:00:00.000Z",
-      "dutyEnd": "2026-02-20T09:00:00.000Z"
-    },
-    {
-      "id": "konya-22",
       "name": "YENTÜRK ECZANESİ",
       "address": "TOROS MAHALLESİ ŞEHİT METİN DÜZGÜN CADDESİ NO:12A-12B",
       "phone": "903327101600",
@@ -279,6 +267,18 @@
       "city": "Konya",
       "latitude": 37.470697,
       "longitude": 34.0457071,
+      "dutyStart": "2026-02-19T09:00:00.000Z",
+      "dutyEnd": "2026-02-20T09:00:00.000Z"
+    },
+    {
+      "id": "konya-22",
+      "name": "YASEMİN ECZANESİ",
+      "address": "TALATPAŞA MAHALLESİ KAZIM KARABEKİR CADDESİ ŞELALE APATMANI NO:69B",
+      "phone": "903327102055",
+      "district": "Ereğli̇",
+      "city": "Konya",
+      "latitude": 37.51846,
+      "longitude": 34.06216,
       "dutyStart": "2026-02-19T09:00:00.000Z",
       "dutyEnd": "2026-02-20T09:00:00.000Z"
     },
