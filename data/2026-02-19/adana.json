@@ -3,23 +3,11 @@
   "cityName": "Adana",
   "cityId": 1,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T09:00:42.476Z",
+  "updatedAt": "2026-02-19T09:30:40.979Z",
   "count": 34,
   "pharmacies": [
     {
       "id": "adana-0",
-      "name": "SEÇGİN ECZANESİ",
-      "address": "ONUR MAH. ONUR CAD. SİVASLI KAHVESİ CİVARI (ŞAKİRPAŞA) ÖMÜR TIP MERKEZİ YANI , 05465700009 03224286969 Harita Konum",
-      "phone": "05465700009",
-      "district": "Seyhan",
-      "city": "Adana",
-      "latitude": 36.988168,
-      "longitude": 35.274801,
-      "dutyStart": "2026-02-19T08:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "adana-1",
       "name": "BERİKA ECZANESİ",
       "address": "SÜMER MAH. İBO OSMAN PAZARI KARŞISI ÖZÜTÜKENMEZ SİTESİ A BLOK AYGAZ YANI , 03222273432 Harita Konum",
       "phone": "03222273432",
@@ -31,7 +19,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-2",
+      "id": "adana-1",
       "name": "NESLİ ECZANESİ",
       "address": "YEŞİLEVLER MAH. MEHMET AKİF ERSOY CAD. HAYAT TIP MERKEZİ YANI YEŞİLEVLER CAMİ KARŞISI EMİN DONDURMA CİVARI , 05530340203 Harita Konum",
       "phone": "05530340203",
@@ -43,7 +31,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-3",
+      "id": "adana-2",
       "name": "HACETTEPE ECZANESİ",
       "address": "ORTADOĞU HASTANESİNİN ÖN KAPISININ KARŞISI ZİYAPAŞA MAHALLESİ 67055 SOKAK , 03222273028 Harita Konum",
       "phone": "03222273028",
@@ -55,7 +43,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-4",
+      "id": "adana-3",
       "name": "YILDIRIM ECZANESİ",
       "address": "REŞATBEY MAH. ATATÜRK CAD. DURA APT. A GİRİŞİ NO:34/C(ATATÜRK PARKI KARŞISI,KUYUMCULAR ÇARŞISI YANI) , 03229995299 Harita Konum",
       "phone": "03229995299",
@@ -67,7 +55,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-5",
+      "id": "adana-4",
       "name": "GÖRKEM ECZANESİ",
       "address": "GÜRSELPAŞA MAH. ABİDİN DİNO BULVARI YEŞİL FIRIN CİVARI , 05345736256 03229995819 Harita Konum",
       "phone": "05345736256",
@@ -79,7 +67,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-6",
+      "id": "adana-5",
       "name": "ŞAHİN ECZANESİ",
       "address": "SAYDAM CAD. ASANSÖRLÜ OTOPARK VE HADIRLI DOLMUŞ DURAĞI KARŞISI , 05359318875 Harita Konum",
       "phone": "05359318875",
@@ -91,7 +79,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-7",
+      "id": "adana-6",
       "name": "EZGİ ECZANESİ",
       "address": "MUSTAFA KEMAL PAŞA BULVARI, NAMIK KEMAL MAH, MEDİCALPARK (SEYHAN) HASTANESI ACİL KAPISI YANI , 03229998884 Harita Konum",
       "phone": "03229998884",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-8",
+      "id": "adana-7",
       "name": "SEMA TAŞPINAR ECZANESİ",
       "address": "PINAR MAHALLESİ 74045. SOKAK, İL SAĞLIK MÜDÜRLÜĞÜ EK HİZMET BİNASI YANI, CANER SAĞLIK KABİNİ ARASI , 05309029203 Harita Konum",
       "phone": "05309029203",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
     {
-      "id": "adana-9",
+      "id": "adana-8",
       "name": "BİRBİRİ ECZANESİ",
       "address": "AKKAPI MAH. ŞIH CEMİL CAD. NO:194/A AKKAPI MUHTARLIK BİNASI KARŞISI , 05528038873 Harita Konum",
       "phone": "05528038873",
@@ -123,6 +111,18 @@
       "city": "Adana",
       "latitude": 36.961091,
       "longitude": 35.303925,
+      "dutyStart": "2026-02-19T08:00:00.000Z",
+      "dutyEnd": "2026-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "adana-9",
+      "name": "SEÇGİN ECZANESİ",
+      "address": "ONUR MAH. ONUR CAD. SİVASLI KAHVESİ CİVARI (ŞAKİRPAŞA) ÖMÜR TIP MERKEZİ YANI , 05465700009 03224286969 Harita Konum",
+      "phone": "05465700009",
+      "district": "Seyhan",
+      "city": "Adana",
+      "latitude": 36.988168,
+      "longitude": 35.274801,
       "dutyStart": "2026-02-19T08:00:00.000Z",
       "dutyEnd": "2026-02-20T08:00:00.000Z"
     },
