@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T04:00:52.768Z",
+  "updatedAt": "2026-02-19T04:30:48.575Z",
   "count": 134,
   "pharmacies": [
     {
@@ -355,18 +355,6 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29376",
-      "name": "DOĞA ECZANESİ",
-      "address": "Ayazağa Mahallesi, Şehit İlhan Yurt Sokak, 69-D",
-      "phone": "+902122890562",
-      "district": "SARIYER",
-      "city": "İstanbul",
-      "latitude": 41.120231000404125,
-      "longitude": 28.999970999612287,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-27298",
       "name": "DOĞA ECZANESİ",
       "address": "Şifa Mahallesi, Başar Sokak, 32A",
@@ -375,6 +363,18 @@
       "city": "İstanbul",
       "latitude": 40.831002723867336,
       "longitude": 29.356718807117833,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29376",
+      "name": "DOĞA ECZANESİ",
+      "address": "Ayazağa Mahallesi, Şehit İlhan Yurt Sokak, 69-D",
+      "phone": "+902122890562",
+      "district": "SARIYER",
+      "city": "İstanbul",
+      "latitude": 41.120231000404125,
+      "longitude": 28.999970999612287,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
@@ -811,18 +811,6 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29292",
-      "name": "LİMON ECZANESİ",
-      "address": "Atakent Mahallesi, 221. Sokak, 3J",
-      "phone": "+902129246468",
-      "district": "KÜÇÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.055834000311116,
-      "longitude": 28.76148600011566,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-32044",
       "name": "LİMON ECZANESİ",
       "address": "Çubuklu Mahallesi, Orhan Veli Kanık Caddesi, No:79/B",
@@ -831,6 +819,18 @@
       "city": "İstanbul",
       "latitude": 41.09466999990831,
       "longitude": 29.09205700007446,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29292",
+      "name": "LİMON ECZANESİ",
+      "address": "Atakent Mahallesi, 221. Sokak, 3J",
+      "phone": "+902129246468",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.055834000311116,
+      "longitude": 28.76148600011566,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
