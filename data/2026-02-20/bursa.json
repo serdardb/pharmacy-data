@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-19T22:00:31.269Z",
+  "updatedAt": "2026-02-19T22:30:31.269Z",
   "count": 31,
   "pharmacies": [
     {
@@ -80,54 +80,6 @@
     },
     {
       "id": "bursa-6",
-      "name": "NİLÜFERKÖY ECZANESİ",
-      "address": "NİLÜFERKÖY MAH. NİLÜFER CAD. NO:71/A ,  0533 087 40 92 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "05330874092",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.283907621627975,
-      "longitude": 28.94755754840555,
-      "dutyStart": "2026-02-19T18:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
-      "name": "ÇAĞLA ECZANESİ",
-      "address": "ALEMDAR MAH. ORMANLAR YOLU CAD. NO:57,  (ALEMDAR SAĞLIK OCAĞI YANI) ,  0224 232 01 96 / 0224 233 87 76",
-      "phone": "02242320196",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.20826414112653,
-      "longitude": 29.03712809579497,
-      "dutyStart": "2026-02-19T18:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-8",
-      "name": "UŞUN ECZANESİ",
-      "address": "OSMANGAZİ MAH. YİĞİTLER CAD. NO:9,  (BURSA ORDU EVİ ALTI - TOPHANE MEYDANI) ,  0224 223 11 93 / 0224 221 73 40",
-      "phone": "02242231193",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.18632825,
-      "longitude": 29.05744582,
-      "dutyStart": "2026-02-19T18:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-9",
-      "name": "ATLI ECZANESİ",
-      "address": "HÜDAVENDİGAR MAH. DEMET SOK. NO:5/A,  (DİKKALDIRIM PAZARI KARŞISI) ,  0224-2396200",
-      "phone": "02242396200",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.20100418,
-      "longitude": 29.0094839,
-      "dutyStart": "2026-02-19T18:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-10",
       "name": "AYŞEGÜL ECZANESİ",
       "address": "BAĞLARBAŞI MAH. 1.ÇAMLI SOK. NO:52,  (BAĞLARBAŞI SAĞLIK OCAĞI KARŞISI) ,  0224-2495559",
       "phone": "02242495559",
@@ -139,7 +91,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-7",
       "name": "GENÇOSMAN ECZANESİ",
       "address": "KEMERÇEŞME MAH. NO:38/D,  (GENÇOSMAN PTT KARŞISI - PAZAR PAZARI GİRİŞİ) ,  0224 271 15 15",
       "phone": "02242711515",
@@ -147,6 +99,54 @@
       "city": "Bursa",
       "latitude": 40.19900263907047,
       "longitude": 29.0627284348011,
+      "dutyStart": "2026-02-19T18:30:00.000Z",
+      "dutyEnd": "2026-02-20T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-8",
+      "name": "NİLÜFERKÖY ECZANESİ",
+      "address": "NİLÜFERKÖY MAH. NİLÜFER CAD. NO:71/A ,  0533 087 40 92 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "05330874092",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.283907621627975,
+      "longitude": 28.94755754840555,
+      "dutyStart": "2026-02-19T18:30:00.000Z",
+      "dutyEnd": "2026-02-20T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-9",
+      "name": "ÇAĞLA ECZANESİ",
+      "address": "ALEMDAR MAH. ORMANLAR YOLU CAD. NO:57,  (ALEMDAR SAĞLIK OCAĞI YANI) ,  0224 232 01 96 / 0224 233 87 76",
+      "phone": "02242320196",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.20826414112653,
+      "longitude": 29.03712809579497,
+      "dutyStart": "2026-02-19T18:30:00.000Z",
+      "dutyEnd": "2026-02-20T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-10",
+      "name": "UŞUN ECZANESİ",
+      "address": "OSMANGAZİ MAH. YİĞİTLER CAD. NO:9,  (BURSA ORDU EVİ ALTI - TOPHANE MEYDANI) ,  0224 223 11 93 / 0224 221 73 40",
+      "phone": "02242231193",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.18632825,
+      "longitude": 29.05744582,
+      "dutyStart": "2026-02-19T18:30:00.000Z",
+      "dutyEnd": "2026-02-20T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "ATLI ECZANESİ",
+      "address": "HÜDAVENDİGAR MAH. DEMET SOK. NO:5/A,  (DİKKALDIRIM PAZARI KARŞISI) ,  0224-2396200",
+      "phone": "02242396200",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.20100418,
+      "longitude": 29.0094839,
       "dutyStart": "2026-02-19T18:30:00.000Z",
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
