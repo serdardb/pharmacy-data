@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T11:00:40.425Z",
+  "updatedAt": "2026-02-19T11:30:40.408Z",
   "count": 134,
   "pharmacies": [
     {
@@ -355,6 +355,18 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
+      "id": "istanbul-29376",
+      "name": "DOĞA ECZANESİ",
+      "address": "Ayazağa Mahallesi, Şehit İlhan Yurt Sokak, 69-D",
+      "phone": "+902122890562",
+      "district": "SARIYER",
+      "city": "İstanbul",
+      "latitude": 41.120231000404125,
+      "longitude": 28.999970999612287,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
       "id": "istanbul-27298",
       "name": "DOĞA ECZANESİ",
       "address": "Şifa Mahallesi, Başar Sokak, 32A",
@@ -375,18 +387,6 @@
       "city": "İstanbul",
       "latitude": 41.005064240475235,
       "longitude": 28.844336073635663,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
-      "id": "istanbul-29376",
-      "name": "DOĞA ECZANESİ",
-      "address": "Ayazağa Mahallesi, Şehit İlhan Yurt Sokak, 69-D",
-      "phone": "+902122890562",
-      "district": "SARIYER",
-      "city": "İstanbul",
-      "latitude": 41.120231000404125,
-      "longitude": 28.999970999612287,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
@@ -1555,18 +1555,6 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
-      "id": "istanbul-18450",
-      "name": "İREM ECZANESİ",
-      "address": "Kazım Karabekir Mahallesi, Adem Yavuz Caddesi, 36/A",
-      "phone": "+902166323372",
-      "district": "ÜMRANİYE",
-      "city": "İstanbul",
-      "latitude": 41.033670781557376,
-      "longitude": 29.10289277650083,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-4006",
       "name": "İREM ECZANESİ",
       "address": "Ortabayır Mahallesi, Mescit Sokak, 21/B",
@@ -1575,6 +1563,18 @@
       "city": "İstanbul",
       "latitude": 41.0785630809968,
       "longitude": 29.005379220991657,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-18450",
+      "name": "İREM ECZANESİ",
+      "address": "Kazım Karabekir Mahallesi, Adem Yavuz Caddesi, 36/A",
+      "phone": "+902166323372",
+      "district": "ÜMRANİYE",
+      "city": "İstanbul",
+      "latitude": 41.033670781557376,
+      "longitude": 29.10289277650083,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
