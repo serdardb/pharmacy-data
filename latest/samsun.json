@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T17:00:31.268Z",
-  "count": 21,
+  "updatedAt": "2026-02-19T17:30:31.269Z",
+  "count": 20,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -80,18 +80,6 @@
     },
     {
       "id": "samsun-6",
-      "name": "ÇATALÇAM ECZANESİ",
-      "address": "GÜZELYURT MAH. ATATÜRK BULVARI 7.KISIM NO:64/A",
-      "phone": "03624671702",
-      "district": "Atakum Sayfiye",
-      "city": "Samsun",
-      "latitude": 41.420032,
-      "longitude": 36.167515,
-      "dutyStart": "2026-02-19T08:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-7",
       "name": "ÇELİK ECZANESİ",
       "address": "19 MAYIS MAH. 669. CAD. NO.1/A",
       "phone": "03625023000",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-8",
+      "id": "samsun-7",
       "name": "YAVUZ ECZANESİ",
       "address": "YENİCAMİ MAH. ATATÜRK CAD. NI:8/A",
       "phone": "03626213440",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-9",
+      "id": "samsun-8",
       "name": "ASARCIK ECZANESİ",
       "address": "CUMHURİYET MEYDANI. NO:38/B",
       "phone": "03627912784",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-10",
+      "id": "samsun-9",
       "name": "EDA ECZANESİ",
       "address": "EYÜP SULTAN MAH. MUSTAFA GÜLER SOK. NO.8 İÇ KAPI Z-2",
       "phone": "03628132293",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-11",
+      "id": "samsun-10",
       "name": "TEMELKAYA ECZANESİ",
       "address": "GAZİPAŞA MAH. GAZİ ÜNSAL ERTEKİN SOK. 11/A",
       "phone": "03625320808",
@@ -151,7 +139,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-12",
+      "id": "samsun-11",
       "name": "UTKU ECZANESİ",
       "address": "ÇAY MAH. PRF.NACİ ŞENSOY CAD. NO:1/A",
       "phone": "03628320909",
@@ -163,7 +151,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-13",
+      "id": "samsun-12",
       "name": "ONUR ECZANESİ",
       "address": "25 MAYIS MAH. 25 MAYIS SOK. NO:22",
       "phone": "03627144066",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-14",
+      "id": "samsun-13",
       "name": "YILMAZ ECZANESİ",
       "address": "19 MAYIS MAHALLESİ ADNAN MENDERES CADDESİ NO:75",
       "phone": "03627412701",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-15",
+      "id": "samsun-14",
       "name": "LADİK MUTLU ECZANESİ",
       "address": "BAHŞİ MAH. GAZİLER CAD.NO:36/C",
       "phone": "03627714534",
@@ -199,7 +187,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-16",
+      "id": "samsun-15",
       "name": "DEVA ECZANESİ",
       "address": "PAZAR MAH.FATİH CAD. NO:51",
       "phone": "03625115051",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-17",
+      "id": "samsun-16",
       "name": "SALIPAZARI ECZANESİ",
       "address": "BELEDİYE MEYDANI BİLA NO",
       "phone": "03628212219",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-18",
+      "id": "samsun-17",
       "name": "KOCAMAN ECZANESİ",
       "address": "FENK MAH. HASTANE GEÇ. NO:3/D",
       "phone": "03628750323",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-19",
+      "id": "samsun-18",
       "name": "ÇINAR ECZANESİ",
       "address": "MEHMETPAŞA MAH.FARUK CÖMERT CAD.BİLA NO",
       "phone": "03626473555",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "samsun-26",
+      "id": "samsun-25",
       "name": "ÖZLEM  ECZANESİ",
       "address": "GÜZELYURT MAH.CUMHURİYET CAD.NO:10/B",
       "phone": "03686712692",
