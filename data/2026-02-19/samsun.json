@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T04:30:48.575Z",
-  "count": 20,
+  "updatedAt": "2026-02-19T05:00:48.377Z",
+  "count": 19,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -231,18 +231,6 @@
       "city": "Samsun",
       "latitude": 41.142612,
       "longitude": 35.467605,
-      "dutyStart": "2026-02-19T08:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-25",
-      "name": "YAŞAM  ECZANESİ",
-      "address": "GÜZELYURT MAH.OSMAN GAZİ SOK.NO.3/A",
-      "phone": "03686712276",
-      "district": "Türkeli",
-      "city": "Samsun",
-      "latitude": 41.946452,
-      "longitude": 34.337364,
       "dutyStart": "2026-02-19T08:30:00.000Z",
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     }
