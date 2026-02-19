@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T03:00:52.975Z",
+  "updatedAt": "2026-02-19T03:30:47.371Z",
   "count": 134,
   "pharmacies": [
     {
@@ -355,18 +355,6 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
-      "id": "istanbul-27298",
-      "name": "DOĞA ECZANESİ",
-      "address": "Şifa Mahallesi, Başar Sokak, 32A",
-      "phone": "+902164233642",
-      "district": "TUZLA",
-      "city": "İstanbul",
-      "latitude": 40.831002723867336,
-      "longitude": 29.356718807117833,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29376",
       "name": "DOĞA ECZANESİ",
       "address": "Ayazağa Mahallesi, Şehit İlhan Yurt Sokak, 69-D",
@@ -375,6 +363,18 @@
       "city": "İstanbul",
       "latitude": 41.120231000404125,
       "longitude": 28.999970999612287,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-27298",
+      "name": "DOĞA ECZANESİ",
+      "address": "Şifa Mahallesi, Başar Sokak, 32A",
+      "phone": "+902164233642",
+      "district": "TUZLA",
+      "city": "İstanbul",
+      "latitude": 40.831002723867336,
+      "longitude": 29.356718807117833,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
@@ -883,18 +883,6 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
-      "id": "istanbul-13790",
-      "name": "MERKEZ ECZANESİ",
-      "address": "İsmetpaşa Mahallesi, Eski Edirne Asfaltı Caddesi, 655/A",
-      "phone": "+902124768526",
-      "district": "SULTANGAZİ",
-      "city": "İstanbul",
-      "latitude": 41.106315831073736,
-      "longitude": 28.86036770657746,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-34408",
       "name": "MERKEZ ECZANESİ",
       "address": "Tevfik Bey Mahallesi, Merkez Caddesi, 27/C",
@@ -903,6 +891,18 @@
       "city": "İstanbul",
       "latitude": 41.00535199980102,
       "longitude": 28.79827199955475,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-13790",
+      "name": "MERKEZ ECZANESİ",
+      "address": "İsmetpaşa Mahallesi, Eski Edirne Asfaltı Caddesi, 655/A",
+      "phone": "+902124768526",
+      "district": "SULTANGAZİ",
+      "city": "İstanbul",
+      "latitude": 41.106315831073736,
+      "longitude": 28.86036770657746,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
