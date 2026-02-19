@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T07:00:49.479Z",
+  "updatedAt": "2026-02-19T07:30:45.676Z",
   "count": 134,
   "pharmacies": [
     {
@@ -367,18 +367,6 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
-      "id": "istanbul-27298",
-      "name": "DOĞA ECZANESİ",
-      "address": "Şifa Mahallesi, Başar Sokak, 32A",
-      "phone": "+902164233642",
-      "district": "TUZLA",
-      "city": "İstanbul",
-      "latitude": 40.831002723867336,
-      "longitude": 29.356718807117833,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29376",
       "name": "DOĞA ECZANESİ",
       "address": "Ayazağa Mahallesi, Şehit İlhan Yurt Sokak, 69-D",
@@ -387,6 +375,18 @@
       "city": "İstanbul",
       "latitude": 41.120231000404125,
       "longitude": 28.999970999612287,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-27298",
+      "name": "DOĞA ECZANESİ",
+      "address": "Şifa Mahallesi, Başar Sokak, 32A",
+      "phone": "+902164233642",
+      "district": "TUZLA",
+      "city": "İstanbul",
+      "latitude": 40.831002723867336,
+      "longitude": 29.356718807117833,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
@@ -1027,18 +1027,6 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
-      "id": "istanbul-26854",
-      "name": "PELİN ECZANESİ",
-      "address": "Kayabaşı Mahallesi, Kayaşehir Bulvarı, 28A",
-      "phone": "+902128139003",
-      "district": "BAŞAKŞEHİR",
-      "city": "İstanbul",
-      "latitude": 41.11279114454552,
-      "longitude": 28.76797034086775,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-16660",
       "name": "PELİN ECZANESİ",
       "address": "Alibey Mahallesi, Fevzi Çakmak Caddesi, 7",
@@ -1047,6 +1035,18 @@
       "city": "İstanbul",
       "latitude": 41.07467520882072,
       "longitude": 28.24874219053812,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-26854",
+      "name": "PELİN ECZANESİ",
+      "address": "Kayabaşı Mahallesi, Kayaşehir Bulvarı, 28A",
+      "phone": "+902128139003",
+      "district": "BAŞAKŞEHİR",
+      "city": "İstanbul",
+      "latitude": 41.11279114454552,
+      "longitude": 28.76797034086775,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
