@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T18:00:31.268Z",
+  "updatedAt": "2026-02-19T18:30:31.267Z",
   "count": 134,
   "pharmacies": [
     {
@@ -187,18 +187,6 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
-      "id": "istanbul-23930",
-      "name": "BEYAZ ECZANESİ",
-      "address": "Kayışdağı Mahallesi, Dudullu Caddesi, 34/A",
-      "phone": "+902166615843",
-      "district": "ATAŞEHİR",
-      "city": "İstanbul",
-      "latitude": 40.988181000132464,
-      "longitude": 29.144743000044453,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-23302",
       "name": "BEYAZ ECZANESİ",
       "address": "Mimar Sinan Mahallesi, Otopark Arkası Sokak, 8/B",
@@ -207,6 +195,18 @@
       "city": "İstanbul",
       "latitude": 41.02246500007028,
       "longitude": 29.017344000481412,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-23930",
+      "name": "BEYAZ ECZANESİ",
+      "address": "Kayışdağı Mahallesi, Dudullu Caddesi, 34/A",
+      "phone": "+902166615843",
+      "district": "ATAŞEHİR",
+      "city": "İstanbul",
+      "latitude": 40.988181000132464,
+      "longitude": 29.144743000044453,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
@@ -355,6 +355,18 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
+      "id": "istanbul-27298",
+      "name": "DOĞA ECZANESİ",
+      "address": "Şifa Mahallesi, Başar Sokak, 32A",
+      "phone": "+902164233642",
+      "district": "TUZLA",
+      "city": "İstanbul",
+      "latitude": 40.831002723867336,
+      "longitude": 29.356718807117833,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
       "id": "istanbul-25522",
       "name": "DOĞA ECZANESİ",
       "address": "Şirinevler Mahallesi, Hastane Caddesi, 18D",
@@ -375,18 +387,6 @@
       "city": "İstanbul",
       "latitude": 41.120231000404125,
       "longitude": 28.999970999612287,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
-      "id": "istanbul-27298",
-      "name": "DOĞA ECZANESİ",
-      "address": "Şifa Mahallesi, Başar Sokak, 32A",
-      "phone": "+902164233642",
-      "district": "TUZLA",
-      "city": "İstanbul",
-      "latitude": 40.831002723867336,
-      "longitude": 29.356718807117833,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
@@ -1027,18 +1027,6 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
-      "id": "istanbul-26854",
-      "name": "PELİN ECZANESİ",
-      "address": "Kayabaşı Mahallesi, Kayaşehir Bulvarı, 28A",
-      "phone": "+902128139003",
-      "district": "BAŞAKŞEHİR",
-      "city": "İstanbul",
-      "latitude": 41.11279114454552,
-      "longitude": 28.76797034086775,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-16660",
       "name": "PELİN ECZANESİ",
       "address": "Alibey Mahallesi, Fevzi Çakmak Caddesi, 7",
@@ -1047,6 +1035,18 @@
       "city": "İstanbul",
       "latitude": 41.07467520882072,
       "longitude": 28.24874219053812,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-26854",
+      "name": "PELİN ECZANESİ",
+      "address": "Kayabaşı Mahallesi, Kayaşehir Bulvarı, 28A",
+      "phone": "+902128139003",
+      "district": "BAŞAKŞEHİR",
+      "city": "İstanbul",
+      "latitude": 41.11279114454552,
+      "longitude": 28.76797034086775,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
@@ -1555,18 +1555,6 @@
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
     {
-      "id": "istanbul-18450",
-      "name": "İREM ECZANESİ",
-      "address": "Kazım Karabekir Mahallesi, Adem Yavuz Caddesi, 36/A",
-      "phone": "+902166323372",
-      "district": "ÜMRANİYE",
-      "city": "İstanbul",
-      "latitude": 41.033670781557376,
-      "longitude": 29.10289277650083,
-      "dutyStart": "2026-02-18T21:00:00.000Z",
-      "dutyEnd": "2026-02-19T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-4006",
       "name": "İREM ECZANESİ",
       "address": "Ortabayır Mahallesi, Mescit Sokak, 21/B",
@@ -1575,6 +1563,18 @@
       "city": "İstanbul",
       "latitude": 41.0785630809968,
       "longitude": 29.005379220991657,
+      "dutyStart": "2026-02-18T21:00:00.000Z",
+      "dutyEnd": "2026-02-19T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-18450",
+      "name": "İREM ECZANESİ",
+      "address": "Kazım Karabekir Mahallesi, Adem Yavuz Caddesi, 36/A",
+      "phone": "+902166323372",
+      "district": "ÜMRANİYE",
+      "city": "İstanbul",
+      "latitude": 41.033670781557376,
+      "longitude": 29.10289277650083,
       "dutyStart": "2026-02-18T21:00:00.000Z",
       "dutyEnd": "2026-02-19T20:59:59.000Z"
     },
