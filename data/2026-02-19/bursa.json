@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-19",
-  "updatedAt": "2026-02-19T05:30:47.369Z",
+  "updatedAt": "2026-02-19T06:00:56.175Z",
   "count": 35,
   "pharmacies": [
     {
@@ -152,6 +152,18 @@
     },
     {
       "id": "bursa-12",
+      "name": "MİLLET IŞIK ECZANESİ",
+      "address": "MİLLET MAH. DERYA CAD. NO:142/A,  (ÇEVRE YOLU ALTI VİLLA) ,  0224-3512526",
+      "phone": "02243512526",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.22107706693134,
+      "longitude": 29.10165366268916,
+      "dutyStart": "2026-02-19T18:30:00.000Z",
+      "dutyEnd": "2026-02-20T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-13",
       "name": "SELÇUKBEY ECZANESİ",
       "address": "ERTUĞRULGAZİ MAH. SELÇUKBEY CAD. NO:96/A,  (MESKEN/SİTELER ARASI - ÖZDİLEK ALTI) ,  0224 366 37 69",
       "phone": "02243663769",
@@ -163,7 +175,7 @@
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-14",
       "name": "TELEFERİK ECZANESİ",
       "address": "MUSABABA MAH. 3.CEVİZLİ SOK. NO:15 ,  0224 327 44 64 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02243274464",
@@ -171,18 +183,6 @@
       "city": "Bursa",
       "latitude": 40.176201,
       "longitude": 29.084553,
-      "dutyStart": "2026-02-19T18:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-14",
-      "name": "MİLLET IŞIK ECZANESİ",
-      "address": "MİLLET MAH. DERYA CAD. NO:142/A,  (ÇEVRE YOLU ALTI VİLLA) ,  0224-3512526",
-      "phone": "02243512526",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.22107706693134,
-      "longitude": 29.10165366268916,
       "dutyStart": "2026-02-19T18:30:00.000Z",
       "dutyEnd": "2026-02-20T08:30:00.000Z"
     },
