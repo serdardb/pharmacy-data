@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-20T19:00:32.670Z",
+  "updatedAt": "2026-02-20T19:30:32.670Z",
   "count": 134,
   "pharmacies": [
     {
@@ -403,18 +403,6 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-17120",
-      "name": "DEVA ECZANESİ",
-      "address": "Denizköşkler Mahallesi, Ahmet Kaya Caddesi, 72/A",
-      "phone": "+902124200368",
-      "district": "AVCILAR",
-      "city": "İstanbul",
-      "latitude": 40.97603620159575,
-      "longitude": 28.73371638136144,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-5442",
       "name": "DEVA ECZANESİ",
       "address": "Muradiye Mahallesi, Deryadil Sokak, 4/A",
@@ -423,6 +411,18 @@
       "city": "İstanbul",
       "latitude": 41.049064212159955,
       "longitude": 29.000431935524578,
+      "dutyStart": "2026-02-19T21:00:00.000Z",
+      "dutyEnd": "2026-02-20T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-17120",
+      "name": "DEVA ECZANESİ",
+      "address": "Denizköşkler Mahallesi, Ahmet Kaya Caddesi, 72/A",
+      "phone": "+902124200368",
+      "district": "AVCILAR",
+      "city": "İstanbul",
+      "latitude": 40.97603620159575,
+      "longitude": 28.73371638136144,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
@@ -607,18 +607,6 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-17708",
-      "name": "ERDEM ECZANESİ",
-      "address": "Siyavuşpaşa Mahallesi, Siyavuşpaşa Caddesi, No:4/B",
-      "phone": "+902124413477",
-      "district": "BAHÇELİEVLER",
-      "city": "İstanbul",
-      "latitude": 40.998226999659835,
-      "longitude": 28.85668099944017,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-34476",
       "name": "ERDEM ECZANESİ",
       "address": "Yeşilpınar Mahallesi, Şelale Sokak, 31C",
@@ -627,6 +615,18 @@
       "city": "İstanbul",
       "latitude": 41.07616933616764,
       "longitude": 28.925729980195037,
+      "dutyStart": "2026-02-19T21:00:00.000Z",
+      "dutyEnd": "2026-02-20T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-17708",
+      "name": "ERDEM ECZANESİ",
+      "address": "Siyavuşpaşa Mahallesi, Siyavuşpaşa Caddesi, No:4/B",
+      "phone": "+902124413477",
+      "district": "BAHÇELİEVLER",
+      "city": "İstanbul",
+      "latitude": 40.998226999659835,
+      "longitude": 28.85668099944017,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
@@ -643,18 +643,6 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-25288",
-      "name": "FATİH ECZANESİ",
-      "address": "Hadımköy Mahallesi, Şebeke Caddesi, 1",
-      "phone": "+902127801570",
-      "district": "ARNAVUTKÖY",
-      "city": "İstanbul",
-      "latitude": 41.18114612408587,
-      "longitude": 28.61046910313059,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-11838",
       "name": "FATİH ECZANESİ",
       "address": "Piyalepaşa Mahallesi, Fatih Sultan Caddesi, 12",
@@ -667,14 +655,14 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-31152",
-      "name": "FLORA ECZANESİ",
-      "address": "Ataköy 7-8-9-10.  Kısım Mahallesi, Çobançeşme E-5 Yan Yol Caddesi, 12P",
-      "phone": "+902128237723",
-      "district": "BAKIRKÖY",
+      "id": "istanbul-25288",
+      "name": "FATİH ECZANESİ",
+      "address": "Hadımköy Mahallesi, Şebeke Caddesi, 1",
+      "phone": "+902127801570",
+      "district": "ARNAVUTKÖY",
       "city": "İstanbul",
-      "latitude": 40.991876999648724,
-      "longitude": 28.829650000191098,
+      "latitude": 41.18114612408587,
+      "longitude": 28.61046910313059,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
@@ -687,6 +675,18 @@
       "city": "İstanbul",
       "latitude": 41.092749556541904,
       "longitude": 28.646176944990767,
+      "dutyStart": "2026-02-19T21:00:00.000Z",
+      "dutyEnd": "2026-02-20T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-31152",
+      "name": "FLORA ECZANESİ",
+      "address": "Ataköy 7-8-9-10.  Kısım Mahallesi, Çobançeşme E-5 Yan Yol Caddesi, 12P",
+      "phone": "+902128237723",
+      "district": "BAKIRKÖY",
+      "city": "İstanbul",
+      "latitude": 40.991876999648724,
+      "longitude": 28.829650000191098,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
@@ -1243,18 +1243,6 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-31896",
-      "name": "TARÇIN ECZANESİ",
-      "address": "Abdurrahmangazi Mahallesi, Balarısı Sokak, 13C",
-      "phone": "+902164196628",
-      "district": "SULTANBEYLİ",
-      "city": "İstanbul",
-      "latitude": 40.969764999798485,
-      "longitude": 29.257238999635607,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-23540",
       "name": "TARÇIN ECZANESİ",
       "address": "Molla Gürani Mahallesi, Karakoyunlu Sokak, 22/A",
@@ -1263,6 +1251,18 @@
       "city": "İstanbul",
       "latitude": 41.01420752929338,
       "longitude": 28.93827073851819,
+      "dutyStart": "2026-02-19T21:00:00.000Z",
+      "dutyEnd": "2026-02-20T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-31896",
+      "name": "TARÇIN ECZANESİ",
+      "address": "Abdurrahmangazi Mahallesi, Balarısı Sokak, 13C",
+      "phone": "+902164196628",
+      "district": "SULTANBEYLİ",
+      "city": "İstanbul",
+      "latitude": 40.969764999798485,
+      "longitude": 29.257238999635607,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
@@ -1519,18 +1519,6 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-22566",
-      "name": "İSTANBUL ECZANESİ",
-      "address": "Cumhuriyet Mahallesi, Kayın Sokak, 9A",
-      "phone": "+902126780408",
-      "district": "KÜÇÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.00181999992825,
-      "longitude": 28.778652999643704,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-7682",
       "name": "İSTANBUL ECZANESİ",
       "address": "Muratreis Mahallesi, Nuhkuyusu Caddesi, 293/A",
@@ -1551,6 +1539,18 @@
       "city": "İstanbul",
       "latitude": 40.91451881506011,
       "longitude": 29.194387262270062,
+      "dutyStart": "2026-02-19T21:00:00.000Z",
+      "dutyEnd": "2026-02-20T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-22566",
+      "name": "İSTANBUL ECZANESİ",
+      "address": "Cumhuriyet Mahallesi, Kayın Sokak, 9A",
+      "phone": "+902126780408",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.00181999992825,
+      "longitude": 28.778652999643704,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
@@ -1579,18 +1579,6 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-9200",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Şifa Mahallesi Egemenlik Caddesi 40/A",
-      "phone": "+902164230053",
-      "district": "TUZLA",
-      "city": "İstanbul",
-      "latitude": 40.82875898590278,
-      "longitude": 29.355065609445898,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-11636",
       "name": "ŞİFA ECZANESİ",
       "address": "Atikali Mahallesi, Müstakimzade Sokak, 40",
@@ -1599,6 +1587,18 @@
       "city": "İstanbul",
       "latitude": 41.02385939220075,
       "longitude": 28.94669052502092,
+      "dutyStart": "2026-02-19T21:00:00.000Z",
+      "dutyEnd": "2026-02-20T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-9200",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Şifa Mahallesi Egemenlik Caddesi 40/A",
+      "phone": "+902164230053",
+      "district": "TUZLA",
+      "city": "İstanbul",
+      "latitude": 40.82875898590278,
+      "longitude": 29.355065609445898,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },

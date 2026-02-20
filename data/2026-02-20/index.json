@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T19:00:32.670Z",
+  "updatedAt": "2026-02-20T19:30:32.670Z",
   "date": "2026-02-20",
   "cities": [
     {
@@ -45,6 +45,12 @@
       "count": 23
     },
     {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
+    },
+    {
       "city": "samsun",
       "cityName": "Samsun",
       "cityId": 55,
@@ -55,12 +61,6 @@
       "cityName": "Sinop",
       "cityId": 57,
       "count": 6
-    },
-    {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
     },
     {
       "city": "istanbul",
