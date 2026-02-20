@@ -3,8 +3,8 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-20T12:01:01.668Z",
-  "count": 134,
+  "updatedAt": "2026-02-20T12:31:00.757Z",
+  "count": 133,
   "pharmacies": [
     {
       "id": "istanbul-8908",
@@ -667,18 +667,6 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-31152",
-      "name": "FLORA ECZANESİ",
-      "address": "Ataköy 7-8-9-10.  Kısım Mahallesi, Çobançeşme E-5 Yan Yol Caddesi, 12P",
-      "phone": "+902128237723",
-      "district": "BAKIRKÖY",
-      "city": "İstanbul",
-      "latitude": 40.991876999648724,
-      "longitude": 28.829650000191098,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25624",
       "name": "FLORA ECZANESİ",
       "address": "Bahçeşehir 2.  Kısım Mahallesi, Mercedes Bulvarı, 28/81",
@@ -687,6 +675,18 @@
       "city": "İstanbul",
       "latitude": 41.092749556541904,
       "longitude": 28.646176944990767,
+      "dutyStart": "2026-02-19T21:00:00.000Z",
+      "dutyEnd": "2026-02-20T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-31152",
+      "name": "FLORA ECZANESİ",
+      "address": "Ataköy 7-8-9-10.  Kısım Mahallesi, Çobançeşme E-5 Yan Yol Caddesi, 12P",
+      "phone": "+902128237723",
+      "district": "BAKIRKÖY",
+      "city": "İstanbul",
+      "latitude": 40.991876999648724,
+      "longitude": 28.829650000191098,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
@@ -759,18 +759,6 @@
       "city": "İstanbul",
       "latitude": 40.99100706741052,
       "longitude": 29.0269988808367,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
-      "id": "istanbul-32332",
-      "name": "GÜLRU ECZANESİ",
-      "address": "Güngören Merkez Mahallesi, Meydancık Sokak, 8/A",
-      "phone": "+902126429881",
-      "district": "GÜNGÖREN",
-      "city": "İstanbul",
-      "latitude": 41.02409099961313,
-      "longitude": 28.872751999424825,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
@@ -1519,14 +1507,14 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21994",
+      "id": "istanbul-7682",
       "name": "İSTANBUL ECZANESİ",
-      "address": "Soğanlık Yeni Mahallesi Atatürk Caddesi 3",
-      "phone": "+902163705457",
-      "district": "KARTAL",
+      "address": "Muratreis Mahallesi, Nuhkuyusu Caddesi, 293/A",
+      "phone": "+902163344642",
+      "district": "ÜSKÜDAR",
       "city": "İstanbul",
-      "latitude": 40.91451881506011,
-      "longitude": 29.194387262270062,
+      "latitude": 41.02313099515575,
+      "longitude": 29.036228539897454,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
@@ -1543,14 +1531,14 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-7682",
+      "id": "istanbul-21994",
       "name": "İSTANBUL ECZANESİ",
-      "address": "Muratreis Mahallesi, Nuhkuyusu Caddesi, 293/A",
-      "phone": "+902163344642",
-      "district": "ÜSKÜDAR",
+      "address": "Soğanlık Yeni Mahallesi Atatürk Caddesi 3",
+      "phone": "+902163705457",
+      "district": "KARTAL",
       "city": "İstanbul",
-      "latitude": 41.02313099515575,
-      "longitude": 29.036228539897454,
+      "latitude": 40.91451881506011,
+      "longitude": 29.194387262270062,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
