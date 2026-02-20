@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-20T13:01:03.074Z",
+  "updatedAt": "2026-02-20T13:31:00.261Z",
   "count": 35,
   "pharmacies": [
     {
@@ -68,42 +68,6 @@
     },
     {
       "id": "bursa-5",
-      "name": "GÜNAY ECZANESİ",
-      "address": "HOCAALİZADE MAH. HOCAALİZADE CAD. NO:11/1-B,  (SETBAŞI DEVLET SU İŞLERİ TESİSLERİ ARALIĞI) ,  0224 224 28 25 / 0224 2242830",
-      "phone": "02242242825",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.1806171187875,
-      "longitude": 29.068676903806363,
-      "dutyStart": "2026-02-20T18:30:00.000Z",
-      "dutyEnd": "2026-02-21T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-6",
-      "name": "HAMİTLER MACİT ECZANESİ",
-      "address": "HAMİTLER MAH. NAR SOK. NO:9,  (PAZARTESİ PAZARI VE ASM YANI) ,  0224-2491133",
-      "phone": "02242491133",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.24221623,
-      "longitude": 28.99708807,
-      "dutyStart": "2026-02-20T18:30:00.000Z",
-      "dutyEnd": "2026-02-21T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-7",
-      "name": "PINAR ECZANESİ",
-      "address": "FATİH MAH. FINDIKLI SOK. NO:4,  (ESKİ ÇOK PROGRAMLI LİSE YANI) ,  0224-2539010",
-      "phone": "02242539010",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.214848437716284,
-      "longitude": 29.0580305413323,
-      "dutyStart": "2026-02-20T18:30:00.000Z",
-      "dutyEnd": "2026-02-21T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-8",
       "name": "ALYA ECZANESİ",
       "address": "KIRCAALİ MAH. FEVZİ ÇAKMAK CAD. KAYALI SOK. NO:34/B,  (KENT MEYDANI - ÖZEL VM MEDİCALPARK HASTANESİ ACİL ÇIKIŞI) ,  0224 223 22 53",
       "phone": "02242232253",
@@ -115,7 +79,19 @@
       "dutyEnd": "2026-02-21T10:00:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-6",
+      "name": "PINAR ECZANESİ",
+      "address": "FATİH MAH. FINDIKLI SOK. NO:4,  (ESKİ ÇOK PROGRAMLI LİSE YANI) ,  0224-2539010",
+      "phone": "02242539010",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.214848437716284,
+      "longitude": 29.0580305413323,
+      "dutyStart": "2026-02-20T18:30:00.000Z",
+      "dutyEnd": "2026-02-21T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-7",
       "name": "AYHAN ECZANESİ",
       "address": "EMEK ZEKAİ GÜMÜŞDİŞ MAH. 7.OĞUZ SOK. NO:22,  (19 NOLU AİLE SAĞLIĞI MERKEZİ YANI) ,  0224 243 11 22",
       "phone": "02242431122",
@@ -127,7 +103,7 @@
       "dutyEnd": "2026-02-21T10:00:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-8",
       "name": "SARAY ECZANESİ",
       "address": "ÇEKİRGE MAH. ÇEKİRGE CAD. NO:171/A,  (ÇEKİRGE MEYDANI) ,  0224 235 23 62",
       "phone": "02242352362",
@@ -139,7 +115,7 @@
       "dutyEnd": "2026-02-21T10:00:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-9",
       "name": "TUĞRUL ECZANESİ",
       "address": "İSTİKLAL MAH. PARS SOK. NO:9/E,  (DOWNTOWN MEDITOWN GİRİŞİ KARŞISI) ,  0224 504 50 40",
       "phone": "02245045040",
@@ -147,6 +123,30 @@
       "city": "Bursa",
       "latitude": 40.2197036899213,
       "longitude": 29.010845638671608,
+      "dutyStart": "2026-02-20T18:30:00.000Z",
+      "dutyEnd": "2026-02-21T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-10",
+      "name": "GÜNAY ECZANESİ",
+      "address": "HOCAALİZADE MAH. HOCAALİZADE CAD. NO:11/1-B,  (SETBAŞI DEVLET SU İŞLERİ TESİSLERİ ARALIĞI) ,  0224 224 28 25 / 0224 2242830",
+      "phone": "02242242825",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.1806171187875,
+      "longitude": 29.068676903806363,
+      "dutyStart": "2026-02-20T18:30:00.000Z",
+      "dutyEnd": "2026-02-21T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "HAMİTLER MACİT ECZANESİ",
+      "address": "HAMİTLER MAH. NAR SOK. NO:9,  (PAZARTESİ PAZARI VE ASM YANI) ,  0224-2491133",
+      "phone": "02242491133",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.24221623,
+      "longitude": 28.99708807,
       "dutyStart": "2026-02-20T18:30:00.000Z",
       "dutyEnd": "2026-02-21T10:00:00.000Z"
     },
@@ -200,18 +200,6 @@
     },
     {
       "id": "bursa-16",
-      "name": "GEMLİK KÖRFEZ ECZANESİ",
-      "address": "EŞREF DİNÇER MAH. ÖMER HALİSDEMİR CAD. NO:34 ,  0224 512 25 12 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02245122512",
-      "district": "GEMLİK",
-      "city": "Bursa",
-      "latitude": 40.42826358582734,
-      "longitude": 29.16998863220215,
-      "dutyStart": "2026-02-20T18:30:00.000Z",
-      "dutyEnd": "2026-02-21T09:30:00.000Z"
-    },
-    {
-      "id": "bursa-17",
       "name": "BAYER ECZANESİ",
       "address": "DR.ZİYA KAYA MAH. İSTİKLAL CAD. NO:121/A ,  0224-5130143 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02245130143",
@@ -221,6 +209,18 @@
       "longitude": 29.155665999999997,
       "dutyStart": "2026-02-20T18:30:00.000Z",
       "dutyEnd": "2026-02-21T00:00:00.000Z"
+    },
+    {
+      "id": "bursa-17",
+      "name": "GEMLİK KÖRFEZ ECZANESİ",
+      "address": "EŞREF DİNÇER MAH. ÖMER HALİSDEMİR CAD. NO:34 ,  0224 512 25 12 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02245122512",
+      "district": "GEMLİK",
+      "city": "Bursa",
+      "latitude": 40.42826358582734,
+      "longitude": 29.16998863220215,
+      "dutyStart": "2026-02-20T18:30:00.000Z",
+      "dutyEnd": "2026-02-21T09:30:00.000Z"
     },
     {
       "id": "bursa-18",
