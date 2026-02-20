@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-20T20:00:32.669Z",
+  "updatedAt": "2026-02-20T20:30:32.669Z",
   "count": 134,
   "pharmacies": [
     {
@@ -403,18 +403,6 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-5442",
-      "name": "DEVA ECZANESİ",
-      "address": "Muradiye Mahallesi, Deryadil Sokak, 4/A",
-      "phone": "+902123274286",
-      "district": "BEŞİKTAŞ",
-      "city": "İstanbul",
-      "latitude": 41.049064212159955,
-      "longitude": 29.000431935524578,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17120",
       "name": "DEVA ECZANESİ",
       "address": "Denizköşkler Mahallesi, Ahmet Kaya Caddesi, 72/A",
@@ -423,6 +411,18 @@
       "city": "İstanbul",
       "latitude": 40.97603620159575,
       "longitude": 28.73371638136144,
+      "dutyStart": "2026-02-19T21:00:00.000Z",
+      "dutyEnd": "2026-02-20T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-5442",
+      "name": "DEVA ECZANESİ",
+      "address": "Muradiye Mahallesi, Deryadil Sokak, 4/A",
+      "phone": "+902123274286",
+      "district": "BEŞİKTAŞ",
+      "city": "İstanbul",
+      "latitude": 41.049064212159955,
+      "longitude": 29.000431935524578,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
@@ -607,18 +607,6 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-34476",
-      "name": "ERDEM ECZANESİ",
-      "address": "Yeşilpınar Mahallesi, Şelale Sokak, 31C",
-      "phone": "+902122944243",
-      "district": "EYÜPSULTAN",
-      "city": "İstanbul",
-      "latitude": 41.07616933616764,
-      "longitude": 28.925729980195037,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17708",
       "name": "ERDEM ECZANESİ",
       "address": "Siyavuşpaşa Mahallesi, Siyavuşpaşa Caddesi, No:4/B",
@@ -627,6 +615,18 @@
       "city": "İstanbul",
       "latitude": 40.998226999659835,
       "longitude": 28.85668099944017,
+      "dutyStart": "2026-02-19T21:00:00.000Z",
+      "dutyEnd": "2026-02-20T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-34476",
+      "name": "ERDEM ECZANESİ",
+      "address": "Yeşilpınar Mahallesi, Şelale Sokak, 31C",
+      "phone": "+902122944243",
+      "district": "EYÜPSULTAN",
+      "city": "İstanbul",
+      "latitude": 41.07616933616764,
+      "longitude": 28.925729980195037,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },

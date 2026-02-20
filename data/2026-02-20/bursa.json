@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-20T20:00:32.669Z",
+  "updatedAt": "2026-02-20T20:30:32.669Z",
   "count": 34,
   "pharmacies": [
     {
@@ -116,18 +116,6 @@
     },
     {
       "id": "bursa-9",
-      "name": "ALYA ECZANESİ",
-      "address": "KIRCAALİ MAH. FEVZİ ÇAKMAK CAD. KAYALI SOK. NO:34/B,  (KENT MEYDANI - ÖZEL VM MEDİCALPARK HASTANESİ ACİL ÇIKIŞI) ,  0224 223 22 53",
-      "phone": "02242232253",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.19434123930301,
-      "longitude": 29.06068658424585,
-      "dutyStart": "2026-02-20T18:30:00.000Z",
-      "dutyEnd": "2026-02-21T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-10",
       "name": "PINAR ECZANESİ",
       "address": "FATİH MAH. FINDIKLI SOK. NO:4,  (ESKİ ÇOK PROGRAMLI LİSE YANI) ,  0224-2539010",
       "phone": "02242539010",
@@ -135,6 +123,18 @@
       "city": "Bursa",
       "latitude": 40.214848437716284,
       "longitude": 29.0580305413323,
+      "dutyStart": "2026-02-20T18:30:00.000Z",
+      "dutyEnd": "2026-02-21T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-10",
+      "name": "ALYA ECZANESİ",
+      "address": "KIRCAALİ MAH. FEVZİ ÇAKMAK CAD. KAYALI SOK. NO:34/B,  (KENT MEYDANI - ÖZEL VM MEDİCALPARK HASTANESİ ACİL ÇIKIŞI) ,  0224 223 22 53",
+      "phone": "02242232253",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.19434123930301,
+      "longitude": 29.06068658424585,
       "dutyStart": "2026-02-20T18:30:00.000Z",
       "dutyEnd": "2026-02-21T10:00:00.000Z"
     },
