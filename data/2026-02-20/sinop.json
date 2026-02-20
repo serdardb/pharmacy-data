@@ -3,7 +3,7 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-19T23:30:31.268Z",
+  "updatedAt": "2026-02-20T00:00:31.268Z",
   "count": 6,
   "pharmacies": [
     {
@@ -15,8 +15,8 @@
       "city": "Sinop",
       "latitude": 42.026096,
       "longitude": 35.148616,
-      "dutyStart": "2026-02-19T08:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
+      "dutyStart": "2026-02-20T08:30:00.000Z",
+      "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
       "id": "sinop-20",
@@ -27,8 +27,8 @@
       "city": "Sinop",
       "latitude": 41.943482,
       "longitude": 34.588267,
-      "dutyStart": "2026-02-19T08:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
+      "dutyStart": "2026-02-20T08:30:00.000Z",
+      "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
       "id": "sinop-21",
@@ -39,8 +39,8 @@
       "city": "Sinop",
       "latitude": 41.463346,
       "longitude": 34.783536,
-      "dutyStart": "2026-02-19T08:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
+      "dutyStart": "2026-02-20T08:30:00.000Z",
+      "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
       "id": "sinop-22",
@@ -51,8 +51,8 @@
       "city": "Sinop",
       "latitude": 41.419541,
       "longitude": 35.053398,
-      "dutyStart": "2026-02-19T08:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
+      "dutyStart": "2026-02-20T08:30:00.000Z",
+      "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
       "id": "sinop-23",
@@ -63,8 +63,8 @@
       "city": "Sinop",
       "latitude": 41.879563,
       "longitude": 34.907843,
-      "dutyStart": "2026-02-19T08:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
+      "dutyStart": "2026-02-20T08:30:00.000Z",
+      "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
       "id": "sinop-24",
@@ -75,8 +75,8 @@
       "city": "Sinop",
       "latitude": 41.803697,
       "longitude": 35.173405,
-      "dutyStart": "2026-02-19T08:30:00.000Z",
-      "dutyEnd": "2026-02-20T08:30:00.000Z"
+      "dutyStart": "2026-02-20T08:30:00.000Z",
+      "dutyEnd": "2026-02-21T08:30:00.000Z"
     }
   ]
 }
