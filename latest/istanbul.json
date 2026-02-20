@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-20T14:01:00.872Z",
+  "updatedAt": "2026-02-20T14:30:59.871Z",
   "count": 134,
   "pharmacies": [
     {
@@ -643,18 +643,6 @@
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11838",
-      "name": "FATİH ECZANESİ",
-      "address": "Piyalepaşa Mahallesi, Fatih Sultan Caddesi, 12",
-      "phone": "+902122551943",
-      "district": "BEYOĞLU",
-      "city": "İstanbul",
-      "latitude": 41.04460536733816,
-      "longitude": 28.95887955796329,
-      "dutyStart": "2026-02-19T21:00:00.000Z",
-      "dutyEnd": "2026-02-20T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25288",
       "name": "FATİH ECZANESİ",
       "address": "Hadımköy Mahallesi, Şebeke Caddesi, 1",
@@ -663,6 +651,18 @@
       "city": "İstanbul",
       "latitude": 41.18114612408587,
       "longitude": 28.61046910313059,
+      "dutyStart": "2026-02-19T21:00:00.000Z",
+      "dutyEnd": "2026-02-20T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11838",
+      "name": "FATİH ECZANESİ",
+      "address": "Piyalepaşa Mahallesi, Fatih Sultan Caddesi, 12",
+      "phone": "+902122551943",
+      "district": "BEYOĞLU",
+      "city": "İstanbul",
+      "latitude": 41.04460536733816,
+      "longitude": 28.95887955796329,
       "dutyStart": "2026-02-19T21:00:00.000Z",
       "dutyEnd": "2026-02-20T20:59:59.000Z"
     },

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T14:01:00.872Z",
+  "updatedAt": "2026-02-20T14:30:59.871Z",
   "date": "2026-02-20",
   "cities": [
     {
@@ -19,6 +19,12 @@
       "cityName": "Antalya",
       "cityId": 7,
       "count": 39
+    },
+    {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 74
     },
     {
       "city": "adana",
@@ -55,12 +61,6 @@
       "cityName": "Sinop",
       "cityId": 57,
       "count": 6
-    },
-    {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 74
     },
     {
       "city": "gaziantep",
