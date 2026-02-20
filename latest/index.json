@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-02-20T22:00:32.669Z",
+  "updatedAt": "2026-02-20T22:30:32.670Z",
   "date": "2026-02-21",
   "cities": [
-    {
-      "city": "ankara",
-      "cityName": "Ankara",
-      "cityId": 6,
-      "count": 61
-    },
     {
       "city": "antalya",
       "cityName": "Antalya",
       "cityId": 7,
       "count": 39
+    },
+    {
+      "city": "ankara",
+      "cityName": "Ankara",
+      "cityId": 6,
+      "count": 61
     },
     {
       "city": "bursa",
@@ -27,6 +27,12 @@
       "count": 34
     },
     {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 73
+    },
+    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
@@ -37,12 +43,6 @@
       "cityName": "Mersin",
       "cityId": 33,
       "count": 16
-    },
-    {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
     },
     {
       "city": "kocaeli",
@@ -63,16 +63,16 @@
       "count": 6
     },
     {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
+    },
+    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 132
-    }
-  ],
-  "errors": [
-    {
-      "city": "izmir",
-      "error": "HTTP 530 from https://openapi.izmir.bel.tr/api/ibb/nobetcieczaneler"
     }
   ]
 }
