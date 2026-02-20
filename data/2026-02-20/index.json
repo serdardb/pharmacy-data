@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T07:01:00.779Z",
+  "updatedAt": "2026-02-20T07:31:00.473Z",
   "date": "2026-02-20",
   "cities": [
     {
@@ -33,6 +33,12 @@
       "count": 74
     },
     {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
+    },
+    {
       "city": "kocaeli",
       "cityName": "Kocaeli",
       "cityId": 41,
@@ -43,12 +49,6 @@
       "cityName": "Mersin",
       "cityId": 33,
       "count": 23
-    },
-    {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
     },
     {
       "city": "samsun",
