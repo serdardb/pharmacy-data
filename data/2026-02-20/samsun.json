@@ -3,23 +3,11 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-20T13:31:00.261Z",
+  "updatedAt": "2026-02-20T14:01:00.872Z",
   "count": 21,
   "pharmacies": [
     {
       "id": "samsun-0",
-      "name": "SEDEF ECZANESİ",
-      "address": "LİMAN MAH. GEZİ CAD. NO:4",
-      "phone": "05418310555",
-      "district": "İlkadım",
-      "city": "Samsun",
-      "latitude": 41.309987,
-      "longitude": 36.334949,
-      "dutyStart": "2026-02-20T08:30:00.000Z",
-      "dutyEnd": "2026-02-21T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-1",
       "name": "AFRA ECZANESİ",
       "address": "SAİTBEY MAH. BAĞDAT CAD. NO:110/33",
       "phone": "03624761111",
@@ -31,7 +19,7 @@
       "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
-      "id": "samsun-2",
+      "id": "samsun-1",
       "name": "AKSOY ECZANESİ",
       "address": "FEVZİ ÇAKMAK MAH. LİSE CAD. NO:56",
       "phone": "03622341385",
@@ -39,6 +27,18 @@
       "city": "Samsun",
       "latitude": 41.279266,
       "longitude": 36.335585,
+      "dutyStart": "2026-02-20T08:30:00.000Z",
+      "dutyEnd": "2026-02-21T08:30:00.000Z"
+    },
+    {
+      "id": "samsun-2",
+      "name": "SEDEF ECZANESİ",
+      "address": "LİMAN MAH. GEZİ CAD. NO:4",
+      "phone": "05418310555",
+      "district": "İlkadım",
+      "city": "Samsun",
+      "latitude": 41.309987,
+      "longitude": 36.334949,
       "dutyStart": "2026-02-20T08:30:00.000Z",
       "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
@@ -224,13 +224,13 @@
     },
     {
       "id": "samsun-18",
-      "name": "TEBESSÜM ECZANESİ",
-      "address": "FENK MAH. ÇARŞAMBA CAD. NO:13",
-      "phone": "03628888181",
+      "name": "BURCU ECZANESİ",
+      "address": "FENK MAH.MEVLANA CAD.NO:5/E",
+      "phone": "03628764512",
       "district": "Terme",
       "city": "Samsun",
-      "latitude": 41.210096,
-      "longitude": 36.969972,
+      "latitude": 41.210182,
+      "longitude": 36.974265,
       "dutyStart": "2026-02-20T08:30:00.000Z",
       "dutyEnd": "2026-02-21T08:30:00.000Z"
     },

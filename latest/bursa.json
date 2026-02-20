@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-20T13:31:00.261Z",
+  "updatedAt": "2026-02-20T14:01:00.872Z",
   "count": 35,
   "pharmacies": [
     {
@@ -152,18 +152,6 @@
     },
     {
       "id": "bursa-12",
-      "name": "GÜRSOY ECZANESİ",
-      "address": "DAVUTDEDE MAH. 2.AÇIK SOK. NO:3/A,  (DAVUTDEDE METRO İSTASYONU ÇIKIŞI - YILDIRIM BELEDİYESİ ALTI) ,  0224 351 05 00",
-      "phone": "02243510500",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.19114972960925,
-      "longitude": 29.086506687985946,
-      "dutyStart": "2026-02-20T18:30:00.000Z",
-      "dutyEnd": "2026-02-21T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-13",
       "name": "BERKE ECZANESİ",
       "address": "YUNUS EMRE MAH. KIRKPINAR CAD. NO:66/A,  (DEVLET SU İŞLERİ ALTI - YUNUS EMRE ASM YANI) ,  0224 363 17 17",
       "phone": "02243631717",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-21T10:00:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-13",
       "name": "YEŞİLKENT ECZANESİ",
       "address": "ORTABAĞLAR MAH. AYDOĞDU CAD. NO:12,  (SALI PAZARI - ORTABAĞLAR ASM KARŞISI) ,  0224 366 40 03",
       "phone": "02243664003",
@@ -183,6 +171,18 @@
       "city": "Bursa",
       "latitude": 40.18662229528643,
       "longitude": 29.116388708353043,
+      "dutyStart": "2026-02-20T18:30:00.000Z",
+      "dutyEnd": "2026-02-21T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-14",
+      "name": "GÜRSOY ECZANESİ",
+      "address": "DAVUTDEDE MAH. 2.AÇIK SOK. NO:3/A,  (DAVUTDEDE METRO İSTASYONU ÇIKIŞI - YILDIRIM BELEDİYESİ ALTI) ,  0224 351 05 00",
+      "phone": "02243510500",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.19114972960925,
+      "longitude": 29.086506687985946,
       "dutyStart": "2026-02-20T18:30:00.000Z",
       "dutyEnd": "2026-02-21T10:00:00.000Z"
     },
@@ -200,18 +200,6 @@
     },
     {
       "id": "bursa-16",
-      "name": "BAYER ECZANESİ",
-      "address": "DR.ZİYA KAYA MAH. İSTİKLAL CAD. NO:121/A ,  0224-5130143 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02245130143",
-      "district": "GEMLİK",
-      "city": "Bursa",
-      "latitude": 40.430487,
-      "longitude": 29.155665999999997,
-      "dutyStart": "2026-02-20T18:30:00.000Z",
-      "dutyEnd": "2026-02-21T00:00:00.000Z"
-    },
-    {
-      "id": "bursa-17",
       "name": "GEMLİK KÖRFEZ ECZANESİ",
       "address": "EŞREF DİNÇER MAH. ÖMER HALİSDEMİR CAD. NO:34 ,  0224 512 25 12 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02245122512",
@@ -221,6 +209,18 @@
       "longitude": 29.16998863220215,
       "dutyStart": "2026-02-20T18:30:00.000Z",
       "dutyEnd": "2026-02-21T09:30:00.000Z"
+    },
+    {
+      "id": "bursa-17",
+      "name": "BAYER ECZANESİ",
+      "address": "DR.ZİYA KAYA MAH. İSTİKLAL CAD. NO:121/A ,  0224-5130143 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02245130143",
+      "district": "GEMLİK",
+      "city": "Bursa",
+      "latitude": 40.430487,
+      "longitude": 29.155665999999997,
+      "dutyStart": "2026-02-20T18:30:00.000Z",
+      "dutyEnd": "2026-02-21T00:00:00.000Z"
     },
     {
       "id": "bursa-18",
