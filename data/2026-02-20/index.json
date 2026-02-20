@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T19:30:32.670Z",
+  "updatedAt": "2026-02-20T20:00:32.669Z",
   "date": "2026-02-20",
   "cities": [
     {
@@ -21,16 +21,16 @@
       "count": 34
     },
     {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
-    },
-    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
       "count": 32
+    },
+    {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
     },
     {
       "city": "mersin",
@@ -72,7 +72,7 @@
   "errors": [
     {
       "city": "izmir",
-      "error": "HTTP 522 from https://openapi.izmir.bel.tr/api/ibb/nobetcieczaneler"
+      "error": "HTTP 530 from https://openapi.izmir.bel.tr/api/ibb/nobetcieczaneler"
     }
   ]
 }
