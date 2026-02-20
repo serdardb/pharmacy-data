@@ -3,8 +3,8 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-20T04:31:01.082Z",
-  "count": 31,
+  "updatedAt": "2026-02-20T05:01:01.789Z",
+  "count": 30,
   "pharmacies": [
     {
       "id": "bursa-0",
@@ -365,18 +365,6 @@
       "longitude": 29.0879409,
       "dutyStart": "2026-02-19T18:30:00.000Z",
       "dutyEnd": "2026-02-20T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-30",
-      "name": "YÜCELER ECZANESİ",
-      "address": "ÇAYIR MAH. CUMHURİYET CAD. GİRGİN SOK. NO:1 ,  0224 773 12 79 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02247731279",
-      "district": "YENİŞEHİR",
-      "city": "Bursa",
-      "latitude": 40.262634449536925,
-      "longitude": 29.649763833869365,
-      "dutyStart": "2026-02-19T18:00:00.000Z",
-      "dutyEnd": "2026-02-20T08:00:00.000Z"
     }
   ]
 }
