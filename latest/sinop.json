@@ -3,11 +3,11 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-02-20",
-  "updatedAt": "2026-02-20T17:00:59.872Z",
+  "updatedAt": "2026-02-20T17:30:59.872Z",
   "count": 6,
   "pharmacies": [
     {
-      "id": "sinop-20",
+      "id": "sinop-19",
       "name": "BUKET  ECZANESİ",
       "address": "KORUCUK KÖYÜ TIRKIŞLAR MEVKİYİ ATATÜRK DEVLET HASTANESİ KARŞISI NO:24",
       "phone": "03682714483",
@@ -19,7 +19,7 @@
       "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
-      "id": "sinop-21",
+      "id": "sinop-20",
       "name": "ÖNCEL ECZANESİ",
       "address": "YALI MAH. ATATÜRK CAD. NO.21/B",
       "phone": "03686131395",
@@ -31,7 +31,7 @@
       "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
-      "id": "sinop-22",
+      "id": "sinop-21",
       "name": "DEVA ECZANESİ",
       "address": "CAMİKEBİR MAH. ADNAN MENDERES BLV. NO:47/D",
       "phone": "03683152121",
@@ -43,7 +43,7 @@
       "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
-      "id": "sinop-23",
+      "id": "sinop-22",
       "name": "ALTINKAYNAK ECZANESİ",
       "address": "PLEVNA CAD.NO:17",
       "phone": "03684161451",
@@ -55,7 +55,7 @@
       "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
-      "id": "sinop-24",
+      "id": "sinop-23",
       "name": "ÇAĞLAR  ECZANESİ",
       "address": "MERKEZ MAH. CUMHURİYET CAD. NO:12/A",
       "phone": "03685112020",
@@ -67,7 +67,7 @@
       "dutyEnd": "2026-02-21T08:30:00.000Z"
     },
     {
-      "id": "sinop-25",
+      "id": "sinop-24",
       "name": "EKİN ECZANESİ",
       "address": "HAMİDİYE MAH. RECAİ KURUOĞLU BULVARI NO:39",
       "phone": "03687184837",
