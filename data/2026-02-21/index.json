@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T07:30:44.050Z",
+  "updatedAt": "2026-02-21T08:00:42.350Z",
   "date": "2026-02-21",
   "cities": [
     {
@@ -27,10 +27,10 @@
       "count": 40
     },
     {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 37
+      "city": "mersin",
+      "cityName": "Mersin",
+      "cityId": 33,
+      "count": 25
     },
     {
       "city": "izmir",
@@ -39,10 +39,10 @@
       "count": 74
     },
     {
-      "city": "mersin",
-      "cityName": "Mersin",
-      "cityId": 33,
-      "count": 25
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 37
     },
     {
       "city": "kocaeli",
