@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T06:00:45.526Z",
+  "updatedAt": "2026-02-21T06:30:44.033Z",
   "count": 132,
   "pharmacies": [
     {
@@ -415,18 +415,6 @@
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11452",
-      "name": "DENİZ ECZANESİ",
-      "address": "Akat Mahallesi, Selçuklar Sokak, 13/B",
-      "phone": "+902123514307",
-      "district": "BEŞİKTAŞ",
-      "city": "İstanbul",
-      "latitude": 41.0780814428223,
-      "longitude": 29.026658649320467,
-      "dutyStart": "2026-02-20T21:00:00.000Z",
-      "dutyEnd": "2026-02-21T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-6638",
       "name": "DENİZ ECZANESİ",
       "address": "Kınalıada Mahallesi, İskele Sokak, 3/B",
@@ -435,6 +423,18 @@
       "city": "İstanbul",
       "latitude": 40.91038290210339,
       "longitude": 29.05476093340845,
+      "dutyStart": "2026-02-20T21:00:00.000Z",
+      "dutyEnd": "2026-02-21T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11452",
+      "name": "DENİZ ECZANESİ",
+      "address": "Akat Mahallesi, Selçuklar Sokak, 13/B",
+      "phone": "+902123514307",
+      "district": "BEŞİKTAŞ",
+      "city": "İstanbul",
+      "latitude": 41.0780814428223,
+      "longitude": 29.026658649320467,
       "dutyStart": "2026-02-20T21:00:00.000Z",
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
@@ -1423,18 +1423,6 @@
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21572",
-      "name": "ÇINAR ECZANESİ",
-      "address": "Türkoba Mahallesi, Atatürk Caddesi, 247/B",
-      "phone": "+902128590710",
-      "district": "BÜYÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.03383983802346,
-      "longitude": 28.52220334580865,
-      "dutyStart": "2026-02-20T21:00:00.000Z",
-      "dutyEnd": "2026-02-21T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28086",
       "name": "ÇINAR ECZANESİ",
       "address": "Zafer Mahallesi, Ziya Gökalp 1 Sokak, No:8/A",
@@ -1443,6 +1431,18 @@
       "city": "İstanbul",
       "latitude": 41.0015889996295,
       "longitude": 28.835570000064873,
+      "dutyStart": "2026-02-20T21:00:00.000Z",
+      "dutyEnd": "2026-02-21T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21572",
+      "name": "ÇINAR ECZANESİ",
+      "address": "Türkoba Mahallesi, Atatürk Caddesi, 247/B",
+      "phone": "+902128590710",
+      "district": "BÜYÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.03383983802346,
+      "longitude": 28.52220334580865,
       "dutyStart": "2026-02-20T21:00:00.000Z",
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
