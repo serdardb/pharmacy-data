@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T12:30:39.223Z",
+  "updatedAt": "2026-02-21T13:00:41.824Z",
   "count": 35,
   "pharmacies": [
     {
@@ -92,6 +92,18 @@
     },
     {
       "id": "bursa-7",
+      "name": "UYAR ECZANESİ",
+      "address": "EMEK FATİH SULTAN MEHMET MAH. ŞHT.JND.UZM.ÇVŞ.İLYAS GENEL CAD. NO:8/A ,  0543 776 02 55 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "05437760255",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.262435043989385,
+      "longitude": 28.959088534256644,
+      "dutyStart": "2026-02-21T17:00:00.000Z",
+      "dutyEnd": "2026-02-22T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-8",
       "name": "SELAM ECZANESİ",
       "address": "HÜDAVENDİGAR MAH. DİKKALDIRIM CAD. NO:30,  (ÇEKİRGE DEVLET HASTANESİ YANI) ,  0224 236 10 04",
       "phone": "02242361004",
@@ -103,7 +115,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-9",
       "name": "MERİÇ ECZANESİ",
       "address": "YEŞİLOVA MAH. ÇEŞME SOK. NO:39,  (YEŞİLOVA SAĞLIK OCAĞI YANI) ,  0224-2521578",
       "phone": "02242521578",
@@ -115,7 +127,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-10",
       "name": "GÖKÇEN ECZANESİ",
       "address": "HAMİTLER MAH. 1.FATİH CAD. NO:23/A,  (HAMİTLER YENİ KAPALI PAZAR KARŞISI) ,  0536 951 91 95",
       "phone": "05369519195",
@@ -123,18 +135,6 @@
       "city": "Bursa",
       "latitude": 40.25000990780761,
       "longitude": 28.992541035588033,
-      "dutyStart": "2026-02-21T17:00:00.000Z",
-      "dutyEnd": "2026-02-22T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-10",
-      "name": "UYAR ECZANESİ",
-      "address": "EMEK FATİH SULTAN MEHMET MAH. ŞHT.JND.UZM.ÇVŞ.İLYAS GENEL CAD. NO:8/A ,  0543 776 02 55 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "05437760255",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.262435043989385,
-      "longitude": 28.959088534256644,
       "dutyStart": "2026-02-21T17:00:00.000Z",
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
