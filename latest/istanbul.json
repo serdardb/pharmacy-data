@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-22",
-  "updatedAt": "2026-02-21T23:00:25.766Z",
+  "updatedAt": "2026-02-21T23:30:25.472Z",
   "count": 150,
   "pharmacies": [
     {
@@ -103,18 +103,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21988",
-      "name": "ARDA ECZANESİ",
-      "address": "Hürriyet Mahallesi, Paşaçayırı Caddesi, 45",
-      "phone": "+902126092007",
-      "district": "GAZİOSMANPAŞA",
-      "city": "İstanbul",
-      "latitude": 41.06976224998692,
-      "longitude": 28.897535568566965,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-11394",
       "name": "ARDA ECZANESİ",
       "address": "İnönü Mahallesi, Maslak Çeşme Caddesi, 92",
@@ -123,6 +111,18 @@
       "city": "İstanbul",
       "latitude": 41.021394464809795,
       "longitude": 28.797043711797873,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21988",
+      "name": "ARDA ECZANESİ",
+      "address": "Hürriyet Mahallesi, Paşaçayırı Caddesi, 45",
+      "phone": "+902126092007",
+      "district": "GAZİOSMANPAŞA",
+      "city": "İstanbul",
+      "latitude": 41.06976224998692,
+      "longitude": 28.897535568566965,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -895,18 +895,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-38784",
-      "name": "IRMAK ECZANESİ",
-      "address": "Saadetdere Mahallesi, Abdi İpekçi Caddesi, No:26/A",
-      "phone": "+905375233176",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.00942199985059,
-      "longitude": 28.695360999428484,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-12822",
       "name": "IRMAK ECZANESİ",
       "address": "Elmalıkent Mahallesi Adem Yavuz Caddesi 153",
@@ -915,6 +903,18 @@
       "city": "İstanbul",
       "latitude": 41.04392869500883,
       "longitude": 29.099256099857413,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-38784",
+      "name": "IRMAK ECZANESİ",
+      "address": "Saadetdere Mahallesi, Abdi İpekçi Caddesi, No:26/A",
+      "phone": "+905375233176",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.00942199985059,
+      "longitude": 28.695360999428484,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -1087,18 +1087,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-23616",
-      "name": "MERKEZ ECZANESİ",
-      "address": "Kavacık Mahallesi, Hülagü Caddesi, 1",
-      "phone": "+902164654387",
-      "district": "BEYKOZ",
-      "city": "İstanbul",
-      "latitude": 41.0904080027779,
-      "longitude": 29.080646999724543,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-21544",
       "name": "MERKEZ ECZANESİ",
       "address": "Ayazağa Mahallesi Şehit Naci Canan Tuncer (G. 24) Sokak 13/A",
@@ -1119,6 +1107,18 @@
       "city": "İstanbul",
       "latitude": 40.87385668832126,
       "longitude": 29.127998108028326,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-23616",
+      "name": "MERKEZ ECZANESİ",
+      "address": "Kavacık Mahallesi, Hülagü Caddesi, 1",
+      "phone": "+902164654387",
+      "district": "BEYKOZ",
+      "city": "İstanbul",
+      "latitude": 41.0904080027779,
+      "longitude": 29.080646999724543,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
