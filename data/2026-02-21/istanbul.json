@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T17:01:00.004Z",
+  "updatedAt": "2026-02-21T17:30:55.108Z",
   "count": 132,
   "pharmacies": [
     {
@@ -1423,18 +1423,6 @@
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21572",
-      "name": "ÇINAR ECZANESİ",
-      "address": "Türkoba Mahallesi, Atatürk Caddesi, 247/B",
-      "phone": "+902128590710",
-      "district": "BÜYÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.03383983802346,
-      "longitude": 28.52220334580865,
-      "dutyStart": "2026-02-20T21:00:00.000Z",
-      "dutyEnd": "2026-02-21T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28086",
       "name": "ÇINAR ECZANESİ",
       "address": "Zafer Mahallesi, Ziya Gökalp 1 Sokak, No:8/A",
@@ -1443,6 +1431,18 @@
       "city": "İstanbul",
       "latitude": 41.0015889996295,
       "longitude": 28.835570000064873,
+      "dutyStart": "2026-02-20T21:00:00.000Z",
+      "dutyEnd": "2026-02-21T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21572",
+      "name": "ÇINAR ECZANESİ",
+      "address": "Türkoba Mahallesi, Atatürk Caddesi, 247/B",
+      "phone": "+902128590710",
+      "district": "BÜYÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.03383983802346,
+      "longitude": 28.52220334580865,
       "dutyStart": "2026-02-20T21:00:00.000Z",
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },

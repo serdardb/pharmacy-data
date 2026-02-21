@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T17:01:00.004Z",
-  "count": 22,
+  "updatedAt": "2026-02-21T17:30:55.108Z",
+  "count": 21,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -80,18 +80,6 @@
     },
     {
       "id": "samsun-6",
-      "name": "TAFLAN ECZANESİ",
-      "address": "YALI MAH. ATATÜRK BULVARI 8. KISIM NO:67/A",
-      "phone": "03624670268",
-      "district": "Atakum Sayfiye",
-      "city": "Samsun",
-      "latitude": 41.429987,
-      "longitude": 36.151313,
-      "dutyStart": "2026-02-21T08:30:00.000Z",
-      "dutyEnd": "2026-02-22T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-7",
       "name": "MESKENLER ECZANESİ",
       "address": "19 MAYIS MAH. HACI ALİ EKİNCİ BULVARI NO:3/A",
       "phone": "03622561396",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-8",
+      "id": "samsun-7",
       "name": "ŞİFA ECZANESİ",
       "address": "YENİ CAMİ MAH. LİSE CAD. NO:62",
       "phone": "03626220724",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-9",
+      "id": "samsun-8",
       "name": "ÖZYÜREK ECZANESİ",
       "address": "BİÇİNCİK MAHALLESİ ESEN SOK NO:5/1",
       "phone": "03627912203",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-10",
+      "id": "samsun-9",
       "name": "YİĞİT ECZANESİ",
       "address": "EYÜP SULTAN MAH. ŞEYH ŞAMİL SOK. NO:1AA",
       "phone": "03628132140",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-11",
+      "id": "samsun-10",
       "name": "ÜNLÜ ECZANESİ",
       "address": "ALTINYAPRAK MAH.HASTANE SOK.NO:35",
       "phone": "03625432977",
@@ -151,7 +139,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-12",
+      "id": "samsun-11",
       "name": "ÇINAR ECZANESİ",
       "address": "KIZILIRMAK MAH. ALAÇAM CAD. NO:113",
       "phone": "03625430204",
@@ -163,7 +151,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-13",
+      "id": "samsun-12",
       "name": "KESKİN ECZANESİ",
       "address": "SARICALI MAH. MUSA PAŞA SOK. NO.15/A",
       "phone": "05437101430",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-14",
+      "id": "samsun-13",
       "name": "SÖNMEZ ECZANESİ",
       "address": "İCADİYE MAH.ŞEHİT HASAN AKTAR CAD. NO:79/2",
       "phone": "03625035803",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-15",
+      "id": "samsun-14",
       "name": "GÜLTER  ECZANESİ",
       "address": "YAŞARDOĞU MAH. ADNAN MENDERES CAD. NO:102",
       "phone": "03627414561",
@@ -199,7 +187,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-16",
+      "id": "samsun-15",
       "name": "ALTUNDAĞ ECZANESİ",
       "address": "BAHŞİ MAH. NO:68/A",
       "phone": "03627713129",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-17",
+      "id": "samsun-16",
       "name": "DENİZ ECZANESİ",
       "address": "PAZAR MAH. FATİH BULVARI NO:40 İÇ KAPI Z1",
       "phone": "03625113066",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-18",
+      "id": "samsun-17",
       "name": "YILDIZ ECZANESİ",
       "address": "GÖKÇELİ MAH:15 TEMMUZ ŞEHİTLER MEYDANI 13/D",
       "phone": "03628212479",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-19",
+      "id": "samsun-18",
       "name": "ÇAĞDAŞ ECZANESİ",
       "address": "CUMHURİYET MAH. KEMER CAD. NO:3",
       "phone": "03628766446",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-20",
+      "id": "samsun-19",
       "name": "BARAN ECZANESİ",
       "address": "FAZIL AHMET PAŞA MAH. ATATÜRK İŞ MERKEZİ NO:8",
       "phone": "03626462434",
@@ -259,7 +247,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "samsun-27",
+      "id": "samsun-26",
       "name": "ŞİFA  ECZANESİ",
       "address": "CUMHURIYET CAD.NO:4/B",
       "phone": "03686712179",
