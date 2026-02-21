@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T09:00:39.429Z",
+  "updatedAt": "2026-02-21T09:30:37.332Z",
   "count": 35,
   "pharmacies": [
     {
@@ -152,18 +152,6 @@
     },
     {
       "id": "bursa-12",
-      "name": "HANSA ECZANESİ",
-      "address": "BAĞLARALTI MAH. 2.CAD. NO:26B/9,  (ŞEVKET YILMAZ HASTANESİ ARKASI - ERİKLİ ÜSTÜ) ,  0224-3414741",
-      "phone": "02243414741",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.18044715758667,
-      "longitude": 29.132866859436035,
-      "dutyStart": "2026-02-21T17:00:00.000Z",
-      "dutyEnd": "2026-02-22T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-13",
       "name": "SEZER ECZANESİ",
       "address": "YILDIRIM MAH. BEYAZIT CAD. NO:1/B,  (GÖKDERE MEYDANI YANI) ,  0224-3275994",
       "phone": "02243275994",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-13",
       "name": "NURDAN SAĞLIK ECZANESİ",
       "address": "152 EVLER MAH. PROF.TEZOK CAD. NO:10,  (AKUĞUR MARKET YANI) ,  0224 360 44 44",
       "phone": "02243604444",
@@ -183,6 +171,18 @@
       "city": "Bursa",
       "latitude": 40.18993863,
       "longitude": 29.11057752,
+      "dutyStart": "2026-02-21T17:00:00.000Z",
+      "dutyEnd": "2026-02-22T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-14",
+      "name": "HANSA ECZANESİ",
+      "address": "BAĞLARALTI MAH. 2.CAD. NO:26B/9,  (ŞEVKET YILMAZ HASTANESİ ARKASI - ERİKLİ ÜSTÜ) ,  0224-3414741",
+      "phone": "02243414741",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.18044715758667,
+      "longitude": 29.132866859436035,
       "dutyStart": "2026-02-21T17:00:00.000Z",
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },

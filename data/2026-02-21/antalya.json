@@ -3,7 +3,7 @@
   "cityName": "Antalya",
   "cityId": 7,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T09:00:39.429Z",
+  "updatedAt": "2026-02-21T09:30:37.332Z",
   "count": 40,
   "pharmacies": [
     {
@@ -32,20 +32,20 @@
     },
     {
       "id": "antalya-2",
-      "name": "GÜVEN ECZANESİ",
+      "name": "ULAŞ ECZANESİ",
       "address": "MEMUREVLERİ MAH. ANAFARTALAR CAD. NO:111/C MURATPAŞA(ATATÜRK DEVLET HASTANESİNDEN 300 MT AŞAĞIDA .BİRİM AVM ÇAPRAZI)",
-      "phone": "02423131392",
+      "phone": "05330124066",
       "district": "Antalya",
       "city": "Antalya",
-      "latitude": 36.90333333,
-      "longitude": 30.72683333,
+      "latitude": 36.902915797868445,
+      "longitude": 30.712289423325824,
       "dutyStart": "2026-02-21T08:00:00.000Z",
       "dutyEnd": "2026-02-22T08:00:00.000Z"
     },
     {
       "id": "antalya-3",
       "name": "ABAY ECZANESİ",
-      "address": "YENIGÜN MAH. KÖROGLU BULVARI 54/B CAN ADALYA PALAS HOTEL KARŞISI 32 NOLU SAĞLIK OCAĞI ARKASI",
+      "address": "ETİLER MAH.845 SOK. BOZ APT. 49/A-B MURATPAŞA ANTALYA",
       "phone": "05431962229",
       "district": "Antalya",
       "city": "Antalya",
