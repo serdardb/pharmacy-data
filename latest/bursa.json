@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T07:00:45.030Z",
+  "updatedAt": "2026-02-21T07:30:44.050Z",
   "count": 35,
   "pharmacies": [
     {
@@ -80,6 +80,18 @@
     },
     {
       "id": "bursa-6",
+      "name": "MERİÇ ECZANESİ",
+      "address": "YEŞİLOVA MAH. ÇEŞME SOK. NO:39,  (YEŞİLOVA SAĞLIK OCAĞI YANI) ,  0224-2521578",
+      "phone": "02242521578",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.21165008,
+      "longitude": 29.06675577,
+      "dutyStart": "2026-02-21T17:00:00.000Z",
+      "dutyEnd": "2026-02-22T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-7",
       "name": "GÖKÇEN ECZANESİ",
       "address": "HAMİTLER MAH. 1.FATİH CAD. NO:23/A,  (HAMİTLER YENİ KAPALI PAZAR KARŞISI) ,  0536 951 91 95",
       "phone": "05369519195",
@@ -91,7 +103,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "bursa-7",
+      "id": "bursa-8",
       "name": "BAĞLARBAŞI CAN ECZANESİ",
       "address": "BAĞLARBAŞI MAH. HÜRRİYET CAD. NO:164/4,  (ESENTEPE KAVŞAĞI HÜRRİYET CAD. GİRİŞİ) ,  0224 247 32 94 / 5324676395",
       "phone": "02242473294",
@@ -99,18 +111,6 @@
       "city": "Bursa",
       "latitude": 40.231708,
       "longitude": 28.9860116,
-      "dutyStart": "2026-02-21T17:00:00.000Z",
-      "dutyEnd": "2026-02-22T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-8",
-      "name": "UYAR ECZANESİ",
-      "address": "EMEK FATİH SULTAN MEHMET MAH. ŞHT.JND.UZM.ÇVŞ.İLYAS GENEL CAD. NO:8/A ,  0543 776 02 55 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "05437760255",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.262435043989385,
-      "longitude": 28.959088534256644,
       "dutyStart": "2026-02-21T17:00:00.000Z",
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
@@ -128,6 +128,18 @@
     },
     {
       "id": "bursa-10",
+      "name": "UYAR ECZANESİ",
+      "address": "EMEK FATİH SULTAN MEHMET MAH. ŞHT.JND.UZM.ÇVŞ.İLYAS GENEL CAD. NO:8/A ,  0543 776 02 55 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "05437760255",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.262435043989385,
+      "longitude": 28.959088534256644,
+      "dutyStart": "2026-02-21T17:00:00.000Z",
+      "dutyEnd": "2026-02-22T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
       "name": "SELAM ECZANESİ",
       "address": "HÜDAVENDİGAR MAH. DİKKALDIRIM CAD. NO:30,  (ÇEKİRGE DEVLET HASTANESİ YANI) ,  0224 236 10 04",
       "phone": "02242361004",
@@ -139,19 +151,19 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
-      "name": "MERİÇ ECZANESİ",
-      "address": "YEŞİLOVA MAH. ÇEŞME SOK. NO:39,  (YEŞİLOVA SAĞLIK OCAĞI YANI) ,  0224-2521578",
-      "phone": "02242521578",
-      "district": "OSMANGAZİ",
+      "id": "bursa-12",
+      "name": "HANSA ECZANESİ",
+      "address": "BAĞLARALTI MAH. 2.CAD. NO:26B/9,  (ŞEVKET YILMAZ HASTANESİ ARKASI - ERİKLİ ÜSTÜ) ,  0224-3414741",
+      "phone": "02243414741",
+      "district": "YILDIRIM",
       "city": "Bursa",
-      "latitude": 40.21165008,
-      "longitude": 29.06675577,
+      "latitude": 40.18044715758667,
+      "longitude": 29.132866859436035,
       "dutyStart": "2026-02-21T17:00:00.000Z",
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
+      "id": "bursa-13",
       "name": "SEZER ECZANESİ",
       "address": "YILDIRIM MAH. BEYAZIT CAD. NO:1/B,  (GÖKDERE MEYDANI YANI) ,  0224-3275994",
       "phone": "02243275994",
@@ -163,7 +175,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-14",
       "name": "NURDAN SAĞLIK ECZANESİ",
       "address": "152 EVLER MAH. PROF.TEZOK CAD. NO:10,  (AKUĞUR MARKET YANI) ,  0224 360 44 44",
       "phone": "02243604444",
@@ -171,18 +183,6 @@
       "city": "Bursa",
       "latitude": 40.18993863,
       "longitude": 29.11057752,
-      "dutyStart": "2026-02-21T17:00:00.000Z",
-      "dutyEnd": "2026-02-22T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-14",
-      "name": "HANSA ECZANESİ",
-      "address": "BAĞLARALTI MAH. 2.CAD. NO:26B/9,  (ŞEVKET YILMAZ HASTANESİ ARKASI - ERİKLİ ÜSTÜ) ,  0224-3414741",
-      "phone": "02243414741",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.18044715758667,
-      "longitude": 29.132866859436035,
       "dutyStart": "2026-02-21T17:00:00.000Z",
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },

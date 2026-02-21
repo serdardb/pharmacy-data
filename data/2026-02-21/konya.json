@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T07:00:45.030Z",
+  "updatedAt": "2026-02-21T07:30:44.050Z",
   "count": 34,
   "pharmacies": [
     {
@@ -260,18 +260,6 @@
     },
     {
       "id": "konya-21",
-      "name": "EKİCİ ECZANESİ",
-      "address": "EREĞLİ MAHALLESİ ŞEHİT METİN DÜZGÜN CADDESİ NO:26/1",
-      "phone": "903327131477",
-      "district": "Ereğli̇",
-      "city": "Konya",
-      "latitude": 37.4706215,
-      "longitude": 34.0447716,
-      "dutyStart": "2026-02-21T09:00:00.000Z",
-      "dutyEnd": "2026-02-22T09:00:00.000Z"
-    },
-    {
-      "id": "konya-22",
       "name": "YÜCELEN ECZANESİ",
       "address": "HACIMUTAHİR MAHALLESİ RASİM EREL CADDESİ HİLMİ BEY APARTMANI ŞEHİRKENT PSJ.NO:10E",
       "phone": "903327105303",
@@ -283,7 +271,7 @@
       "dutyEnd": "2026-02-22T09:00:00.000Z"
     },
     {
-      "id": "konya-23",
+      "id": "konya-22",
       "name": "HAKAN ECZANESİ",
       "address": "SÜMER MH. SÜMERBANK CD. MİNİ KÖŞK APT. NO:3A",
       "phone": "903327131331",
@@ -295,7 +283,7 @@
       "dutyEnd": "2026-02-22T09:00:00.000Z"
     },
     {
-      "id": "konya-24",
+      "id": "konya-23",
       "name": "LOKMAN HEKİM ECZANESİ",
       "address": "HACI MUSTAFA MAHALLESİ ZÜMRÜT SOKAK NO:20A",
       "phone": "903327770042",
@@ -303,6 +291,18 @@
       "city": "Konya",
       "latitude": 37.5225185,
       "longitude": 34.0474325,
+      "dutyStart": "2026-02-21T09:00:00.000Z",
+      "dutyEnd": "2026-02-22T09:00:00.000Z"
+    },
+    {
+      "id": "konya-24",
+      "name": "EKİCİ ECZANESİ",
+      "address": "EREĞLİ MAHALLESİ ŞEHİT METİN DÜZGÜN CADDESİ NO:26/1",
+      "phone": "903327131477",
+      "district": "Ereğli̇",
+      "city": "Konya",
+      "latitude": 37.4706215,
+      "longitude": 34.0447716,
       "dutyStart": "2026-02-21T09:00:00.000Z",
       "dutyEnd": "2026-02-22T09:00:00.000Z"
     },
