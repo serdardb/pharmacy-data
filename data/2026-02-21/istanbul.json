@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T18:01:15.208Z",
+  "updatedAt": "2026-02-21T18:31:02.609Z",
   "count": 132,
   "pharmacies": [
     {
@@ -1279,18 +1279,6 @@
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11258",
-      "name": "YAŞAM ECZANESİ",
-      "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
-      "phone": "+902127316038",
-      "district": "SİLİVRİ",
-      "city": "İstanbul",
-      "latitude": 41.055566454111926,
-      "longitude": 28.3677121953202,
-      "dutyStart": "2026-02-20T21:00:00.000Z",
-      "dutyEnd": "2026-02-21T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28098",
       "name": "YAŞAM ECZANESİ",
       "address": "Avcılar Merkez Mahallesi, Harmanyeri Sokak, 12/B",
@@ -1299,6 +1287,18 @@
       "city": "İstanbul",
       "latitude": 40.97854800034644,
       "longitude": 28.71932800025936,
+      "dutyStart": "2026-02-20T21:00:00.000Z",
+      "dutyEnd": "2026-02-21T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11258",
+      "name": "YAŞAM ECZANESİ",
+      "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
+      "phone": "+902127316038",
+      "district": "SİLİVRİ",
+      "city": "İstanbul",
+      "latitude": 41.055566454111926,
+      "longitude": 28.3677121953202,
       "dutyStart": "2026-02-20T21:00:00.000Z",
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
@@ -1423,18 +1423,6 @@
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
     {
-      "id": "istanbul-28086",
-      "name": "ÇINAR ECZANESİ",
-      "address": "Zafer Mahallesi, Ziya Gökalp 1 Sokak, No:8/A",
-      "phone": "+902126390017",
-      "district": "BAHÇELİEVLER",
-      "city": "İstanbul",
-      "latitude": 41.0015889996295,
-      "longitude": 28.835570000064873,
-      "dutyStart": "2026-02-20T21:00:00.000Z",
-      "dutyEnd": "2026-02-21T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-21572",
       "name": "ÇINAR ECZANESİ",
       "address": "Türkoba Mahallesi, Atatürk Caddesi, 247/B",
@@ -1443,6 +1431,18 @@
       "city": "İstanbul",
       "latitude": 41.03383983802346,
       "longitude": 28.52220334580865,
+      "dutyStart": "2026-02-20T21:00:00.000Z",
+      "dutyEnd": "2026-02-21T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-28086",
+      "name": "ÇINAR ECZANESİ",
+      "address": "Zafer Mahallesi, Ziya Gökalp 1 Sokak, No:8/A",
+      "phone": "+902126390017",
+      "district": "BAHÇELİEVLER",
+      "city": "İstanbul",
+      "latitude": 41.0015889996295,
+      "longitude": 28.835570000064873,
       "dutyStart": "2026-02-20T21:00:00.000Z",
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
