@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T09:30:37.332Z",
+  "updatedAt": "2026-02-21T10:00:45.224Z",
   "date": "2026-02-21",
   "cities": [
     {
@@ -51,12 +51,6 @@
       "count": 34
     },
     {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
-    },
-    {
       "city": "samsun",
       "cityName": "Samsun",
       "cityId": 55,
@@ -73,6 +67,12 @@
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 132
+    }
+  ],
+  "errors": [
+    {
+      "city": "gaziantep",
+      "error": "HTTP 500 from https://www.gaziantep.bel.tr/tr/nobetci-eczaneler"
     }
   ]
 }
