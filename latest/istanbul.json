@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T00:00:32.669Z",
+  "updatedAt": "2026-02-21T00:30:32.670Z",
   "count": 132,
   "pharmacies": [
     {
@@ -415,18 +415,6 @@
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11452",
-      "name": "DENİZ ECZANESİ",
-      "address": "Akat Mahallesi, Selçuklar Sokak, 13/B",
-      "phone": "+902123514307",
-      "district": "BEŞİKTAŞ",
-      "city": "İstanbul",
-      "latitude": 41.0780814428223,
-      "longitude": 29.026658649320467,
-      "dutyStart": "2026-02-20T21:00:00.000Z",
-      "dutyEnd": "2026-02-21T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-6638",
       "name": "DENİZ ECZANESİ",
       "address": "Kınalıada Mahallesi, İskele Sokak, 3/B",
@@ -435,6 +423,18 @@
       "city": "İstanbul",
       "latitude": 40.91038290210339,
       "longitude": 29.05476093340845,
+      "dutyStart": "2026-02-20T21:00:00.000Z",
+      "dutyEnd": "2026-02-21T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11452",
+      "name": "DENİZ ECZANESİ",
+      "address": "Akat Mahallesi, Selçuklar Sokak, 13/B",
+      "phone": "+902123514307",
+      "district": "BEŞİKTAŞ",
+      "city": "İstanbul",
+      "latitude": 41.0780814428223,
+      "longitude": 29.026658649320467,
       "dutyStart": "2026-02-20T21:00:00.000Z",
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
@@ -1279,18 +1279,6 @@
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11258",
-      "name": "YAŞAM ECZANESİ",
-      "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
-      "phone": "+902127316038",
-      "district": "SİLİVRİ",
-      "city": "İstanbul",
-      "latitude": 41.055566454111926,
-      "longitude": 28.3677121953202,
-      "dutyStart": "2026-02-20T21:00:00.000Z",
-      "dutyEnd": "2026-02-21T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28098",
       "name": "YAŞAM ECZANESİ",
       "address": "Avcılar Merkez Mahallesi, Harmanyeri Sokak, 12/B",
@@ -1299,6 +1287,18 @@
       "city": "İstanbul",
       "latitude": 40.97854800034644,
       "longitude": 28.71932800025936,
+      "dutyStart": "2026-02-20T21:00:00.000Z",
+      "dutyEnd": "2026-02-21T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11258",
+      "name": "YAŞAM ECZANESİ",
+      "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
+      "phone": "+902127316038",
+      "district": "SİLİVRİ",
+      "city": "İstanbul",
+      "latitude": 41.055566454111926,
+      "longitude": 28.3677121953202,
       "dutyStart": "2026-02-20T21:00:00.000Z",
       "dutyEnd": "2026-02-21T20:59:59.000Z"
     },
