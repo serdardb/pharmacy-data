@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-21",
-  "updatedAt": "2026-02-21T08:00:42.350Z",
+  "updatedAt": "2026-02-21T08:30:36.112Z",
   "count": 35,
   "pharmacies": [
     {
@@ -80,18 +80,6 @@
     },
     {
       "id": "bursa-6",
-      "name": "MERİÇ ECZANESİ",
-      "address": "YEŞİLOVA MAH. ÇEŞME SOK. NO:39,  (YEŞİLOVA SAĞLIK OCAĞI YANI) ,  0224-2521578",
-      "phone": "02242521578",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.21165008,
-      "longitude": 29.06675577,
-      "dutyStart": "2026-02-21T17:00:00.000Z",
-      "dutyEnd": "2026-02-22T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
       "name": "GÖKÇEN ECZANESİ",
       "address": "HAMİTLER MAH. 1.FATİH CAD. NO:23/A,  (HAMİTLER YENİ KAPALI PAZAR KARŞISI) ,  0536 951 91 95",
       "phone": "05369519195",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-7",
       "name": "BAĞLARBAŞI CAN ECZANESİ",
       "address": "BAĞLARBAŞI MAH. HÜRRİYET CAD. NO:164/4,  (ESENTEPE KAVŞAĞI HÜRRİYET CAD. GİRİŞİ) ,  0224 247 32 94 / 5324676395",
       "phone": "02242473294",
@@ -111,6 +99,18 @@
       "city": "Bursa",
       "latitude": 40.231708,
       "longitude": 28.9860116,
+      "dutyStart": "2026-02-21T17:00:00.000Z",
+      "dutyEnd": "2026-02-22T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-8",
+      "name": "UYAR ECZANESİ",
+      "address": "EMEK FATİH SULTAN MEHMET MAH. ŞHT.JND.UZM.ÇVŞ.İLYAS GENEL CAD. NO:8/A ,  0543 776 02 55 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "05437760255",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.262435043989385,
+      "longitude": 28.959088534256644,
       "dutyStart": "2026-02-21T17:00:00.000Z",
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
@@ -128,18 +128,6 @@
     },
     {
       "id": "bursa-10",
-      "name": "UYAR ECZANESİ",
-      "address": "EMEK FATİH SULTAN MEHMET MAH. ŞHT.JND.UZM.ÇVŞ.İLYAS GENEL CAD. NO:8/A ,  0543 776 02 55 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "05437760255",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.262435043989385,
-      "longitude": 28.959088534256644,
-      "dutyStart": "2026-02-21T17:00:00.000Z",
-      "dutyEnd": "2026-02-22T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-11",
       "name": "SELAM ECZANESİ",
       "address": "HÜDAVENDİGAR MAH. DİKKALDIRIM CAD. NO:30,  (ÇEKİRGE DEVLET HASTANESİ YANI) ,  0224 236 10 04",
       "phone": "02242361004",
@@ -147,6 +135,18 @@
       "city": "Bursa",
       "latitude": 40.20419792,
       "longitude": 29.01643753,
+      "dutyStart": "2026-02-21T17:00:00.000Z",
+      "dutyEnd": "2026-02-22T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "MERİÇ ECZANESİ",
+      "address": "YEŞİLOVA MAH. ÇEŞME SOK. NO:39,  (YEŞİLOVA SAĞLIK OCAĞI YANI) ,  0224-2521578",
+      "phone": "02242521578",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.21165008,
+      "longitude": 29.06675577,
       "dutyStart": "2026-02-21T17:00:00.000Z",
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
