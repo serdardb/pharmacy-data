@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T22:00:48.935Z",
+  "updatedAt": "2026-02-22T22:30:45.733Z",
   "date": "2026-02-23",
   "cities": [
     {
@@ -9,15 +9,15 @@
       "count": 40
     },
     {
+      "city": "ankara",
+      "cityName": "Ankara",
+      "cityId": 6,
+      "count": 58
+    },
+    {
       "city": "bursa",
       "cityName": "Bursa",
       "cityId": 16,
-      "count": 34
-    },
-    {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
       "count": 34
     },
     {
@@ -25,6 +25,12 @@
       "cityName": "İzmir",
       "cityId": 35,
       "count": 70
+    },
+    {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
     },
     {
       "city": "konya",
@@ -45,12 +51,6 @@
       "count": 20
     },
     {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
-    },
-    {
       "city": "samsun",
       "cityName": "Samsun",
       "cityId": 55,
@@ -63,16 +63,16 @@
       "count": 6
     },
     {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
+    },
+    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 134
-    }
-  ],
-  "errors": [
-    {
-      "city": "ankara",
-      "error": "HTTP 500 from https://www.aeo.org.tr/getPharmacies/2026-02-23"
     }
   ]
 }
