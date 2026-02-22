@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-22",
-  "updatedAt": "2026-02-22T02:00:25.574Z",
+  "updatedAt": "2026-02-22T02:30:25.469Z",
   "count": 30,
   "pharmacies": [
     {
@@ -104,6 +104,18 @@
     },
     {
       "id": "bursa-8",
+      "name": "UYAR ECZANESİ",
+      "address": "EMEK FATİH SULTAN MEHMET MAH. ŞHT.JND.UZM.ÇVŞ.İLYAS GENEL CAD. NO:8/A ,  0543 776 02 55 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "05437760255",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.262435043989385,
+      "longitude": 28.959088534256644,
+      "dutyStart": "2026-02-21T17:00:00.000Z",
+      "dutyEnd": "2026-02-22T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-9",
       "name": "GÖKÇEN ECZANESİ",
       "address": "HAMİTLER MAH. 1.FATİH CAD. NO:23/A,  (HAMİTLER YENİ KAPALI PAZAR KARŞISI) ,  0536 951 91 95",
       "phone": "05369519195",
@@ -115,7 +127,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-10",
       "name": "BAĞLARBAŞI CAN ECZANESİ",
       "address": "BAĞLARBAŞI MAH. HÜRRİYET CAD. NO:164/4,  (ESENTEPE KAVŞAĞI HÜRRİYET CAD. GİRİŞİ) ,  0224 247 32 94 / 5324676395",
       "phone": "02242473294",
@@ -127,7 +139,7 @@
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-11",
       "name": "DERELİ ECZANESİ",
       "address": "KIRCAALİ MAH. KAYALI SOK. NO:34/A,  (ÖZEL VM MEDİCALPARK ACİL ÇIKIŞI) ,  0224 999 55 01",
       "phone": "02249995501",
@@ -135,18 +147,6 @@
       "city": "Bursa",
       "latitude": 40.19346070418001,
       "longitude": 29.060626924037933,
-      "dutyStart": "2026-02-21T17:00:00.000Z",
-      "dutyEnd": "2026-02-22T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-11",
-      "name": "UYAR ECZANESİ",
-      "address": "EMEK FATİH SULTAN MEHMET MAH. ŞHT.JND.UZM.ÇVŞ.İLYAS GENEL CAD. NO:8/A ,  0543 776 02 55 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "05437760255",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.262435043989385,
-      "longitude": 28.959088534256644,
       "dutyStart": "2026-02-21T17:00:00.000Z",
       "dutyEnd": "2026-02-22T08:30:00.000Z"
     },
