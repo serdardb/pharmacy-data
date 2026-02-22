@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-22",
-  "updatedAt": "2026-02-22T00:00:25.867Z",
+  "updatedAt": "2026-02-22T00:30:25.471Z",
   "count": 150,
   "pharmacies": [
     {
@@ -103,18 +103,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11394",
-      "name": "ARDA ECZANESİ",
-      "address": "İnönü Mahallesi, Maslak Çeşme Caddesi, 92",
-      "phone": "+902124713950",
-      "district": "KÜÇÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.021394464809795,
-      "longitude": 28.797043711797873,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-21988",
       "name": "ARDA ECZANESİ",
       "address": "Hürriyet Mahallesi, Paşaçayırı Caddesi, 45",
@@ -123,6 +111,18 @@
       "city": "İstanbul",
       "latitude": 41.06976224998692,
       "longitude": 28.897535568566965,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11394",
+      "name": "ARDA ECZANESİ",
+      "address": "İnönü Mahallesi, Maslak Çeşme Caddesi, 92",
+      "phone": "+902124713950",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.021394464809795,
+      "longitude": 28.797043711797873,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -463,18 +463,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21788",
-      "name": "DERMAN ECZANESİ",
-      "address": "Ortabayır Mahallesi, Talatpaşa Caddesi, 57",
-      "phone": "+905326062698",
-      "district": "KAĞITHANE",
-      "city": "İstanbul",
-      "latitude": 41.078832023039396,
-      "longitude": 29.00471676175392,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-21936",
       "name": "DERMAN ECZANESİ",
       "address": "Gazi Mahallesi, İsmetpaşa Caddesi, 46-B",
@@ -483,6 +471,18 @@
       "city": "İstanbul",
       "latitude": 41.10294157582499,
       "longitude": 28.89798740915071,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21788",
+      "name": "DERMAN ECZANESİ",
+      "address": "Ortabayır Mahallesi, Talatpaşa Caddesi, 57",
+      "phone": "+905326062698",
+      "district": "KAĞITHANE",
+      "city": "İstanbul",
+      "latitude": 41.078832023039396,
+      "longitude": 29.00471676175392,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -1087,18 +1087,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21544",
-      "name": "MERKEZ ECZANESİ",
-      "address": "Ayazağa Mahallesi Şehit Naci Canan Tuncer (G. 24) Sokak 13/A",
-      "phone": "+902123321995",
-      "district": "SARIYER",
-      "city": "İstanbul",
-      "latitude": 41.11595518349656,
-      "longitude": 28.999549063762846,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-8680",
       "name": "MERKEZ ECZANESİ",
       "address": "Nizam Mahallesi, 23 Nisan Caddesi, 12",
@@ -1107,6 +1095,18 @@
       "city": "İstanbul",
       "latitude": 40.87385668832126,
       "longitude": 29.127998108028326,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21544",
+      "name": "MERKEZ ECZANESİ",
+      "address": "Ayazağa Mahallesi Şehit Naci Canan Tuncer (G. 24) Sokak 13/A",
+      "phone": "+902123321995",
+      "district": "SARIYER",
+      "city": "İstanbul",
+      "latitude": 41.11595518349656,
+      "longitude": 28.999549063762846,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -1375,18 +1375,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-9782",
-      "name": "SAĞLIK ECZANESİ",
-      "address": "Ferhatpaşa Mahallesi, Mescit Sokak, 12",
-      "phone": "+902127893605",
-      "district": "ÇATALCA",
-      "city": "İstanbul",
-      "latitude": 41.14287418377447,
-      "longitude": 28.45988661297441,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-20282",
       "name": "SAĞLIK ECZANESİ",
       "address": "İslambey Mahallesi, Fatih Caddesi, 46",
@@ -1395,6 +1383,18 @@
       "city": "İstanbul",
       "latitude": 41.18592435821332,
       "longitude": 28.739872127788416,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-9782",
+      "name": "SAĞLIK ECZANESİ",
+      "address": "Ferhatpaşa Mahallesi, Mescit Sokak, 12",
+      "phone": "+902127893605",
+      "district": "ÇATALCA",
+      "city": "İstanbul",
+      "latitude": 41.14287418377447,
+      "longitude": 28.45988661297441,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -1567,18 +1567,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29014",
-      "name": "VİTAMİN ECZANESİ",
-      "address": "Mimar Sinan Mahallesi, Selmanı Pak Caddesi, 68/A",
-      "phone": "+902163340404",
-      "district": "ÜSKÜDAR",
-      "city": "İstanbul",
-      "latitude": 41.025913999573696,
-      "longitude": 29.021655999439343,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-21556",
       "name": "VİTAMİN ECZANESİ",
       "address": "Barbaros Mahallesi, Başak Cengiz Sokak, 7TA",
@@ -1587,6 +1575,18 @@
       "city": "İstanbul",
       "latitude": 40.99819710496789,
       "longitude": 29.105587326145848,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29014",
+      "name": "VİTAMİN ECZANESİ",
+      "address": "Mimar Sinan Mahallesi, Selmanı Pak Caddesi, 68/A",
+      "phone": "+902163340404",
+      "district": "ÜSKÜDAR",
+      "city": "İstanbul",
+      "latitude": 41.025913999573696,
+      "longitude": 29.021655999439343,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
