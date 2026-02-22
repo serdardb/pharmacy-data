@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-22T03:00:25.570Z",
+  "updatedAt": "2026-02-22T03:30:25.464Z",
   "date": "2026-02-22",
   "cities": [
     {
@@ -27,12 +27,6 @@
       "count": 40
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 74
-    },
-    {
       "city": "adana",
       "cityName": "Adana",
       "cityId": 1,
@@ -49,6 +43,12 @@
       "cityName": "Mersin",
       "cityId": 33,
       "count": 17
+    },
+    {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 74
     },
     {
       "city": "samsun",
