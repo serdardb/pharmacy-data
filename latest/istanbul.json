@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-22",
-  "updatedAt": "2026-02-22T19:00:47.633Z",
+  "updatedAt": "2026-02-22T19:30:45.843Z",
   "count": 150,
   "pharmacies": [
     {
@@ -103,18 +103,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21988",
-      "name": "ARDA ECZANESİ",
-      "address": "Hürriyet Mahallesi, Paşaçayırı Caddesi, 45",
-      "phone": "+902126092007",
-      "district": "GAZİOSMANPAŞA",
-      "city": "İstanbul",
-      "latitude": 41.06976224998692,
-      "longitude": 28.897535568566965,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-11394",
       "name": "ARDA ECZANESİ",
       "address": "İnönü Mahallesi, Maslak Çeşme Caddesi, 92",
@@ -123,6 +111,18 @@
       "city": "İstanbul",
       "latitude": 41.021394464809795,
       "longitude": 28.797043711797873,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21988",
+      "name": "ARDA ECZANESİ",
+      "address": "Hürriyet Mahallesi, Paşaçayırı Caddesi, 45",
+      "phone": "+902126092007",
+      "district": "GAZİOSMANPAŞA",
+      "city": "İstanbul",
+      "latitude": 41.06976224998692,
+      "longitude": 28.897535568566965,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -283,18 +283,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-22760",
-      "name": "BETÜL ECZANESİ",
-      "address": "Fevzi Çakmak Mahallesi Özenli Sokak 9/A",
-      "phone": "+902163963151",
-      "district": "PENDİK",
-      "city": "İstanbul",
-      "latitude": 40.87975314689955,
-      "longitude": 29.261577404794654,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28560",
       "name": "BETÜL ECZANESİ",
       "address": "Cennet Mahallesi, Reyhan Caddesi, 108B",
@@ -303,6 +291,18 @@
       "city": "İstanbul",
       "latitude": 40.99268175001497,
       "longitude": 28.78437779903237,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-22760",
+      "name": "BETÜL ECZANESİ",
+      "address": "Fevzi Çakmak Mahallesi Özenli Sokak 9/A",
+      "phone": "+902163963151",
+      "district": "PENDİK",
+      "city": "İstanbul",
+      "latitude": 40.87975314689955,
+      "longitude": 29.261577404794654,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -823,18 +823,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-24804",
-      "name": "HANDE ECZANESİ",
-      "address": "İstasyon Mahallesi, Kömürcü Yolu Caddesi, 67/B",
-      "phone": "+902126975848",
-      "district": "KÜÇÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.03324100003214,
-      "longitude": 28.769580000573992,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17540",
       "name": "HANDE ECZANESİ",
       "address": "Sultan Selim Mahallesi, Sultan Selim Caddesi, 123",
@@ -843,6 +831,18 @@
       "city": "İstanbul",
       "latitude": 41.09151186025363,
       "longitude": 28.995112181870937,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-24804",
+      "name": "HANDE ECZANESİ",
+      "address": "İstasyon Mahallesi, Kömürcü Yolu Caddesi, 67/B",
+      "phone": "+902126975848",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.03324100003214,
+      "longitude": 28.769580000573992,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -1027,18 +1027,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-25528",
-      "name": "LOTUS ECZANESİ",
-      "address": "Örnek Mahallesi, Fikri Sönmez Caddesi, 23A",
-      "phone": "+902125961046",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.04534849206045,
-      "longitude": 28.673293144015602,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-26106",
       "name": "LOTUS ECZANESİ",
       "address": "Dumlupınar Mahallesi, Barış Sokak, 7-BF",
@@ -1047,6 +1035,18 @@
       "city": "İstanbul",
       "latitude": 40.994438347139244,
       "longitude": 29.05899886192759,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-25528",
+      "name": "LOTUS ECZANESİ",
+      "address": "Örnek Mahallesi, Fikri Sönmez Caddesi, 23A",
+      "phone": "+902125961046",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.04534849206045,
+      "longitude": 28.673293144015602,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -1375,18 +1375,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-20282",
-      "name": "SAĞLIK ECZANESİ",
-      "address": "İslambey Mahallesi, Fatih Caddesi, 46",
-      "phone": "+902125978767",
-      "district": "ARNAVUTKÖY",
-      "city": "İstanbul",
-      "latitude": 41.18592435821332,
-      "longitude": 28.739872127788416,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-9782",
       "name": "SAĞLIK ECZANESİ",
       "address": "Ferhatpaşa Mahallesi, Mescit Sokak, 12",
@@ -1395,6 +1383,18 @@
       "city": "İstanbul",
       "latitude": 41.14287418377447,
       "longitude": 28.45988661297441,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-20282",
+      "name": "SAĞLIK ECZANESİ",
+      "address": "İslambey Mahallesi, Fatih Caddesi, 46",
+      "phone": "+902125978767",
+      "district": "ARNAVUTKÖY",
+      "city": "İstanbul",
+      "latitude": 41.18592435821332,
+      "longitude": 28.739872127788416,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
