@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-22",
-  "updatedAt": "2026-02-22T16:00:56.642Z",
+  "updatedAt": "2026-02-22T16:30:47.342Z",
   "count": 150,
   "pharmacies": [
     {
@@ -283,18 +283,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-28560",
-      "name": "BETÜL ECZANESİ",
-      "address": "Cennet Mahallesi, Reyhan Caddesi, 108B",
-      "phone": "+902124243832",
-      "district": "KÜÇÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 40.99268175001497,
-      "longitude": 28.78437779903237,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-22760",
       "name": "BETÜL ECZANESİ",
       "address": "Fevzi Çakmak Mahallesi Özenli Sokak 9/A",
@@ -303,6 +291,18 @@
       "city": "İstanbul",
       "latitude": 40.87975314689955,
       "longitude": 29.261577404794654,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-28560",
+      "name": "BETÜL ECZANESİ",
+      "address": "Cennet Mahallesi, Reyhan Caddesi, 108B",
+      "phone": "+902124243832",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 40.99268175001497,
+      "longitude": 28.78437779903237,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -463,18 +463,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21788",
-      "name": "DERMAN ECZANESİ",
-      "address": "Ortabayır Mahallesi, Talatpaşa Caddesi, 57",
-      "phone": "+905326062698",
-      "district": "KAĞITHANE",
-      "city": "İstanbul",
-      "latitude": 41.078832023039396,
-      "longitude": 29.00471676175392,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-21936",
       "name": "DERMAN ECZANESİ",
       "address": "Gazi Mahallesi, İsmetpaşa Caddesi, 46-B",
@@ -483,6 +471,18 @@
       "city": "İstanbul",
       "latitude": 41.10294157582499,
       "longitude": 28.89798740915071,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21788",
+      "name": "DERMAN ECZANESİ",
+      "address": "Ortabayır Mahallesi, Talatpaşa Caddesi, 57",
+      "phone": "+905326062698",
+      "district": "KAĞITHANE",
+      "city": "İstanbul",
+      "latitude": 41.078832023039396,
+      "longitude": 29.00471676175392,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -1027,18 +1027,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-25528",
-      "name": "LOTUS ECZANESİ",
-      "address": "Örnek Mahallesi, Fikri Sönmez Caddesi, 23A",
-      "phone": "+902125961046",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.04534849206045,
-      "longitude": 28.673293144015602,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-26106",
       "name": "LOTUS ECZANESİ",
       "address": "Dumlupınar Mahallesi, Barış Sokak, 7-BF",
@@ -1047,6 +1035,18 @@
       "city": "İstanbul",
       "latitude": 40.994438347139244,
       "longitude": 29.05899886192759,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-25528",
+      "name": "LOTUS ECZANESİ",
+      "address": "Örnek Mahallesi, Fikri Sönmez Caddesi, 23A",
+      "phone": "+902125961046",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.04534849206045,
+      "longitude": 28.673293144015602,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },

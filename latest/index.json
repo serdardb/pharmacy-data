@@ -1,36 +1,12 @@
 {
-  "updatedAt": "2026-02-22T16:00:56.642Z",
+  "updatedAt": "2026-02-22T16:30:47.342Z",
   "date": "2026-02-22",
   "cities": [
-    {
-      "city": "ankara",
-      "cityName": "Ankara",
-      "cityId": 6,
-      "count": 58
-    },
     {
       "city": "antalya",
       "cityName": "Antalya",
       "cityId": 7,
       "count": 40
-    },
-    {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 70
-    },
-    {
-      "city": "bursa",
-      "cityName": "Bursa",
-      "cityId": 16,
-      "count": 38
-    },
-    {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
     },
     {
       "city": "konya",
@@ -39,10 +15,10 @@
       "count": 33
     },
     {
-      "city": "kocaeli",
-      "cityName": "Kocaeli",
-      "cityId": 41,
-      "count": 23
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 70
     },
     {
       "city": "mersin",
@@ -51,10 +27,10 @@
       "count": 24
     },
     {
-      "city": "istanbul",
-      "cityName": "İstanbul",
-      "cityId": 34,
-      "count": 150
+      "city": "kocaeli",
+      "cityName": "Kocaeli",
+      "cityId": 41,
+      "count": 23
     },
     {
       "city": "samsun",
@@ -67,12 +43,30 @@
       "cityName": "Sinop",
       "cityId": 57,
       "count": 6
+    },
+    {
+      "city": "istanbul",
+      "cityName": "İstanbul",
+      "cityId": 34,
+      "count": 150
     }
   ],
   "errors": [
     {
       "city": "gaziantep",
       "error": "HTTP 525 from https://www.gaziantep.bel.tr/tr/nobetci-eczaneler"
+    },
+    {
+      "city": "ankara",
+      "error": "HTTP 520 from https://www.aeo.org.tr/getPharmacies/2026-02-22"
+    },
+    {
+      "city": "adana",
+      "error": "HTTP 525 from https://www.adanaeo.org.tr/nobetci-eczaneler"
+    },
+    {
+      "city": "bursa",
+      "error": "HTTP 525 from https://www.beo.org.tr/nobetci-eczaneler"
     }
   ]
 }
