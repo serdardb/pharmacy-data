@@ -1,13 +1,7 @@
 {
-  "updatedAt": "2026-02-22T03:30:25.464Z",
+  "updatedAt": "2026-02-22T04:00:25.474Z",
   "date": "2026-02-22",
   "cities": [
-    {
-      "city": "bursa",
-      "cityName": "Bursa",
-      "cityId": 16,
-      "count": 30
-    },
     {
       "city": "ankara",
       "cityName": "Ankara",
@@ -27,6 +21,18 @@
       "count": 40
     },
     {
+      "city": "bursa",
+      "cityName": "Bursa",
+      "cityId": 16,
+      "count": 30
+    },
+    {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 74
+    },
+    {
       "city": "adana",
       "cityName": "Adana",
       "cityId": 1,
@@ -43,12 +49,6 @@
       "cityName": "Mersin",
       "cityId": 33,
       "count": 17
-    },
-    {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 74
     },
     {
       "city": "samsun",
