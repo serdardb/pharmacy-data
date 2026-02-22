@@ -3,11 +3,11 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-02-22",
-  "updatedAt": "2026-02-22T04:30:25.468Z",
-  "count": 6,
+  "updatedAt": "2026-02-22T05:00:25.471Z",
+  "count": 5,
   "pharmacies": [
     {
-      "id": "sinop-20",
+      "id": "sinop-19",
       "name": "NİHAL ECZANESİ",
       "address": "KEFEVİ MAH. DERVİŞ SARABİL CAD. NO:27/B",
       "phone": "03685021011",
@@ -19,7 +19,7 @@
       "dutyEnd": "2026-02-23T08:30:00.000Z"
     },
     {
-      "id": "sinop-21",
+      "id": "sinop-20",
       "name": "ÖNSOY  ECZANESİ",
       "address": "YALI MAH. KÖPRÜBAŞI CAD. 39/C",
       "phone": "03686131203",
@@ -31,19 +31,7 @@
       "dutyEnd": "2026-02-23T08:30:00.000Z"
     },
     {
-      "id": "sinop-22",
-      "name": "YAŞAM  ECZANESİ",
-      "address": "CAMİKEBİR MAH. TELGRAFÇI SOK. NO:22",
-      "phone": "03685020744",
-      "district": "Boyabat",
-      "city": "Sinop",
-      "latitude": 41.465634,
-      "longitude": 34.772914,
-      "dutyStart": "2026-02-22T08:30:00.000Z",
-      "dutyEnd": "2026-02-23T08:30:00.000Z"
-    },
-    {
-      "id": "sinop-23",
+      "id": "sinop-21",
       "name": "ERDOĞAN  ECZANESİ",
       "address": "MERKEZ MAH. YUSUF KEMAL TENGİRŞEK CAD. NO:30",
       "phone": "03684162277",
@@ -55,7 +43,7 @@
       "dutyEnd": "2026-02-23T08:30:00.000Z"
     },
     {
-      "id": "sinop-24",
+      "id": "sinop-22",
       "name": "KUMSAL ECZANESİ",
       "address": "MERKEZ MAH. ÇINARLIK CAD. NO:20/B",
       "phone": "03685112000",
@@ -67,7 +55,7 @@
       "dutyEnd": "2026-02-23T08:30:00.000Z"
     },
     {
-      "id": "sinop-25",
+      "id": "sinop-23",
       "name": "YENİCE  ECZANESİ",
       "address": "HAMİDİYE MAH.VATAN BULVARI NO:38/A",
       "phone": "03687184885",
