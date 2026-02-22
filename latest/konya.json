@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-22",
-  "updatedAt": "2026-02-22T15:00:48.140Z",
+  "updatedAt": "2026-02-22T15:30:49.439Z",
   "count": 33,
   "pharmacies": [
     {
@@ -152,18 +152,6 @@
     },
     {
       "id": "konya-12",
-      "name": "DEVA ECZANESİ",
-      "address": "SEYRAN MAHALLESİ 33219. SOKAK NO:3",
-      "phone": "903328131276",
-      "district": "Akşehi̇r",
-      "city": "Konya",
-      "latitude": 38.3458861,
-      "longitude": 31.4428546,
-      "dutyStart": "2026-02-22T09:00:00.000Z",
-      "dutyEnd": "2026-02-23T09:00:00.000Z"
-    },
-    {
-      "id": "konya-13",
       "name": "AYDIN ECZANESİ",
       "address": "KİLECİ MAHALLESİ DR.VAHDİ YAMALIK CADDESİ NO:4B",
       "phone": "903328122770",
@@ -171,6 +159,18 @@
       "city": "Konya",
       "latitude": 38.3534563,
       "longitude": 31.4201665,
+      "dutyStart": "2026-02-22T09:00:00.000Z",
+      "dutyEnd": "2026-02-23T09:00:00.000Z"
+    },
+    {
+      "id": "konya-13",
+      "name": "DEVA ECZANESİ",
+      "address": "SEYRAN MAHALLESİ 33219. SOKAK NO:3",
+      "phone": "903328131276",
+      "district": "Akşehi̇r",
+      "city": "Konya",
+      "latitude": 38.3458861,
+      "longitude": 31.4428546,
       "dutyStart": "2026-02-22T09:00:00.000Z",
       "dutyEnd": "2026-02-23T09:00:00.000Z"
     },

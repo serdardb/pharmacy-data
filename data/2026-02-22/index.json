@@ -1,12 +1,18 @@
 {
-  "updatedAt": "2026-02-22T15:00:48.140Z",
+  "updatedAt": "2026-02-22T15:30:49.439Z",
   "date": "2026-02-22",
   "cities": [
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 70
+      "city": "antalya",
+      "cityName": "Antalya",
+      "cityId": 7,
+      "count": 40
+    },
+    {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
     },
     {
       "city": "konya",
@@ -15,22 +21,22 @@
       "count": 33
     },
     {
-      "city": "istanbul",
-      "cityName": "İstanbul",
-      "cityId": 34,
-      "count": 150
-    },
-    {
-      "city": "antalya",
-      "cityName": "Antalya",
-      "cityId": 7,
-      "count": 40
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 70
     },
     {
       "city": "kocaeli",
       "cityName": "Kocaeli",
       "cityId": 41,
       "count": 23
+    },
+    {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
     },
     {
       "city": "samsun",
@@ -43,28 +49,30 @@
       "cityName": "Sinop",
       "cityId": 57,
       "count": 6
-    }
-  ],
-  "errors": [
-    {
-      "city": "adana",
-      "error": "HTTP 525 from https://www.adanaeo.org.tr/nobetci-eczaneler"
     },
     {
-      "city": "gaziantep",
-      "error": "HTTP 525 from https://www.gaziantep.bel.tr/tr/nobetci-eczaneler"
+      "city": "istanbul",
+      "cityName": "İstanbul",
+      "cityId": 34,
+      "count": 150
     },
     {
       "city": "mersin",
-      "error": "HTTP 525 from https://www.mersineczaciodasi.org.tr/nobetci-eczaneler"
+      "cityName": "Mersin",
+      "cityId": 33,
+      "count": 25
     },
     {
       "city": "bursa",
-      "error": "HTTP 525 from https://www.beo.org.tr/nobetci-eczaneler"
+      "cityName": "Bursa",
+      "cityId": 16,
+      "count": 38
     },
     {
       "city": "ankara",
-      "error": "HTTP 520 from https://www.aeo.org.tr/getPharmacies/2026-02-22"
+      "cityName": "Ankara",
+      "cityId": 6,
+      "count": 58
     }
   ]
 }
