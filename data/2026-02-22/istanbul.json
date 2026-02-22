@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-22",
-  "updatedAt": "2026-02-22T17:00:54.047Z",
+  "updatedAt": "2026-02-22T17:30:57.834Z",
   "count": 150,
   "pharmacies": [
     {
@@ -823,18 +823,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-24804",
-      "name": "HANDE ECZANESİ",
-      "address": "İstasyon Mahallesi, Kömürcü Yolu Caddesi, 67/B",
-      "phone": "+902126975848",
-      "district": "KÜÇÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.03324100003214,
-      "longitude": 28.769580000573992,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17540",
       "name": "HANDE ECZANESİ",
       "address": "Sultan Selim Mahallesi, Sultan Selim Caddesi, 123",
@@ -843,6 +831,18 @@
       "city": "İstanbul",
       "latitude": 41.09151186025363,
       "longitude": 28.995112181870937,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-24804",
+      "name": "HANDE ECZANESİ",
+      "address": "İstasyon Mahallesi, Kömürcü Yolu Caddesi, 67/B",
+      "phone": "+902126975848",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.03324100003214,
+      "longitude": 28.769580000573992,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -1027,18 +1027,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-26106",
-      "name": "LOTUS ECZANESİ",
-      "address": "Dumlupınar Mahallesi, Barış Sokak, 7-BF",
-      "phone": "+902169999655",
-      "district": "KADIKÖY",
-      "city": "İstanbul",
-      "latitude": 40.994438347139244,
-      "longitude": 29.05899886192759,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25528",
       "name": "LOTUS ECZANESİ",
       "address": "Örnek Mahallesi, Fikri Sönmez Caddesi, 23A",
@@ -1047,6 +1035,18 @@
       "city": "İstanbul",
       "latitude": 41.04534849206045,
       "longitude": 28.673293144015602,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-26106",
+      "name": "LOTUS ECZANESİ",
+      "address": "Dumlupınar Mahallesi, Barış Sokak, 7-BF",
+      "phone": "+902169999655",
+      "district": "KADIKÖY",
+      "city": "İstanbul",
+      "latitude": 40.994438347139244,
+      "longitude": 29.05899886192759,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
@@ -1099,18 +1099,6 @@
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21544",
-      "name": "MERKEZ ECZANESİ",
-      "address": "Ayazağa Mahallesi Şehit Naci Canan Tuncer (G. 24) Sokak 13/A",
-      "phone": "+902123321995",
-      "district": "SARIYER",
-      "city": "İstanbul",
-      "latitude": 41.11595518349656,
-      "longitude": 28.999549063762846,
-      "dutyStart": "2026-02-21T21:00:00.000Z",
-      "dutyEnd": "2026-02-22T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-8680",
       "name": "MERKEZ ECZANESİ",
       "address": "Nizam Mahallesi, 23 Nisan Caddesi, 12",
@@ -1119,6 +1107,18 @@
       "city": "İstanbul",
       "latitude": 40.87385668832126,
       "longitude": 29.127998108028326,
+      "dutyStart": "2026-02-21T21:00:00.000Z",
+      "dutyEnd": "2026-02-22T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21544",
+      "name": "MERKEZ ECZANESİ",
+      "address": "Ayazağa Mahallesi Şehit Naci Canan Tuncer (G. 24) Sokak 13/A",
+      "phone": "+902123321995",
+      "district": "SARIYER",
+      "city": "İstanbul",
+      "latitude": 41.11595518349656,
+      "longitude": 28.999549063762846,
       "dutyStart": "2026-02-21T21:00:00.000Z",
       "dutyEnd": "2026-02-22T20:59:59.000Z"
     },
