@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T15:00:32.073Z",
+  "updatedAt": "2026-02-23T15:30:30.578Z",
   "count": 32,
   "pharmacies": [
     {
@@ -200,18 +200,6 @@
     },
     {
       "id": "konya-16",
-      "name": "DİYDEM ECZANESİ",
-      "address": "YENİCEOBA MAH. YENİCEOBA CAD. NO:61C",
-      "phone": "903326761114",
-      "district": "Ci̇hanbeyli̇",
-      "city": "Konya",
-      "latitude": 38.87074,
-      "longitude": 32.79009,
-      "dutyStart": "2026-02-23T09:00:00.000Z",
-      "dutyEnd": "2026-02-24T09:00:00.000Z"
-    },
-    {
-      "id": "konya-17",
       "name": "TAŞKIRAN ECZANESİ",
       "address": "ATÇEKEN MAHALLESİ ALİ ÖZTOK CADDESİ NO:23",
       "phone": "903326731624",
@@ -219,6 +207,18 @@
       "city": "Konya",
       "latitude": 38.6566704,
       "longitude": 32.9217268,
+      "dutyStart": "2026-02-23T09:00:00.000Z",
+      "dutyEnd": "2026-02-24T09:00:00.000Z"
+    },
+    {
+      "id": "konya-17",
+      "name": "DİYDEM ECZANESİ",
+      "address": "YENİCEOBA MAH. YENİCEOBA CAD. NO:61C",
+      "phone": "903326761114",
+      "district": "Ci̇hanbeyli̇",
+      "city": "Konya",
+      "latitude": 38.87074,
+      "longitude": 32.79009,
       "dutyStart": "2026-02-23T09:00:00.000Z",
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },

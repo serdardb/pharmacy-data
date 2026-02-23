@@ -3,23 +3,11 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T15:00:32.073Z",
+  "updatedAt": "2026-02-23T15:30:30.578Z",
   "count": 21,
   "pharmacies": [
     {
       "id": "samsun-0",
-      "name": "BEYZADE ECZANESİ",
-      "address": "İSTASYON MAH. CUMHURİYET CAD. NO:128/A-12",
-      "phone": "03624310160",
-      "district": "İlkadım",
-      "city": "Samsun",
-      "latitude": 41.28427,
-      "longitude": 36.342355,
-      "dutyStart": "2026-02-23T08:30:00.000Z",
-      "dutyEnd": "2026-02-24T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-1",
       "name": "YENİDOĞAN ECZANESİ",
       "address": "YENİDOĞAN MAH. ATLAS SOK. NO:25/1",
       "phone": "03622337684",
@@ -31,7 +19,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "samsun-2",
+      "id": "samsun-1",
       "name": "MERT ECZANESİ",
       "address": "ÇATALARMUT MAH. 30 AĞUSTOS CAD. NO:201/1",
       "phone": "03624316263",
@@ -39,6 +27,18 @@
       "city": "Samsun",
       "latitude": 41.290067,
       "longitude": 36.310304,
+      "dutyStart": "2026-02-23T08:30:00.000Z",
+      "dutyEnd": "2026-02-24T08:30:00.000Z"
+    },
+    {
+      "id": "samsun-2",
+      "name": "BEYZADE ECZANESİ",
+      "address": "İSTASYON MAH. CUMHURİYET CAD. NO:128/A-12",
+      "phone": "03624310160",
+      "district": "İlkadım",
+      "city": "Samsun",
+      "latitude": 41.28427,
+      "longitude": 36.342355,
       "dutyStart": "2026-02-23T08:30:00.000Z",
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
@@ -56,18 +56,6 @@
     },
     {
       "id": "samsun-4",
-      "name": "PELİTKÖY İPEK ECZANESİ",
-      "address": "BÜYÜKOYUMCA MAH. ŞENTEPE CAD. NO:82/A",
-      "phone": "03624590999",
-      "district": "Atakum",
-      "city": "Samsun",
-      "latitude": 41.355528,
-      "longitude": 36.205356,
-      "dutyStart": "2026-02-23T08:30:00.000Z",
-      "dutyEnd": "2026-02-24T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-5",
       "name": "EYLÜL ECZANESİ",
       "address": "MİMARSİNAN MAH. 178.SOKAK NO:12/1-B",
       "phone": "03624390056",
@@ -75,6 +63,18 @@
       "city": "Samsun",
       "latitude": 41.328494,
       "longitude": 36.274973,
+      "dutyStart": "2026-02-23T08:30:00.000Z",
+      "dutyEnd": "2026-02-24T08:30:00.000Z"
+    },
+    {
+      "id": "samsun-5",
+      "name": "PELİTKÖY İPEK ECZANESİ",
+      "address": "BÜYÜKOYUMCA MAH. ŞENTEPE CAD. NO:82/A",
+      "phone": "03624590999",
+      "district": "Atakum",
+      "city": "Samsun",
+      "latitude": 41.355528,
+      "longitude": 36.205356,
       "dutyStart": "2026-02-23T08:30:00.000Z",
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
@@ -140,13 +140,13 @@
     },
     {
       "id": "samsun-11",
-      "name": "ÇINAR ECZANESİ",
-      "address": "KIZILIRMAK MAH. ALAÇAM CAD. NO:113",
-      "phone": "03625430204",
+      "name": "AKGENÇ ECZANESİ",
+      "address": "İSMET PAŞA MAH. HASTANE SOK.NO:32",
+      "phone": "03625438289",
       "district": "Bafra",
       "city": "Samsun",
-      "latitude": 41.56656,
-      "longitude": 35.895364,
+      "latitude": 41.562479,
+      "longitude": 35.914327,
       "dutyStart": "2026-02-23T08:30:00.000Z",
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
