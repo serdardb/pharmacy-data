@@ -3,8 +3,8 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T07:00:43.091Z",
-  "count": 32,
+  "updatedAt": "2026-02-23T07:30:42.588Z",
+  "count": 33,
   "pharmacies": [
     {
       "id": "konya-0",
@@ -152,6 +152,18 @@
     },
     {
       "id": "konya-12",
+      "name": "ONUR ECZANESİ ECZANESİ",
+      "address": "KİLECİ MAHALLESİ DR.VAHDİ YAMALIK CADDESİ NO:2A",
+      "phone": "903328120386",
+      "district": "Akşehi̇r",
+      "city": "Konya",
+      "latitude": 38.3535198,
+      "longitude": 31.4199171,
+      "dutyStart": "2026-02-23T09:00:00.000Z",
+      "dutyEnd": "2026-02-24T09:00:00.000Z"
+    },
+    {
+      "id": "konya-13",
       "name": "GÖZDEM ECZANESİ",
       "address": "İSTASYON MAHALLESİ İSTASYON CADDESİ NO:121C",
       "phone": "903328128282",
@@ -163,7 +175,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-13",
+      "id": "konya-14",
       "name": "ELMALI ECZANESİ",
       "address": "ÖLMEZ MAHALLESİ MİLLET CADDESİ NO:10A",
       "phone": "903326312089",
@@ -175,7 +187,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-14",
+      "id": "konya-15",
       "name": "CANER ECZANESİ",
       "address": "ESENTEPE MAHALLESİ 40525. SOKAK NO:2D",
       "phone": "903325127337",
@@ -187,7 +199,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-15",
+      "id": "konya-16",
       "name": "DEMİRÖZ ECZANESİ",
       "address": "YUKARI MAHALLE FEVZİ PAŞA CADDESİ NO:21G",
       "phone": "903324263383",
@@ -199,7 +211,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-16",
+      "id": "konya-17",
       "name": "TAŞKIRAN ECZANESİ",
       "address": "ATÇEKEN MAHALLESİ ALİ ÖZTOK CADDESİ NO:23",
       "phone": "903326731624",
@@ -211,7 +223,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-17",
+      "id": "konya-18",
       "name": "DİYDEM ECZANESİ",
       "address": "YENİCEOBA MAH. YENİCEOBA CAD. NO:61C",
       "phone": "903326761114",
@@ -223,7 +235,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-18",
+      "id": "konya-19",
       "name": "KAÇMAZ ECZANESİ",
       "address": "BAHÇELİEVLER MAHALLESİ 70025. SOKAK NO:30A",
       "phone": "905426388026",
@@ -235,7 +247,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-19",
+      "id": "konya-20",
       "name": "EKER ECZANESİ",
       "address": "MEYDAN MAHALLESİ ŞEKER HOCA CAD. NO:3 K/1",
       "phone": "903324472003",
@@ -247,7 +259,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-20",
+      "id": "konya-21",
       "name": "MERKEZ ECZANESİ",
       "address": "PAZAR MAHALLESİ 85005. SOKAK NO:13A",
       "phone": "903325561780",
@@ -259,7 +271,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-21",
+      "id": "konya-22",
       "name": "ERCAN ECZANESİ",
       "address": "ETİ MAHALLESİ KÜSERE KÖPRÜ CADDESİ NO:53A",
       "phone": "903327102040",
@@ -271,7 +283,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-22",
+      "id": "konya-23",
       "name": "CANSU ECZANESİ",
       "address": "TOROS MH. ŞEHİT METİN DÜZGÜN CD. NO:22",
       "phone": "903327132762",
@@ -283,7 +295,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-23",
+      "id": "konya-24",
       "name": "ERGÜL ECZANESİ",
       "address": "BAHÇELİEVLER MAHALLESİ 110214. SOKAK NO:10A",
       "phone": "903325124447",
@@ -295,7 +307,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-24",
+      "id": "konya-25",
       "name": "ALTINIŞIK ECZANESİ",
       "address": "FAHRETTİN ALTAY MAHALLESİ 115829. SOKAK NO:3E",
       "phone": "903328828121",
@@ -307,7 +319,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-25",
+      "id": "konya-26",
       "name": "DERYA ECZANESİ",
       "address": "TURGUTLU MAHALLESİ 124751. SOKAK NO:13A",
       "phone": "903328343000",
@@ -319,7 +331,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-26",
+      "id": "konya-27",
       "name": "SERAP ECZANESİ",
       "address": "SANDIKLI MAH. YAZICIOĞLU CAD. ŞEHİTLER SİTESİ A BLOK NO:113 A-C",
       "phone": "903327555472",
@@ -331,7 +343,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-27",
+      "id": "konya-28",
       "name": "ÇİĞDEM ECZANESİ",
       "address": "FATİH SULTAN MEHMET MH AHMET BARAN CD. D BLOK NO:5D",
       "phone": "903326412030",
@@ -343,7 +355,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-28",
+      "id": "konya-29",
       "name": "HÜLYA ECZANESİ",
       "address": "DOĞU İSTASYON MAHALLESİ YALÇIN CADDESİ NO:10A-B",
       "phone": "903326171220",
@@ -355,7 +367,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-29",
+      "id": "konya-30",
       "name": "BİCAN ECZANESİ",
       "address": "HACISEYİTALİ MAHALLESİ ATATÜRK CADDESİ NO:30C",
       "phone": "903325824717",
@@ -367,7 +379,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-30",
+      "id": "konya-31",
       "name": "TUZLUKÇU ECZANESİ",
       "address": "AŞAĞI MAHALLESİ AKŞEHİR CADDESİ NO:38",
       "phone": "903328612866",
@@ -379,7 +391,7 @@
       "dutyEnd": "2026-02-24T09:00:00.000Z"
     },
     {
-      "id": "konya-31",
+      "id": "konya-32",
       "name": "ÖZ SAĞLIK ECZANESİ",
       "address": "YENİ MAHALLE ANKARA CADDESİ NO:711",
       "phone": "903328510307",

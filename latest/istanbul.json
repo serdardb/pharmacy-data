@@ -3,8 +3,8 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T07:00:43.091Z",
-  "count": 134,
+  "updatedAt": "2026-02-23T07:30:42.588Z",
+  "count": 133,
   "pharmacies": [
     {
       "id": "istanbul-25010",
@@ -139,18 +139,6 @@
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },
     {
-      "id": "istanbul-23226",
-      "name": "BARIŞ ECZANESİ",
-      "address": "Fatih Mahallesi, 1795. Sokak, 31/A",
-      "phone": "+902124455855",
-      "district": "BAĞCILAR",
-      "city": "İstanbul",
-      "latitude": 41.05439883508222,
-      "longitude": 28.848471922854095,
-      "dutyStart": "2026-02-22T21:00:00.000Z",
-      "dutyEnd": "2026-02-23T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-18014",
       "name": "BARIŞ ECZANESİ",
       "address": "İnönü Mahallesi, Eski Ankara Caddesi, 71/1",
@@ -159,6 +147,18 @@
       "city": "İstanbul",
       "latitude": 41.00901352276696,
       "longitude": 29.21356326758125,
+      "dutyStart": "2026-02-22T21:00:00.000Z",
+      "dutyEnd": "2026-02-23T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-23226",
+      "name": "BARIŞ ECZANESİ",
+      "address": "Fatih Mahallesi, 1795. Sokak, 31/A",
+      "phone": "+902124455855",
+      "district": "BAĞCILAR",
+      "city": "İstanbul",
+      "latitude": 41.05439883508222,
+      "longitude": 28.848471922854095,
       "dutyStart": "2026-02-22T21:00:00.000Z",
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },
@@ -319,18 +319,6 @@
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },
     {
-      "id": "istanbul-6638",
-      "name": "DENİZ ECZANESİ",
-      "address": "Kınalıada Mahallesi, İskele Sokak, 3/B",
-      "phone": "+902163815181",
-      "district": "ADALAR",
-      "city": "İstanbul",
-      "latitude": 40.91038290210339,
-      "longitude": 29.05476093340845,
-      "dutyStart": "2026-02-22T21:00:00.000Z",
-      "dutyEnd": "2026-02-23T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-23318",
       "name": "DENİZ ECZANESİ",
       "address": "Topçular Mahallesi Eyüp Sultan Bulvarı 67/A",
@@ -343,14 +331,14 @@
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },
     {
-      "id": "istanbul-30884",
+      "id": "istanbul-6638",
       "name": "DENİZ ECZANESİ",
-      "address": "Doğu Mahallesi, Ortanca Caddesi, No:73/C",
-      "phone": "",
-      "district": "PENDİK",
+      "address": "Kınalıada Mahallesi, İskele Sokak, 3/B",
+      "phone": "+902163815181",
+      "district": "ADALAR",
       "city": "İstanbul",
-      "latitude": 40.878513960650785,
-      "longitude": 29.23548504290456,
+      "latitude": 40.91038290210339,
+      "longitude": 29.05476093340845,
       "dutyStart": "2026-02-22T21:00:00.000Z",
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },
@@ -463,18 +451,6 @@
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },
     {
-      "id": "istanbul-25144",
-      "name": "ELİF ECZANESİ",
-      "address": "İncirtepe Mahallesi, 240. Sokak, 43A",
-      "phone": "+902126202425",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.02082454303737,
-      "longitude": 28.690403748022536,
-      "dutyStart": "2026-02-22T21:00:00.000Z",
-      "dutyEnd": "2026-02-23T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-22348",
       "name": "ELİF ECZANESİ",
       "address": "Cemil Meriç Mahallesi İstiklal Caddesi 8/B",
@@ -483,6 +459,18 @@
       "city": "İstanbul",
       "latitude": 41.01766445639991,
       "longitude": 29.138212316250584,
+      "dutyStart": "2026-02-22T21:00:00.000Z",
+      "dutyEnd": "2026-02-23T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-25144",
+      "name": "ELİF ECZANESİ",
+      "address": "İncirtepe Mahallesi, 240. Sokak, 43A",
+      "phone": "+902126202425",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.02082454303737,
+      "longitude": 28.690403748022536,
       "dutyStart": "2026-02-22T21:00:00.000Z",
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },
@@ -1447,18 +1435,6 @@
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },
     {
-      "id": "istanbul-22436",
-      "name": "ÇINAR ECZANESİ",
-      "address": "Çınar Mahallesi, Osman Gazi Caddesi, 64/A",
-      "phone": "+902124331379",
-      "district": "BAĞCILAR",
-      "city": "İstanbul",
-      "latitude": 41.04015988166847,
-      "longitude": 28.85938223731056,
-      "dutyStart": "2026-02-22T21:00:00.000Z",
-      "dutyEnd": "2026-02-23T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25326",
       "name": "ÇINAR ECZANESİ",
       "address": "Yukarı Mahallesi, Çırçır Caddesi, 21/A",
@@ -1467,6 +1443,18 @@
       "city": "İstanbul",
       "latitude": 40.89063300027319,
       "longitude": 29.184277999827664,
+      "dutyStart": "2026-02-22T21:00:00.000Z",
+      "dutyEnd": "2026-02-23T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-22436",
+      "name": "ÇINAR ECZANESİ",
+      "address": "Çınar Mahallesi, Osman Gazi Caddesi, 64/A",
+      "phone": "+902124331379",
+      "district": "BAĞCILAR",
+      "city": "İstanbul",
+      "latitude": 41.04015988166847,
+      "longitude": 28.85938223731056,
       "dutyStart": "2026-02-22T21:00:00.000Z",
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },
@@ -1507,18 +1495,6 @@
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29072",
-      "name": "ÖZGE ECZANESİ",
-      "address": "Atatürk Mahallesi, Turgut Özal Bulvarı, 40D",
-      "phone": "+902128235255",
-      "district": "BÜYÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.01690229207221,
-      "longitude": 28.603818514426095,
-      "dutyStart": "2026-02-22T21:00:00.000Z",
-      "dutyEnd": "2026-02-23T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-37042",
       "name": "ÖZGE ECZANESİ",
       "address": "İsmetpaşa Mahallesi, Ordu Caddesi, No:234/B",
@@ -1527,6 +1503,18 @@
       "city": "İstanbul",
       "latitude": 41.10866439642101,
       "longitude": 28.85736866515328,
+      "dutyStart": "2026-02-22T21:00:00.000Z",
+      "dutyEnd": "2026-02-23T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29072",
+      "name": "ÖZGE ECZANESİ",
+      "address": "Atatürk Mahallesi, Turgut Özal Bulvarı, 40D",
+      "phone": "+902128235255",
+      "district": "BÜYÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.01690229207221,
+      "longitude": 28.603818514426095,
       "dutyStart": "2026-02-22T21:00:00.000Z",
       "dutyEnd": "2026-02-23T20:59:59.000Z"
     },

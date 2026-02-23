@@ -3,7 +3,7 @@
   "cityName": "İzmir",
   "cityId": 35,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T07:00:43.091Z",
+  "updatedAt": "2026-02-23T07:30:42.588Z",
   "count": 72,
   "pharmacies": [
     {
@@ -806,7 +806,7 @@
       "district": "BORNOVA 4",
       "city": "İzmir",
       "latitude": 38.447408,
-      "longitude": 27.24874,
+      "longitude": 27.248617,
       "dutyStart": "2026-02-23T08:00:00.000Z",
       "dutyEnd": "2026-02-24T08:00:00.000Z"
     },
