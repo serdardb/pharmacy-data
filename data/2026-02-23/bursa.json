@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T10:30:30.207Z",
+  "updatedAt": "2026-02-23T11:00:31.768Z",
   "count": 35,
   "pharmacies": [
     {
@@ -200,18 +200,6 @@
     },
     {
       "id": "bursa-16",
-      "name": "AKSU ECZANESİ",
-      "address": "EŞREF DİNÇER MAH. KUVAYİ MİLLİYE CAD. NO:23/B ,  0224 514 14 13 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02245141413",
-      "district": "GEMLİK",
-      "city": "Bursa",
-      "latitude": 40.431276271559256,
-      "longitude": 29.15820765987617,
-      "dutyStart": "2026-02-23T18:30:00.000Z",
-      "dutyEnd": "2026-02-24T00:00:00.000Z"
-    },
-    {
-      "id": "bursa-17",
       "name": "ERATA ECZANESİ",
       "address": "OSMANİYE MAH. ESKİ PAZAR CAD. NO:23/B ,  0224 513 35 52 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02245133552",
@@ -221,6 +209,18 @@
       "longitude": 29.158817338322056,
       "dutyStart": "2026-02-23T18:30:00.000Z",
       "dutyEnd": "2026-02-24T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-17",
+      "name": "AKSU ECZANESİ",
+      "address": "EŞREF DİNÇER MAH. KUVAYİ MİLLİYE CAD. NO:23/B ,  0224 514 14 13 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02245141413",
+      "district": "GEMLİK",
+      "city": "Bursa",
+      "latitude": 40.431276271559256,
+      "longitude": 29.15820765987617,
+      "dutyStart": "2026-02-23T18:30:00.000Z",
+      "dutyEnd": "2026-02-24T00:00:00.000Z"
     },
     {
       "id": "bursa-18",
