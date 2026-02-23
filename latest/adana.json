@@ -3,23 +3,11 @@
   "cityName": "Adana",
   "cityId": 1,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T16:30:30.284Z",
+  "updatedAt": "2026-02-23T17:00:29.878Z",
   "count": 34,
   "pharmacies": [
     {
       "id": "adana-0",
-      "name": "TUFAN ECZANESİ",
-      "address": "YEŞİLOBA MAHALLESİ 5 OCAK DEVLET HASTANESİ YANI , 05348131300 Harita Konum",
-      "phone": "05348131300",
-      "district": "Seyhan",
-      "city": "Adana",
-      "latitude": 36.99703,
-      "longitude": 35.240692,
-      "dutyStart": "2026-02-23T08:00:00.000Z",
-      "dutyEnd": "2026-02-24T08:00:00.000Z"
-    },
-    {
-      "id": "adana-1",
       "name": "NİDA ECZANESİ",
       "address": "HASTANELER KAVŞAĞI YENİBARAJ MAH. SEYHAN DEVLET HASTANESİ (ESKİ AŞKIM TÜFEKÇİ) KARŞISI , 03222242323 Harita Konum",
       "phone": "03222242323",
@@ -31,7 +19,7 @@
       "dutyEnd": "2026-02-24T08:00:00.000Z"
     },
     {
-      "id": "adana-2",
+      "id": "adana-1",
       "name": "ŞENCAN ECZANESİ",
       "address": "REŞATBEY MAH.CUMHURİYET CAD. YARBAŞI KARAKOLU KARŞISI , 03224570565 Harita Konum",
       "phone": "03224570565",
@@ -43,7 +31,7 @@
       "dutyEnd": "2026-02-24T08:00:00.000Z"
     },
     {
-      "id": "adana-3",
+      "id": "adana-2",
       "name": "ENES TEKCAN ECZANESİ",
       "address": "İSMETPAŞA SAĞLIK OCAĞI YANI , 03224324343 Harita Konum",
       "phone": "03224324343",
@@ -55,7 +43,7 @@
       "dutyEnd": "2026-02-24T08:00:00.000Z"
     },
     {
-      "id": "adana-4",
+      "id": "adana-3",
       "name": "SIHHAT ECZANESİ",
       "address": "SEYHAN BAŞKENT HASTANESI ÇOCUK ACİL KARŞISI OTOPARK YANI , 5333183212 Harita Konum",
       "phone": "5333183212",
@@ -67,7 +55,7 @@
       "dutyEnd": "2026-02-24T08:00:00.000Z"
     },
     {
-      "id": "adana-5",
+      "id": "adana-4",
       "name": "CİHAN ECZANESİ",
       "address": "HÜRRİYET MAH.20047 SOK.NO:3 ÖZEN DOLMUŞ YOLU GÜZERGAHI ESKİ ÇEŞME DURAĞI YANI , 03223523933 Harita Konum",
       "phone": "03223523933",
@@ -79,7 +67,7 @@
       "dutyEnd": "2026-02-24T08:00:00.000Z"
     },
     {
-      "id": "adana-6",
+      "id": "adana-5",
       "name": "ÖGE ECZANESİ",
       "address": "FATİH MAH. FATİH SAĞLIK OCAĞI YANI TELLİDERE ÜÇEVLER YOLU ÜZERİ , 03222621032 03222621032 Harita Konum",
       "phone": "03222621032",
@@ -91,7 +79,7 @@
       "dutyEnd": "2026-02-24T08:00:00.000Z"
     },
     {
-      "id": "adana-7",
+      "id": "adana-6",
       "name": "BOTANİK ECZANESİ",
       "address": "GÜRSELPAŞA MAH. ŞEHİT POLİS ŞAHİN POLAT AYDIN CAD. (REAL M1 AVM KAVŞAĞINDAN GÜRSELPAŞA'YA AÇILAN YOL) ŞOK MARKET KARŞISI NEFES REZİDANS ALTI , 03225037363 Harita Konum",
       "phone": "03225037363",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-24T08:00:00.000Z"
     },
     {
-      "id": "adana-8",
+      "id": "adana-7",
       "name": "ESLEM ÜNAL ECZANESİ",
       "address": "DÖŞEME MAHALLESİ ACIBADEM HASTANESİ VE ORTOPEDİA HASTANESİ KARŞISI , 05541786092 Harita Konum",
       "phone": "05541786092",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-24T08:00:00.000Z"
     },
     {
-      "id": "adana-9",
+      "id": "adana-8",
       "name": "NİHAN ECZANESİ",
       "address": "ESKİ PIRASA TARLASI KARŞISI GÜLPINAR SAĞLIK OCAĞI KARŞISI , 03224324499 05462979000 Harita Konum",
       "phone": "03224324499",
@@ -123,6 +111,18 @@
       "city": "Adana",
       "latitude": 36.983533,
       "longitude": 35.31017,
+      "dutyStart": "2026-02-23T08:00:00.000Z",
+      "dutyEnd": "2026-02-24T08:00:00.000Z"
+    },
+    {
+      "id": "adana-9",
+      "name": "TUFAN ECZANESİ",
+      "address": "YEŞİLOBA MAHALLESİ 5 OCAK DEVLET HASTANESİ YANI , 05348131300 Harita Konum",
+      "phone": "05348131300",
+      "district": "Seyhan",
+      "city": "Adana",
+      "latitude": 36.99703,
+      "longitude": 35.240692,
       "dutyStart": "2026-02-23T08:00:00.000Z",
       "dutyEnd": "2026-02-24T08:00:00.000Z"
     },
