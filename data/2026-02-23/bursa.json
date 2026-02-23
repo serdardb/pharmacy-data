@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T13:30:31.188Z",
+  "updatedAt": "2026-02-23T14:00:35.580Z",
   "count": 35,
   "pharmacies": [
     {
@@ -80,18 +80,6 @@
     },
     {
       "id": "bursa-6",
-      "name": "VATAN ECZANESİ",
-      "address": "HÜDAVENDİGAR MAH. 1.KANAL CAD. NO:36/B,  (HÜDAVENDİGAR MUHTARLIK KARŞISI - OSMANGAZİ İLÇE SAĞ. MÜD. YANI) ,  0224 234 60 92",
-      "phone": "02242346092",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.20128594140163,
-      "longitude": 29.011243784927704,
-      "dutyStart": "2026-02-23T18:30:00.000Z",
-      "dutyEnd": "2026-02-24T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
       "name": "ÖZVARLIK ECZANESİ",
       "address": "ATICILAR MAH. DAVUT SOK. NO:15,  (ATICILAR SAĞLIK OCAĞI KARŞISI) ,  0224-2733301 / 0224 2732999",
       "phone": "02242733301",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-7",
       "name": "EMEK MERKEZ ECZANESİ",
       "address": "EMEK ADNAN MENDERES MAH. T.ÖZAL CAD. NO:70/A,  (EMEK POLİS MERKEZİ AMİRLİĞİ YUKARISI) ,  0224 999 56 81",
       "phone": "02249995681",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-8",
       "name": "TOKOĞLU ECZANESİ",
       "address": "ALAADDİN MAH. PROF.ORHAN KARMIŞ CAD. NO:1/C,  (MURADİYE DEVLET VE ALİ OSMAN SÖNMEZ ONKOLOJİ HASTANESİ YANI) ,  0224 222 91 82",
       "phone": "02242229182",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-9",
       "name": "GÜNEŞTEPE ŞİFA ECZANESİ",
       "address": "GÜNEŞTEPE MAH. 10.GÜNEY SOK. NO:15/A,  (GÜNEŞTEPE CAMİ KARŞISI) ,  0224 573 93 59",
       "phone": "02245739359",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-10",
       "name": "GÖRSEL ECZANESİ",
       "address": "İSTİKLAL MAH. İSTİKLAL CAD. NO:15/A,  (ŞEHİT TOLGA TAŞTAN İLKOKULU KARŞISI) ,  0224 245 62 45",
       "phone": "02242456245",
@@ -147,6 +135,18 @@
       "city": "Bursa",
       "latitude": 40.222296080978005,
       "longitude": 29.006627148610928,
+      "dutyStart": "2026-02-23T18:30:00.000Z",
+      "dutyEnd": "2026-02-24T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "VATAN ECZANESİ",
+      "address": "HÜDAVENDİGAR MAH. 1.KANAL CAD. NO:36/B,  (HÜDAVENDİGAR MUHTARLIK KARŞISI - OSMANGAZİ İLÇE SAĞ. MÜD. YANI) ,  0224 234 60 92",
+      "phone": "02242346092",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.20128594140163,
+      "longitude": 29.011243784927704,
       "dutyStart": "2026-02-23T18:30:00.000Z",
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },

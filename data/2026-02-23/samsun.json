@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T13:30:31.188Z",
-  "count": 22,
+  "updatedAt": "2026-02-23T14:00:35.580Z",
+  "count": 21,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -152,18 +152,6 @@
     },
     {
       "id": "samsun-12",
-      "name": "ŞİFA ECZANESİ",
-      "address": "YUNUS EMRE CAD. SARICALI MAH.NO:3/A",
-      "phone": "03628331003",
-      "district": "Çarşamba",
-      "city": "Samsun",
-      "latitude": 41.19856,
-      "longitude": 36.722488,
-      "dutyStart": "2026-02-23T08:30:00.000Z",
-      "dutyEnd": "2026-02-24T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-13",
       "name": "HELVACALI ECZANESİ",
       "address": "HELVACALI MAH. 6000.SOK. NO:8/H",
       "phone": "03628331213",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "samsun-14",
+      "id": "samsun-13",
       "name": "OYA ECZANESİ",
       "address": "MEMDUHİYE MAH. HIZIR REİS SOK.NO:2 İÇ KAPI:3",
       "phone": "03627147711",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "samsun-15",
+      "id": "samsun-14",
       "name": "ERTUĞRUL  ECZANESİ",
       "address": "YAŞARDOĞU MAH. ADNAN MENDERES CAD. NO:104/2",
       "phone": "03627415055",
@@ -199,7 +187,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "samsun-16",
+      "id": "samsun-15",
       "name": "LADİK MUTLU ECZANESİ",
       "address": "BAHŞİ MAH. GAZİLER CAD.NO:36/C",
       "phone": "03627714534",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "samsun-17",
+      "id": "samsun-16",
       "name": "EROĞLU ECZANESİ",
       "address": "PAZAR MAH. FATİH BULV. NO:38/1",
       "phone": "03625113852",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "samsun-18",
+      "id": "samsun-17",
       "name": "SAĞLIK  ECZANESİ",
       "address": "GÖKÇELİ MAH. ŞEHİT HÜSEYİN ATASEVEN CAD. NO:6/A",
       "phone": "03628213233",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "samsun-19",
+      "id": "samsun-18",
       "name": "GÜMÜŞ ECZANESİ",
       "address": "FENK MAH. LİSE CAD. NO:6",
       "phone": "03628765390",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "samsun-20",
+      "id": "samsun-19",
       "name": "DOĞAN ECZANESİ",
       "address": "MEHMET PAŞA MAH. ORG.FARUK CÖMERT CAD. NO:5",
       "phone": "03626473807",
@@ -259,7 +247,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "samsun-27",
+      "id": "samsun-26",
       "name": "YAŞAM  ECZANESİ",
       "address": "GÜZELYURT MAH.OSMAN GAZİ SOK.NO.3/A",
       "phone": "03686712276",
