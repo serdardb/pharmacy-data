@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T17:30:29.882Z",
+  "updatedAt": "2026-02-23T18:00:44.091Z",
   "count": 34,
   "pharmacies": [
     {
@@ -152,18 +152,6 @@
     },
     {
       "id": "bursa-12",
-      "name": "MELİS ECZANESİ",
-      "address": "EĞİTİM MAH. PROF.TEZOK CAD. NO:132,  (MESKEN YOLU 3.OTOBÜS DURAĞI ÖNÜ) ,  0224 363 29 16",
-      "phone": "02243632916",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.18409268,
-      "longitude": 29.1100949,
-      "dutyStart": "2026-02-23T18:30:00.000Z",
-      "dutyEnd": "2026-02-24T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-13",
       "name": "YAZICI SAĞLIK ECZANESİ",
       "address": "75.YIL MAH. YAZICI CAD. NO:52/A,  (ALİ YAZICI CAMİ YANI - 75.YIL ASM KARŞISI) ,  0224 342 12 02",
       "phone": "02243421202",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-13",
       "name": "SAHRA ECZANESİ",
       "address": "YUNUS EMRE MAH. KIRKPINAR CAD. NO:93,  (YUNUSEMRE SAĞLIK OCAĞI KARŞISI) ,  0224 241 61 88",
       "phone": "02242416188",
@@ -183,6 +171,18 @@
       "city": "Bursa",
       "latitude": 40.19987025,
       "longitude": 29.10363883,
+      "dutyStart": "2026-02-23T18:30:00.000Z",
+      "dutyEnd": "2026-02-24T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-14",
+      "name": "MELİS ECZANESİ",
+      "address": "EĞİTİM MAH. PROF.TEZOK CAD. NO:132,  (MESKEN YOLU 3.OTOBÜS DURAĞI ÖNÜ) ,  0224 363 29 16",
+      "phone": "02243632916",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.18409268,
+      "longitude": 29.1100949,
       "dutyStart": "2026-02-23T18:30:00.000Z",
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
