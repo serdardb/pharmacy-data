@@ -3,7 +3,7 @@
   "cityName": "Ankara",
   "cityId": 6,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T12:00:35.575Z",
+  "updatedAt": "2026-02-23T12:30:31.172Z",
   "count": 62,
   "pharmacies": [
     {
@@ -705,7 +705,7 @@
     {
       "id": "ankara-58",
       "name": "ZEYNEP ECZANESİ",
-      "address": "Çukurambar Mah. 1424. Cad. B2 Blok No:6/2-8 Çankaya/ANKARA , 03124802881",
+      "address": "Çukurambar Mah. 1424. Cad. B2 Blok No:6/2-8 Çankaya/ANKARA , Cubes Ankara 03124802881",
       "phone": "03124802881",
       "district": "Çankaya",
       "city": "Ankara",
