@@ -3,7 +3,7 @@
   "cityName": "Antalya",
   "cityId": 7,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T06:30:45.092Z",
+  "updatedAt": "2026-02-23T07:00:43.091Z",
   "count": 38,
   "pharmacies": [
     {
@@ -418,7 +418,7 @@
       "id": "antalya-34",
       "name": "NOVA BELEK ECZANESİ",
       "address": "AKÇAALAN MAH.4270 SOK.NO:12/B SERIK",
-      "phone": "02427152829",
+      "phone": "05011778217",
       "district": "Antalya",
       "city": "Antalya",
       "latitude": 36.863308,
