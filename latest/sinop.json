@@ -3,11 +3,11 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-02-23",
-  "updatedAt": "2026-02-23T04:30:40.983Z",
-  "count": 6,
+  "updatedAt": "2026-02-23T05:00:49.488Z",
+  "count": 5,
   "pharmacies": [
     {
-      "id": "sinop-20",
+      "id": "sinop-19",
       "name": "ANIL  ECZANESİ",
       "address": "MEYDAN KAPI MAH. İTFAİYE CAD. NO:5/A",
       "phone": "03682610857",
@@ -19,7 +19,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "sinop-21",
+      "id": "sinop-20",
       "name": "YAVUZ  ECZANESİ",
       "address": "YALI MAH.ATATÜRK CAD. HASTANE SOK. NO:1/A",
       "phone": "03686131311",
@@ -31,19 +31,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "sinop-22",
-      "name": "BERKAY ECZANESİ",
-      "address": "ÇAMLICA MAH. EROL DEMİRKOL CAD. NO:3/A",
-      "phone": "03683150951",
-      "district": "Boyabat",
-      "city": "Sinop",
-      "latitude": 41.463131,
-      "longitude": 34.783506,
-      "dutyStart": "2026-02-23T08:30:00.000Z",
-      "dutyEnd": "2026-02-24T08:30:00.000Z"
-    },
-    {
-      "id": "sinop-23",
+      "id": "sinop-21",
       "name": "NAZLI ECZANESİ",
       "address": "MERKEZ MAH. PLEVNE CAD. NO:47/B",
       "phone": "03684161057",
@@ -55,7 +43,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "sinop-24",
+      "id": "sinop-22",
       "name": "ERFELEK ECZANESİ",
       "address": "CUMHURİYET MEYDANI NO:18",
       "phone": "03685112039",
@@ -67,7 +55,7 @@
       "dutyEnd": "2026-02-24T08:30:00.000Z"
     },
     {
-      "id": "sinop-25",
+      "id": "sinop-23",
       "name": "YUMUK ECZANESİ",
       "address": "ÇARŞI MAH.GENERAL OSMAN PAMUKOĞLU CAD.NO:6",
       "phone": "03687184428",
