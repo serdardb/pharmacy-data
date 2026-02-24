@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-02-24T19:30:55.499Z",
+  "updatedAt": "2026-02-24T20:00:56.918Z",
   "date": "2026-02-24",
   "cities": [
+    {
+      "city": "antalya",
+      "cityName": "Antalya",
+      "cityId": 7,
+      "count": 38
+    },
     {
       "city": "bursa",
       "cityName": "Bursa",
@@ -19,12 +25,6 @@
       "cityName": "İzmir",
       "cityId": 35,
       "count": 70
-    },
-    {
-      "city": "antalya",
-      "cityName": "Antalya",
-      "cityId": 7,
-      "count": 38
     },
     {
       "city": "adana",
