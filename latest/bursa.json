@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-25",
-  "updatedAt": "2026-02-24T22:30:22.085Z",
+  "updatedAt": "2026-02-24T23:00:22.484Z",
   "count": 33,
   "pharmacies": [
     {
@@ -92,6 +92,18 @@
     },
     {
       "id": "bursa-7",
+      "name": "ÖMÜR SAĞLIK ECZANESİ",
+      "address": "BAĞLARBAŞI MAH. 1.ERİM SOK. NO:11/A,  (BAĞLARBAŞI 23 NOLU ASM KARŞISI) ,  0224 249 99 87 / 2242499986",
+      "phone": "02242499987",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.232235,
+      "longitude": 28.990059,
+      "dutyStart": "2026-02-24T18:30:00.000Z",
+      "dutyEnd": "2026-02-25T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-8",
       "name": "BAĞ ECZANESİ",
       "address": "YENİBAĞLAR MAH. YAKUT SOK. NO:35/A,  (YENİBAĞLAR 32 NOLU AİLE SAĞLIĞI MERKEZİ KARŞISI) ,  0224 241 99 00",
       "phone": "02242419900",
@@ -103,7 +115,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-9",
       "name": "MAKSEM SAĞLIK ECZANESİ",
       "address": "MAKSEM MAH. MAKSEM CAD. 8.MURAT SOK. NO:1/2C ,  (HEYKEL PTT YOKUŞU) ,  0224 224 31 41 / 0554 958 01 01",
       "phone": "02242243141",
@@ -115,7 +127,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-10",
       "name": "ALPAY ECZANESİ",
       "address": "ÇIRPAN MAH. DARMSTAD CAD. NO:41/A,  (ÇARŞAMBA CİCİM PASTANESİ ÇAPRAZI) ,  0224 251 22 16",
       "phone": "02242512216",
@@ -127,7 +139,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-11",
       "name": "TORUNLAR ECZANESİ",
       "address": "HÜDAVENDİGAR MAH. BENT CAD. NO:3,  (MİHRAPLI CAMİ KARŞISI) ,  0224 239 30 00",
       "phone": "02242393000",
@@ -139,7 +151,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-12",
       "name": "İKİ KAPILI ECZANESİ",
       "address": "ALTINOVA MAH. İSTANBUL CAD. NO:410/D SKYTOWER,  (YALOVA YOLU ÖZDİLEK - HİLTON OTEL KARŞISI) ,  0224 504 74 34",
       "phone": "02245047434",
@@ -147,18 +159,6 @@
       "city": "Bursa",
       "latitude": 40.226847,
       "longitude": 29.062963,
-      "dutyStart": "2026-02-24T18:30:00.000Z",
-      "dutyEnd": "2026-02-25T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-12",
-      "name": "ÖMÜR SAĞLIK ECZANESİ",
-      "address": "BAĞLARBAŞI MAH. 1.ERİM SOK. NO:11/A,  (BAĞLARBAŞI 23 NOLU ASM KARŞISI) ,  0224 249 99 87 / 2242499986",
-      "phone": "02242499987",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.232235,
-      "longitude": 28.990059,
       "dutyStart": "2026-02-24T18:30:00.000Z",
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
