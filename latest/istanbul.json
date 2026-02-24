@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T15:00:26.930Z",
+  "updatedAt": "2026-02-24T15:30:20.913Z",
   "count": 134,
   "pharmacies": [
     {
@@ -331,18 +331,6 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-18840",
-      "name": "DENİZ ECZANESİ",
-      "address": "Feneryolu Mahallesi, Bağdat Caddesi, 73B",
-      "phone": "+902163481128",
-      "district": "KADIKÖY",
-      "city": "İstanbul",
-      "latitude": 40.9806885702923,
-      "longitude": 29.042546983505034,
-      "dutyStart": "2026-02-23T21:00:00.000Z",
-      "dutyEnd": "2026-02-24T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17256",
       "name": "DENİZ ECZANESİ",
       "address": "Yeşilköy Mahallesi, Yeşilköy İstanbul Caddesi, 79/D",
@@ -351,6 +339,18 @@
       "city": "İstanbul",
       "latitude": 40.95969890565727,
       "longitude": 28.835554551680328,
+      "dutyStart": "2026-02-23T21:00:00.000Z",
+      "dutyEnd": "2026-02-24T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-18840",
+      "name": "DENİZ ECZANESİ",
+      "address": "Feneryolu Mahallesi, Bağdat Caddesi, 73B",
+      "phone": "+902163481128",
+      "district": "KADIKÖY",
+      "city": "İstanbul",
+      "latitude": 40.9806885702923,
+      "longitude": 29.042546983505034,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
@@ -463,18 +463,6 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-27056",
-      "name": "FATİH ECZANESİ",
-      "address": "Yeşilkent Mahallesi, 2011. Sokak, 16/B",
-      "phone": "+905469675450",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.02638400020265,
-      "longitude": 28.65894399953042,
-      "dutyStart": "2026-02-23T21:00:00.000Z",
-      "dutyEnd": "2026-02-24T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29716",
       "name": "FATİH ECZANESİ",
       "address": "Kurtköy Mahallesi, Emir Sokak, 10/A",
@@ -483,6 +471,18 @@
       "city": "İstanbul",
       "latitude": 40.913895000278025,
       "longitude": 29.30062800014523,
+      "dutyStart": "2026-02-23T21:00:00.000Z",
+      "dutyEnd": "2026-02-24T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-27056",
+      "name": "FATİH ECZANESİ",
+      "address": "Yeşilkent Mahallesi, 2011. Sokak, 16/B",
+      "phone": "+905469675450",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.02638400020265,
+      "longitude": 28.65894399953042,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
