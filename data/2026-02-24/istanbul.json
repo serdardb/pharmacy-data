@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T08:00:28.681Z",
+  "updatedAt": "2026-02-24T08:30:15.650Z",
   "count": 134,
   "pharmacies": [
     {
@@ -223,18 +223,6 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29674",
-      "name": "BURAK ECZANESİ",
-      "address": "Havaalanı Mahallesi, Gülek Sokak, 6/A",
-      "phone": "+902124293193",
-      "district": "ESENLER",
-      "city": "İstanbul",
-      "latitude": 41.05474600014245,
-      "longitude": 28.872284000067634,
-      "dutyStart": "2026-02-23T21:00:00.000Z",
-      "dutyEnd": "2026-02-24T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-2338",
       "name": "BURGAZADA ECZANESİ",
       "address": "Burgazadası Mahallesi, Çınarlık Sokak, 3",
@@ -343,18 +331,6 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-18840",
-      "name": "DENİZ ECZANESİ",
-      "address": "Feneryolu Mahallesi, Bağdat Caddesi, 73B",
-      "phone": "+902163481128",
-      "district": "KADIKÖY",
-      "city": "İstanbul",
-      "latitude": 40.9806885702923,
-      "longitude": 29.042546983505034,
-      "dutyStart": "2026-02-23T21:00:00.000Z",
-      "dutyEnd": "2026-02-24T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17256",
       "name": "DENİZ ECZANESİ",
       "address": "Yeşilköy Mahallesi, Yeşilköy İstanbul Caddesi, 79/D",
@@ -363,6 +339,18 @@
       "city": "İstanbul",
       "latitude": 40.95969890565727,
       "longitude": 28.835554551680328,
+      "dutyStart": "2026-02-23T21:00:00.000Z",
+      "dutyEnd": "2026-02-24T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-18840",
+      "name": "DENİZ ECZANESİ",
+      "address": "Feneryolu Mahallesi, Bağdat Caddesi, 73B",
+      "phone": "+902163481128",
+      "district": "KADIKÖY",
+      "city": "İstanbul",
+      "latitude": 40.9806885702923,
+      "longitude": 29.042546983505034,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
@@ -475,18 +463,6 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-27056",
-      "name": "FATİH ECZANESİ",
-      "address": "Yeşilkent Mahallesi, 2011. Sokak, 16/B",
-      "phone": "+905469675450",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.02638400020265,
-      "longitude": 28.65894399953042,
-      "dutyStart": "2026-02-23T21:00:00.000Z",
-      "dutyEnd": "2026-02-24T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29716",
       "name": "FATİH ECZANESİ",
       "address": "Kurtköy Mahallesi, Emir Sokak, 10/A",
@@ -495,6 +471,18 @@
       "city": "İstanbul",
       "latitude": 40.913895000278025,
       "longitude": 29.30062800014523,
+      "dutyStart": "2026-02-23T21:00:00.000Z",
+      "dutyEnd": "2026-02-24T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-27056",
+      "name": "FATİH ECZANESİ",
+      "address": "Yeşilkent Mahallesi, 2011. Sokak, 16/B",
+      "phone": "+905469675450",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.02638400020265,
+      "longitude": 28.65894399953042,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
@@ -567,6 +555,18 @@
       "city": "İstanbul",
       "latitude": 40.98088059300546,
       "longitude": 28.661620810334597,
+      "dutyStart": "2026-02-23T21:00:00.000Z",
+      "dutyEnd": "2026-02-24T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-31936",
+      "name": "GÜNEŞ ECZANESİ",
+      "address": "Havaalanı Mahallesi, Taşocağı Caddesi, 13/B",
+      "phone": "+902126283695",
+      "district": "ESENLER",
+      "city": "İstanbul",
+      "latitude": 41.05498399989995,
+      "longitude": 28.869633999518985,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
@@ -1123,18 +1123,6 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-27490",
-      "name": "SEMA ECZANESİ",
-      "address": "İsmetpaşa Mahallesi, 91. Sokak, 140A",
-      "phone": "+902126060705",
-      "district": "SULTANGAZİ",
-      "city": "İstanbul",
-      "latitude": 41.105274513133786,
-      "longitude": 28.853720409113567,
-      "dutyStart": "2026-02-23T21:00:00.000Z",
-      "dutyEnd": "2026-02-24T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-12384",
       "name": "SEMA ECZANESİ",
       "address": "Atakent Mahallesi, Reşitpaşa Caddesi, 36",
@@ -1143,6 +1131,18 @@
       "city": "İstanbul",
       "latitude": 41.017287382534676,
       "longitude": 29.104273299552364,
+      "dutyStart": "2026-02-23T21:00:00.000Z",
+      "dutyEnd": "2026-02-24T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-27490",
+      "name": "SEMA ECZANESİ",
+      "address": "İsmetpaşa Mahallesi, 91. Sokak, 140A",
+      "phone": "+902126060705",
+      "district": "SULTANGAZİ",
+      "city": "İstanbul",
+      "latitude": 41.105274513133786,
+      "longitude": 28.853720409113567,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
