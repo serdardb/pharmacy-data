@@ -3,11 +3,11 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T17:00:59.212Z",
+  "updatedAt": "2026-02-24T17:30:57.600Z",
   "count": 6,
   "pharmacies": [
     {
-      "id": "sinop-20",
+      "id": "sinop-19",
       "name": "GELİNCİK ECZANESİ",
       "address": "GELİNCİK MAH. GELİNCİK YOLU CAD. NO:31/1A",
       "phone": "03685020050",
@@ -19,7 +19,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "sinop-21",
+      "id": "sinop-20",
       "name": "GÜVEN  ECZANESİ",
       "address": "YALI MAH. ATATÜRK CAD. NO:22/A",
       "phone": "03686133388",
@@ -31,7 +31,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "sinop-22",
+      "id": "sinop-21",
       "name": "AKAY  ECZANESİ",
       "address": "EROL DEMİRKOL CAD. NO:3",
       "phone": "03683151440",
@@ -43,7 +43,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "sinop-23",
+      "id": "sinop-22",
       "name": "ALTINKAYNAK ECZANESİ",
       "address": "PLEVNA CAD.NO:17",
       "phone": "03684161451",
@@ -55,7 +55,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "sinop-24",
+      "id": "sinop-23",
       "name": "ÇAĞLAR  ECZANESİ",
       "address": "MERKEZ MAH. CUMHURİYET CAD. NO:12/A",
       "phone": "03685112020",
@@ -67,7 +67,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "sinop-25",
+      "id": "sinop-24",
       "name": "YENİ GERZE ECZANESİ",
       "address": "ÇARŞI MAH. GENERAL OSMAN PAMUKOĞLU CAD. NO:2/C",
       "phone": "03687181056",

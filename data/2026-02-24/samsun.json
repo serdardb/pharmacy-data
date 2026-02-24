@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T17:00:59.212Z",
-  "count": 21,
+  "updatedAt": "2026-02-24T17:30:57.600Z",
+  "count": 20,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -80,18 +80,6 @@
     },
     {
       "id": "samsun-6",
-      "name": "ÇAKIRLAR  ECZANESİ",
-      "address": "YALI MAH. ATATÜRK BULVARI NO:263/B",
-      "phone": "03624577799",
-      "district": "Atakum Sayfiye",
-      "city": "Samsun",
-      "latitude": 41.399742,
-      "longitude": 36.192077,
-      "dutyStart": "2026-02-24T08:30:00.000Z",
-      "dutyEnd": "2026-02-25T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-7",
       "name": "YILMAZ ECZANESİ",
       "address": "19 MAYIS MAH. CAMİ CAD. NO:17",
       "phone": "03622560351",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-8",
+      "id": "samsun-7",
       "name": "GÜLŞAH ECZANESİ",
       "address": "YENİ CAMİ MAH. LİSE CAD. NO.49/A",
       "phone": "03626213572",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-9",
+      "id": "samsun-8",
       "name": "CANSU ECZANESİ",
       "address": "BİÇİMCİK MAH. ESEN SOK. NO:16",
       "phone": "03627913255",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-10",
+      "id": "samsun-9",
       "name": "YENİ AYVACIK ECZANESİ",
       "address": "EYÜP SULTAN MAH. MUSTAFA GÜLER SOK. NO:6/A",
       "phone": "03628132125",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-11",
+      "id": "samsun-10",
       "name": "ZAFER ECZANESİ",
       "address": "HACINABİ MAH. 100.YIL BULVARI NO:24/E",
       "phone": "03625432491",
@@ -151,7 +139,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-12",
+      "id": "samsun-11",
       "name": "ŞİFA ECZANESİ",
       "address": "YUNUS EMRE CAD. SARICALI MAH.NO:3/A",
       "phone": "03628331003",
@@ -163,7 +151,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-13",
+      "id": "samsun-12",
       "name": "HAVZA ŞİFA ECZANESİ",
       "address": "25 MAYIS MAH. J.ER ZEKERİYA YÜKSEL SOK. NO:6/A",
       "phone": "03627141538",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-14",
+      "id": "samsun-13",
       "name": "KAVAK ECZANESİ",
       "address": "19 MAYIS MAH. ADNAN MENDERES CAD. NO:73/A",
       "phone": "03627412412",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-15",
+      "id": "samsun-14",
       "name": "AKPINAR ECZANESİ",
       "address": "BAHŞİ MAH. GAZİLER CAD. NO:66/A",
       "phone": "03627714555",
@@ -199,7 +187,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-16",
+      "id": "samsun-15",
       "name": "CAN ECZANESİ",
       "address": "PAZAR MAH.ATATÜRK BUL.NO:143/C",
       "phone": "03625114400",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-17",
+      "id": "samsun-16",
       "name": "YAMAN ECZANESİ",
       "address": "BEREKET MAH.ŞEHİT ORHAN ERDOĞAN CAD.NO:9/A",
       "phone": "03628212277",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-18",
+      "id": "samsun-17",
       "name": "KANDAZ ECZANESİ",
       "address": "FENK MAH. LİSE SOK. NO:29",
       "phone": "03628761251",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-19",
+      "id": "samsun-18",
       "name": "GÜNEŞ ECZANESİ",
       "address": "CUMHURİYET MAH. NO:31/A",
       "phone": "03626661006",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "samsun-26",
+      "id": "samsun-25",
       "name": "ÖZLEM  ECZANESİ",
       "address": "GÜZELYURT MAH.CUMHURİYET CAD.NO:10/B",
       "phone": "03686712692",
