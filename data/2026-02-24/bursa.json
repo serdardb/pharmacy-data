@@ -3,8 +3,8 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T04:30:22.680Z",
-  "count": 31,
+  "updatedAt": "2026-02-24T05:00:24.891Z",
+  "count": 30,
   "pharmacies": [
     {
       "id": "bursa-0",
@@ -365,18 +365,6 @@
       "longitude": 29.08002734184265,
       "dutyStart": "2026-02-23T18:30:00.000Z",
       "dutyEnd": "2026-02-24T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-30",
-      "name": "DEVA ECZANESİ",
-      "address": "YENİGÜN MAH. İZNİK CAD. ALİCAN APT. NO:27/D ,  0224 773 39 62 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02247733962",
-      "district": "YENİŞEHİR",
-      "city": "Bursa",
-      "latitude": 40.26866,
-      "longitude": 29.652327000000014,
-      "dutyStart": "2026-02-23T18:00:00.000Z",
-      "dutyEnd": "2026-02-24T08:00:00.000Z"
     }
   ]
 }
