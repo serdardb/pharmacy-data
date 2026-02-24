@@ -3,11 +3,23 @@
   "cityName": "Adana",
   "cityId": 1,
   "date": "2026-02-25",
-  "updatedAt": "2026-02-24T22:00:57.500Z",
+  "updatedAt": "2026-02-24T22:30:22.085Z",
   "count": 34,
   "pharmacies": [
     {
       "id": "adana-0",
+      "name": "HATİCE ECZANESİ",
+      "address": "2000 EVLER MAH.BÜLENT ECEVİT BULV. 2000 EVLER ASM KARŞI ÇAPRAZI,YENİ ALPTEKİN FIRINI YANI , 03222488111 Harita Konum",
+      "phone": "03222488111",
+      "district": "Seyhan",
+      "city": "Adana",
+      "latitude": 37.028913106154945,
+      "longitude": 35.268883223489354,
+      "dutyStart": "2026-02-24T08:00:00.000Z",
+      "dutyEnd": "2026-02-25T08:00:00.000Z"
+    },
+    {
+      "id": "adana-1",
       "name": "BELDE ECZANESİ",
       "address": "ATATÜRK CAD. BÜYÜKŞEHİR BELEDİYESİ YANI ÖZEL ADANA HASTANESİ (ÜNİVERSAL HASTANESİ)KARŞISI , 03224573086 Harita Konum",
       "phone": "03224573086",
@@ -19,7 +31,7 @@
       "dutyEnd": "2026-02-25T08:00:00.000Z"
     },
     {
-      "id": "adana-1",
+      "id": "adana-2",
       "name": "SENA ECZANESİ",
       "address": "GÜRSELPAŞA MAH.75001 SOK.NO:6/C GÜRSELPAŞA SAĞLIK OCAĞI KARŞISI , 03222612422 Harita Konum",
       "phone": "03222612422",
@@ -31,7 +43,7 @@
       "dutyEnd": "2026-02-25T08:00:00.000Z"
     },
     {
-      "id": "adana-2",
+      "id": "adana-3",
       "name": "BAL ŞİFA ECZANESİ",
       "address": "YEŞİLYURT MAH. KARAAFAT CAD. NO:99/A YURT 2 ASM YANI , 05461269695 Harita Konum",
       "phone": "05461269695",
@@ -43,7 +55,7 @@
       "dutyEnd": "2026-02-25T08:00:00.000Z"
     },
     {
-      "id": "adana-3",
+      "id": "adana-4",
       "name": "SARIHAMZALI ECZANESİ",
       "address": "SARIHAMZALI SAĞLIK OCAĞI KARŞISI , 05337958517 Harita Konum",
       "phone": "05337958517",
@@ -55,7 +67,7 @@
       "dutyEnd": "2026-02-25T08:00:00.000Z"
     },
     {
-      "id": "adana-4",
+      "id": "adana-5",
       "name": "İLHAN ECZANESİ",
       "address": "BAKIMYURDU CADDESİ DOĞUMEVİ YANI , 03223650698 Harita Konum",
       "phone": "03223650698",
@@ -67,7 +79,7 @@
       "dutyEnd": "2026-02-25T08:00:00.000Z"
     },
     {
-      "id": "adana-5",
+      "id": "adana-6",
       "name": "ÜNLÜ ECZANESİ",
       "address": "DEMETEVLER MAH.M.AKİF ERSOY CAD.NO:49/A(YEŞİLEVLER,EMİN DONDURMA KARŞISI,ESKİ HAYAT TIP MERKEZİ 50.MT İLERİSİ) , 05453228658 Harita Konum",
       "phone": "05453228658",
@@ -79,7 +91,7 @@
       "dutyEnd": "2026-02-25T08:00:00.000Z"
     },
     {
-      "id": "adana-6",
+      "id": "adana-7",
       "name": "GÜNEŞ ECZANESİ",
       "address": "HASTANELER KAVŞAĞI BARAYOLU GİRİŞİ, İŞ BANKASI,GARANTİ BANKASI VE VAKIFBANK ARASI , 03222278229 5326945678 Harita Konum",
       "phone": "03222278229",
@@ -91,7 +103,7 @@
       "dutyEnd": "2026-02-25T08:00:00.000Z"
     },
     {
-      "id": "adana-7",
+      "id": "adana-8",
       "name": "ŞAŞMAZ ECZANESİ",
       "address": "PINAR MAH.74057 SOK. PINAR SİTESİ SARANA KARŞI ARASI İL SAĞLIK MÜDÜRLÜĞÜ EK HİZMET BİNASI YANI , 3229994313 Harita Konum",
       "phone": "3229994313",
@@ -103,7 +115,7 @@
       "dutyEnd": "2026-02-25T08:00:00.000Z"
     },
     {
-      "id": "adana-8",
+      "id": "adana-9",
       "name": "BİRBİRİ ECZANESİ",
       "address": "AKKAPI MAH. ŞIH CEMİL CAD. NO:194/A AKKAPI MUHTARLIK BİNASI KARŞISI , 05528038873 Harita Konum",
       "phone": "05528038873",
@@ -111,18 +123,6 @@
       "city": "Adana",
       "latitude": 36.961091,
       "longitude": 35.303925,
-      "dutyStart": "2026-02-24T08:00:00.000Z",
-      "dutyEnd": "2026-02-25T08:00:00.000Z"
-    },
-    {
-      "id": "adana-9",
-      "name": "HATİCE ECZANESİ",
-      "address": "2000 EVLER MAH.BÜLENT ECEVİT BULV. 2000 EVLER ASM KARŞI ÇAPRAZI,YENİ ALPTEKİN FIRINI YANI , 03222488111 Harita Konum",
-      "phone": "03222488111",
-      "district": "Seyhan",
-      "city": "Adana",
-      "latitude": 37.028913106154945,
-      "longitude": 35.268883223489354,
       "dutyStart": "2026-02-24T08:00:00.000Z",
       "dutyEnd": "2026-02-25T08:00:00.000Z"
     },
