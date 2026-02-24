@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T09:00:18.719Z",
+  "updatedAt": "2026-02-24T09:30:17.418Z",
   "count": 134,
   "pharmacies": [
     {
@@ -331,18 +331,6 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-17256",
-      "name": "DENİZ ECZANESİ",
-      "address": "Yeşilköy Mahallesi, Yeşilköy İstanbul Caddesi, 79/D",
-      "phone": "+902126633773",
-      "district": "BAKIRKÖY",
-      "city": "İstanbul",
-      "latitude": 40.95969890565727,
-      "longitude": 28.835554551680328,
-      "dutyStart": "2026-02-23T21:00:00.000Z",
-      "dutyEnd": "2026-02-24T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-18840",
       "name": "DENİZ ECZANESİ",
       "address": "Feneryolu Mahallesi, Bağdat Caddesi, 73B",
@@ -355,14 +343,14 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11052",
-      "name": "DEVA ECZANESİ",
-      "address": "Halkalı Merkez Mahallesi, Mahmutbey Caddesi, 15",
-      "phone": "+902124712626",
-      "district": "KÜÇÜKÇEKMECE",
+      "id": "istanbul-17256",
+      "name": "DENİZ ECZANESİ",
+      "address": "Yeşilköy Mahallesi, Yeşilköy İstanbul Caddesi, 79/D",
+      "phone": "+902126633773",
+      "district": "BAKIRKÖY",
       "city": "İstanbul",
-      "latitude": 41.03587155563943,
-      "longitude": 28.790646033667226,
+      "latitude": 40.95969890565727,
+      "longitude": 28.835554551680328,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
@@ -375,6 +363,18 @@
       "city": "İstanbul",
       "latitude": 41.16516189811898,
       "longitude": 29.581553404784398,
+      "dutyStart": "2026-02-23T21:00:00.000Z",
+      "dutyEnd": "2026-02-24T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11052",
+      "name": "DEVA ECZANESİ",
+      "address": "Halkalı Merkez Mahallesi, Mahmutbey Caddesi, 15",
+      "phone": "+902124712626",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.03587155563943,
+      "longitude": 28.790646033667226,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
