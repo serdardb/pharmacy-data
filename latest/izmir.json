@@ -3,7 +3,7 @@
   "cityName": "İzmir",
   "cityId": 35,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T20:00:56.918Z",
+  "updatedAt": "2026-02-24T20:30:55.002Z",
   "count": 70,
   "pharmacies": [
     {
@@ -253,8 +253,8 @@
       "phone": "02322384940",
       "district": "NARLIDERE",
       "city": "İzmir",
-      "latitude": 38.393192,
-      "longitude": 27.020569,
+      "latitude": 38.393019,
+      "longitude": 27.020572,
       "dutyStart": "2026-02-24T08:00:00.000Z",
       "dutyEnd": "2026-02-25T08:00:00.000Z"
     },
