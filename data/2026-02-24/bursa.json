@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T05:30:24.092Z",
+  "updatedAt": "2026-02-24T06:00:34.686Z",
   "count": 37,
   "pharmacies": [
     {
@@ -92,42 +92,6 @@
     },
     {
       "id": "bursa-7",
-      "name": "ALPAY ECZANESİ",
-      "address": "ÇIRPAN MAH. DARMSTAD CAD. NO:41/A,  (ÇARŞAMBA CİCİM PASTANESİ ÇAPRAZI) ,  0224 251 22 16",
-      "phone": "02242512216",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.19474,
-      "longitude": 29.05413,
-      "dutyStart": "2026-02-24T18:30:00.000Z",
-      "dutyEnd": "2026-02-25T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-8",
-      "name": "TORUNLAR ECZANESİ",
-      "address": "HÜDAVENDİGAR MAH. BENT CAD. NO:3,  (MİHRAPLI CAMİ KARŞISI) ,  0224 239 30 00",
-      "phone": "02242393000",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 0,
-      "longitude": 0,
-      "dutyStart": "2026-02-24T18:30:00.000Z",
-      "dutyEnd": "2026-02-25T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-9",
-      "name": "İKİ KAPILI ECZANESİ",
-      "address": "ALTINOVA MAH. İSTANBUL CAD. NO:410/D SKYTOWER,  (YALOVA YOLU ÖZDİLEK - HİLTON OTEL KARŞISI) ,  0224 504 74 34",
-      "phone": "02245047434",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.226847,
-      "longitude": 29.062963,
-      "dutyStart": "2026-02-24T18:30:00.000Z",
-      "dutyEnd": "2026-02-25T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-10",
       "name": "ÖMÜR SAĞLIK ECZANESİ",
       "address": "BAĞLARBAŞI MAH. 1.ERİM SOK. NO:11/A,  (BAĞLARBAŞI 23 NOLU ASM KARŞISI) ,  0224 249 99 87 / 2242499986",
       "phone": "02242499987",
@@ -139,7 +103,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-8",
       "name": "BAĞ ECZANESİ",
       "address": "YENİBAĞLAR MAH. YAKUT SOK. NO:35/A,  (YENİBAĞLAR 32 NOLU AİLE SAĞLIĞI MERKEZİ KARŞISI) ,  0224 241 99 00",
       "phone": "02242419900",
@@ -151,7 +115,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
+      "id": "bursa-9",
       "name": "MAKSEM SAĞLIK ECZANESİ",
       "address": "MAKSEM MAH. MAKSEM CAD. 8.MURAT SOK. NO:1/2C ,  (HEYKEL PTT YOKUŞU) ,  0224 224 31 41 / 0554 958 01 01",
       "phone": "02242243141",
@@ -163,7 +127,55 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
+      "id": "bursa-10",
+      "name": "ALPAY ECZANESİ",
+      "address": "ÇIRPAN MAH. DARMSTAD CAD. NO:41/A,  (ÇARŞAMBA CİCİM PASTANESİ ÇAPRAZI) ,  0224 251 22 16",
+      "phone": "02242512216",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.19474,
+      "longitude": 29.05413,
+      "dutyStart": "2026-02-24T18:30:00.000Z",
+      "dutyEnd": "2026-02-25T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "TORUNLAR ECZANESİ",
+      "address": "HÜDAVENDİGAR MAH. BENT CAD. NO:3,  (MİHRAPLI CAMİ KARŞISI) ,  0224 239 30 00",
+      "phone": "02242393000",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 0,
+      "longitude": 0,
+      "dutyStart": "2026-02-24T18:30:00.000Z",
+      "dutyEnd": "2026-02-25T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-12",
+      "name": "İKİ KAPILI ECZANESİ",
+      "address": "ALTINOVA MAH. İSTANBUL CAD. NO:410/D SKYTOWER,  (YALOVA YOLU ÖZDİLEK - HİLTON OTEL KARŞISI) ,  0224 504 74 34",
+      "phone": "02245047434",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.226847,
+      "longitude": 29.062963,
+      "dutyStart": "2026-02-24T18:30:00.000Z",
+      "dutyEnd": "2026-02-25T08:30:00.000Z"
+    },
+    {
       "id": "bursa-13",
+      "name": "FURKAN ECZANESİ",
+      "address": "ORTABAĞLAR MAH. ÇELİK SOK. NO:4,  (ESKİ FAKÜLTE KARŞISI - GÖZLÜKÇÜLER ÜSTÜ) ,  0224 366 59 31 / 0224366578",
+      "phone": "02243665931",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.19064398223581,
+      "longitude": 29.111188906125562,
+      "dutyStart": "2026-02-24T18:30:00.000Z",
+      "dutyEnd": "2026-02-25T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-14",
       "name": "BATI TRAKYA ECZANESİ",
       "address": "YİĞİTLER MAH. TÜRKMENBAŞI CAD. NO:123/B,  (YİĞİTLER TOKİ KARŞISI) ,  0224 342 02 98",
       "phone": "02243420298",
@@ -175,7 +187,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-15",
       "name": "OKUR ECZANESİ",
       "address": "MİLLET MAH. CENGİZHAN CAD. NO:26/B,  (MİLLET ASM VE MİLLET MAH. MUHTARLIĞI KARŞISI) ,  0224 363 06 03",
       "phone": "02243630603",
@@ -187,7 +199,7 @@
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
     {
-      "id": "bursa-15",
+      "id": "bursa-16",
       "name": "MAKİ ECZANESİ",
       "address": "ZÜMRÜTEVLER MAH. KURTBASAN CAD. NO:170/A ,  (AKÇAĞLAYAN TOKİ - SHELL ALTI - ZÜMRÜTEVLER ASM YANI) ,  0224 329 50 01",
       "phone": "02243295001",
@@ -195,18 +207,6 @@
       "city": "Bursa",
       "latitude": 40.174308,
       "longitude": 29.099737,
-      "dutyStart": "2026-02-24T18:30:00.000Z",
-      "dutyEnd": "2026-02-25T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-16",
-      "name": "FURKAN ECZANESİ",
-      "address": "ORTABAĞLAR MAH. ÇELİK SOK. NO:4,  (ESKİ FAKÜLTE KARŞISI - GÖZLÜKÇÜLER ÜSTÜ) ,  0224 366 59 31 / 0224366578",
-      "phone": "02243665931",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.19064398223581,
-      "longitude": 29.111188906125562,
       "dutyStart": "2026-02-24T18:30:00.000Z",
       "dutyEnd": "2026-02-25T08:30:00.000Z"
     },
