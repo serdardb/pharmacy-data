@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T11:00:26.613Z",
+  "updatedAt": "2026-02-24T11:30:19.319Z",
   "count": 32,
   "pharmacies": [
     {
@@ -260,18 +260,6 @@
     },
     {
       "id": "konya-21",
-      "name": "EGE ECZANESİ",
-      "address": "TALATPAŞA MH. KAZIM KARABEKİR CD. YILMAZ TOPBAŞ APT. B BLOK NO:70B",
-      "phone": "903327100408",
-      "district": "Ereğli̇",
-      "city": "Konya",
-      "latitude": 37.5183,
-      "longitude": 34.06256,
-      "dutyStart": "2026-02-24T09:00:00.000Z",
-      "dutyEnd": "2026-02-25T09:00:00.000Z"
-    },
-    {
-      "id": "konya-22",
       "name": "EDA ECZANESİ",
       "address": "TOROS MAHALLESİ TOKİ CADDESİ NO:17A",
       "phone": "903327128330",
@@ -279,6 +267,18 @@
       "city": "Konya",
       "latitude": 37.45709,
       "longitude": 34.05459,
+      "dutyStart": "2026-02-24T09:00:00.000Z",
+      "dutyEnd": "2026-02-25T09:00:00.000Z"
+    },
+    {
+      "id": "konya-22",
+      "name": "EGE ECZANESİ",
+      "address": "TALATPAŞA MH. KAZIM KARABEKİR CD. YILMAZ TOPBAŞ APT. B BLOK NO:70B",
+      "phone": "903327100408",
+      "district": "Ereğli̇",
+      "city": "Konya",
+      "latitude": 37.5183,
+      "longitude": 34.06256,
       "dutyStart": "2026-02-24T09:00:00.000Z",
       "dutyEnd": "2026-02-25T09:00:00.000Z"
     },

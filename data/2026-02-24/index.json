@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-24T11:00:26.613Z",
+  "updatedAt": "2026-02-24T11:30:19.319Z",
   "date": "2026-02-24",
   "cities": [
     {
@@ -9,16 +9,16 @@
       "count": 60
     },
     {
-      "city": "bursa",
-      "cityName": "Bursa",
-      "cityId": 16,
-      "count": 37
-    },
-    {
       "city": "antalya",
       "cityName": "Antalya",
       "cityId": 7,
       "count": 38
+    },
+    {
+      "city": "bursa",
+      "cityName": "Bursa",
+      "cityId": 16,
+      "count": 37
     },
     {
       "city": "konya",
