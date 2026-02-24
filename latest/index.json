@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-24T12:30:24.715Z",
+  "updatedAt": "2026-02-24T13:00:29.318Z",
   "date": "2026-02-24",
   "cities": [
     {
@@ -21,16 +21,16 @@
       "count": 70
     },
     {
-      "city": "bursa",
-      "cityName": "Bursa",
-      "cityId": 16,
-      "count": 37
-    },
-    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
       "count": 32
+    },
+    {
+      "city": "bursa",
+      "cityName": "Bursa",
+      "cityId": 16,
+      "count": 37
     },
     {
       "city": "adana",
@@ -39,15 +39,15 @@
       "count": 34
     },
     {
-      "city": "kocaeli",
-      "cityName": "Kocaeli",
-      "cityId": 41,
-      "count": 23
-    },
-    {
       "city": "mersin",
       "cityName": "Mersin",
       "cityId": 33,
+      "count": 23
+    },
+    {
+      "city": "kocaeli",
+      "cityName": "Kocaeli",
+      "cityId": 41,
       "count": 23
     },
     {
@@ -63,16 +63,16 @@
       "count": 6
     },
     {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
-    },
-    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 134
+    }
+  ],
+  "errors": [
+    {
+      "city": "gaziantep",
+      "error": "HTTP 503 from https://www.gaziantep.bel.tr/tr/nobetci-eczaneler"
     }
   ]
 }
