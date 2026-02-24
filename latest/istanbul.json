@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T10:00:22.149Z",
+  "updatedAt": "2026-02-24T10:30:20.020Z",
   "count": 134,
   "pharmacies": [
     {
@@ -331,18 +331,6 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-18840",
-      "name": "DENİZ ECZANESİ",
-      "address": "Feneryolu Mahallesi, Bağdat Caddesi, 73B",
-      "phone": "+902163481128",
-      "district": "KADIKÖY",
-      "city": "İstanbul",
-      "latitude": 40.9806885702923,
-      "longitude": 29.042546983505034,
-      "dutyStart": "2026-02-23T21:00:00.000Z",
-      "dutyEnd": "2026-02-24T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17256",
       "name": "DENİZ ECZANESİ",
       "address": "Yeşilköy Mahallesi, Yeşilköy İstanbul Caddesi, 79/D",
@@ -355,14 +343,14 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-17288",
-      "name": "DEVA ECZANESİ",
-      "address": "Kumbaba Mahallesi, Ayvalık Caddesi, 1/1",
-      "phone": "+902167122023",
-      "district": "ŞİLE",
+      "id": "istanbul-18840",
+      "name": "DENİZ ECZANESİ",
+      "address": "Feneryolu Mahallesi, Bağdat Caddesi, 73B",
+      "phone": "+902163481128",
+      "district": "KADIKÖY",
       "city": "İstanbul",
-      "latitude": 41.16516189811898,
-      "longitude": 29.581553404784398,
+      "latitude": 40.9806885702923,
+      "longitude": 29.042546983505034,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
@@ -375,6 +363,18 @@
       "city": "İstanbul",
       "latitude": 41.03587155563943,
       "longitude": 28.790646033667226,
+      "dutyStart": "2026-02-23T21:00:00.000Z",
+      "dutyEnd": "2026-02-24T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-17288",
+      "name": "DEVA ECZANESİ",
+      "address": "Kumbaba Mahallesi, Ayvalık Caddesi, 1/1",
+      "phone": "+902167122023",
+      "district": "ŞİLE",
+      "city": "İstanbul",
+      "latitude": 41.16516189811898,
+      "longitude": 29.581553404784398,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
@@ -463,18 +463,6 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29716",
-      "name": "FATİH ECZANESİ",
-      "address": "Kurtköy Mahallesi, Emir Sokak, 10/A",
-      "phone": "+905536544726",
-      "district": "PENDİK",
-      "city": "İstanbul",
-      "latitude": 40.913895000278025,
-      "longitude": 29.30062800014523,
-      "dutyStart": "2026-02-23T21:00:00.000Z",
-      "dutyEnd": "2026-02-24T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-27056",
       "name": "FATİH ECZANESİ",
       "address": "Yeşilkent Mahallesi, 2011. Sokak, 16/B",
@@ -483,6 +471,18 @@
       "city": "İstanbul",
       "latitude": 41.02638400020265,
       "longitude": 28.65894399953042,
+      "dutyStart": "2026-02-23T21:00:00.000Z",
+      "dutyEnd": "2026-02-24T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29716",
+      "name": "FATİH ECZANESİ",
+      "address": "Kurtköy Mahallesi, Emir Sokak, 10/A",
+      "phone": "+905536544726",
+      "district": "PENDİK",
+      "city": "İstanbul",
+      "latitude": 40.913895000278025,
+      "longitude": 29.30062800014523,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
