@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-24",
-  "updatedAt": "2026-02-24T13:00:29.318Z",
+  "updatedAt": "2026-02-24T13:30:21.423Z",
   "count": 134,
   "pharmacies": [
     {
@@ -331,18 +331,6 @@
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
     {
-      "id": "istanbul-18840",
-      "name": "DENİZ ECZANESİ",
-      "address": "Feneryolu Mahallesi, Bağdat Caddesi, 73B",
-      "phone": "+902163481128",
-      "district": "KADIKÖY",
-      "city": "İstanbul",
-      "latitude": 40.9806885702923,
-      "longitude": 29.042546983505034,
-      "dutyStart": "2026-02-23T21:00:00.000Z",
-      "dutyEnd": "2026-02-24T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17256",
       "name": "DENİZ ECZANESİ",
       "address": "Yeşilköy Mahallesi, Yeşilköy İstanbul Caddesi, 79/D",
@@ -351,6 +339,18 @@
       "city": "İstanbul",
       "latitude": 40.95969890565727,
       "longitude": 28.835554551680328,
+      "dutyStart": "2026-02-23T21:00:00.000Z",
+      "dutyEnd": "2026-02-24T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-18840",
+      "name": "DENİZ ECZANESİ",
+      "address": "Feneryolu Mahallesi, Bağdat Caddesi, 73B",
+      "phone": "+902163481128",
+      "district": "KADIKÖY",
+      "city": "İstanbul",
+      "latitude": 40.9806885702923,
+      "longitude": 29.042546983505034,
       "dutyStart": "2026-02-23T21:00:00.000Z",
       "dutyEnd": "2026-02-24T20:59:59.000Z"
     },
