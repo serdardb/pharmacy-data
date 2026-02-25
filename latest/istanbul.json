@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-25",
-  "updatedAt": "2026-02-25T15:00:36.556Z",
+  "updatedAt": "2026-02-25T15:30:35.867Z",
   "count": 133,
   "pharmacies": [
     {
@@ -571,18 +571,6 @@
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     },
     {
-      "id": "istanbul-22324",
-      "name": "EREN ECZANESİ",
-      "address": "Seyrantepe Mahallesi, İbrahim Karaoğlanoğlu Caddesi, No:46/A",
-      "phone": "+902123244829",
-      "district": "KAĞITHANE",
-      "city": "İstanbul",
-      "latitude": 41.09811919094955,
-      "longitude": 28.99083603172644,
-      "dutyStart": "2026-02-24T21:00:00.000Z",
-      "dutyEnd": "2026-02-25T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17562",
       "name": "EREN ECZANESİ",
       "address": "Ulus Mahallesi, Atatürk 2 Caddesi, 24/B",
@@ -591,6 +579,18 @@
       "city": "İstanbul",
       "latitude": 41.030316000292856,
       "longitude": 28.551962999426692,
+      "dutyStart": "2026-02-24T21:00:00.000Z",
+      "dutyEnd": "2026-02-25T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-22324",
+      "name": "EREN ECZANESİ",
+      "address": "Seyrantepe Mahallesi, İbrahim Karaoğlanoğlu Caddesi, No:46/A",
+      "phone": "+902123244829",
+      "district": "KAĞITHANE",
+      "city": "İstanbul",
+      "latitude": 41.09811919094955,
+      "longitude": 28.99083603172644,
       "dutyStart": "2026-02-24T21:00:00.000Z",
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     },
@@ -621,12 +621,12 @@
     {
       "id": "istanbul-26204",
       "name": "FARUK ECZANESİ",
-      "address": "İnönü Mahallesi, Şehit Yılmaz Kaan Caddesi, 26A-B",
+      "address": "İnönü Mahallesi, Şehit Yılmaz Kaan Caddesi, 62/B",
       "phone": "+902126343902",
       "district": "BAĞCILAR",
       "city": "İstanbul",
-      "latitude": 41.0292298266576,
-      "longitude": 28.85426080427856,
+      "latitude": 41.02665735860585,
+      "longitude": 28.851078368419724,
       "dutyStart": "2026-02-24T21:00:00.000Z",
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     },
