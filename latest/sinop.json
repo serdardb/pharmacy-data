@@ -3,11 +3,11 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-02-25",
-  "updatedAt": "2026-02-25T17:00:38.468Z",
+  "updatedAt": "2026-02-25T17:30:35.860Z",
   "count": 6,
   "pharmacies": [
     {
-      "id": "sinop-20",
+      "id": "sinop-19",
       "name": "YAĞMUR ECZANESİ",
       "address": "YENİ MAH.KEMALETTİN SAMİ PAŞA CAD.NO:6/A",
       "phone": "03682602944",
@@ -19,7 +19,7 @@
       "dutyEnd": "2026-02-26T08:30:00.000Z"
     },
     {
-      "id": "sinop-21",
+      "id": "sinop-20",
       "name": "MERVE ECZANESİ",
       "address": "YALI MAH.ATATÜRK CAD.NO:28/A",
       "phone": "03686134188",
@@ -31,7 +31,7 @@
       "dutyEnd": "2026-02-26T08:30:00.000Z"
     },
     {
-      "id": "sinop-22",
+      "id": "sinop-21",
       "name": "ÖZCAN  ECZANESİ",
       "address": "CAMİİKEBİR MAH. ADNAN MENDERES BULVARI NO:51/C",
       "phone": "03683154710",
@@ -43,7 +43,7 @@
       "dutyEnd": "2026-02-26T08:30:00.000Z"
     },
     {
-      "id": "sinop-23",
+      "id": "sinop-22",
       "name": "ERDOĞAN  ECZANESİ",
       "address": "MERKEZ MAH. YUSUF KEMAL TENGİRŞEK CAD. NO:30",
       "phone": "03684162277",
@@ -55,7 +55,7 @@
       "dutyEnd": "2026-02-26T08:30:00.000Z"
     },
     {
-      "id": "sinop-24",
+      "id": "sinop-23",
       "name": "KUMSAL ECZANESİ",
       "address": "MERKEZ MAH. ÇINARLIK CAD. NO:20/B",
       "phone": "03685112000",
@@ -67,7 +67,7 @@
       "dutyEnd": "2026-02-26T08:30:00.000Z"
     },
     {
-      "id": "sinop-25",
+      "id": "sinop-24",
       "name": "GÜÇLÜ  ECZANESİ",
       "address": "YENİ MAH. FATİH CADDESİ NO:57",
       "phone": "03687181778",
