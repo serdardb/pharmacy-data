@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-25",
-  "updatedAt": "2026-02-25T05:00:25.786Z",
+  "updatedAt": "2026-02-25T05:30:23.186Z",
   "count": 133,
   "pharmacies": [
     {
@@ -31,18 +31,6 @@
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     },
     {
-      "id": "istanbul-14496",
-      "name": "AKIN ECZANESİ",
-      "address": "Üçevler Mahallesi, Urfalılar Caddesi, 71/C",
-      "phone": "+902126200635",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.02830000270513,
-      "longitude": 28.677626000057142,
-      "dutyStart": "2026-02-24T21:00:00.000Z",
-      "dutyEnd": "2026-02-25T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-23572",
       "name": "AKIN ECZANESİ",
       "address": "Cumhuriyet Mahallesi, Sevil Sokak, 41A",
@@ -51,6 +39,18 @@
       "city": "İstanbul",
       "latitude": 41.01687915661435,
       "longitude": 28.84912655179006,
+      "dutyStart": "2026-02-24T21:00:00.000Z",
+      "dutyEnd": "2026-02-25T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-14496",
+      "name": "AKIN ECZANESİ",
+      "address": "Üçevler Mahallesi, Urfalılar Caddesi, 71/C",
+      "phone": "+902126200635",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.02830000270513,
+      "longitude": 28.677626000057142,
       "dutyStart": "2026-02-24T21:00:00.000Z",
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     },
@@ -379,18 +379,6 @@
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     },
     {
-      "id": "istanbul-14252",
-      "name": "DEVA ECZANESİ",
-      "address": "Zuhuratbaba Mahallesi, Özkul Sokak, 4/1A",
-      "phone": "+902125714188",
-      "district": "BAKIRKÖY",
-      "city": "İstanbul",
-      "latitude": 40.99220070056444,
-      "longitude": 28.8693461340253,
-      "dutyStart": "2026-02-24T21:00:00.000Z",
-      "dutyEnd": "2026-02-25T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28854",
       "name": "DEVA ECZANESİ",
       "address": "Atatürk Mahallesi, Parmaksız Caddesi, B Blok no:33A-1",
@@ -399,6 +387,18 @@
       "city": "İstanbul",
       "latitude": 41.01281159831885,
       "longitude": 28.605171952328405,
+      "dutyStart": "2026-02-24T21:00:00.000Z",
+      "dutyEnd": "2026-02-25T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-14252",
+      "name": "DEVA ECZANESİ",
+      "address": "Zuhuratbaba Mahallesi, Özkul Sokak, 4/1A",
+      "phone": "+902125714188",
+      "district": "BAKIRKÖY",
+      "city": "İstanbul",
+      "latitude": 40.99220070056444,
+      "longitude": 28.8693461340253,
       "dutyStart": "2026-02-24T21:00:00.000Z",
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     },
@@ -1579,18 +1579,6 @@
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     },
     {
-      "id": "istanbul-31222",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Dumlupınar Mahallesi, Mektep Sokak, 16/D",
-      "phone": "+902165045453",
-      "district": "KADIKÖY",
-      "city": "İstanbul",
-      "latitude": 40.98922573143077,
-      "longitude": 29.05876055434932,
-      "dutyStart": "2026-02-24T21:00:00.000Z",
-      "dutyEnd": "2026-02-25T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-8976",
       "name": "ŞİFA ECZANESİ",
       "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
@@ -1599,6 +1587,18 @@
       "city": "İstanbul",
       "latitude": 41.139166752321906,
       "longitude": 29.85684207593813,
+      "dutyStart": "2026-02-24T21:00:00.000Z",
+      "dutyEnd": "2026-02-25T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-31222",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Dumlupınar Mahallesi, Mektep Sokak, 16/D",
+      "phone": "+902165045453",
+      "district": "KADIKÖY",
+      "city": "İstanbul",
+      "latitude": 40.98922573143077,
+      "longitude": 29.05876055434932,
       "dutyStart": "2026-02-24T21:00:00.000Z",
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     }
