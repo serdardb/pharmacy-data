@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-25",
-  "updatedAt": "2026-02-25T09:00:22.086Z",
+  "updatedAt": "2026-02-25T09:30:22.084Z",
   "count": 133,
   "pharmacies": [
     {
@@ -379,18 +379,6 @@
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     },
     {
-      "id": "istanbul-14252",
-      "name": "DEVA ECZANESİ",
-      "address": "Zuhuratbaba Mahallesi, Özkul Sokak, 4/1A",
-      "phone": "+902125714188",
-      "district": "BAKIRKÖY",
-      "city": "İstanbul",
-      "latitude": 40.99220070056444,
-      "longitude": 28.8693461340253,
-      "dutyStart": "2026-02-24T21:00:00.000Z",
-      "dutyEnd": "2026-02-25T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28854",
       "name": "DEVA ECZANESİ",
       "address": "Atatürk Mahallesi, Parmaksız Caddesi, B Blok no:33A-1",
@@ -399,6 +387,18 @@
       "city": "İstanbul",
       "latitude": 41.01281159831885,
       "longitude": 28.605171952328405,
+      "dutyStart": "2026-02-24T21:00:00.000Z",
+      "dutyEnd": "2026-02-25T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-14252",
+      "name": "DEVA ECZANESİ",
+      "address": "Zuhuratbaba Mahallesi, Özkul Sokak, 4/1A",
+      "phone": "+902125714188",
+      "district": "BAKIRKÖY",
+      "city": "İstanbul",
+      "latitude": 40.99220070056444,
+      "longitude": 28.8693461340253,
       "dutyStart": "2026-02-24T21:00:00.000Z",
       "dutyEnd": "2026-02-25T20:59:59.000Z"
     },
