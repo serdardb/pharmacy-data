@@ -3,8 +3,8 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-26T21:30:55.703Z",
-  "count": 33,
+  "updatedAt": "2026-02-26T22:00:55.761Z",
+  "count": 31,
   "pharmacies": [
     {
       "id": "bursa-0",
@@ -248,30 +248,6 @@
     },
     {
       "id": "bursa-20",
-      "name": "ESLEM ECZANESİ",
-      "address": "OSMANİYE MAH. AHMET AKYOLLU CAD. NO:41/B,  (AYDIN MUTFAK YANI) ,  0539 730 70 12",
-      "phone": "05397307012",
-      "district": "İNEGÖL",
-      "city": "Bursa",
-      "latitude": 40.08341,
-      "longitude": 29.51066,
-      "dutyStart": "2026-02-26T18:00:00.000Z",
-      "dutyEnd": "2026-02-27T01:00:00.000Z"
-    },
-    {
-      "id": "bursa-21",
-      "name": "ALANYURT ECZANESİ",
-      "address": "YENİ MAH. MENEKŞE CAD. NO:19/B-C ,  0224 719 20 30 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02247192030",
-      "district": "İNEGÖL",
-      "city": "Bursa",
-      "latitude": 40.10766958244973,
-      "longitude": 29.51669529199603,
-      "dutyStart": "2026-02-26T18:00:00.000Z",
-      "dutyEnd": "2026-02-27T01:00:00.000Z"
-    },
-    {
-      "id": "bursa-22",
       "name": "YÜCEL ECZANESİ",
       "address": "BEYLER MAH. KILIÇASLAN CAD. NO:123 ,  0224 757 10 87 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02247571087",
@@ -283,7 +259,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-23",
+      "id": "bursa-21",
       "name": "GÜNEŞ ECZANESİ",
       "address": "GAZİ MAH. 149.SOK. NO:134 ,  0224 676 20 88 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02246762088",
@@ -295,7 +271,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-24",
+      "id": "bursa-22",
       "name": "ŞİFA ECZANESİ",
       "address": "CUMA MAH. ATATÜRK CAD. ÇARŞI İÇİ NO:3/B ,  0224 861 21 64 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02248612164",
@@ -307,7 +283,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-25",
+      "id": "bursa-23",
       "name": "KESTEL METRO ECZANESİ",
       "address": "AHMET VEFİK PAŞA MAH. FEVZİ ÇAKMAK CAD. NO:51/A ,  0224 373 00 77 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02243730077",
@@ -319,7 +295,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-26",
+      "id": "bursa-24",
       "name": "YALIM ECZANESİ",
       "address": "GÜZELYALI YALI MAH. 41.SOK. NO:13/C ,  0224 554 66 77 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02245546677",
@@ -331,7 +307,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-27",
+      "id": "bursa-25",
       "name": "BİLGİN ECZANESİ",
       "address": "ÖMERBEY MAH. DENİZ CAD. 2.BARIŞ SOK. AKARSU SİTESİ NO:4/B-C ,  0224 544 84 74 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02245448474",
@@ -343,7 +319,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-28",
+      "id": "bursa-26",
       "name": "KARACA SAĞLIK ECZANESİ",
       "address": "HAMZABEY MAH. ŞEHİT ZEKİ GÖKGÖZ SOK. NO:24 ,  0224 618 00 41 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02246180041",
@@ -355,7 +331,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-29",
+      "id": "bursa-27",
       "name": "CANNUR ECZANESİ",
       "address": "İSMET PAŞA MAH. HASTANE CAD. NO:7 ,  0224-8171262 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02248171262",
@@ -367,7 +343,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-30",
+      "id": "bursa-28",
       "name": "KESKİN ECZANESİ",
       "address": "ARAPZADE MAH. GÜNEŞ SOK. NO:1/A ,  0224-9092860 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02249092860",
@@ -379,7 +355,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-31",
+      "id": "bursa-29",
       "name": "CADDE DEMİRTAŞ ECZANESİ",
       "address": "DEMİRTAŞ CUMHURİYET MAH. ÇEVREYOLU CAD. 1235.SOK. NO:3,  (PETROL OFİSİ İSTASYONU ÇAPRAZI) ,  0224 262 22 17",
       "phone": "02242622217",
@@ -391,7 +367,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-32",
+      "id": "bursa-30",
       "name": "CEM ECZANESİ",
       "address": "KURTULUŞ MAH. ATATÜRK CAD. NO:64/A ,  0224 773 60 48 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02247736048",
