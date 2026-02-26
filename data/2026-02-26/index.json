@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T17:00:55.762Z",
+  "updatedAt": "2026-02-26T17:30:55.756Z",
   "date": "2026-02-26",
   "cities": [
     {
@@ -54,7 +54,7 @@
       "city": "samsun",
       "cityName": "Samsun",
       "cityId": 55,
-      "count": 21
+      "count": 20
     },
     {
       "city": "sinop",

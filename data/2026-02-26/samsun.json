@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-02-26",
-  "updatedAt": "2026-02-26T17:00:55.762Z",
-  "count": 21,
+  "updatedAt": "2026-02-26T17:30:55.756Z",
+  "count": 20,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -80,18 +80,6 @@
     },
     {
       "id": "samsun-6",
-      "name": "ÇATALÇAM ECZANESİ",
-      "address": "GÜZELYURT MAH. ATATÜRK BULVARI 7.KISIM NO:64/A",
-      "phone": "03624671702",
-      "district": "Atakum Sayfiye",
-      "city": "Samsun",
-      "latitude": 41.420032,
-      "longitude": 36.167515,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-7",
       "name": "MESKENLER ECZANESİ",
       "address": "19 MAYIS MAH. HACI ALİ EKİNCİ BULVARI NO:3/A",
       "phone": "03622561396",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-8",
+      "id": "samsun-7",
       "name": "ALAÇAM ECZANESİ",
       "address": "YENİ CAMİ MAH. BAFRA CAD. NO:16/A",
       "phone": "03626220110",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-9",
+      "id": "samsun-8",
       "name": "CEDİT ECZANESİ",
       "address": "BİÇİMCİK MAH.ESEN SOK.NO:11",
       "phone": "03627913256",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-10",
+      "id": "samsun-9",
       "name": "SAĞLIK ECZANESİ",
       "address": "EYÜP SULTAN MAH.MOLLA GÜRANİ SOK. NO.21/1",
       "phone": "03628132021",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-11",
+      "id": "samsun-10",
       "name": "YILMAZ  ECZANESİ",
       "address": "ALTINYAPRAK MAH. DUHA SERTKAYA BULVARINO:72/A",
       "phone": "03625441144",
@@ -151,7 +139,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-12",
+      "id": "samsun-11",
       "name": "DEĞİRMENBAŞI ECZANESİ",
       "address": "SARICALI MAH. YUNUS EMRE CAD. NO:27",
       "phone": "03628331738",
@@ -163,7 +151,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-13",
+      "id": "samsun-12",
       "name": "SÖNMEZ ECZANESİ",
       "address": "İCADİYE MAH.ŞEHİT HASAN AKTAR CAD. NO:79/2",
       "phone": "03625035803",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-14",
+      "id": "samsun-13",
       "name": "SEDA ECZANESİ",
       "address": "MEHMET PAŞA MAH.FATİH SULTAN MEHMET CAD.NO:23/A",
       "phone": "03627414848",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-15",
+      "id": "samsun-14",
       "name": "LADİK ELİF ECZANESİ",
       "address": "BAHŞİ MAH.GAZİ CAD.NO:56/A",
       "phone": "03627713091",
@@ -199,7 +187,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-16",
+      "id": "samsun-15",
       "name": "ENGİZ ECZANESİ",
       "address": "PAZAR MAH. FATİH CAD. NO:3",
       "phone": "03625112888",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-17",
+      "id": "samsun-16",
       "name": "OVALI ECZANESİ",
       "address": "BEREKET MAH. ŞEHİT ORHAN ERDOĞAN BULVARI NO:2",
       "phone": "03628213747",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-18",
+      "id": "samsun-17",
       "name": "SAĞLIK ECZANESİ",
       "address": "YENİ MAH.KOCAMAN CAD.NO:12/E",
       "phone": "03628762198",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-19",
+      "id": "samsun-18",
       "name": "GÜLDEN ECZANESİ",
       "address": "ESENTEPE MAH. ALPARSLAN TÜRKEŞ CADDESİ NO:80/10",
       "phone": "05015315355",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "samsun-26",
+      "id": "samsun-25",
       "name": "ŞİFA  ECZANESİ",
       "address": "CUMHURIYET CAD.NO:4/B",
       "phone": "03686712179",
