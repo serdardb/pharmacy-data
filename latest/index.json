@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-02-26T23:00:55.758Z",
+  "updatedAt": "2026-02-26T23:30:55.701Z",
   "date": "2026-02-27",
   "cities": [
-    {
-      "city": "antalya",
-      "cityName": "Antalya",
-      "cityId": 7,
-      "count": 40
-    },
     {
       "city": "ankara",
       "cityName": "Ankara",
       "cityId": 6,
       "count": 61
+    },
+    {
+      "city": "antalya",
+      "cityName": "Antalya",
+      "cityId": 7,
+      "count": 40
     },
     {
       "city": "bursa",
@@ -25,6 +25,12 @@
       "cityName": "İzmir",
       "cityId": 35,
       "count": 73
+    },
+    {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
     },
     {
       "city": "konya",
@@ -51,18 +57,6 @@
       "count": 21
     },
     {
-      "city": "samsun",
-      "cityName": "Samsun",
-      "cityId": 55,
-      "count": 20
-    },
-    {
-      "city": "sinop",
-      "cityName": "Sinop",
-      "cityId": 57,
-      "count": 6
-    },
-    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
@@ -71,8 +65,8 @@
   ],
   "errors": [
     {
-      "city": "adana",
-      "error": "HTTP 503 from https://www.adanaeo.org.tr/nobetci-eczaneler"
+      "city": "samsun",
+      "error": "HTTP 522 from https://www.samsuneczaciodasi.org.tr/nobetci-eczaneler"
     }
   ]
 }
