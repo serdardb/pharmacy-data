@@ -1,13 +1,7 @@
 {
-  "updatedAt": "2026-02-26T12:30:55.976Z",
+  "updatedAt": "2026-02-26T13:00:56.063Z",
   "date": "2026-02-26",
   "cities": [
-    {
-      "city": "ankara",
-      "cityName": "Ankara",
-      "cityId": 6,
-      "count": 61
-    },
     {
       "city": "antalya",
       "cityName": "Antalya",
@@ -15,16 +9,10 @@
       "count": 40
     },
     {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
-    },
-    {
-      "city": "konya",
-      "cityName": "Konya",
-      "cityId": 42,
-      "count": 32
+      "city": "ankara",
+      "cityName": "Ankara",
+      "cityId": 6,
+      "count": 61
     },
     {
       "city": "bursa",
@@ -39,10 +27,16 @@
       "count": 73
     },
     {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
+    },
+    {
+      "city": "konya",
+      "cityName": "Konya",
+      "cityId": 42,
+      "count": 32
     },
     {
       "city": "mersin",
@@ -57,16 +51,28 @@
       "count": 23
     },
     {
+      "city": "samsun",
+      "cityName": "Samsun",
+      "cityId": 55,
+      "count": 21
+    },
+    {
+      "city": "sinop",
+      "cityName": "Sinop",
+      "cityId": 57,
+      "count": 6
+    },
+    {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
+    },
+    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 133
-    }
-  ],
-  "errors": [
-    {
-      "city": "samsun",
-      "error": "HTTP 522 from https://www.samsuneczaciodasi.org.tr/nobetci-eczaneler"
     }
   ]
 }
