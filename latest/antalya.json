@@ -3,7 +3,7 @@
   "cityName": "Antalya",
   "cityId": 7,
   "date": "2026-02-26",
-  "updatedAt": "2026-02-26T11:00:58.382Z",
+  "updatedAt": "2026-02-26T11:30:58.186Z",
   "count": 40,
   "pharmacies": [
     {
@@ -104,20 +104,20 @@
     },
     {
       "id": "antalya-8",
-      "name": "BABACAN ECZANESİ",
+      "name": "ARSLAN ECZANESİ",
       "address": "ÖZGÜRLÜK MAH. 2666 SOKAK KAPALI HALK PAZARI YANI DOKUMA",
-      "phone": "02423370040",
+      "phone": "02423380731",
       "district": "Antalya",
       "city": "Antalya",
-      "latitude": 36.91388333,
-      "longitude": 30.72036667,
+      "latitude": 36.91537622468688,
+      "longitude": 30.71728523779186,
       "dutyStart": "2026-02-26T08:00:00.000Z",
       "dutyEnd": "2026-02-27T08:00:00.000Z"
     },
     {
       "id": "antalya-9",
       "name": "ECE GÖÇMEN ECZANESİ",
-      "address": "TEOMANPASA MH.GAZI BULV.SEMA YAZAR DEVLET HAST.YANI",
+      "address": "TEOMANPAŞA MAH. 2202 SOKAK.NO:14/KEPEZ (KEPEZ BELEDİYESİ ARKASI)",
       "phone": "05519720025",
       "district": "Antalya",
       "city": "Antalya",
