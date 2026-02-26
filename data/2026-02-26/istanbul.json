@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-26",
-  "updatedAt": "2026-02-26T14:00:56.458Z",
+  "updatedAt": "2026-02-26T14:30:56.059Z",
   "count": 133,
   "pharmacies": [
     {
@@ -1243,18 +1243,6 @@
       "dutyEnd": "2026-02-26T20:59:59.000Z"
     },
     {
-      "id": "istanbul-34242",
-      "name": "YAŞAM ECZANESİ",
-      "address": "Piyalepaşa Mahallesi, Yıldırım Beyazıt Sokak, No:4/A",
-      "phone": "+902122569148",
-      "district": "BEYOĞLU",
-      "city": "İstanbul",
-      "latitude": 41.052405667991515,
-      "longitude": 28.960215340850915,
-      "dutyStart": "2026-02-25T21:00:00.000Z",
-      "dutyEnd": "2026-02-26T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-11258",
       "name": "YAŞAM ECZANESİ",
       "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
@@ -1263,6 +1251,18 @@
       "city": "İstanbul",
       "latitude": 41.055566454111926,
       "longitude": 28.3677121953202,
+      "dutyStart": "2026-02-25T21:00:00.000Z",
+      "dutyEnd": "2026-02-26T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-34242",
+      "name": "YAŞAM ECZANESİ",
+      "address": "Piyalepaşa Mahallesi, Yıldırım Beyazıt Sokak, No:4/A",
+      "phone": "+902122569148",
+      "district": "BEYOĞLU",
+      "city": "İstanbul",
+      "latitude": 41.052405667991515,
+      "longitude": 28.960215340850915,
       "dutyStart": "2026-02-25T21:00:00.000Z",
       "dutyEnd": "2026-02-26T20:59:59.000Z"
     },
