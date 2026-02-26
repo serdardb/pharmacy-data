@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-26",
-  "updatedAt": "2026-02-26T18:30:55.703Z",
+  "updatedAt": "2026-02-26T19:00:55.860Z",
   "count": 34,
   "pharmacies": [
     {
@@ -68,18 +68,6 @@
     },
     {
       "id": "bursa-5",
-      "name": "ÇAĞLAYAN ECZANESİ",
-      "address": "AKPINAR MAH. HANCI CAD. NO:22/9,  (1050 KONUTLAR - AKPINAR KÜLTÜR MERKEZİ KARŞISI) ,  0224 268 00 70",
-      "phone": "02242680070",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.244107989363236,
-      "longitude": 28.971513882279396,
-      "dutyStart": "2026-02-26T18:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-6",
       "name": "SAĞLIK ECZANESİ",
       "address": "ÇIRPAN MAH. 1.ALTIPARMAK SOK. NO:70-74C,  (ÇIRPAN CAMİ YANI - ÇARŞAMBA) ,  0224 251 63 33",
       "phone": "02242516333",
@@ -91,7 +79,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-7",
+      "id": "bursa-6",
       "name": "LİNA ECZANESİ",
       "address": "DOĞANEVLER MAH. 2.DADAŞ SOK. NO:11,  (700.YIL AİLE SAĞLIĞI MERKEZİ KARŞISI) ,  0507 006 61 16",
       "phone": "05070066116",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-7",
       "name": "ÇARE ECZANESİ",
       "address": "ALEMDAR MAH. ORMANLAR YOLU CAD. NO:78/A,  (ALEMDAR MAH. MUHTARLIĞI KARŞISI) ,  0224 235 40 20",
       "phone": "02242354020",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-8",
       "name": "ECEMNAZ ECZANESİ",
       "address": "EMEK ZEKAİ GÜMÜŞDİŞ MAH. SANAYİ CAD. NO:610/D,  (BURSA/MUDANYA YOLU - EMEK METRO İSTASYONU YANI) ,  0224 367 50 10",
       "phone": "02243675010",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-9",
       "name": "BAHAR ECZANESİ",
       "address": "BAHAR MAH. NASİP SOK. NO:7,  (BAHAR ASM KARŞISI - ÇINAR LİSESİ ALTI) ,  0224 271 69 37",
       "phone": "02242716937",
@@ -135,6 +123,18 @@
       "city": "Bursa",
       "latitude": 40.20379641,
       "longitude": 29.0663588,
+      "dutyStart": "2026-02-26T18:30:00.000Z",
+      "dutyEnd": "2026-02-27T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-10",
+      "name": "ÇAĞLAYAN ECZANESİ",
+      "address": "AKPINAR MAH. HANCI CAD. NO:22/9,  (1050 KONUTLAR - AKPINAR KÜLTÜR MERKEZİ KARŞISI) ,  0224 268 00 70",
+      "phone": "02242680070",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.244107989363236,
+      "longitude": 28.971513882279396,
       "dutyStart": "2026-02-26T18:30:00.000Z",
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
@@ -248,6 +248,18 @@
     },
     {
       "id": "bursa-20",
+      "name": "ALANYURT ECZANESİ",
+      "address": "YENİ MAH. MENEKŞE CAD. NO:19/B-C ,  0224 719 20 30 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02247192030",
+      "district": "İNEGÖL",
+      "city": "Bursa",
+      "latitude": 40.10766958244973,
+      "longitude": 29.51669529199603,
+      "dutyStart": "2026-02-26T18:00:00.000Z",
+      "dutyEnd": "2026-02-27T01:00:00.000Z"
+    },
+    {
+      "id": "bursa-21",
       "name": "HAYAT ECZANESİ",
       "address": "SÜLEYMANİYE MAH. KOYUNCU SOK. NO:8/A ,  0224 713 56 63 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02247135663",
@@ -259,7 +271,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-21",
+      "id": "bursa-22",
       "name": "ESLEM ECZANESİ",
       "address": "OSMANİYE MAH. AHMET AKYOLLU CAD. NO:41/B,  (AYDIN MUTFAK YANI) ,  0539 730 70 12",
       "phone": "05397307012",
@@ -267,18 +279,6 @@
       "city": "Bursa",
       "latitude": 40.08341,
       "longitude": 29.51066,
-      "dutyStart": "2026-02-26T18:00:00.000Z",
-      "dutyEnd": "2026-02-27T01:00:00.000Z"
-    },
-    {
-      "id": "bursa-22",
-      "name": "ALANYURT ECZANESİ",
-      "address": "YENİ MAH. MENEKŞE CAD. NO:19/B-C ,  0224 719 20 30 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02247192030",
-      "district": "İNEGÖL",
-      "city": "Bursa",
-      "latitude": 40.10766958244973,
-      "longitude": 29.51669529199603,
       "dutyStart": "2026-02-26T18:00:00.000Z",
       "dutyEnd": "2026-02-27T01:00:00.000Z"
     },

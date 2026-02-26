@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T18:30:55.703Z",
+  "updatedAt": "2026-02-26T19:00:55.860Z",
   "date": "2026-02-26",
   "cities": [
     {
@@ -51,6 +51,18 @@
       "count": 23
     },
     {
+      "city": "samsun",
+      "cityName": "Samsun",
+      "cityId": 55,
+      "count": 20
+    },
+    {
+      "city": "sinop",
+      "cityName": "Sinop",
+      "cityId": 57,
+      "count": 6
+    },
+    {
       "city": "gaziantep",
       "cityName": "Gaziantep",
       "cityId": 27,
@@ -61,12 +73,6 @@
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 133
-    }
-  ],
-  "errors": [
-    {
-      "city": "samsun",
-      "error": "HTTP 522 from https://www.samsuneczaciodasi.org.tr/nobetci-eczaneler"
     }
   ]
 }
