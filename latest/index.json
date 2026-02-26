@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T05:31:00.680Z",
+  "updatedAt": "2026-02-26T06:01:01.790Z",
   "date": "2026-02-26",
   "cities": [
     {
@@ -9,16 +9,16 @@
       "count": 61
     },
     {
-      "city": "bursa",
-      "cityName": "Bursa",
-      "cityId": 16,
-      "count": 35
-    },
-    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
       "count": 32
+    },
+    {
+      "city": "bursa",
+      "cityName": "Bursa",
+      "cityId": 16,
+      "count": 35
     },
     {
       "city": "antalya",
@@ -33,16 +33,16 @@
       "count": 32
     },
     {
-      "city": "kocaeli",
-      "cityName": "Kocaeli",
-      "cityId": 41,
-      "count": 20
-    },
-    {
       "city": "izmir",
       "cityName": "İzmir",
       "cityId": 35,
       "count": 73
+    },
+    {
+      "city": "kocaeli",
+      "cityName": "Kocaeli",
+      "cityId": 41,
+      "count": 23
     },
     {
       "city": "mersin",
