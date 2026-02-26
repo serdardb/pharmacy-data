@@ -3,7 +3,7 @@
   "cityName": "Gaziantep",
   "cityId": 27,
   "date": "2026-02-26",
-  "updatedAt": "2026-02-26T08:00:59.884Z",
+  "updatedAt": "2026-02-26T08:30:58.680Z",
   "count": 21,
   "pharmacies": [
     {
@@ -129,7 +129,7 @@
     {
       "id": "gaziantep-10",
       "name": "İZMİR ECZANESİ",
-      "address": "Pancarlı Mahallesi 58103 Nolu Sokak No:17/B (Final Okullarının Yanı ) Şehitkamil/GAZİANTEP",
+      "address": "Fatih mah. 22020 nolu cad. No:17/B Celal Doğan parkı civarı 23 nolu sağlık ocağı yanı",
       "phone": "05520819335",
       "district": "Şehi̇tkami̇l",
       "city": "Gaziantep",
