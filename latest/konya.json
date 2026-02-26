@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-26",
-  "updatedAt": "2026-02-26T06:31:00.677Z",
+  "updatedAt": "2026-02-26T07:01:00.581Z",
   "count": 32,
   "pharmacies": [
     {
@@ -260,18 +260,6 @@
     },
     {
       "id": "konya-21",
-      "name": "LOKMAN HEKİM ECZANESİ",
-      "address": "HACI MUSTAFA MAHALLESİ ZÜMRÜT SOKAK NO:20A",
-      "phone": "903327770042",
-      "district": "Ereğli̇",
-      "city": "Konya",
-      "latitude": 37.5225185,
-      "longitude": 34.0474325,
-      "dutyStart": "2026-02-26T09:00:00.000Z",
-      "dutyEnd": "2026-02-27T09:00:00.000Z"
-    },
-    {
-      "id": "konya-22",
       "name": "IHLAMUR ECZANESİ",
       "address": "CAHI MAHALLESİ ŞEHİT MURAT AKUTAY CADDESİ DURSUN CÖMERT APARTMANI NO:65A",
       "phone": "903327103535",
@@ -279,6 +267,18 @@
       "city": "Konya",
       "latitude": 37.5232504,
       "longitude": 34.0340372,
+      "dutyStart": "2026-02-26T09:00:00.000Z",
+      "dutyEnd": "2026-02-27T09:00:00.000Z"
+    },
+    {
+      "id": "konya-22",
+      "name": "LOKMAN HEKİM ECZANESİ",
+      "address": "HACI MUSTAFA MAHALLESİ ZÜMRÜT SOKAK NO:20A",
+      "phone": "903327770042",
+      "district": "Ereğli̇",
+      "city": "Konya",
+      "latitude": 37.5225185,
+      "longitude": 34.0474325,
       "dutyStart": "2026-02-26T09:00:00.000Z",
       "dutyEnd": "2026-02-27T09:00:00.000Z"
     },
