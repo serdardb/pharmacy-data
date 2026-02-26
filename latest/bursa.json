@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-26",
-  "updatedAt": "2026-02-26T06:01:01.790Z",
+  "updatedAt": "2026-02-26T06:31:00.677Z",
   "count": 35,
   "pharmacies": [
     {
@@ -140,30 +140,6 @@
     },
     {
       "id": "bursa-11",
-      "name": "BURSA VATAN ECZANESİ",
-      "address": "VATAN MAH. GÜVENLİ SOK. NO:29/A ,  0224 361 37 64 / 0538 968 06 98 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02243613764",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.2051157,
-      "longitude": 29.0902671,
-      "dutyStart": "2026-02-26T18:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-12",
-      "name": "ASAF ECZANESİ",
-      "address": "YILDIRIM MAH. YILDIRIM CAD. NO:24/C,  (YILDIRIM KÜLLİYESİ MOLLA YEGAN KARŞISI) ,  0224 364 26 26",
-      "phone": "02243642626",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.187205,
-      "longitude": 29.080092,
-      "dutyStart": "2026-02-26T18:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-13",
       "name": "ASYA ECZANESİ",
       "address": "YAVUZ SELİM MAH. SU DEPOSU CAD. NO:71/B,  (HAŞİM İŞCAN OKULU KARŞISI) ,  0224-3690084",
       "phone": "02243690084",
@@ -175,7 +151,7 @@
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-12",
       "name": "EBRUNUR ECZANESİ",
       "address": "DEĞİRMENLİKIZIK MAH. 1.GİRNE SOK. NO:6/A,  (YILDIRIM BELEDİYESİ TIP MERKEZİ KARŞISI) ,  0224 362 20 62",
       "phone": "02243622062",
@@ -183,6 +159,30 @@
       "city": "Bursa",
       "latitude": 40.17869195115908,
       "longitude": 29.109638929367065,
+      "dutyStart": "2026-02-26T18:30:00.000Z",
+      "dutyEnd": "2026-02-27T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-13",
+      "name": "BURSA VATAN ECZANESİ",
+      "address": "VATAN MAH. GÜVENLİ SOK. NO:29/A ,  0224 361 37 64 / 0538 968 06 98 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02243613764",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.2051157,
+      "longitude": 29.0902671,
+      "dutyStart": "2026-02-26T18:30:00.000Z",
+      "dutyEnd": "2026-02-27T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-14",
+      "name": "ASAF ECZANESİ",
+      "address": "YILDIRIM MAH. YILDIRIM CAD. NO:24/C,  (YILDIRIM KÜLLİYESİ MOLLA YEGAN KARŞISI) ,  0224 364 26 26",
+      "phone": "02243642626",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.187205,
+      "longitude": 29.080092,
       "dutyStart": "2026-02-26T18:30:00.000Z",
       "dutyEnd": "2026-02-27T08:30:00.000Z"
     },
