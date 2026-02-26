@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-26",
-  "updatedAt": "2026-02-25T23:30:58.481Z",
+  "updatedAt": "2026-02-26T00:00:59.610Z",
   "count": 31,
   "pharmacies": [
     {
@@ -92,18 +92,6 @@
     },
     {
       "id": "bursa-7",
-      "name": "YENİ ZAFER ECZANESİ",
-      "address": "NAMIK KEMAL MAH. NAMIK KEMAL CAD. NO:105,  (ZAFER DOLMUŞ DURAĞI KARŞISI) ,  0224 255 75 70",
-      "phone": "02242557570",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.19587894773291,
-      "longitude": 29.080939243908944,
-      "dutyStart": "2026-02-25T18:30:00.000Z",
-      "dutyEnd": "2026-02-26T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-8",
       "name": "GEÇİT ECZANESİ",
       "address": "GEÇİT MAH. SANAYİ CAD. (MUDANYA YOLU) NO:816,  (26 NOLU GEÇİT ASM KARŞISI) ,  0224 244 61 26",
       "phone": "02242446126",
@@ -111,6 +99,18 @@
       "city": "Bursa",
       "latitude": 40.27332932,
       "longitude": 28.9432025,
+      "dutyStart": "2026-02-25T18:30:00.000Z",
+      "dutyEnd": "2026-02-26T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-8",
+      "name": "YENİ ZAFER ECZANESİ",
+      "address": "NAMIK KEMAL MAH. NAMIK KEMAL CAD. NO:105,  (ZAFER DOLMUŞ DURAĞI KARŞISI) ,  0224 255 75 70",
+      "phone": "02242557570",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.19587894773291,
+      "longitude": 29.080939243908944,
       "dutyStart": "2026-02-25T18:30:00.000Z",
       "dutyEnd": "2026-02-26T08:30:00.000Z"
     },
