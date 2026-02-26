@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-26",
-  "updatedAt": "2026-02-26T18:00:55.757Z",
+  "updatedAt": "2026-02-26T18:30:55.703Z",
   "count": 133,
   "pharmacies": [
     {
@@ -1147,18 +1147,6 @@
       "dutyEnd": "2026-02-26T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21968",
-      "name": "TUBA ECZANESİ",
-      "address": "Hürriyet Mahallesi, Söğüt Sokak, 13/1",
-      "phone": "+902126448481",
-      "district": "BAHÇELİEVLER",
-      "city": "İstanbul",
-      "latitude": 41.00363144426256,
-      "longitude": 28.840197991900844,
-      "dutyStart": "2026-02-25T21:00:00.000Z",
-      "dutyEnd": "2026-02-26T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-22160",
       "name": "TUBA ECZANESİ",
       "address": "Adnan Kahveci Mahallesi, Osmanlı Caddesi, C1-3",
@@ -1167,6 +1155,18 @@
       "city": "İstanbul",
       "latitude": 41.00342343111307,
       "longitude": 28.6284974276598,
+      "dutyStart": "2026-02-25T21:00:00.000Z",
+      "dutyEnd": "2026-02-26T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21968",
+      "name": "TUBA ECZANESİ",
+      "address": "Hürriyet Mahallesi, Söğüt Sokak, 13/1",
+      "phone": "+902126448481",
+      "district": "BAHÇELİEVLER",
+      "city": "İstanbul",
+      "latitude": 41.00363144426256,
+      "longitude": 28.840197991900844,
       "dutyStart": "2026-02-25T21:00:00.000Z",
       "dutyEnd": "2026-02-26T20:59:59.000Z"
     },

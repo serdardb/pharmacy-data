@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T18:00:55.757Z",
+  "updatedAt": "2026-02-26T18:30:55.703Z",
   "date": "2026-02-26",
   "cities": [
     {
@@ -21,6 +21,12 @@
       "count": 34
     },
     {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 73
+    },
+    {
       "city": "adana",
       "cityName": "Adana",
       "cityId": 1,
@@ -39,28 +45,16 @@
       "count": 23
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 73
-    },
-    {
       "city": "kocaeli",
       "cityName": "Kocaeli",
       "cityId": 41,
       "count": 23
     },
     {
-      "city": "samsun",
-      "cityName": "Samsun",
-      "cityId": 55,
-      "count": 20
-    },
-    {
-      "city": "sinop",
-      "cityName": "Sinop",
-      "cityId": 57,
-      "count": 6
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
     },
     {
       "city": "istanbul",
@@ -71,8 +65,8 @@
   ],
   "errors": [
     {
-      "city": "gaziantep",
-      "error": "HTTP 522 from https://www.gaziantep.bel.tr/tr/nobetci-eczaneler"
+      "city": "samsun",
+      "error": "HTTP 522 from https://www.samsuneczaciodasi.org.tr/nobetci-eczaneler"
     }
   ]
 }
