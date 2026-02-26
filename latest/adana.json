@@ -3,23 +3,11 @@
   "cityName": "Adana",
   "cityId": 1,
   "date": "2026-02-26",
-  "updatedAt": "2026-02-26T07:01:00.581Z",
+  "updatedAt": "2026-02-26T07:30:59.082Z",
   "count": 32,
   "pharmacies": [
     {
       "id": "adana-0",
-      "name": "İSTANBULLUOĞLU ECZANESİ",
-      "address": "REŞATBEY MAH. CUMHURİYET CAD. İSMET İNÖNÜ İLKOKULU KARŞI ÇAPRAZI NET OPTİK YANI NO:39/A , 05324819201 03229995753 Harita Konum",
-      "phone": "05324819201",
-      "district": "Seyhan",
-      "city": "Adana",
-      "latitude": 36.996118596028495,
-      "longitude": 35.326358461797604,
-      "dutyStart": "2026-02-26T08:00:00.000Z",
-      "dutyEnd": "2026-02-27T08:00:00.000Z"
-    },
-    {
-      "id": "adana-1",
       "name": "ALADAĞ ECZANESİ",
       "address": "YENİBARAJ MAH. HACI ÖMER SABANCI CAD. SEYHAN DEVLET HASTANESİ KARŞISI (ESKİ SSK AŞKIM TÜFEKÇİ) , 03222269654 Harita Konum",
       "phone": "03222269654",
@@ -31,7 +19,7 @@
       "dutyEnd": "2026-02-27T08:00:00.000Z"
     },
     {
-      "id": "adana-2",
+      "id": "adana-1",
       "name": "İPEK KAHYA ECZANESİ",
       "address": "KURTULUŞ MAH.ZİYAPAŞA BLV. (FEDERAL'DEN SAĞA DÖNÜNCE NEWPORT YANI)CEMALPAŞA PTT VE TÜRK TELEKOM ARKASI , 05517300538 Harita Konum",
       "phone": "05517300538",
@@ -43,7 +31,7 @@
       "dutyEnd": "2026-02-27T08:00:00.000Z"
     },
     {
-      "id": "adana-3",
+      "id": "adana-2",
       "name": "AKGÜN ECZANESİ",
       "address": "Ş. MEHMET ÖZEL CAD. NARLICA 2 NOLU SAĞLIK OCAĞI KARŞISI YIKILAN KARAKOL KARŞISI , 03224334402 Harita Konum",
       "phone": "03224334402",
@@ -55,7 +43,7 @@
       "dutyEnd": "2026-02-27T08:00:00.000Z"
     },
     {
-      "id": "adana-4",
+      "id": "adana-3",
       "name": "İPEK ECZANESİ",
       "address": "BAHÇEŞEHİR MH. M. FUAT DIBLAN BULV.NO:110 (ESKİ KİREÇ OCAĞI MH.) BAHÇEŞEHİR SAĞLIK OCAĞI ALTI , 05369741113 03222564497 Harita Konum",
       "phone": "05369741113",
@@ -67,7 +55,7 @@
       "dutyEnd": "2026-02-27T08:00:00.000Z"
     },
     {
-      "id": "adana-5",
+      "id": "adana-4",
       "name": "DOĞUMEVİ ECZANESİ",
       "address": "BAKIMYURDU CAD.DOĞUMEVİ CİVARI MİNİ TAKSİ VE BİM MARKET YANI , 03223651030 03223651033 Harita Konum",
       "phone": "03223651030",
@@ -79,7 +67,7 @@
       "dutyEnd": "2026-02-27T08:00:00.000Z"
     },
     {
-      "id": "adana-6",
+      "id": "adana-5",
       "name": "5 OCAK ECZANESİ",
       "address": "YEŞİLOBA MAH. MERSİN YOLU ÜZERİ 5 OCAK HASTANESİ YANI , 05384781595 03224350517 Harita Konum",
       "phone": "05384781595",
@@ -91,7 +79,7 @@
       "dutyEnd": "2026-02-27T08:00:00.000Z"
     },
     {
-      "id": "adana-7",
+      "id": "adana-6",
       "name": "DALKIRAN ECZANESİ",
       "address": "PINAR MAH.ŞEFİK BİRİCİK ASM KARŞISI T.ÖZAL LİSESİ CİVARI İSMAİL HAZAR İÖO ARKASI , 03222621522 Harita Konum",
       "phone": "03222621522",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-02-27T08:00:00.000Z"
     },
     {
-      "id": "adana-8",
+      "id": "adana-7",
       "name": "ŞAHİNKANAT ECZANESİ",
       "address": "HÜRRİYET MAH.SAYDAM CAD. PETROL İSTASYONU KARŞISI TELEVİ SAĞLIK OCAĞI CİVARI , 03223526434 Harita Konum",
       "phone": "03223526434",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-02-27T08:00:00.000Z"
     },
     {
-      "id": "adana-9",
+      "id": "adana-8",
       "name": "ÇABUKOĞLU ECZANESİ",
       "address": "YEŞİLYURT MAH. ABDİ İPEKÇİ CAD GÜLEK CAMİ İLERİSİ MUSTAFA KEMAL İLKOKULU CİVARI , 05343801755 03222280814 Harita Konum",
       "phone": "05343801755",
@@ -123,6 +111,18 @@
       "city": "Adana",
       "latitude": 37.014203,
       "longitude": 35.309053,
+      "dutyStart": "2026-02-26T08:00:00.000Z",
+      "dutyEnd": "2026-02-27T08:00:00.000Z"
+    },
+    {
+      "id": "adana-9",
+      "name": "İSTANBULLUOĞLU ECZANESİ",
+      "address": "REŞATBEY MAH. CUMHURİYET CAD. İSMET İNÖNÜ İLKOKULU KARŞI ÇAPRAZI NET OPTİK YANI NO:39/A , 05324819201 03229995753 Harita Konum",
+      "phone": "05324819201",
+      "district": "Seyhan",
+      "city": "Adana",
+      "latitude": 36.996118596028495,
+      "longitude": 35.326358461797604,
       "dutyStart": "2026-02-26T08:00:00.000Z",
       "dutyEnd": "2026-02-27T08:00:00.000Z"
     },
