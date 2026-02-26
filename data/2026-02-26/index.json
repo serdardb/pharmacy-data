@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T13:30:55.858Z",
+  "updatedAt": "2026-02-26T14:00:56.458Z",
   "date": "2026-02-26",
   "cities": [
     {
@@ -39,12 +39,6 @@
       "count": 32
     },
     {
-      "city": "mersin",
-      "cityName": "Mersin",
-      "cityId": 33,
-      "count": 23
-    },
-    {
       "city": "kocaeli",
       "cityName": "Kocaeli",
       "cityId": 41,
@@ -55,6 +49,12 @@
       "cityName": "Gaziantep",
       "cityId": 27,
       "count": 21
+    },
+    {
+      "city": "mersin",
+      "cityName": "Mersin",
+      "cityId": 33,
+      "count": 23
     },
     {
       "city": "istanbul",
