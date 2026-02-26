@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-26T15:30:55.956Z",
+  "updatedAt": "2026-02-26T16:00:55.961Z",
   "date": "2026-02-26",
   "cities": [
     {
@@ -45,16 +45,16 @@
       "count": 23
     },
     {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
-    },
-    {
       "city": "kocaeli",
       "cityName": "Kocaeli",
       "cityId": 41,
       "count": 23
+    },
+    {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
     },
     {
       "city": "istanbul",
