@@ -3,7 +3,7 @@
   "cityName": "Ankara",
   "cityId": 6,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T10:00:19.388Z",
+  "updatedAt": "2026-02-27T10:30:19.390Z",
   "count": 57,
   "pharmacies": [
     {
@@ -392,18 +392,6 @@
     },
     {
       "id": "ankara-32",
-      "name": "PURSAKLAR MEYDAN ECZANESİ",
-      "address": "Mimar Sinan Mah. Çağatay Cad. No:41/E Pursaklar/ ANKARA , Pursaklar Devlet Hastanesi yanı 03123580404",
-      "phone": "03123580404",
-      "district": "Pursaklar",
-      "city": "Ankara",
-      "latitude": 40.048008786177,
-      "longitude": 32.89355324102,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
-    },
-    {
-      "id": "ankara-33",
       "name": "ALTAN ECZANESİ",
       "address": "Yenişehir Mah.İbn-i Sina Cad. No:1/5 Yahşihan/KIRIKKALE , Tıp Fakültesi Acil Yanı-Diş Fakültesi Karşısı 03183100123",
       "phone": "03183100123",
@@ -415,7 +403,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-34",
+      "id": "ankara-33",
       "name": "PAŞA ECZANESİ",
       "address": "Kale Mah. Ankara Cad.No:107/A Şereflikoçhisar/ ANKARA , Şereflikoçhisar Belediyesi karşısı 03126877549",
       "phone": "03126877549",
@@ -427,7 +415,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-35",
+      "id": "ankara-34",
       "name": "KARAKEÇİLİ ECZANESİ",
       "address": "Fatih Sultan Mehmet Mah.Hürriyet Cad.No:4/A Karakeçili/ KIRIKKALE , 03184743643",
       "phone": "03184743643",
@@ -439,7 +427,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-36",
+      "id": "ankara-35",
       "name": "SAĞLIK ECZANESİ",
       "address": "Halit Cevri Aslangil Mah. Çağlar Cad. No:20.Sok. No:12/B Kalecik/ ANKARA , Kalecik Devlet Hastanesi Karşısı 03128571110",
       "phone": "03128571110",
@@ -451,7 +439,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-37",
+      "id": "ankara-36",
       "name": "YENİ KARAHAN ECZANESİ",
       "address": "Bahçelievler Mah. Cumhuriyet Cad.No:25/A Gölbaşı / ANKARA , Mevlana parkı girişi 03124841604",
       "phone": "03124841604",
@@ -463,7 +451,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-38",
+      "id": "ankara-37",
       "name": "ÖZAYDIN ECZANESİ",
       "address": "Ovacık Mah. İzmir Cad.No:85 Merkez/ KIRIKKALE , Özel Yaşam Hastanesi altı 03183332424",
       "phone": "03183332424",
@@ -475,7 +463,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-39",
+      "id": "ankara-38",
       "name": "LEBLEBİCİOĞLU ECZANESİ",
       "address": "Yenidoğan Mah. Zafer Cad.Doğruer İş Merkezi No:52 Merkez /KIRIKKALE , Merkez Ziraat Bankası üstü-Eski YKM Mağzası Karşısı 03182182269",
       "phone": "03182182269",
@@ -487,7 +475,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-40",
+      "id": "ankara-39",
       "name": "LİMAN ECZANESİ",
       "address": "Kızılcaşar Mah. Barış Uzun Cad. No:25 İncek-Gölbaşı / ANKARA , İncek Losante Hastanesi Karşısı 03124251525",
       "phone": "03124251525",
@@ -499,7 +487,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-41",
+      "id": "ankara-40",
       "name": "MİR ECZANESİ",
       "address": "Prof.Dr.Ahmet Taner Kışlalı Mah. Alacaatlı Cad. No:30/6 Çayyolu/ Çankaya/ ANKARA , Erzincan Mandıra Yanı 03123124456",
       "phone": "03123124456",
@@ -511,7 +499,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-42",
+      "id": "ankara-41",
       "name": "DOĞAN ECZANESİ",
       "address": "Yavuz Selim Mah. Hükümet Cad. No:65/D Çubuk/NKARA , 4 Nolu Sağlık Ocağı yan tarafı 03128383107",
       "phone": "03128383107",
@@ -523,7 +511,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-43",
+      "id": "ankara-42",
       "name": "CENNET ECZANESİ",
       "address": "Cumhuriyet Mah.Ankara Cad. No:34/A Delice KIRIKKALE , 03186185433",
       "phone": "03186185433",
@@ -535,7 +523,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-44",
+      "id": "ankara-43",
       "name": "VERESELİ GÜDÜL ECZANESİ",
       "address": "Yukarı Gençlik Cad. No:10/A Güdül / ANKARA , 03127281533",
       "phone": "03127281533",
@@ -547,7 +535,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-45",
+      "id": "ankara-44",
       "name": "YENİ BALA ECZANESİ",
       "address": "Kartaltepe Mah. Alparslan Türkeş Bulvarı No:4 Bala/ ANKARA , 03128761376",
       "phone": "03128761376",
@@ -559,7 +547,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-46",
+      "id": "ankara-45",
       "name": "YILMAZ ECZANESİ",
       "address": "Menderes Bulvarı Sağlık 1. Sok. No:2 Hasanoğlan /Elmadağ/ ANKARA (2.Tel:3128661233) , 03128663771",
       "phone": "03128663771",
@@ -571,7 +559,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-47",
+      "id": "ankara-46",
       "name": "MERT ECZANESİ",
       "address": "Bozkurt Mh.Hastane Sok. No:6 Keskin/KIRIKKALE , 03185154760",
       "phone": "03185154760",
@@ -583,7 +571,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-48",
+      "id": "ankara-47",
       "name": "VERESELİ TEMELLİ ECZANESİ",
       "address": "TEMELLİ-İstiklal Mah. Hürriyet Cad. No:30/B Temelli/Sincan/ANKARA , 03126451163",
       "phone": "03126451163",
@@ -595,7 +583,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-49",
+      "id": "ankara-48",
       "name": "BALIŞEYH ECZANESİ",
       "address": "Yeni Mah. 43.Sok. No:14/B Balışeyh/KIRIKKALE , Balışeyh Toplum Sağlığı Merkezi Karşısı 03182333318",
       "phone": "03182333318",
@@ -607,7 +595,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-50",
+      "id": "ankara-49",
       "name": "ELMADAĞ ECZANESİ",
       "address": "İsmetpaşa Mah.Cumhuriyet Cad.No:61/A Elmadağ/ANKARA , 03128633193",
       "phone": "03128633193",
@@ -619,7 +607,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-51",
+      "id": "ankara-50",
       "name": "BÜŞRA ECZANESİ",
       "address": "Serhat Mah. Süleyman Şah. Cad.No:12/A / Yenimahalle/ ANKARA , Amatem Hastanesi 100 mt aşağısı 03129699310",
       "phone": "03129699310",
@@ -631,7 +619,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-52",
+      "id": "ankara-51",
       "name": "MERVE ECZANESİ",
       "address": "Yeni Batı Mah. 2361.Sokak No:4/3D Yenimahalle/ ANKARA , Müjgan Karaçalı Okulu Karşısı 03123241895",
       "phone": "03123241895",
@@ -643,7 +631,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-53",
+      "id": "ankara-52",
       "name": "ŞİFA ECZANESİ",
       "address": "Gökçek Mah. 250. Cad. 3/B Fatih/Sincan/ ANKARA , Sincan Eğitim Araştırma Hastanesi Karşısı 03122696969",
       "phone": "03122696969",
@@ -655,7 +643,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-54",
+      "id": "ankara-53",
       "name": "ARONYA ECZANESİ",
       "address": "Menderes Mah.760.Cad.No:6/A Yenikent/Sincan/ANKARA , Estergon Sağlık Ocağı Karşısı 05019333623",
       "phone": "05019333623",
@@ -667,7 +655,7 @@
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
-      "id": "ankara-55",
+      "id": "ankara-54",
       "name": "ELVAN ECZANESİ",
       "address": "Elvan Mah. 1544.Cad.No:106/A Etimesgut/ANKARA , Etimesgut 8 Nolu ASM yanı 005423826345",
       "phone": "005423826345",
@@ -675,6 +663,18 @@
       "city": "Ankara",
       "latitude": 39.949024363739,
       "longitude": 32.63145060709,
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
+    },
+    {
+      "id": "ankara-55",
+      "name": "GÜRKAN ECZANESİ",
+      "address": "Mimar Sinan Mah. Çağatay Cad. No:41K / (Meydan Plaza altı) Pursaklar/ANKARA , Pursaklar Devlet Hastanesi yanı 03125145888",
+      "phone": "03125145888",
+      "district": "Pursaklar",
+      "city": "Ankara",
+      "latitude": 40.048370156507,
+      "longitude": 32.894153519446,
       "dutyStart": "2026-02-27T08:30:00.000Z",
       "dutyEnd": "2026-02-28T08:30:00.000Z"
     },

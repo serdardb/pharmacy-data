@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T10:00:19.388Z",
+  "updatedAt": "2026-02-27T10:30:19.390Z",
   "count": 134,
   "pharmacies": [
     {
@@ -331,18 +331,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-6638",
-      "name": "DENİZ ECZANESİ",
-      "address": "Kınalıada Mahallesi, İskele Sokak, 3/B",
-      "phone": "+902163815181",
-      "district": "ADALAR",
-      "city": "İstanbul",
-      "latitude": 40.91038290210339,
-      "longitude": 29.05476093340845,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17624",
       "name": "DENİZ ECZANESİ",
       "address": "Petroliş Mahallesi, Kızılay Bulvarı, 27",
@@ -351,6 +339,18 @@
       "city": "İstanbul",
       "latitude": 40.89130555613563,
       "longitude": 29.181456272449513,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-6638",
+      "name": "DENİZ ECZANESİ",
+      "address": "Kınalıada Mahallesi, İskele Sokak, 3/B",
+      "phone": "+902163815181",
+      "district": "ADALAR",
+      "city": "İstanbul",
+      "latitude": 40.91038290210339,
+      "longitude": 29.05476093340845,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
