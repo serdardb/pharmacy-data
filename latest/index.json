@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-02-27T21:00:22.857Z",
+  "updatedAt": "2026-02-27T21:30:09.147Z",
   "date": "2026-02-28",
   "cities": [
     {
-      "city": "antalya",
-      "cityName": "Antalya",
-      "cityId": 7,
-      "count": 37
+      "city": "ankara",
+      "cityName": "Ankara",
+      "cityId": 6,
+      "count": 57
     },
     {
       "city": "bursa",
@@ -15,10 +15,10 @@
       "count": 33
     },
     {
-      "city": "ankara",
-      "cityName": "Ankara",
-      "cityId": 6,
-      "count": 57
+      "city": "antalya",
+      "cityName": "Antalya",
+      "cityId": 7,
+      "count": 37
     },
     {
       "city": "izmir",
@@ -27,16 +27,16 @@
       "count": 74
     },
     {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
-    },
-    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
       "count": 31
+    },
+    {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
     },
     {
       "city": "mersin",
@@ -51,6 +51,12 @@
       "count": 20
     },
     {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
+    },
+    {
       "city": "samsun",
       "cityName": "Samsun",
       "cityId": 55,
@@ -63,16 +69,10 @@
       "count": 6
     },
     {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
-    }
-  ],
-  "errors": [
-    {
       "city": "istanbul",
-      "error": "HTTP 504 from https://eczane.ibb.istanbul/api/pharmacy/getpharmacies"
+      "cityName": "İstanbul",
+      "cityId": 34,
+      "count": 133
     }
   ]
 }
