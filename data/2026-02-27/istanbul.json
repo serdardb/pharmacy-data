@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T20:00:23.557Z",
+  "updatedAt": "2026-02-27T20:30:07.643Z",
   "count": 134,
   "pharmacies": [
     {
@@ -703,18 +703,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-18300",
-      "name": "HAYAT ECZANESİ",
-      "address": "50. Yıl Mahallesi, D Caddesi, 35A",
-      "phone": "+905426655436",
-      "district": "SULTANGAZİ",
-      "city": "İstanbul",
-      "latitude": 41.093814000419385,
-      "longitude": 28.87341599944155,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28308",
       "name": "HAYAT ECZANESİ",
       "address": "Başakşehir Mahallesi, Masal Sokak, B Blok No:2B",
@@ -723,6 +711,18 @@
       "city": "İstanbul",
       "latitude": 41.10908199994711,
       "longitude": 28.78689099988727,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-18300",
+      "name": "HAYAT ECZANESİ",
+      "address": "50. Yıl Mahallesi, D Caddesi, 35A",
+      "phone": "+905426655436",
+      "district": "SULTANGAZİ",
+      "city": "İstanbul",
+      "latitude": 41.093814000419385,
+      "longitude": 28.87341599944155,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
@@ -1495,18 +1495,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-28118",
-      "name": "ÖZGE ECZANESİ",
-      "address": "Sarıgazi Mahallesi, Namık Kemal Caddesi, 25/B",
-      "phone": "+902166208005",
-      "district": "SANCAKTEPE",
-      "city": "İstanbul",
-      "latitude": 41.006653239317025,
-      "longitude": 29.21024563764059,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-35684",
       "name": "ÖZGE ECZANESİ",
       "address": "Kavacık Mahallesi, Fatih Sultan Mehmet Caddesi, No:34-1A",
@@ -1515,6 +1503,18 @@
       "city": "İstanbul",
       "latitude": 41.09371983996023,
       "longitude": 29.091462881269727,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-28118",
+      "name": "ÖZGE ECZANESİ",
+      "address": "Sarıgazi Mahallesi, Namık Kemal Caddesi, 25/B",
+      "phone": "+902166208005",
+      "district": "SANCAKTEPE",
+      "city": "İstanbul",
+      "latitude": 41.006653239317025,
+      "longitude": 29.21024563764059,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
