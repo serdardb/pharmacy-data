@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T11:30:14.571Z",
+  "updatedAt": "2026-02-27T12:00:14.450Z",
   "count": 36,
   "pharmacies": [
     {
@@ -80,6 +80,18 @@
     },
     {
       "id": "bursa-6",
+      "name": "SOBACIOĞLU ECZANESİ",
+      "address": "KÜPLÜPINAR MAH. 6.DİCLE SOK. NO:12/A,  (KÜPLÜPINAR SAĞLIK OCAĞI KARŞISI) ,  0224-2711666",
+      "phone": "02242711666",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.205468,
+      "longitude": 29.05502361,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-7",
       "name": "ERSOY ECZANESİ",
       "address": "GÜLBAHÇE MAH. VARDAR CAD. NO:42,  (ŞEHİT ŞERAFETTİN YILMAZ KARAKOLU ÜSTÜ) ,  0224 271 97 83",
       "phone": "02242719783",
@@ -87,18 +99,6 @@
       "city": "Bursa",
       "latitude": 40.19751937,
       "longitude": 29.07278538,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-7",
-      "name": "GEÇİT ALİ ECZANESİ",
-      "address": "GEÇİT MAH. SANAYİ CAD. EVKE PLAZA NO:646/A,  (MUDANYA YOLU ÜZERİ - ENDÜLÜS PARK AVM KARŞISI) ,  0224 243 23 73 / 0224 243 73 93",
-      "phone": "02242432373",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.262327,
-      "longitude": 28.950891,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
@@ -128,6 +128,18 @@
     },
     {
       "id": "bursa-10",
+      "name": "GEÇİT ALİ ECZANESİ",
+      "address": "GEÇİT MAH. SANAYİ CAD. EVKE PLAZA NO:646/A,  (MUDANYA YOLU ÜZERİ - ENDÜLÜS PARK AVM KARŞISI) ,  0224 243 23 73 / 0224 243 73 93",
+      "phone": "02242432373",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.262327,
+      "longitude": 28.950891,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-11",
       "name": "ÖZMEN ECZANESİ",
       "address": "ŞEHABETTİNPAŞA MAH. ÇEŞMECİ SOK. NO:1,  (ALTIPARMAK CAD. ÇATALFIRIN ŞEHABETTİNPAŞA CAMİ ALTI) ,  0224 222 97 10 / 0224 2248833",
       "phone": "02242229710",
@@ -135,18 +147,6 @@
       "city": "Bursa",
       "latitude": 40.18895563001342,
       "longitude": 29.05706763337298,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-11",
-      "name": "SOBACIOĞLU ECZANESİ",
-      "address": "KÜPLÜPINAR MAH. 6.DİCLE SOK. NO:12/A,  (KÜPLÜPINAR SAĞLIK OCAĞI KARŞISI) ,  0224-2711666",
-      "phone": "02242711666",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.205468,
-      "longitude": 29.05502361,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
