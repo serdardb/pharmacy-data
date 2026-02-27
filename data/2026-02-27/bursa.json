@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T19:30:22.035Z",
+  "updatedAt": "2026-02-27T20:00:23.557Z",
   "count": 35,
   "pharmacies": [
     {
@@ -92,18 +92,6 @@
     },
     {
       "id": "bursa-7",
-      "name": "GEÇİT ALİ ECZANESİ",
-      "address": "GEÇİT MAH. SANAYİ CAD. EVKE PLAZA NO:646/A,  (MUDANYA YOLU ÜZERİ - ENDÜLÜS PARK AVM KARŞISI) ,  0224 243 23 73 / 0224 243 73 93",
-      "phone": "02242432373",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.262327,
-      "longitude": 28.950891,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-8",
       "name": "KÜKÜRTLÜ SAĞLIK ECZANESİ",
       "address": "KÜKÜRTLÜ MAH. KONCA SOK. NO:6/B,  (ÖZEL ÇEKİRGE KALP VE ARİTMİ HASTANESİ ARKASI) ,  0224 236 42 43",
       "phone": "02242364243",
@@ -111,6 +99,18 @@
       "city": "Bursa",
       "latitude": 40.20554735645119,
       "longitude": 29.02110069849618,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-8",
+      "name": "GEÇİT ALİ ECZANESİ",
+      "address": "GEÇİT MAH. SANAYİ CAD. EVKE PLAZA NO:646/A,  (MUDANYA YOLU ÜZERİ - ENDÜLÜS PARK AVM KARŞISI) ,  0224 243 23 73 / 0224 243 73 93",
+      "phone": "02242432373",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.262327,
+      "longitude": 28.950891,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
