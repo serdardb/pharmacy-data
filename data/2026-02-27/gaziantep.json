@@ -3,7 +3,7 @@
   "cityName": "Gaziantep",
   "cityId": 27,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-26T23:30:55.701Z",
+  "updatedAt": "2026-02-27T00:00:55.761Z",
   "count": 21,
   "pharmacies": [
     {
@@ -15,8 +15,8 @@
       "city": "Gaziantep",
       "latitude": 37.059284,
       "longitude": 37.378422,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-1",
@@ -27,8 +27,8 @@
       "city": "Gaziantep",
       "latitude": 37.041698,
       "longitude": 37.349453,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-2",
@@ -39,8 +39,8 @@
       "city": "Gaziantep",
       "latitude": 37.05032,
       "longitude": 37.411373,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-3",
@@ -51,8 +51,8 @@
       "city": "Gaziantep",
       "latitude": 37.0526,
       "longitude": 37.3335929,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-4",
@@ -63,8 +63,8 @@
       "city": "Gaziantep",
       "latitude": 37.066132,
       "longitude": 37.36187,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-5",
@@ -75,8 +75,8 @@
       "city": "Gaziantep",
       "latitude": 37.026542,
       "longitude": 37.332576,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-6",
@@ -87,8 +87,8 @@
       "city": "Gaziantep",
       "latitude": 37.041698,
       "longitude": 37.322735,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-7",
@@ -99,8 +99,8 @@
       "city": "Gaziantep",
       "latitude": 37.027484,
       "longitude": 37.351318,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-8",
@@ -111,8 +111,8 @@
       "city": "Gaziantep",
       "latitude": 37.076019,
       "longitude": 37.369801,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-9",
@@ -123,8 +123,8 @@
       "city": "Gaziantep",
       "latitude": 37.072311,
       "longitude": 37.366299,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-10",
@@ -135,8 +135,8 @@
       "city": "Gaziantep",
       "latitude": 37.079568,
       "longitude": 37.35142,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-11",
@@ -147,8 +147,8 @@
       "city": "Gaziantep",
       "latitude": 37.074059,
       "longitude": 37.3507,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-12",
@@ -159,8 +159,8 @@
       "city": "Gaziantep",
       "latitude": 37.067139,
       "longitude": 37.40168,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-13",
@@ -171,8 +171,8 @@
       "city": "Gaziantep",
       "latitude": 37.089851,
       "longitude": 37.36808,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-14",
@@ -183,8 +183,8 @@
       "city": "Gaziantep",
       "latitude": 37.097279,
       "longitude": 37.39159,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-15",
@@ -195,8 +195,8 @@
       "city": "Gaziantep",
       "latitude": 37.01027434562284,
       "longitude": 37.79970339552301,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-16",
@@ -207,8 +207,8 @@
       "city": "Gaziantep",
       "latitude": 37.418968,
       "longitude": 37.682264,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-17",
@@ -219,8 +219,8 @@
       "city": "Gaziantep",
       "latitude": 36.980835,
       "longitude": 37.500508,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-18",
@@ -231,8 +231,8 @@
       "city": "Gaziantep",
       "latitude": 37.06675232813354,
       "longitude": 37.38321304321289,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-19",
@@ -243,8 +243,8 @@
       "city": "Gaziantep",
       "latitude": 37.06675232813354,
       "longitude": 37.38321304321289,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     },
     {
       "id": "gaziantep-20",
@@ -255,8 +255,8 @@
       "city": "Gaziantep",
       "latitude": 37.06675232813354,
       "longitude": 37.38321304321289,
-      "dutyStart": "2026-02-26T08:30:00.000Z",
-      "dutyEnd": "2026-02-27T08:30:00.000Z"
+      "dutyStart": "2026-02-27T08:30:00.000Z",
+      "dutyEnd": "2026-02-28T08:30:00.000Z"
     }
   ]
 }
