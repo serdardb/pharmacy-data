@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T12:00:14.450Z",
+  "updatedAt": "2026-02-27T12:30:14.240Z",
   "count": 32,
   "pharmacies": [
     {
@@ -260,18 +260,6 @@
     },
     {
       "id": "konya-21",
-      "name": "ERDEN ECZANESİ",
-      "address": "PİRÖMER NAHALLESİ ÜÇGÖZ CADDESİ TUVANA İŞ MERKEZİ NO:16B",
-      "phone": "903327135001",
-      "district": "Ereğli̇",
-      "city": "Konya",
-      "latitude": 37.511855,
-      "longitude": 34.0474101,
-      "dutyStart": "2026-02-27T09:00:00.000Z",
-      "dutyEnd": "2026-02-28T09:00:00.000Z"
-    },
-    {
-      "id": "konya-22",
       "name": "ÖZDOĞAN ECZANESİ",
       "address": "TÜRBE MAHALLESİ VATAN CADDESİ NO:40A-40B",
       "phone": "903327100088",
@@ -279,6 +267,18 @@
       "city": "Konya",
       "latitude": 37.5013818,
       "longitude": 34.0581841,
+      "dutyStart": "2026-02-27T09:00:00.000Z",
+      "dutyEnd": "2026-02-28T09:00:00.000Z"
+    },
+    {
+      "id": "konya-22",
+      "name": "ERDEN ECZANESİ",
+      "address": "PİRÖMER NAHALLESİ ÜÇGÖZ CADDESİ TUVANA İŞ MERKEZİ NO:16B",
+      "phone": "903327135001",
+      "district": "Ereğli̇",
+      "city": "Konya",
+      "latitude": 37.511855,
+      "longitude": 34.0474101,
       "dutyStart": "2026-02-27T09:00:00.000Z",
       "dutyEnd": "2026-02-28T09:00:00.000Z"
     },
