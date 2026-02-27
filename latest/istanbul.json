@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-27T23:00:08.647Z",
+  "updatedAt": "2026-02-27T23:30:17.954Z",
   "count": 133,
   "pharmacies": [
     {
@@ -631,14 +631,14 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-13762",
+      "id": "istanbul-19862",
       "name": "HAYAT ECZANESİ",
-      "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
-      "phone": "+902163519907",
-      "district": "ADALAR",
+      "address": "Ortabayır Mahallesi, Talatpaşa Caddesi, 123/A",
+      "phone": "+902122705975",
+      "district": "KAĞITHANE",
       "city": "İstanbul",
-      "latitude": 40.87805005093138,
-      "longitude": 29.099723346130244,
+      "latitude": 41.07865018843484,
+      "longitude": 29.00054315288441,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -655,14 +655,14 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-19862",
+      "id": "istanbul-13762",
       "name": "HAYAT ECZANESİ",
-      "address": "Ortabayır Mahallesi, Talatpaşa Caddesi, 123/A",
-      "phone": "+902122705975",
-      "district": "KAĞITHANE",
+      "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
+      "phone": "+902163519907",
+      "district": "ADALAR",
       "city": "İstanbul",
-      "latitude": 41.07865018843484,
-      "longitude": 29.00054315288441,
+      "latitude": 40.87805005093138,
+      "longitude": 29.099723346130244,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -823,14 +823,14 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-30820",
+      "id": "istanbul-29442",
       "name": "MANOLYA ECZANESİ",
-      "address": "Yayla Mahallesi, Şinasi Dural Caddesi, 96B",
-      "phone": "+902162088455",
-      "district": "TUZLA",
+      "address": "Fatih Mahallesi, Şalgamlı Caddesi, 118C",
+      "phone": "+905521593034",
+      "district": "SULTANBEYLİ",
       "city": "İstanbul",
-      "latitude": 40.83981900034719,
-      "longitude": 29.306745999891447,
+      "latitude": 40.95581300013438,
+      "longitude": 29.27180099987559,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -847,14 +847,14 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29442",
+      "id": "istanbul-30820",
       "name": "MANOLYA ECZANESİ",
-      "address": "Fatih Mahallesi, Şalgamlı Caddesi, 118C",
-      "phone": "+905521593034",
-      "district": "SULTANBEYLİ",
+      "address": "Yayla Mahallesi, Şinasi Dural Caddesi, 96B",
+      "phone": "+902162088455",
+      "district": "TUZLA",
       "city": "İstanbul",
-      "latitude": 40.95581300013438,
-      "longitude": 29.27180099987559,
+      "latitude": 40.83981900034719,
+      "longitude": 29.306745999891447,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -1003,18 +1003,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-6852",
-      "name": "ONUR ECZANESİ",
-      "address": "Yeşilköy Mahallesi, İstasyon Caddesi, 6",
-      "phone": "+902125739811",
-      "district": "BAKIRKÖY",
-      "city": "İstanbul",
-      "latitude": 40.96163540833854,
-      "longitude": 28.824460607530543,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29398",
       "name": "ONUR ECZANESİ",
       "address": "Atatürk Mahallesi, 2202. Sokak, 8/A",
@@ -1023,6 +1011,18 @@
       "city": "İstanbul",
       "latitude": 41.037737000207166,
       "longitude": 28.632864999628488,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-6852",
+      "name": "ONUR ECZANESİ",
+      "address": "Yeşilköy Mahallesi, İstasyon Caddesi, 6",
+      "phone": "+902125739811",
+      "district": "BAKIRKÖY",
+      "city": "İstanbul",
+      "latitude": 40.96163540833854,
+      "longitude": 28.824460607530543,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -1351,18 +1351,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-15946",
-      "name": "YENİ ŞİFA ECZANESİ",
-      "address": "Hürriyet Mahallesi, Abdi İpekçi Caddesi, 19-21/A",
-      "phone": "+902163098344",
-      "district": "KARTAL",
-      "city": "İstanbul",
-      "latitude": 40.90099700571381,
-      "longitude": 29.22802998819212,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-20354",
       "name": "YENİ ŞİFA ECZANESİ",
       "address": "Birlik Mahallesi, 835. Sokak, 1",
@@ -1371,6 +1359,18 @@
       "city": "İstanbul",
       "latitude": 41.04968763139051,
       "longitude": 28.87579757454176,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-15946",
+      "name": "YENİ ŞİFA ECZANESİ",
+      "address": "Hürriyet Mahallesi, Abdi İpekçi Caddesi, 19-21/A",
+      "phone": "+902163098344",
+      "district": "KARTAL",
+      "city": "İstanbul",
+      "latitude": 40.90099700571381,
+      "longitude": 29.22802998819212,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
