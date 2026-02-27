@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-27T22:30:19.650Z",
+  "updatedAt": "2026-02-27T23:00:08.647Z",
   "count": 31,
   "pharmacies": [
     {
@@ -80,18 +80,6 @@
     },
     {
       "id": "bursa-6",
-      "name": "KÜKÜRTLÜ SAĞLIK ECZANESİ",
-      "address": "KÜKÜRTLÜ MAH. KONCA SOK. NO:6/B,  (ÖZEL ÇEKİRGE KALP VE ARİTMİ HASTANESİ ARKASI) ,  0224 236 42 43",
-      "phone": "02242364243",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.20554735645119,
-      "longitude": 29.02110069849618,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-7",
       "name": "ÖZMEN ECZANESİ",
       "address": "ŞEHABETTİNPAŞA MAH. ÇEŞMECİ SOK. NO:1,  (ALTIPARMAK CAD. ÇATALFIRIN ŞEHABETTİNPAŞA CAMİ ALTI) ,  0224 222 97 10 / 0224 2248833",
       "phone": "02242229710",
@@ -99,6 +87,18 @@
       "city": "Bursa",
       "latitude": 40.18895563001342,
       "longitude": 29.05706763337298,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-7",
+      "name": "SOBACIOĞLU ECZANESİ",
+      "address": "KÜPLÜPINAR MAH. 6.DİCLE SOK. NO:12/A,  (KÜPLÜPINAR SAĞLIK OCAĞI KARŞISI) ,  0224-2711666",
+      "phone": "02242711666",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.205468,
+      "longitude": 29.05502361,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
@@ -116,18 +116,6 @@
     },
     {
       "id": "bursa-9",
-      "name": "SOBACIOĞLU ECZANESİ",
-      "address": "KÜPLÜPINAR MAH. 6.DİCLE SOK. NO:12/A,  (KÜPLÜPINAR SAĞLIK OCAĞI KARŞISI) ,  0224-2711666",
-      "phone": "02242711666",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.205468,
-      "longitude": 29.05502361,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-10",
       "name": "ERSOY ECZANESİ",
       "address": "GÜLBAHÇE MAH. VARDAR CAD. NO:42,  (ŞEHİT ŞERAFETTİN YILMAZ KARAKOLU ÜSTÜ) ,  0224 271 97 83",
       "phone": "02242719783",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-10",
       "name": "YETKİN ECZANESİ",
       "address": "HAMİTLER MAH. NAR SOK. NO:3/A,  (PAZARTESİ PAZARI İÇİ - ASM YANI) ,  0224 245 75 11 / 0546 123 79 54",
       "phone": "02242457511",
@@ -151,19 +139,19 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-12",
-      "name": "BOZATLI ECZANESİ",
-      "address": "SELÇUKBEY MAH. 2.GÜNGÖR SOK. NO:16/A,  (MESKEN KANAL CAD. - DR.SADIK AHMET SPOR TESİSLERİ ALTI) ,  0224 369 22 22 / 5524432220",
-      "phone": "02243692222",
-      "district": "YILDIRIM",
+      "id": "bursa-11",
+      "name": "KÜKÜRTLÜ SAĞLIK ECZANESİ",
+      "address": "KÜKÜRTLÜ MAH. KONCA SOK. NO:6/B,  (ÖZEL ÇEKİRGE KALP VE ARİTMİ HASTANESİ ARKASI) ,  0224 236 42 43",
+      "phone": "02242364243",
+      "district": "OSMANGAZİ",
       "city": "Bursa",
-      "latitude": 40.18142889540931,
-      "longitude": 29.114480137210222,
+      "latitude": 40.20554735645119,
+      "longitude": 29.02110069849618,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-12",
       "name": "SAFA SAĞLIK ECZANESİ",
       "address": "HACİVAT MAH. C-304. SOK. NO:9,  (SOMUNCU BABA CAMİ KARŞISI) ,  0224 341 01 01",
       "phone": "02243410101",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-13",
       "name": "IŞITAN ECZANESİ",
       "address": "MİLLET MAH. VATAN CAD. NO:283/A,  (MİLLET MAH. ANA CADDESİ) ,  0224-3515007",
       "phone": "02243515007",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-15",
+      "id": "bursa-14",
       "name": "TUNA SAĞLIK ECZANESİ",
       "address": "MEHMET AKİF ERSOY MAH. T.M.ALİ CAD. NO:55/B ,  (ESKİ DAVUTKADI POLİS MERKEZİ ÇAPRAZI) ,  0224 362 50 77",
       "phone": "02243625077",
@@ -195,6 +183,18 @@
       "city": "Bursa",
       "latitude": 40.18272,
       "longitude": 29.0912186,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-15",
+      "name": "BOZATLI ECZANESİ",
+      "address": "SELÇUKBEY MAH. 2.GÜNGÖR SOK. NO:16/A,  (MESKEN KANAL CAD. - DR.SADIK AHMET SPOR TESİSLERİ ALTI) ,  0224 369 22 22 / 5524432220",
+      "phone": "02243692222",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.18142889540931,
+      "longitude": 29.114480137210222,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
