@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T15:00:14.260Z",
+  "updatedAt": "2026-02-27T15:30:14.053Z",
   "count": 36,
   "pharmacies": [
     {
@@ -152,6 +152,18 @@
     },
     {
       "id": "bursa-12",
+      "name": "BOZATLI ECZANESİ",
+      "address": "SELÇUKBEY MAH. 2.GÜNGÖR SOK. NO:16/A,  (MESKEN KANAL CAD. - DR.SADIK AHMET SPOR TESİSLERİ ALTI) ,  0224 369 22 22 / 5524432220",
+      "phone": "02243692222",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.18142889540931,
+      "longitude": 29.114480137210222,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-13",
       "name": "SAFA SAĞLIK ECZANESİ",
       "address": "HACİVAT MAH. C-304. SOK. NO:9,  (SOMUNCU BABA CAMİ KARŞISI) ,  0224 341 01 01",
       "phone": "02243410101",
@@ -163,7 +175,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-14",
       "name": "IŞITAN ECZANESİ",
       "address": "MİLLET MAH. VATAN CAD. NO:283/A,  (MİLLET MAH. ANA CADDESİ) ,  0224-3515007",
       "phone": "02243515007",
@@ -175,7 +187,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-15",
       "name": "TUNA SAĞLIK ECZANESİ",
       "address": "MEHMET AKİF ERSOY MAH. T.M.ALİ CAD. NO:55/B ,  (ESKİ DAVUTKADI POLİS MERKEZİ ÇAPRAZI) ,  0224 362 50 77",
       "phone": "02243625077",
@@ -183,18 +195,6 @@
       "city": "Bursa",
       "latitude": 40.18272,
       "longitude": 29.0912186,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-15",
-      "name": "BOZATLI ECZANESİ",
-      "address": "SELÇUKBEY MAH. 2.GÜNGÖR SOK. NO:16/A,  (MESKEN KANAL CAD. - DR.SADIK AHMET SPOR TESİSLERİ ALTI) ,  0224 369 22 22 / 5524432220",
-      "phone": "02243692222",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.18142889540931,
-      "longitude": 29.114480137210222,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
@@ -212,18 +212,6 @@
     },
     {
       "id": "bursa-17",
-      "name": "FIRTINA ECZANESİ",
-      "address": "HİSAR MAH. KINA SOK. NO:35/I-A ,  0224 513 37 37 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02245133737",
-      "district": "GEMLİK",
-      "city": "Bursa",
-      "latitude": 40.421106,
-      "longitude": 29.157668,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T00:00:00.000Z"
-    },
-    {
-      "id": "bursa-18",
       "name": "SEVİNÇ SARAL ECZANESİ",
       "address": "CUMHURİYET MAH. GÜL CAD. NO:184/B ,  0224-5132973 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02245132973",
@@ -233,6 +221,18 @@
       "longitude": 29.154678999999987,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T09:30:00.000Z"
+    },
+    {
+      "id": "bursa-18",
+      "name": "FIRTINA ECZANESİ",
+      "address": "HİSAR MAH. KINA SOK. NO:35/I-A ,  0224 513 37 37 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02245133737",
+      "district": "GEMLİK",
+      "city": "Bursa",
+      "latitude": 40.421106,
+      "longitude": 29.157668,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T00:00:00.000Z"
     },
     {
       "id": "bursa-19",
