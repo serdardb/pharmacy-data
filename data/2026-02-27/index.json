@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T10:30:19.390Z",
+  "updatedAt": "2026-02-27T11:00:19.390Z",
   "date": "2026-02-27",
   "cities": [
     {
@@ -33,10 +33,10 @@
       "count": 34
     },
     {
-      "city": "kocaeli",
-      "cityName": "Kocaeli",
-      "cityId": 41,
-      "count": 23
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 74
     },
     {
       "city": "mersin",
@@ -45,10 +45,10 @@
       "count": 23
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 74
+      "city": "kocaeli",
+      "cityName": "Kocaeli",
+      "cityId": 41,
+      "count": 23
     },
     {
       "city": "samsun",
