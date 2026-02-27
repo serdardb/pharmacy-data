@@ -3,35 +3,11 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T17:00:14.202Z",
+  "updatedAt": "2026-02-27T17:30:14.056Z",
   "count": 35,
   "pharmacies": [
     {
       "id": "bursa-0",
-      "name": "SANAT ECZANESİ",
-      "address": "İHSANİYE MAH. FATİH CAD. NO:8/A,  (VERGİ DAİRELERİ ALTI - MUHTARLIK KARŞISI) ,  0224 249 80 00",
-      "phone": "02242498000",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.22070913889266,
-      "longitude": 28.986900374293327,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-1",
-      "name": "MEDİNE ECZANESİ",
-      "address": "KÜLTÜR MAH. BİLGİNLER CAD. NO:101/A,  (İBRAHİM YAZICI STADYUMU KARŞI CAD. - SANABEL KONAKLARI SIRASI) ,  0224 443 50 09",
-      "phone": "02244435009",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.20543078192513,
-      "longitude": 28.963464123488663,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-2",
       "name": "GALEN ECZANESİ",
       "address": "ÇAMLICA MAH. LEFKOŞE CAD. NO:126A/A,  (ODUNLUK KAVŞAĞI MİGROS VE ÖZHAN MARKET ARASI) ,  0224 327 80 94",
       "phone": "02243278094",
@@ -43,7 +19,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-3",
+      "id": "bursa-1",
       "name": "MERT ECZANESİ",
       "address": "KURTULUŞ MAH. 1.(510) SOK. NO:1-A/B,  (GÖRÜKLE GÖÇMEN KONUTLARI ASM KARŞISI VE PSİKİYATRİ HASTANESİ YUKARISI) ,  0224 999 52 82",
       "phone": "02249995282",
@@ -55,7 +31,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-4",
+      "id": "bursa-2",
       "name": "YÜZÜNCÜYIL ECZANESİ",
       "address": "100.YIL MAH. PROF.DR.ERDAL İNÖNÜ CAD. NO:25/G7,  (100.YIL ASM KARŞISI - ÖZLÜCE GARANTİ BANKASI YANI) ,  0224 413 12 22",
       "phone": "02244131222",
@@ -67,7 +43,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-5",
+      "id": "bursa-3",
       "name": "ÇAKIL ECZANESİ",
       "address": "ODUNLUK MAH. AKPINAR CAD. NO:12/A-B,  (ÖZEL MEDICANA HASTANESİ ACİL KARŞISI - PARK ORA YANI) ,  0224 453 05 16",
       "phone": "02244530516",
@@ -75,6 +51,30 @@
       "city": "Bursa",
       "latitude": 40.21147072761624,
       "longitude": 28.9989050176659,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-4",
+      "name": "SANAT ECZANESİ",
+      "address": "İHSANİYE MAH. FATİH CAD. NO:8/A,  (VERGİ DAİRELERİ ALTI - MUHTARLIK KARŞISI) ,  0224 249 80 00",
+      "phone": "02242498000",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.22070913889266,
+      "longitude": 28.986900374293327,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-5",
+      "name": "MEDİNE ECZANESİ",
+      "address": "KÜLTÜR MAH. BİLGİNLER CAD. NO:101/A,  (İBRAHİM YAZICI STADYUMU KARŞI CAD. - SANABEL KONAKLARI SIRASI) ,  0224 443 50 09",
+      "phone": "02244435009",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.20543078192513,
+      "longitude": 28.963464123488663,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
@@ -152,18 +152,6 @@
     },
     {
       "id": "bursa-12",
-      "name": "IŞITAN ECZANESİ",
-      "address": "MİLLET MAH. VATAN CAD. NO:283/A,  (MİLLET MAH. ANA CADDESİ) ,  0224-3515007",
-      "phone": "02243515007",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.2110918,
-      "longitude": 29.101991,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-13",
       "name": "TUNA SAĞLIK ECZANESİ",
       "address": "MEHMET AKİF ERSOY MAH. T.M.ALİ CAD. NO:55/B ,  (ESKİ DAVUTKADI POLİS MERKEZİ ÇAPRAZI) ,  0224 362 50 77",
       "phone": "02243625077",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-13",
       "name": "BOZATLI ECZANESİ",
       "address": "SELÇUKBEY MAH. 2.GÜNGÖR SOK. NO:16/A,  (MESKEN KANAL CAD. - DR.SADIK AHMET SPOR TESİSLERİ ALTI) ,  0224 369 22 22 / 5524432220",
       "phone": "02243692222",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-15",
+      "id": "bursa-14",
       "name": "SAFA SAĞLIK ECZANESİ",
       "address": "HACİVAT MAH. C-304. SOK. NO:9,  (SOMUNCU BABA CAMİ KARŞISI) ,  0224 341 01 01",
       "phone": "02243410101",
@@ -195,6 +183,18 @@
       "city": "Bursa",
       "latitude": 40.194441,
       "longitude": 29.148228,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-15",
+      "name": "IŞITAN ECZANESİ",
+      "address": "MİLLET MAH. VATAN CAD. NO:283/A,  (MİLLET MAH. ANA CADDESİ) ,  0224-3515007",
+      "phone": "02243515007",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.2110918,
+      "longitude": 29.101991,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
