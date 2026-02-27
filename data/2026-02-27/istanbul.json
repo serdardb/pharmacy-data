@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T05:00:19.412Z",
+  "updatedAt": "2026-02-27T05:30:19.384Z",
   "count": 134,
   "pharmacies": [
     {
@@ -355,18 +355,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-10158",
-      "name": "DERMAN ECZANESİ",
-      "address": "Piri Mehmet Paşa Mahallesi, Hacı Pervane Caddesi, 37/C",
-      "phone": "+902127271770",
-      "district": "SİLİVRİ",
-      "city": "İstanbul",
-      "latitude": 41.074700979164696,
-      "longitude": 28.247121227035336,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-14956",
       "name": "DERMAN ECZANESİ",
       "address": "Ömer Avni Mahallesi, Beytülmalcı Sokak, 32/B",
@@ -375,6 +363,18 @@
       "city": "İstanbul",
       "latitude": 41.036651490525216,
       "longitude": 28.990561883548544,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-10158",
+      "name": "DERMAN ECZANESİ",
+      "address": "Piri Mehmet Paşa Mahallesi, Hacı Pervane Caddesi, 37/C",
+      "phone": "+902127271770",
+      "district": "SİLİVRİ",
+      "city": "İstanbul",
+      "latitude": 41.074700979164696,
+      "longitude": 28.247121227035336,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
@@ -703,18 +703,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-18300",
-      "name": "HAYAT ECZANESİ",
-      "address": "50. Yıl Mahallesi, D Caddesi, 35A",
-      "phone": "+905426655436",
-      "district": "SULTANGAZİ",
-      "city": "İstanbul",
-      "latitude": 41.093814000419385,
-      "longitude": 28.87341599944155,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28308",
       "name": "HAYAT ECZANESİ",
       "address": "Başakşehir Mahallesi, Masal Sokak, B Blok No:2B",
@@ -735,6 +723,18 @@
       "city": "İstanbul",
       "latitude": 40.87805005093138,
       "longitude": 29.099723346130244,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-18300",
+      "name": "HAYAT ECZANESİ",
+      "address": "50. Yıl Mahallesi, D Caddesi, 35A",
+      "phone": "+905426655436",
+      "district": "SULTANGAZİ",
+      "city": "İstanbul",
+      "latitude": 41.093814000419385,
+      "longitude": 28.87341599944155,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
@@ -1435,18 +1435,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-23688",
-      "name": "ÇINAR ECZANESİ",
-      "address": "Yeni Mahallesi Çelebi Sokak 3",
-      "phone": "+902127273919",
-      "district": "SİLİVRİ",
-      "city": "İstanbul",
-      "latitude": 41.078603592462365,
-      "longitude": 28.256300006741146,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-10464",
       "name": "ÇINAR ECZANESİ",
       "address": "Atatürk Mahallesi, Suiş Caddesi, 1/B",
@@ -1467,6 +1455,18 @@
       "city": "İstanbul",
       "latitude": 41.03383983802346,
       "longitude": 28.52220334580865,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-23688",
+      "name": "ÇINAR ECZANESİ",
+      "address": "Yeni Mahallesi Çelebi Sokak 3",
+      "phone": "+902127273919",
+      "district": "SİLİVRİ",
+      "city": "İstanbul",
+      "latitude": 41.078603592462365,
+      "longitude": 28.256300006741146,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
@@ -1495,18 +1495,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-28118",
-      "name": "ÖZGE ECZANESİ",
-      "address": "Sarıgazi Mahallesi, Namık Kemal Caddesi, 25/B",
-      "phone": "+902166208005",
-      "district": "SANCAKTEPE",
-      "city": "İstanbul",
-      "latitude": 41.006653239317025,
-      "longitude": 29.21024563764059,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-35684",
       "name": "ÖZGE ECZANESİ",
       "address": "Kavacık Mahallesi, Fatih Sultan Mehmet Caddesi, No:34-1A",
@@ -1515,6 +1503,18 @@
       "city": "İstanbul",
       "latitude": 41.09371983996023,
       "longitude": 29.091462881269727,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-28118",
+      "name": "ÖZGE ECZANESİ",
+      "address": "Sarıgazi Mahallesi, Namık Kemal Caddesi, 25/B",
+      "phone": "+902166208005",
+      "district": "SANCAKTEPE",
+      "city": "İstanbul",
+      "latitude": 41.006653239317025,
+      "longitude": 29.21024563764059,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
