@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T19:00:14.052Z",
+  "updatedAt": "2026-02-27T19:30:22.035Z",
   "count": 134,
   "pharmacies": [
     {
@@ -331,18 +331,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-6638",
-      "name": "DENİZ ECZANESİ",
-      "address": "Kınalıada Mahallesi, İskele Sokak, 3/B",
-      "phone": "+902163815181",
-      "district": "ADALAR",
-      "city": "İstanbul",
-      "latitude": 40.91038290210339,
-      "longitude": 29.05476093340845,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17624",
       "name": "DENİZ ECZANESİ",
       "address": "Petroliş Mahallesi, Kızılay Bulvarı, 27",
@@ -351,6 +339,18 @@
       "city": "İstanbul",
       "latitude": 40.89130555613563,
       "longitude": 29.181456272449513,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-6638",
+      "name": "DENİZ ECZANESİ",
+      "address": "Kınalıada Mahallesi, İskele Sokak, 3/B",
+      "phone": "+902163815181",
+      "district": "ADALAR",
+      "city": "İstanbul",
+      "latitude": 40.91038290210339,
+      "longitude": 29.05476093340845,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
@@ -1435,18 +1435,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-23688",
-      "name": "ÇINAR ECZANESİ",
-      "address": "Yeni Mahallesi Çelebi Sokak 3",
-      "phone": "+902127273919",
-      "district": "SİLİVRİ",
-      "city": "İstanbul",
-      "latitude": 41.078603592462365,
-      "longitude": 28.256300006741146,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-10464",
       "name": "ÇINAR ECZANESİ",
       "address": "Atatürk Mahallesi, Suiş Caddesi, 1/B",
@@ -1455,6 +1443,18 @@
       "city": "İstanbul",
       "latitude": 41.02484614643312,
       "longitude": 29.08639235437865,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-23688",
+      "name": "ÇINAR ECZANESİ",
+      "address": "Yeni Mahallesi Çelebi Sokak 3",
+      "phone": "+902127273919",
+      "district": "SİLİVRİ",
+      "city": "İstanbul",
+      "latitude": 41.078603592462365,
+      "longitude": 28.256300006741146,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
