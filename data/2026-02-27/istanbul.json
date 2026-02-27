@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T14:00:14.564Z",
+  "updatedAt": "2026-02-27T14:30:14.096Z",
   "count": 134,
   "pharmacies": [
     {
@@ -703,18 +703,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-28308",
-      "name": "HAYAT ECZANESİ",
-      "address": "Başakşehir Mahallesi, Masal Sokak, B Blok No:2B",
-      "phone": "+902124886244",
-      "district": "BAŞAKŞEHİR",
-      "city": "İstanbul",
-      "latitude": 41.10908199994711,
-      "longitude": 28.78689099988727,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-13762",
       "name": "HAYAT ECZANESİ",
       "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
@@ -723,6 +711,18 @@
       "city": "İstanbul",
       "latitude": 40.87805005093138,
       "longitude": 29.099723346130244,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-28308",
+      "name": "HAYAT ECZANESİ",
+      "address": "Başakşehir Mahallesi, Masal Sokak, B Blok No:2B",
+      "phone": "+902124886244",
+      "district": "BAŞAKŞEHİR",
+      "city": "İstanbul",
+      "latitude": 41.10908199994711,
+      "longitude": 28.78689099988727,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
@@ -1255,18 +1255,6 @@
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29258",
-      "name": "YASEMİN ECZANESİ",
-      "address": "Zafer Mahallesi, Adile Naşit Bulvarı, 60/1B",
-      "phone": "+902129990213",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.00704700000072,
-      "longitude": 28.68172500000458,
-      "dutyStart": "2026-02-26T21:00:00.000Z",
-      "dutyEnd": "2026-02-27T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-19506",
       "name": "YASEMİN ECZANESİ",
       "address": "Barış Mahallesi Palmiye Sokak 6/A",
@@ -1275,6 +1263,18 @@
       "city": "İstanbul",
       "latitude": 40.999149939664996,
       "longitude": 28.64965822555964,
+      "dutyStart": "2026-02-26T21:00:00.000Z",
+      "dutyEnd": "2026-02-27T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29258",
+      "name": "YASEMİN ECZANESİ",
+      "address": "Zafer Mahallesi, Adile Naşit Bulvarı, 60/1B",
+      "phone": "+902129990213",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.00704700000072,
+      "longitude": 28.68172500000458,
       "dutyStart": "2026-02-26T21:00:00.000Z",
       "dutyEnd": "2026-02-27T20:59:59.000Z"
     },
