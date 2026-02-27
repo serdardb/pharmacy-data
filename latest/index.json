@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T01:30:55.702Z",
+  "updatedAt": "2026-02-27T02:00:55.733Z",
   "date": "2026-02-27",
   "cities": [
     {
@@ -9,16 +9,16 @@
       "count": 61
     },
     {
-      "city": "antalya",
-      "cityName": "Antalya",
-      "cityId": 7,
-      "count": 40
-    },
-    {
       "city": "bursa",
       "cityName": "Bursa",
       "cityId": 16,
       "count": 31
+    },
+    {
+      "city": "antalya",
+      "cityName": "Antalya",
+      "cityId": 7,
+      "count": 40
     },
     {
       "city": "izmir",
@@ -51,6 +51,18 @@
       "count": 20
     },
     {
+      "city": "samsun",
+      "cityName": "Samsun",
+      "cityId": 55,
+      "count": 20
+    },
+    {
+      "city": "sinop",
+      "cityName": "Sinop",
+      "cityId": 57,
+      "count": 6
+    },
+    {
       "city": "gaziantep",
       "cityName": "Gaziantep",
       "cityId": 27,
@@ -61,12 +73,6 @@
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 134
-    }
-  ],
-  "errors": [
-    {
-      "city": "samsun",
-      "error": "HTTP 522 from https://www.samsuneczaciodasi.org.tr/nobetci-eczaneler"
     }
   ]
 }
