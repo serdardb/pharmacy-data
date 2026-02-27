@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-27",
-  "updatedAt": "2026-02-27T15:30:14.053Z",
+  "updatedAt": "2026-02-27T16:00:14.150Z",
   "count": 36,
   "pharmacies": [
     {
@@ -92,6 +92,18 @@
     },
     {
       "id": "bursa-7",
+      "name": "KÜKÜRTLÜ SAĞLIK ECZANESİ",
+      "address": "KÜKÜRTLÜ MAH. KONCA SOK. NO:6/B,  (ÖZEL ÇEKİRGE KALP VE ARİTMİ HASTANESİ ARKASI) ,  0224 236 42 43",
+      "phone": "02242364243",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.20554735645119,
+      "longitude": 29.02110069849618,
+      "dutyStart": "2026-02-27T18:30:00.000Z",
+      "dutyEnd": "2026-02-28T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-8",
       "name": "ÖZMEN ECZANESİ",
       "address": "ŞEHABETTİNPAŞA MAH. ÇEŞMECİ SOK. NO:1,  (ALTIPARMAK CAD. ÇATALFIRIN ŞEHABETTİNPAŞA CAMİ ALTI) ,  0224 222 97 10 / 0224 2248833",
       "phone": "02242229710",
@@ -103,7 +115,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-9",
       "name": "SOBACIOĞLU ECZANESİ",
       "address": "KÜPLÜPINAR MAH. 6.DİCLE SOK. NO:12/A,  (KÜPLÜPINAR SAĞLIK OCAĞI KARŞISI) ,  0224-2711666",
       "phone": "02242711666",
@@ -115,7 +127,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-10",
       "name": "ERSOY ECZANESİ",
       "address": "GÜLBAHÇE MAH. VARDAR CAD. NO:42,  (ŞEHİT ŞERAFETTİN YILMAZ KARAKOLU ÜSTÜ) ,  0224 271 97 83",
       "phone": "02242719783",
@@ -127,7 +139,7 @@
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-11",
       "name": "YETKİN ECZANESİ",
       "address": "HAMİTLER MAH. NAR SOK. NO:3/A,  (PAZARTESİ PAZARI İÇİ - ASM YANI) ,  0224 245 75 11 / 0546 123 79 54",
       "phone": "02242457511",
@@ -135,18 +147,6 @@
       "city": "Bursa",
       "latitude": 40.24240459,
       "longitude": 28.99608493,
-      "dutyStart": "2026-02-27T18:30:00.000Z",
-      "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-11",
-      "name": "KÜKÜRTLÜ SAĞLIK ECZANESİ",
-      "address": "KÜKÜRTLÜ MAH. KONCA SOK. NO:6/B,  (ÖZEL ÇEKİRGE KALP VE ARİTMİ HASTANESİ ARKASI) ,  0224 236 42 43",
-      "phone": "02242364243",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.20554735645119,
-      "longitude": 29.02110069849618,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
     },
