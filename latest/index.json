@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T18:00:01.142Z",
+  "updatedAt": "2026-02-28T18:30:00.667Z",
   "date": "2026-02-28",
   "cities": [
     {
@@ -21,10 +21,10 @@
       "count": 35
     },
     {
-      "city": "konya",
-      "cityName": "Konya",
-      "cityId": 42,
-      "count": 34
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 73
     },
     {
       "city": "adana",
@@ -33,16 +33,16 @@
       "count": 37
     },
     {
+      "city": "konya",
+      "cityName": "Konya",
+      "cityId": 42,
+      "count": 34
+    },
+    {
       "city": "gaziantep",
       "cityName": "Gaziantep",
       "cityId": 27,
       "count": 21
-    },
-    {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 73
     },
     {
       "city": "mersin",
