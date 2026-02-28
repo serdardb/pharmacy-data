@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-28T04:00:04.516Z",
+  "updatedAt": "2026-02-28T04:30:03.620Z",
   "count": 133,
   "pharmacies": [
     {
@@ -427,18 +427,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-33892",
-      "name": "ERDEM ECZANESİ",
-      "address": "Şifa Mahallesi, Emiroğlu Caddesi, 91 B",
-      "phone": "+905312491921",
-      "district": "TUZLA",
-      "city": "İstanbul",
-      "latitude": 40.834294326922645,
-      "longitude": 29.36126534042517,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-22266",
       "name": "ERDEM ECZANESİ",
       "address": "Çamlık Mahallesi, İkbal Caddesi, 99",
@@ -447,6 +435,18 @@
       "city": "İstanbul",
       "latitude": 41.00767815654175,
       "longitude": 29.126090212038214,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-33892",
+      "name": "ERDEM ECZANESİ",
+      "address": "Şifa Mahallesi, Emiroğlu Caddesi, 91 B",
+      "phone": "+905312491921",
+      "district": "TUZLA",
+      "city": "İstanbul",
+      "latitude": 40.834294326922645,
+      "longitude": 29.36126534042517,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -631,6 +631,18 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
+      "id": "istanbul-13762",
+      "name": "HAYAT ECZANESİ",
+      "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
+      "phone": "+902163519907",
+      "district": "ADALAR",
+      "city": "İstanbul",
+      "latitude": 40.87805005093138,
+      "longitude": 29.099723346130244,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
       "id": "istanbul-15994",
       "name": "HAYAT ECZANESİ",
       "address": "Çırpıcı Mahallesi, 2. Taşocağı Sokak, No:51/A",
@@ -651,18 +663,6 @@
       "city": "İstanbul",
       "latitude": 41.07865018843484,
       "longitude": 29.00054315288441,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
-      "id": "istanbul-13762",
-      "name": "HAYAT ECZANESİ",
-      "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
-      "phone": "+902163519907",
-      "district": "ADALAR",
-      "city": "İstanbul",
-      "latitude": 40.87805005093138,
-      "longitude": 29.099723346130244,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -751,18 +751,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-16582",
-      "name": "LALE ECZANESİ",
-      "address": "Ortaköy Mahallesi, Dereboyu Caddesi, 60/C",
-      "phone": "+902122366962",
-      "district": "BEŞİKTAŞ",
-      "city": "İstanbul",
-      "latitude": 41.05152966277424,
-      "longitude": 29.024625624189557,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-23998",
       "name": "LALE ECZANESİ",
       "address": "İçerenköy Mahallesi, Prof. Dr. Necmettin Erbakan Caddesi, 20/1B",
@@ -771,6 +759,18 @@
       "city": "İstanbul",
       "latitude": 40.970884966478614,
       "longitude": 29.1178247059404,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-16582",
+      "name": "LALE ECZANESİ",
+      "address": "Ortaköy Mahallesi, Dereboyu Caddesi, 60/C",
+      "phone": "+902122366962",
+      "district": "BEŞİKTAŞ",
+      "city": "İstanbul",
+      "latitude": 41.05152966277424,
+      "longitude": 29.024625624189557,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -943,18 +943,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-26926",
-      "name": "NAZLI ECZANESİ",
-      "address": "Adnan Kahveci Mahallesi, Anadolu Caddesi, 17/1/18",
-      "phone": "+902128550815",
-      "district": "BEYLİKDÜZÜ",
-      "city": "İstanbul",
-      "latitude": 41.003459999868554,
-      "longitude": 28.633198000346304,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-23772",
       "name": "NAZLI ECZANESİ",
       "address": "Zeytinlik Mahallesi, Yakut Sokak, 10/A",
@@ -963,6 +951,18 @@
       "city": "İstanbul",
       "latitude": 40.97919499987612,
       "longitude": 28.873478999594848,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-26926",
+      "name": "NAZLI ECZANESİ",
+      "address": "Adnan Kahveci Mahallesi, Anadolu Caddesi, 17/1/18",
+      "phone": "+902128550815",
+      "district": "BEYLİKDÜZÜ",
+      "city": "İstanbul",
+      "latitude": 41.003459999868554,
+      "longitude": 28.633198000346304,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
