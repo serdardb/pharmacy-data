@@ -3,11 +3,11 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-28T17:00:03.637Z",
+  "updatedAt": "2026-02-28T17:30:03.635Z",
   "count": 6,
   "pharmacies": [
     {
-      "id": "sinop-21",
+      "id": "sinop-20",
       "name": "CEMRE ECZANESİ",
       "address": "YENİ MAH. OKULAK SOK.NO:15",
       "phone": "03682615705",
@@ -19,7 +19,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "sinop-22",
+      "id": "sinop-21",
       "name": "SIHHAT  ECZANESİ",
       "address": "PROF DR.SEDAT DEMİRCAN NO:33/A",
       "phone": "03686131025",
@@ -31,7 +31,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "sinop-23",
+      "id": "sinop-22",
       "name": "YENİ ECZANESİ",
       "address": "CAMİKEBİR MAH. ADNAN MENDERES BULVARI 43/E",
       "phone": "03683142044",
@@ -43,7 +43,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "sinop-24",
+      "id": "sinop-23",
       "name": "ALTINKAYNAK ECZANESİ",
       "address": "PLEVNA CAD.NO:17",
       "phone": "03684161451",
@@ -55,7 +55,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "sinop-25",
+      "id": "sinop-24",
       "name": "ÇAĞLAR  ECZANESİ",
       "address": "MERKEZ MAH. CUMHURİYET CAD. NO:12/A",
       "phone": "03685112020",
@@ -67,7 +67,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "sinop-26",
+      "id": "sinop-25",
       "name": "YUMUK ECZANESİ",
       "address": "ÇARŞI MAH.GENERAL OSMAN PAMUKOĞLU CAD.NO:6",
       "phone": "03687184428",
