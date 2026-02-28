@@ -3,8 +3,8 @@
   "cityName": "Mersin",
   "cityId": 33,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-28T15:30:03.706Z",
-  "count": 25,
+  "updatedAt": "2026-02-28T16:00:03.636Z",
+  "count": 24,
   "pharmacies": [
     {
       "id": "mersin-0",
@@ -176,18 +176,6 @@
     },
     {
       "id": "mersin-14",
-      "name": "DERMAN ECZANESİ",
-      "address": "ATAKENT MH. 5010 SK. NO:6AA",
-      "phone": "03247223334",
-      "district": "Si̇li̇fke",
-      "city": "Mersin",
-      "latitude": 36.404495,
-      "longitude": 34.07069,
-      "dutyStart": "2026-02-28T08:30:00.000Z",
-      "dutyEnd": "2026-03-01T08:30:00.000Z"
-    },
-    {
-      "id": "mersin-15",
       "name": "ESRA ECZANESİ",
       "address": "GÖKSU MH. 67 SK. NO:11/D",
       "phone": "03247141433",
@@ -199,7 +187,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "mersin-16",
+      "id": "mersin-15",
       "name": "SAĞINDA ECZANESİ",
       "address": "BURUNUCU MH. HASTANE CD. NO:6/C",
       "phone": "03247122280",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "mersin-17",
+      "id": "mersin-16",
       "name": "SAĞLIK ECZANESİ",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D",
       "phone": "03247414067",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "mersin-18",
+      "id": "mersin-17",
       "name": "MUTLU ECZANESİ",
       "address": "ATATÜRK BULV. NO:39/B",
       "phone": "03247745888",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "mersin-19",
+      "id": "mersin-18",
       "name": "YENİ ŞİFA ECZANESİ",
       "address": "SARAY MAH.AKKAVAK CAD. NO:12/ABC",
       "phone": "03247517062",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "mersin-20",
+      "id": "mersin-19",
       "name": "GÖKÜŞ ECZANESİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:84/C",
       "phone": "03245151242",
@@ -259,7 +247,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "mersin-21",
+      "id": "mersin-20",
       "name": "HATİPOĞLU ECZANESİ",
       "address": "MERKEZ MAH.TURBE CAD.NO:3/A",
       "phone": "03245151343",
@@ -271,7 +259,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "mersin-22",
+      "id": "mersin-21",
       "name": "SAĞLIK ECZANESİ",
       "address": "MERKEZ MAH SAĞLIK CAD.NO:1",
       "phone": "03248514969",
@@ -283,7 +271,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "mersin-23",
+      "id": "mersin-22",
       "name": "DEVA ECZANESİ",
       "address": "CUMHURIYET MAH. KENAN EVREN CD. NO:1/C",
       "phone": "03248412224",
@@ -295,7 +283,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "mersin-24",
+      "id": "mersin-23",
       "name": "ERTÜRK ECZANESİ",
       "address": "SAGLIK MAH.DR.ABDULLAH ÇELIK CAD.NO:6/A",
       "phone": "03248149911",
