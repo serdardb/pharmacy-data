@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T14:00:04.019Z",
+  "updatedAt": "2026-02-28T14:30:03.811Z",
   "date": "2026-02-28",
   "cities": [
     {
@@ -45,6 +45,12 @@
       "count": 32
     },
     {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 73
+    },
+    {
       "city": "samsun",
       "cityName": "Samsun",
       "cityId": 55,
@@ -61,12 +67,6 @@
       "cityName": "Gaziantep",
       "cityId": 27,
       "count": 21
-    },
-    {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 73
     },
     {
       "city": "istanbul",
