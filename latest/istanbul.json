@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-28T19:00:01.020Z",
+  "updatedAt": "2026-02-28T19:30:00.774Z",
   "count": 133,
   "pharmacies": [
     {
@@ -427,18 +427,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-22266",
-      "name": "ERDEM ECZANESİ",
-      "address": "Çamlık Mahallesi, İkbal Caddesi, 99",
-      "phone": "+902165082712",
-      "district": "ÜMRANİYE",
-      "city": "İstanbul",
-      "latitude": 41.00767815654175,
-      "longitude": 29.126090212038214,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-33892",
       "name": "ERDEM ECZANESİ",
       "address": "Şifa Mahallesi, Emiroğlu Caddesi, 91 B",
@@ -447,6 +435,18 @@
       "city": "İstanbul",
       "latitude": 40.834294326922645,
       "longitude": 29.36126534042517,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-22266",
+      "name": "ERDEM ECZANESİ",
+      "address": "Çamlık Mahallesi, İkbal Caddesi, 99",
+      "phone": "+902165082712",
+      "district": "ÜMRANİYE",
+      "city": "İstanbul",
+      "latitude": 41.00767815654175,
+      "longitude": 29.126090212038214,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -643,18 +643,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-19862",
-      "name": "HAYAT ECZANESİ",
-      "address": "Ortabayır Mahallesi, Talatpaşa Caddesi, 123/A",
-      "phone": "+902122705975",
-      "district": "KAĞITHANE",
-      "city": "İstanbul",
-      "latitude": 41.07865018843484,
-      "longitude": 29.00054315288441,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-13762",
       "name": "HAYAT ECZANESİ",
       "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
@@ -663,6 +651,18 @@
       "city": "İstanbul",
       "latitude": 40.87805005093138,
       "longitude": 29.099723346130244,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-19862",
+      "name": "HAYAT ECZANESİ",
+      "address": "Ortabayır Mahallesi, Talatpaşa Caddesi, 123/A",
+      "phone": "+902122705975",
+      "district": "KAĞITHANE",
+      "city": "İstanbul",
+      "latitude": 41.07865018843484,
+      "longitude": 29.00054315288441,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -823,14 +823,14 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-24490",
+      "id": "istanbul-30820",
       "name": "MANOLYA ECZANESİ",
-      "address": "Aksaray Mahallesi, İnkılap Caddesi, 33A",
-      "phone": "+902125869849",
-      "district": "FATİH",
+      "address": "Yayla Mahallesi, Şinasi Dural Caddesi, 96B",
+      "phone": "+902162088455",
+      "district": "TUZLA",
       "city": "İstanbul",
-      "latitude": 41.008177917261385,
-      "longitude": 28.951790928903186,
+      "latitude": 40.83981900034719,
+      "longitude": 29.306745999891447,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -847,14 +847,14 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-30820",
+      "id": "istanbul-24490",
       "name": "MANOLYA ECZANESİ",
-      "address": "Yayla Mahallesi, Şinasi Dural Caddesi, 96B",
-      "phone": "+902162088455",
-      "district": "TUZLA",
+      "address": "Aksaray Mahallesi, İnkılap Caddesi, 33A",
+      "phone": "+902125869849",
+      "district": "FATİH",
       "city": "İstanbul",
-      "latitude": 40.83981900034719,
-      "longitude": 29.306745999891447,
+      "latitude": 41.008177917261385,
+      "longitude": 28.951790928903186,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
