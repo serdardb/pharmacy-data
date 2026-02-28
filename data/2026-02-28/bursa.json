@@ -3,8 +3,8 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-28T04:30:03.620Z",
-  "count": 31,
+  "updatedAt": "2026-02-28T05:00:05.221Z",
+  "count": 30,
   "pharmacies": [
     {
       "id": "bursa-0",
@@ -365,18 +365,6 @@
       "longitude": 29.080321043729782,
       "dutyStart": "2026-02-27T18:30:00.000Z",
       "dutyEnd": "2026-02-28T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-30",
-      "name": "ESRA ECZANESİ",
-      "address": "YÜZÜNCÜYIL MAH. FİLİZ SOK. NO:12/A ,  0224 772 33 22 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02247723322",
-      "district": "YENİŞEHİR",
-      "city": "Bursa",
-      "latitude": 40.267319,
-      "longitude": 29.639821,
-      "dutyStart": "2026-02-27T18:00:00.000Z",
-      "dutyEnd": "2026-02-28T08:00:00.000Z"
     }
   ]
 }
