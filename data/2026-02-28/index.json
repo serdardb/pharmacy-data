@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T01:30:05.650Z",
+  "updatedAt": "2026-02-28T02:00:05.551Z",
   "date": "2026-02-28",
   "cities": [
     {
@@ -45,12 +45,6 @@
       "count": 16
     },
     {
-      "city": "kocaeli",
-      "cityName": "Kocaeli",
-      "cityId": 41,
-      "count": 20
-    },
-    {
       "city": "samsun",
       "cityName": "Samsun",
       "cityId": 55,
@@ -61,6 +55,12 @@
       "cityName": "Sinop",
       "cityId": 57,
       "count": 6
+    },
+    {
+      "city": "kocaeli",
+      "cityName": "Kocaeli",
+      "cityId": 41,
+      "count": 20
     },
     {
       "city": "gaziantep",
