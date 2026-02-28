@@ -3,8 +3,8 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-01",
-  "updatedAt": "2026-02-28T21:30:29.403Z",
-  "count": 33,
+  "updatedAt": "2026-02-28T22:00:29.581Z",
+  "count": 31,
   "pharmacies": [
     {
       "id": "bursa-0",
@@ -80,6 +80,18 @@
     },
     {
       "id": "bursa-6",
+      "name": "YALIN ECZANESİ",
+      "address": "TUNA MAH. GÜRDAL CAD. NO:28/2A,  (CUMA PAZARI CAD. - FATİH İLKOKULU ALTI) ,  0224 273 32 32",
+      "phone": "02242733232",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.20769672311057,
+      "longitude": 29.05802384459639,
+      "dutyStart": "2026-02-28T17:00:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-7",
       "name": "HAMİTLER MACİT ECZANESİ",
       "address": "HAMİTLER MAH. NAR SOK. NO:9,  (PAZARTESİ PAZARI VE ASM YANI) ,  0224-2491133",
       "phone": "02242491133",
@@ -91,7 +103,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-7",
+      "id": "bursa-8",
       "name": "HAŞİM ECZANESİ",
       "address": "DEMİRTAŞPAŞA MAH. GAZCILAR C.BAYAR CAD. NO:4/E,  (PETEK BOZKAYA İŞ MERKEZİ A-BLOK) ,  0224 272 50 40 / 0224 2725041",
       "phone": "02242725040",
@@ -103,7 +115,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-9",
       "name": "HÜMA ECZANESİ",
       "address": "PANAYIR MAH. 2.DERMAN CAD. NO:56/A,  (44 NOLU PANAYIR AİLE SAĞLIĞI MERKEZİ YANI) ,  0224 211 15 15",
       "phone": "02242111515",
@@ -115,7 +127,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-10",
       "name": "KAPLICA ECZANESİ",
       "address": "MURADİYE MAH. PROF.DR.HALİL İNALCIK SOK. NO:14/B,  (KAPLICA CAD. MURADİYE SAĞLIK OCAĞI YANI) ,  0224 221 53 53",
       "phone": "02242215353",
@@ -127,7 +139,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-11",
       "name": "MİHRAPLI ECZANESİ",
       "address": "HÜDAVENDİGAR MAH. 2.HOŞDERE SOK. NO:8/B,  (BİSAŞ İLKOKULU SIRASI - MİHRAPLI CAMİ ÜSTÜ) ,  0224 376 00 72 / 5533829779",
       "phone": "02243760072",
@@ -135,18 +147,6 @@
       "city": "Bursa",
       "latitude": 40.201126065151946,
       "longitude": 29.006159348788636,
-      "dutyStart": "2026-02-28T17:00:00.000Z",
-      "dutyEnd": "2026-03-01T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-11",
-      "name": "YALIN ECZANESİ",
-      "address": "TUNA MAH. GÜRDAL CAD. NO:28/2A,  (CUMA PAZARI CAD. - FATİH İLKOKULU ALTI) ,  0224 273 32 32",
-      "phone": "02242733232",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.20769672311057,
-      "longitude": 29.05802384459639,
       "dutyStart": "2026-02-28T17:00:00.000Z",
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
@@ -248,30 +248,6 @@
     },
     {
       "id": "bursa-20",
-      "name": "BİZİM ECZANESİ",
-      "address": "YENİ MAH. GÜLFİDAN SOK. NO:5/A ,  0552 462 49 46 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "05524624946",
-      "district": "İNEGÖL",
-      "city": "Bursa",
-      "latitude": 40.10176,
-      "longitude": 29.52458,
-      "dutyStart": "2026-02-28T17:00:00.000Z",
-      "dutyEnd": "2026-03-01T01:00:00.000Z"
-    },
-    {
-      "id": "bursa-21",
-      "name": "AYŞENUR AKAN ECZANESİ",
-      "address": "MAHMUDİYE MAH. KASIM EFENDİ CAD. NO:185/A,  (MAHMUDİYE MAH. MUHTARLIĞI YANI) ,  0224 713 23 31",
-      "phone": "02247132331",
-      "district": "İNEGÖL",
-      "city": "Bursa",
-      "latitude": 40.06864,
-      "longitude": 29.51746,
-      "dutyStart": "2026-02-28T17:00:00.000Z",
-      "dutyEnd": "2026-03-01T01:00:00.000Z"
-    },
-    {
-      "id": "bursa-22",
       "name": "AKAN ECZANESİ",
       "address": "SÜLEYMANİYE MAH. PARK YOLU CAD. NO:76/B ,  0224-7136664 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02247136664",
@@ -283,7 +259,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-23",
+      "id": "bursa-21",
       "name": "İZNİK ECZANESİ",
       "address": "MUSTAFAKEMALPAŞA MAH. ORHANGAZİ CAD. NO:74/4,  (İZNİK DEVLET HASTANESİ YANI) ,  0224-7571017",
       "phone": "02247571017",
@@ -295,7 +271,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-24",
+      "id": "bursa-22",
       "name": "ASLI ECZANESİ",
       "address": "SIRABADEMLER MAH. 241.SOK. NO: 104 ,  0224 676 16 15 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02246761615",
@@ -307,7 +283,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-25",
+      "id": "bursa-23",
       "name": "BAYRAKTAR ECZANESİ",
       "address": "VANİ MEHMET MAH. ŞEHİT MUSTAFA KURT CAD. NO:20/A ,  0224 373 07 77 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02243730777",
@@ -319,7 +295,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-26",
+      "id": "bursa-24",
       "name": "AZİM ECZANESİ",
       "address": "YENİ MAH. ESKİ MUDANYA YOLU CAD. 518.SOK. NO:5/A,  (FALEZ EVLERİ / A-101 MARKET) ,  0224 554 44 23",
       "phone": "02245544423",
@@ -331,7 +307,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-27",
+      "id": "bursa-25",
       "name": "TUNA ECZANESİ",
       "address": "YENİ MAH. ÜNLÜ CAD. NO:18/14 ,  0224 544 95 90 / 5532295925 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02245449590",
@@ -343,7 +319,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-28",
+      "id": "bursa-26",
       "name": "SAVAŞ ECZANESİ",
       "address": "HAMZABEY MAH. DEĞİRMEN SOK. NO:16/B ,  0224-6139594 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02246139594",
@@ -355,7 +331,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-29",
+      "id": "bursa-27",
       "name": "ORAL ECZANESİ",
       "address": "İSMETPAŞA MAH. HASTANE SOK. NO:1 ,  0224 817 11 07 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02248171107",
@@ -367,7 +343,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-30",
+      "id": "bursa-28",
       "name": "EMİR ECZANESİ",
       "address": "MURADİYE MAH. TURİST YOLU ALTI SOK. NO:102 ,  0224-5750005 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02245750005",
@@ -379,7 +355,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-31",
+      "id": "bursa-29",
       "name": "YEŞİM ÖNAL ECZANESİ",
       "address": "DEMİRTAŞ CUMHURİYET MAH. 4.CAD. OPTİMUM SİTESİ A-BLOK NO:116/117,  (BAKYAPI PRESTİJ OPTİMUM AVM - BURSA MODERN ANA GİRİŞ KAPISI KARŞISI) ,  0224 277 00 16",
       "phone": "02242770016",
@@ -391,7 +367,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-32",
+      "id": "bursa-30",
       "name": "ENGİN ECZANESİ",
       "address": "YENİ MAH. YARIMAĞA SOK. NO:33-1/A ,  0224-7731160 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02247731160",
