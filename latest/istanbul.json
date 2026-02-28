@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-28T13:00:04.008Z",
+  "updatedAt": "2026-02-28T13:30:03.634Z",
   "count": 133,
   "pharmacies": [
     {
@@ -427,18 +427,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-22266",
-      "name": "ERDEM ECZANESİ",
-      "address": "Çamlık Mahallesi, İkbal Caddesi, 99",
-      "phone": "+902165082712",
-      "district": "ÜMRANİYE",
-      "city": "İstanbul",
-      "latitude": 41.00767815654175,
-      "longitude": 29.126090212038214,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-33892",
       "name": "ERDEM ECZANESİ",
       "address": "Şifa Mahallesi, Emiroğlu Caddesi, 91 B",
@@ -447,6 +435,18 @@
       "city": "İstanbul",
       "latitude": 40.834294326922645,
       "longitude": 29.36126534042517,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-22266",
+      "name": "ERDEM ECZANESİ",
+      "address": "Çamlık Mahallesi, İkbal Caddesi, 99",
+      "phone": "+902165082712",
+      "district": "ÜMRANİYE",
+      "city": "İstanbul",
+      "latitude": 41.00767815654175,
+      "longitude": 29.126090212038214,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -631,6 +631,18 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
+      "id": "istanbul-15994",
+      "name": "HAYAT ECZANESİ",
+      "address": "Çırpıcı Mahallesi, 2. Taşocağı Sokak, No:51/A",
+      "phone": "+902126654546",
+      "district": "ZEYTİNBURNU",
+      "city": "İstanbul",
+      "latitude": 40.999941999772055,
+      "longitude": 28.89614400009147,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
       "id": "istanbul-19862",
       "name": "HAYAT ECZANESİ",
       "address": "Ortabayır Mahallesi, Talatpaşa Caddesi, 123/A",
@@ -651,18 +663,6 @@
       "city": "İstanbul",
       "latitude": 40.87805005093138,
       "longitude": 29.099723346130244,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
-      "id": "istanbul-15994",
-      "name": "HAYAT ECZANESİ",
-      "address": "Çırpıcı Mahallesi, 2. Taşocağı Sokak, No:51/A",
-      "phone": "+902126654546",
-      "district": "ZEYTİNBURNU",
-      "city": "İstanbul",
-      "latitude": 40.999941999772055,
-      "longitude": 28.89614400009147,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -1003,18 +1003,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29398",
-      "name": "ONUR ECZANESİ",
-      "address": "Atatürk Mahallesi, 2202. Sokak, 8/A",
-      "phone": "+902128865288",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.037737000207166,
-      "longitude": 28.632864999628488,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-6852",
       "name": "ONUR ECZANESİ",
       "address": "Yeşilköy Mahallesi, İstasyon Caddesi, 6",
@@ -1023,6 +1011,18 @@
       "city": "İstanbul",
       "latitude": 40.96163540833854,
       "longitude": 28.824460607530543,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29398",
+      "name": "ONUR ECZANESİ",
+      "address": "Atatürk Mahallesi, 2202. Sokak, 8/A",
+      "phone": "+902128865288",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.037737000207166,
+      "longitude": 28.632864999628488,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -1351,18 +1351,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-20354",
-      "name": "YENİ ŞİFA ECZANESİ",
-      "address": "Birlik Mahallesi, 835. Sokak, 1",
-      "phone": "+902126288156",
-      "district": "ESENLER",
-      "city": "İstanbul",
-      "latitude": 41.04968763139051,
-      "longitude": 28.87579757454176,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-15946",
       "name": "YENİ ŞİFA ECZANESİ",
       "address": "Hürriyet Mahallesi, Abdi İpekçi Caddesi, 19-21/A",
@@ -1371,6 +1359,18 @@
       "city": "İstanbul",
       "latitude": 40.90099700571381,
       "longitude": 29.22802998819212,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-20354",
+      "name": "YENİ ŞİFA ECZANESİ",
+      "address": "Birlik Mahallesi, 835. Sokak, 1",
+      "phone": "+902126288156",
+      "district": "ESENLER",
+      "city": "İstanbul",
+      "latitude": 41.04968763139051,
+      "longitude": 28.87579757454176,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },

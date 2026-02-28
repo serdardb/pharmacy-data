@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-28T13:00:04.008Z",
+  "updatedAt": "2026-02-28T13:30:03.634Z",
   "count": 36,
   "pharmacies": [
     {
@@ -80,18 +80,6 @@
     },
     {
       "id": "bursa-6",
-      "name": "KAPLICA ECZANESİ",
-      "address": "MURADİYE MAH. PROF.DR.HALİL İNALCIK SOK. NO:14/B,  (KAPLICA CAD. MURADİYE SAĞLIK OCAĞI YANI) ,  0224 221 53 53",
-      "phone": "02242215353",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.19110345,
-      "longitude": 29.04532626,
-      "dutyStart": "2026-02-28T17:00:00.000Z",
-      "dutyEnd": "2026-03-01T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
       "name": "MİHRAPLI ECZANESİ",
       "address": "HÜDAVENDİGAR MAH. 2.HOŞDERE SOK. NO:8/B,  (BİSAŞ İLKOKULU SIRASI - MİHRAPLI CAMİ ÜSTÜ) ,  0224 376 00 72 / 5533829779",
       "phone": "02243760072",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-7",
       "name": "YALIN ECZANESİ",
       "address": "TUNA MAH. GÜRDAL CAD. NO:28/2A,  (CUMA PAZARI CAD. - FATİH İLKOKULU ALTI) ,  0224 273 32 32",
       "phone": "02242733232",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-8",
       "name": "HAMİTLER MACİT ECZANESİ",
       "address": "HAMİTLER MAH. NAR SOK. NO:9,  (PAZARTESİ PAZARI VE ASM YANI) ,  0224-2491133",
       "phone": "02242491133",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-9",
       "name": "HAŞİM ECZANESİ",
       "address": "DEMİRTAŞPAŞA MAH. GAZCILAR C.BAYAR CAD. NO:4/E,  (PETEK BOZKAYA İŞ MERKEZİ A-BLOK) ,  0224 272 50 40 / 0224 2725041",
       "phone": "02242725040",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-10",
       "name": "HÜMA ECZANESİ",
       "address": "PANAYIR MAH. 2.DERMAN CAD. NO:56/A,  (44 NOLU PANAYIR AİLE SAĞLIĞI MERKEZİ YANI) ,  0224 211 15 15",
       "phone": "02242111515",
@@ -151,19 +139,19 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
-      "name": "CANSIN ECZANESİ",
-      "address": "ARABAYATAĞI MAH. BEYDERE SOK. NO:8,  (DEVLET MALZEME OFİSİ ALTI) ,  0224 366 50 37",
-      "phone": "02243665037",
-      "district": "YILDIRIM",
+      "id": "bursa-11",
+      "name": "KAPLICA ECZANESİ",
+      "address": "MURADİYE MAH. PROF.DR.HALİL İNALCIK SOK. NO:14/B,  (KAPLICA CAD. MURADİYE SAĞLIK OCAĞI YANI) ,  0224 221 53 53",
+      "phone": "02242215353",
+      "district": "OSMANGAZİ",
       "city": "Bursa",
-      "latitude": 40.195009,
-      "longitude": 29.1283258,
+      "latitude": 40.19110345,
+      "longitude": 29.04532626,
       "dutyStart": "2026-02-28T17:00:00.000Z",
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-12",
       "name": "NAZENDE ECZANESİ",
       "address": "VATAN MAH. 14.ŞAHİN SOK. NO:1/A,  (YENİ VATAN SAĞLIK OCAĞI KARŞISI) ,  0224 362 98 96",
       "phone": "02243629896",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-13",
       "name": "İLİM ECZANESİ",
       "address": "NAMAZGAH MAH. IŞIKLAR CAD. NO:3/B,  (NAMAZGAH MEYDANI - GIYASETTİN BİNGÖL İLKOKULU YANI) ,  0224 364 38 37",
       "phone": "02243643837",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
-      "id": "bursa-15",
+      "id": "bursa-14",
       "name": "BAĞLAR ECZANESİ",
       "address": "ORTABAĞLAR MAH. AYDOĞDU CAD. NO:5,  (SALI PAZARI - ORTABAĞLAR ASM YANI) ,  0224-3681606",
       "phone": "02243681606",
@@ -195,6 +183,18 @@
       "city": "Bursa",
       "latitude": 40.18677495,
       "longitude": 29.11666632,
+      "dutyStart": "2026-02-28T17:00:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-15",
+      "name": "CANSIN ECZANESİ",
+      "address": "ARABAYATAĞI MAH. BEYDERE SOK. NO:8,  (DEVLET MALZEME OFİSİ ALTI) ,  0224 366 50 37",
+      "phone": "02243665037",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.195009,
+      "longitude": 29.1283258,
       "dutyStart": "2026-02-28T17:00:00.000Z",
       "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
