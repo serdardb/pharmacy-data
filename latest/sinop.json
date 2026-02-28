@@ -3,7 +3,80 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-28T05:30:04.105Z",
-  "count": 0,
-  "pharmacies": []
+  "updatedAt": "2026-02-28T06:00:06.210Z",
+  "count": 6,
+  "pharmacies": [
+    {
+      "id": "sinop-21",
+      "name": "CEMRE ECZANESİ",
+      "address": "YENİ MAH. OKULAK SOK.NO:15",
+      "phone": "03682615705",
+      "district": "Merkez",
+      "city": "Sinop",
+      "latitude": 42.023483,
+      "longitude": 35.157097,
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
+    },
+    {
+      "id": "sinop-22",
+      "name": "SIHHAT  ECZANESİ",
+      "address": "PROF DR.SEDAT DEMİRCAN NO:33/A",
+      "phone": "03686131025",
+      "district": "Ayancık",
+      "city": "Sinop",
+      "latitude": 41.944662,
+      "longitude": 34.587367,
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
+    },
+    {
+      "id": "sinop-23",
+      "name": "YENİ ECZANESİ",
+      "address": "CAMİKEBİR MAH. ADNAN MENDERES BULVARI 43/E",
+      "phone": "03683142044",
+      "district": "Boyabat",
+      "city": "Sinop",
+      "latitude": 41.466143,
+      "longitude": 34.771519,
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
+    },
+    {
+      "id": "sinop-24",
+      "name": "ALTINKAYNAK ECZANESİ",
+      "address": "PLEVNA CAD.NO:17",
+      "phone": "03684161451",
+      "district": "Durağan",
+      "city": "Sinop",
+      "latitude": 41.416016,
+      "longitude": 35.056434,
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
+    },
+    {
+      "id": "sinop-25",
+      "name": "ÇAĞLAR  ECZANESİ",
+      "address": "MERKEZ MAH. CUMHURİYET CAD. NO:12/A",
+      "phone": "03685112020",
+      "district": "Erfelek",
+      "city": "Sinop",
+      "latitude": 41.879734,
+      "longitude": 34.90736,
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
+    },
+    {
+      "id": "sinop-26",
+      "name": "YUMUK ECZANESİ",
+      "address": "ÇARŞI MAH.GENERAL OSMAN PAMUKOĞLU CAD.NO:6",
+      "phone": "03687184428",
+      "district": "Gerze",
+      "city": "Sinop",
+      "latitude": 41.802545,
+      "longitude": 35.197872,
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
+    }
+  ]
 }
