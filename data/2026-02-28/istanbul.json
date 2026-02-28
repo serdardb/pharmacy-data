@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-28T00:00:20.145Z",
+  "updatedAt": "2026-02-28T00:30:07.148Z",
   "count": 133,
   "pharmacies": [
     {
@@ -823,18 +823,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29442",
-      "name": "MANOLYA ECZANESİ",
-      "address": "Fatih Mahallesi, Şalgamlı Caddesi, 118C",
-      "phone": "+905521593034",
-      "district": "SULTANBEYLİ",
-      "city": "İstanbul",
-      "latitude": 40.95581300013438,
-      "longitude": 29.27180099987559,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-24490",
       "name": "MANOLYA ECZANESİ",
       "address": "Aksaray Mahallesi, İnkılap Caddesi, 33A",
@@ -843,6 +831,18 @@
       "city": "İstanbul",
       "latitude": 41.008177917261385,
       "longitude": 28.951790928903186,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29442",
+      "name": "MANOLYA ECZANESİ",
+      "address": "Fatih Mahallesi, Şalgamlı Caddesi, 118C",
+      "phone": "+905521593034",
+      "district": "SULTANBEYLİ",
+      "city": "İstanbul",
+      "latitude": 40.95581300013438,
+      "longitude": 29.27180099987559,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -943,18 +943,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-26926",
-      "name": "NAZLI ECZANESİ",
-      "address": "Adnan Kahveci Mahallesi, Anadolu Caddesi, 17/1/18",
-      "phone": "+902128550815",
-      "district": "BEYLİKDÜZÜ",
-      "city": "İstanbul",
-      "latitude": 41.003459999868554,
-      "longitude": 28.633198000346304,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-23772",
       "name": "NAZLI ECZANESİ",
       "address": "Zeytinlik Mahallesi, Yakut Sokak, 10/A",
@@ -963,6 +951,18 @@
       "city": "İstanbul",
       "latitude": 40.97919499987612,
       "longitude": 28.873478999594848,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-26926",
+      "name": "NAZLI ECZANESİ",
+      "address": "Adnan Kahveci Mahallesi, Anadolu Caddesi, 17/1/18",
+      "phone": "+902128550815",
+      "district": "BEYLİKDÜZÜ",
+      "city": "İstanbul",
+      "latitude": 41.003459999868554,
+      "longitude": 28.633198000346304,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
@@ -1003,18 +1003,6 @@
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29398",
-      "name": "ONUR ECZANESİ",
-      "address": "Atatürk Mahallesi, 2202. Sokak, 8/A",
-      "phone": "+902128865288",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.037737000207166,
-      "longitude": 28.632864999628488,
-      "dutyStart": "2026-02-27T21:00:00.000Z",
-      "dutyEnd": "2026-02-28T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-6852",
       "name": "ONUR ECZANESİ",
       "address": "Yeşilköy Mahallesi, İstasyon Caddesi, 6",
@@ -1023,6 +1011,18 @@
       "city": "İstanbul",
       "latitude": 40.96163540833854,
       "longitude": 28.824460607530543,
+      "dutyStart": "2026-02-27T21:00:00.000Z",
+      "dutyEnd": "2026-02-28T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29398",
+      "name": "ONUR ECZANESİ",
+      "address": "Atatürk Mahallesi, 2202. Sokak, 8/A",
+      "phone": "+902128865288",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.037737000207166,
+      "longitude": 28.632864999628488,
       "dutyStart": "2026-02-27T21:00:00.000Z",
       "dutyEnd": "2026-02-28T20:59:59.000Z"
     },
