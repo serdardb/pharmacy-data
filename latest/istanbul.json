@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-01",
-  "updatedAt": "2026-02-28T23:00:29.281Z",
+  "updatedAt": "2026-02-28T23:30:30.489Z",
   "count": 145,
   "pharmacies": [
     {
@@ -1687,18 +1687,6 @@
       "dutyEnd": "2026-03-01T20:59:59.000Z"
     },
     {
-      "id": "istanbul-31746",
-      "name": "İNCİR ECZANESİ",
-      "address": "Altıntepe Mahallesi, Bağdat Caddesi, 80G",
-      "phone": "+902165194041",
-      "district": "MALTEPE",
-      "city": "İstanbul",
-      "latitude": 40.95046626050476,
-      "longitude": 29.103573578964482,
-      "dutyStart": "2026-02-28T21:00:00.000Z",
-      "dutyEnd": "2026-03-01T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-24570",
       "name": "İNCİR ECZANESİ",
       "address": "Orhantepe Mahallesi, Saraylar Caddesi, 80A",
@@ -1707,6 +1695,18 @@
       "city": "İstanbul",
       "latitude": 40.910796417465626,
       "longitude": 29.168609976770583,
+      "dutyStart": "2026-02-28T21:00:00.000Z",
+      "dutyEnd": "2026-03-01T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-31746",
+      "name": "İNCİR ECZANESİ",
+      "address": "Altıntepe Mahallesi, Bağdat Caddesi, 80G",
+      "phone": "+902165194041",
+      "district": "MALTEPE",
+      "city": "İstanbul",
+      "latitude": 40.95046626050476,
+      "longitude": 29.103573578964482,
       "dutyStart": "2026-02-28T21:00:00.000Z",
       "dutyEnd": "2026-03-01T20:59:59.000Z"
     },
