@@ -3,7 +3,7 @@
   "cityName": "Mersin",
   "cityId": 33,
   "date": "2026-02-28",
-  "updatedAt": "2026-02-27T23:30:17.954Z",
+  "updatedAt": "2026-02-28T00:00:20.145Z",
   "count": 16,
   "pharmacies": [
     {
@@ -15,8 +15,8 @@
       "city": "Mersin",
       "latitude": 36.779743,
       "longitude": 34.556757,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-1",
@@ -27,8 +27,8 @@
       "city": "Mersin",
       "latitude": 36.841326,
       "longitude": 34.617636,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-2",
@@ -39,8 +39,8 @@
       "city": "Mersin",
       "latitude": 36.757502,
       "longitude": 34.546539,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-3",
@@ -51,8 +51,8 @@
       "city": "Mersin",
       "latitude": 36.819427,
       "longitude": 34.615247,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-4",
@@ -63,8 +63,8 @@
       "city": "Mersin",
       "latitude": 36.783127,
       "longitude": 34.592301,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-5",
@@ -75,8 +75,8 @@
       "city": "Mersin",
       "latitude": 36.8056,
       "longitude": 34.633325,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-6",
@@ -87,8 +87,8 @@
       "city": "Mersin",
       "latitude": 36.80985,
       "longitude": 34.620492,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-7",
@@ -99,8 +99,8 @@
       "city": "Mersin",
       "latitude": 36.909113,
       "longitude": 34.883176,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-8",
@@ -111,8 +111,8 @@
       "city": "Mersin",
       "latitude": 36.915669,
       "longitude": 34.915113,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-9",
@@ -123,8 +123,8 @@
       "city": "Mersin",
       "latitude": 36.380547,
       "longitude": 33.932197,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-10",
@@ -135,8 +135,8 @@
       "city": "Mersin",
       "latitude": 36.645422,
       "longitude": 33.437269,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-11",
@@ -147,8 +147,8 @@
       "city": "Mersin",
       "latitude": 36.338338,
       "longitude": 33.403489,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-12",
@@ -159,8 +159,8 @@
       "city": "Mersin",
       "latitude": 36.609047,
       "longitude": 34.303519,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-13",
@@ -171,8 +171,8 @@
       "city": "Mersin",
       "latitude": 36.106045,
       "longitude": 32.970603,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-14",
@@ -183,8 +183,8 @@
       "city": "Mersin",
       "latitude": 36.152833,
       "longitude": 33.338789,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     },
     {
       "id": "mersin-15",
@@ -195,8 +195,8 @@
       "city": "Mersin",
       "latitude": 36.078732,
       "longitude": 32.849304,
-      "dutyStart": "2026-02-27T08:30:00.000Z",
-      "dutyEnd": "2026-02-28T08:30:00.000Z"
+      "dutyStart": "2026-02-28T08:30:00.000Z",
+      "dutyEnd": "2026-03-01T08:30:00.000Z"
     }
   ]
 }
