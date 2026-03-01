@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-01",
-  "updatedAt": "2026-03-01T15:00:08.095Z",
+  "updatedAt": "2026-03-01T15:30:06.678Z",
   "count": 145,
   "pharmacies": [
     {
@@ -247,18 +247,6 @@
       "dutyEnd": "2026-03-01T20:59:59.000Z"
     },
     {
-      "id": "istanbul-20050",
-      "name": "BOĞAZİÇİ ECZANESİ",
-      "address": "Altayçeşme Mahallesi, Atatürk Caddesi, 81/C",
-      "phone": "+902164571188",
-      "district": "MALTEPE",
-      "city": "İstanbul",
-      "latitude": 40.93013488217623,
-      "longitude": 29.134401070241097,
-      "dutyStart": "2026-02-28T21:00:00.000Z",
-      "dutyEnd": "2026-03-01T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-31662",
       "name": "BOĞAZİÇİ ECZANESİ",
       "address": "Rumelihisarı Mahallesi, Hisarüstü Nispetiye Caddesi, 15/A",
@@ -267,6 +255,18 @@
       "city": "İstanbul",
       "latitude": 41.08543399967126,
       "longitude": 29.046333000096038,
+      "dutyStart": "2026-02-28T21:00:00.000Z",
+      "dutyEnd": "2026-03-01T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-20050",
+      "name": "BOĞAZİÇİ ECZANESİ",
+      "address": "Altayçeşme Mahallesi, Atatürk Caddesi, 81/C",
+      "phone": "+902164571188",
+      "district": "MALTEPE",
+      "city": "İstanbul",
+      "latitude": 40.93013488217623,
+      "longitude": 29.134401070241097,
       "dutyStart": "2026-02-28T21:00:00.000Z",
       "dutyEnd": "2026-03-01T20:59:59.000Z"
     },
