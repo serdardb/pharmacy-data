@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-01",
-  "updatedAt": "2026-03-01T07:00:17.471Z",
+  "updatedAt": "2026-03-01T07:30:12.874Z",
   "count": 145,
   "pharmacies": [
     {
@@ -655,18 +655,6 @@
       "dutyEnd": "2026-03-01T20:59:59.000Z"
     },
     {
-      "id": "istanbul-25288",
-      "name": "FATİH ECZANESİ",
-      "address": "Hadımköy Mahallesi, Şebeke Caddesi, 1",
-      "phone": "+902127801570",
-      "district": "ARNAVUTKÖY",
-      "city": "İstanbul",
-      "latitude": 41.18114612408587,
-      "longitude": 28.61046910313059,
-      "dutyStart": "2026-02-28T21:00:00.000Z",
-      "dutyEnd": "2026-03-01T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25616",
       "name": "FATİH ECZANESİ",
       "address": "Söğütlüçeşme Mahallesi, Celildağ Caddesi, 9/1",
@@ -675,6 +663,18 @@
       "city": "İstanbul",
       "latitude": 41.0219653172337,
       "longitude": 28.789389233462725,
+      "dutyStart": "2026-02-28T21:00:00.000Z",
+      "dutyEnd": "2026-03-01T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-25288",
+      "name": "FATİH ECZANESİ",
+      "address": "Hadımköy Mahallesi, Şebeke Caddesi, 1",
+      "phone": "+902127801570",
+      "district": "ARNAVUTKÖY",
+      "city": "İstanbul",
+      "latitude": 41.18114612408587,
+      "longitude": 28.61046910313059,
       "dutyStart": "2026-02-28T21:00:00.000Z",
       "dutyEnd": "2026-03-01T20:59:59.000Z"
     },
