@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-01",
-  "updatedAt": "2026-03-01T09:00:06.682Z",
+  "updatedAt": "2026-03-01T09:30:06.179Z",
   "count": 145,
   "pharmacies": [
     {
@@ -1723,18 +1723,6 @@
       "dutyEnd": "2026-03-01T20:59:59.000Z"
     },
     {
-      "id": "istanbul-8976",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
-      "phone": "+902167218169",
-      "district": "ŞİLE",
-      "city": "İstanbul",
-      "latitude": 41.139166752321906,
-      "longitude": 29.85684207593813,
-      "dutyStart": "2026-02-28T21:00:00.000Z",
-      "dutyEnd": "2026-03-01T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-14222",
       "name": "ŞİFA ECZANESİ",
       "address": "Feyzullah Mahallesi, Mimar Sinan Caddesi, Havuzlar Sokak No:9/2",
@@ -1743,6 +1731,18 @@
       "city": "İstanbul",
       "latitude": 40.92457606678092,
       "longitude": 29.130042059092634,
+      "dutyStart": "2026-02-28T21:00:00.000Z",
+      "dutyEnd": "2026-03-01T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-8976",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
+      "phone": "+902167218169",
+      "district": "ŞİLE",
+      "city": "İstanbul",
+      "latitude": 41.139166752321906,
+      "longitude": 29.85684207593813,
       "dutyStart": "2026-02-28T21:00:00.000Z",
       "dutyEnd": "2026-03-01T20:59:59.000Z"
     }
