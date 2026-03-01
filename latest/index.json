@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T21:30:07.243Z",
+  "updatedAt": "2026-03-01T22:00:09.457Z",
   "date": "2026-03-02",
   "cities": [
     {
@@ -21,22 +21,22 @@
       "count": 74
     },
     {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
-    },
-    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
       "count": 32
     },
     {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
+    },
+    {
       "city": "bursa",
       "cityName": "Bursa",
       "cityId": 16,
-      "count": 36
+      "count": 34
     },
     {
       "city": "gaziantep",
