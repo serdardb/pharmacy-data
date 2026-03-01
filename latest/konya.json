@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-03-01",
-  "updatedAt": "2026-03-01T08:30:05.795Z",
+  "updatedAt": "2026-03-01T09:00:06.682Z",
   "count": 33,
   "pharmacies": [
     {
@@ -272,18 +272,6 @@
     },
     {
       "id": "konya-22",
-      "name": "PELİN ECZANESİ",
-      "address": "FATİH MAHALLESİ 93903. SOKAK NO:5B",
-      "phone": "903327122329",
-      "district": "Ereğli̇",
-      "city": "Konya",
-      "latitude": 37.48743,
-      "longitude": 34.04648,
-      "dutyStart": "2026-03-01T09:00:00.000Z",
-      "dutyEnd": "2026-03-02T09:00:00.000Z"
-    },
-    {
-      "id": "konya-23",
       "name": "BAŞAK ECZANESİ",
       "address": "KAZANCI MAHALLESİ KÜSERE KÖPRÜ CADDESİ İLKNAZ ADA APARTMANI NO:42A",
       "phone": "903327104245",
@@ -291,6 +279,18 @@
       "city": "Konya",
       "latitude": 37.5087912,
       "longitude": 34.057825,
+      "dutyStart": "2026-03-01T09:00:00.000Z",
+      "dutyEnd": "2026-03-02T09:00:00.000Z"
+    },
+    {
+      "id": "konya-23",
+      "name": "PELİN ECZANESİ",
+      "address": "FATİH MAHALLESİ 93903. SOKAK NO:5B",
+      "phone": "903327122329",
+      "district": "Ereğli̇",
+      "city": "Konya",
+      "latitude": 37.48743,
+      "longitude": 34.04648,
       "dutyStart": "2026-03-01T09:00:00.000Z",
       "dutyEnd": "2026-03-02T09:00:00.000Z"
     },
