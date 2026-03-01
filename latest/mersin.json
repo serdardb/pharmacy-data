@@ -3,8 +3,8 @@
   "cityName": "Mersin",
   "cityId": 33,
   "date": "2026-03-01",
-  "updatedAt": "2026-03-01T15:30:06.678Z",
-  "count": 25,
+  "updatedAt": "2026-03-01T16:00:07.132Z",
+  "count": 24,
   "pharmacies": [
     {
       "id": "mersin-0",
@@ -188,18 +188,6 @@
     },
     {
       "id": "mersin-15",
-      "name": "GÜVEN ECZANESİ",
-      "address": "ATAKENT MAH. ALPARSLAN TÜRKEŞ (SAZBAŞI) BULV. NO:383 A/18",
-      "phone": "03247225197",
-      "district": "Si̇li̇fke",
-      "city": "Mersin",
-      "latitude": 36.405557,
-      "longitude": 34.070173,
-      "dutyStart": "2026-03-01T08:30:00.000Z",
-      "dutyEnd": "2026-03-02T08:30:00.000Z"
-    },
-    {
-      "id": "mersin-16",
       "name": "NADİR DERELİ ECZANESİ",
       "address": "CELAL BAYAR CD. NO:7/C",
       "phone": "03247145464",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "mersin-17",
+      "id": "mersin-16",
       "name": "ONUR ÇEKİÇ ECZANESİ",
       "address": "SARICALAR MAH. TÜRKMENLİ SOK. NO:11/Z02",
       "phone": "03247120036",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "mersin-18",
+      "id": "mersin-17",
       "name": "ÖZTÜRK ECZANESİ",
       "address": "PINARBAŞI MAH. KARACAOĞLAN CAD. NO:13/A",
       "phone": "03247748187",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "mersin-19",
+      "id": "mersin-18",
       "name": "YENİ ŞİFA ECZANESİ",
       "address": "SARAY MAH.AKKAVAK CAD. NO:12/ABC",
       "phone": "03247517062",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "mersin-20",
+      "id": "mersin-19",
       "name": "MURAT ECZANESİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B",
       "phone": "03245772254",
@@ -259,7 +247,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "mersin-21",
+      "id": "mersin-20",
       "name": "TUNÇ ECZANESİ",
       "address": "ALATA MH. YAVUZ SULTAN SELİM BULV. NO:176-B",
       "phone": "03245150516",
@@ -271,7 +259,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "mersin-22",
+      "id": "mersin-21",
       "name": "AKDENİZ ECZANESİ",
       "address": "ÇOPURLU MAH.ŞEHITLER CAD.NO:8/1",
       "phone": "03248513157",
@@ -283,7 +271,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "mersin-23",
+      "id": "mersin-22",
       "name": "ÇETİN ECZANESİ",
       "address": "BAHÇELİEVLER MH. HOCA AHMET YESEVİ BULV. B BLOK NO:16/B",
       "phone": "03248142580",
@@ -295,7 +283,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "mersin-24",
+      "id": "mersin-23",
       "name": "DEVA ECZANESİ",
       "address": "CUMHURIYET MAH. KENAN EVREN CD. NO:1/C",
       "phone": "03248412224",
