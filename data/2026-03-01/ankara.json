@@ -3,8 +3,8 @@
   "cityName": "Ankara",
   "cityId": 6,
   "date": "2026-03-01",
-  "updatedAt": "2026-03-01T07:30:12.874Z",
-  "count": 61,
+  "updatedAt": "2026-03-01T08:00:11.683Z",
+  "count": 60,
   "pharmacies": [
     {
       "id": "ankara-0",
@@ -608,18 +608,6 @@
     },
     {
       "id": "ankara-50",
-      "name": "PARLA ECZANESİ",
-      "address": "Mustafa Kemal Mah. 2127. Cad. No: 21D-47 Vega Center , 03124959593",
-      "phone": "03124959593",
-      "district": "Ankara",
-      "city": "Ankara",
-      "latitude": 39.913999044829,
-      "longitude": 32.767182968228,
-      "dutyStart": "2026-03-01T08:30:00.000Z",
-      "dutyEnd": "2026-03-02T08:30:00.000Z"
-    },
-    {
-      "id": "ankara-51",
       "name": "VERESELİ GÜDÜL ECZANESİ",
       "address": "Yukarı Gençlik Cad. No:10/A Güdül / ANKARA , 03127281533",
       "phone": "03127281533",
@@ -631,7 +619,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "ankara-52",
+      "id": "ankara-51",
       "name": "ŞENBABA ECZANESİ",
       "address": "Kartaltepe Mah. Alparslan Türkeş Bulvarı No:22/A Bala/ ANKARA , 03128761555",
       "phone": "03128761555",
@@ -643,7 +631,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "ankara-53",
+      "id": "ankara-52",
       "name": "CENGİZ ECZANESİ",
       "address": "İstasyon Mah. Sağlık Sok. No:1/E Hasanoğlan /ANKARA , 03128661718",
       "phone": "03128661718",
@@ -655,7 +643,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "ankara-54",
+      "id": "ankara-53",
       "name": "KESKİN MERKEZ ECZANESİ",
       "address": "Yenice Mah. Prof. Dr. Beşir Atalay Cad. No:18/A Keskin/Kırıkkale , 03185152023",
       "phone": "03185152023",
@@ -667,7 +655,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "ankara-55",
+      "id": "ankara-54",
       "name": "ALTINTAŞ ECZANESİ",
       "address": "TEMELLİ-Cumhuriyet Mah. Hürriyet Cad. No:18/18 Temelli/ Sincan/ANKARA , Kasap Ali Yanı 05362810884",
       "phone": "05362810884",
@@ -679,7 +667,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "ankara-56",
+      "id": "ankara-55",
       "name": "BALIŞEYH ECZANESİ",
       "address": "Yeni Mah. 43.Sok. No:14/B Balışeyh/KIRIKKALE , Balışeyh Toplum Sağlığı Merkezi Karşısı 03182333318",
       "phone": "03182333318",
@@ -691,7 +679,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "ankara-57",
+      "id": "ankara-56",
       "name": "CENNET ECZANESİ",
       "address": "Cumhuriyet Mah.Ankara Cad. No:34/A Delice KIRIKKALE , 03186185433",
       "phone": "03186185433",
@@ -703,7 +691,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "ankara-58",
+      "id": "ankara-57",
       "name": "OZAN TÜRK ECZANESİ",
       "address": "Kemalpaşa Mah. Ali Eysen Sokak No:6/A Elmadağ/ ANKARA , Lale Pastanesi arkası 03128631245",
       "phone": "03128631245",
@@ -715,7 +703,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "ankara-59",
+      "id": "ankara-58",
       "name": "ARONYA ECZANESİ",
       "address": "Menderes Mah.760.Cad.No:6/A Yenikent/Sincan/ANKARA , Estergon Sağlık Ocağı Karşısı 05019333623",
       "phone": "05019333623",
@@ -727,7 +715,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "ankara-60",
+      "id": "ankara-59",
       "name": "Nöbetçi Eczane Bulunamadı",
       "address": "Aradığınız kriterlere uygun nöbetçi eczane bulunamadı. Lütfen farklı bir arama deneyin.",
       "phone": "",
