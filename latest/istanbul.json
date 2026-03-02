@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T03:30:02.684Z",
+  "updatedAt": "2026-03-02T04:00:04.292Z",
   "count": 134,
   "pharmacies": [
     {
@@ -247,18 +247,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-16520",
-      "name": "BİLGE ECZANESİ",
-      "address": "Karlıtepe Mahallesi, Yıldıztabya Caddesi, 25/3",
-      "phone": "+902124187438",
-      "district": "GAZİOSMANPAŞA",
-      "city": "İstanbul",
-      "latitude": 41.059787864965514,
-      "longitude": 28.92779047319777,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-24500",
       "name": "BİLGE ECZANESİ",
       "address": "İstiklal Mahallesi, Marmara Caddesi, 1/ B",
@@ -267,6 +255,18 @@
       "city": "İstanbul",
       "latitude": 41.02332002711879,
       "longitude": 29.09613937092377,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-16520",
+      "name": "BİLGE ECZANESİ",
+      "address": "Karlıtepe Mahallesi, Yıldıztabya Caddesi, 25/3",
+      "phone": "+902124187438",
+      "district": "GAZİOSMANPAŞA",
+      "city": "İstanbul",
+      "latitude": 41.059787864965514,
+      "longitude": 28.92779047319777,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -559,18 +559,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-34508",
-      "name": "ELİF ECZANESİ",
-      "address": "Mehmet Akif Mahallesi, Aşık Veysel Caddesi, 65/D",
-      "phone": "+902126978700",
-      "district": "KÜÇÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.0561809998665,
-      "longitude": 28.803841999687158,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29852",
       "name": "ELİF ECZANESİ",
       "address": "Mehmet Akif Mahallesi, Fatih Bulvarı, 222/B",
@@ -579,6 +567,18 @@
       "city": "İstanbul",
       "latitude": 40.96804058762936,
       "longitude": 29.264210446974218,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-34508",
+      "name": "ELİF ECZANESİ",
+      "address": "Mehmet Akif Mahallesi, Aşık Veysel Caddesi, 65/D",
+      "phone": "+902126978700",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.0561809998665,
+      "longitude": 28.803841999687158,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -895,18 +895,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21544",
-      "name": "MERKEZ ECZANESİ",
-      "address": "Ayazağa Mahallesi Şehit Naci Canan Tuncer (G. 24) Sokak 13/A",
-      "phone": "+902123321995",
-      "district": "SARIYER",
-      "city": "İstanbul",
-      "latitude": 41.11595518349656,
-      "longitude": 28.999549063762846,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-24684",
       "name": "MERKEZ ECZANESİ",
       "address": "Merkez Mahallesi, Köroğlu Caddesi, 31A",
@@ -915,6 +903,18 @@
       "city": "İstanbul",
       "latitude": 41.040733549403804,
       "longitude": 29.182511828282376,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21544",
+      "name": "MERKEZ ECZANESİ",
+      "address": "Ayazağa Mahallesi Şehit Naci Canan Tuncer (G. 24) Sokak 13/A",
+      "phone": "+902123321995",
+      "district": "SARIYER",
+      "city": "İstanbul",
+      "latitude": 41.11595518349656,
+      "longitude": 28.999549063762846,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -1567,18 +1567,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-15602",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Başakşehir Mahallesi, Cihangir Sokak, 1. Etap 2/C",
-      "phone": "+902124860797",
-      "district": "BAŞAKŞEHİR",
-      "city": "İstanbul",
-      "latitude": 41.10008510320228,
-      "longitude": 28.790225587182018,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-12676",
       "name": "ŞİFA ECZANESİ",
       "address": "Yeşilköy Mahallesi, İstasyon Caddesi, 41 A",
@@ -1587,6 +1575,18 @@
       "city": "İstanbul",
       "latitude": 40.959572126665385,
       "longitude": 28.823341098254648,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-15602",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Başakşehir Mahallesi, Cihangir Sokak, 1. Etap 2/C",
+      "phone": "+902124860797",
+      "district": "BAŞAKŞEHİR",
+      "city": "İstanbul",
+      "latitude": 41.10008510320228,
+      "longitude": 28.790225587182018,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
