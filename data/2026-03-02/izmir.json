@@ -3,8 +3,8 @@
   "cityName": "İzmir",
   "cityId": 35,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T10:30:03.230Z",
-  "count": 70,
+  "updatedAt": "2026-03-02T11:00:03.628Z",
+  "count": 71,
   "pharmacies": [
     {
       "id": "izmir-0-4",
@@ -799,7 +799,19 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "izmir-66-107",
+      "id": "izmir-66-106",
+      "name": "BERRAK ECZANESİ",
+      "address": "DOĞANLAR MAH. 1440 SOK. NO:4/A(TEL:4783600)",
+      "phone": "02324200135",
+      "district": "BORNOVA 4",
+      "city": "İzmir",
+      "latitude": 38.453869,
+      "longitude": 27.252998,
+      "dutyStart": "2026-03-02T08:00:00.000Z",
+      "dutyEnd": "2026-03-03T08:00:00.000Z"
+    },
+    {
+      "id": "izmir-67-107",
       "name": "DEFNE SU  ECZANESİ",
       "address": "ULUS MH. 7503 SK. NO:15/A ",
       "phone": "02328462323",
@@ -811,7 +823,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "izmir-67-109",
+      "id": "izmir-68-109",
       "name": "HAYATİ BEY ECZANESİ",
       "address": "MAREŞAL FEVZİ ÇAKMAK MAH. İSMET İNÖNÜ BULV. NO:13/A",
       "phone": "02327663005",
@@ -823,7 +835,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "izmir-68-110",
+      "id": "izmir-69-110",
       "name": "URLA ÖZLEM ECZANESİ",
       "address": "İSKELE MAH. 2124 SOK. NO:1/A",
       "phone": "02327523636",
@@ -835,7 +847,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "izmir-69-112",
+      "id": "izmir-70-112",
       "name": "SIĞACIK ECZANESİ",
       "address": "SIĞACIK MAH. AKKUM CAD. NO:9/C",
       "phone": "02327432233",
