@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T00:00:02.890Z",
+  "updatedAt": "2026-03-02T00:30:02.385Z",
   "count": 34,
   "pharmacies": [
     {
@@ -104,30 +104,6 @@
     },
     {
       "id": "bursa-8",
-      "name": "YUVACI ECZANESİ",
-      "address": "YUNUSELİ MAH. YUNUSELİ BULVARI NO:199/A,  (31 NOLU ŞEVKİ AĞIRGİDEN SAĞLIK OCAĞI YANI) ,  0224 224 14 84",
-      "phone": "02242241484",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.248304,
-      "longitude": 29.015674,
-      "dutyStart": "2026-03-01T08:30:00.000Z",
-      "dutyEnd": "2026-03-02T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-9",
-      "name": "CUMHURİYET ECZANESİ",
-      "address": "NALBANTOĞLU MAH. CUMHURİYET CAD. NO:143/1,  (CUMHURİYET CAD. TRAMVAYLI CADDE - KAPALI ÇARŞI ALTI) ,  0224 222 57 70",
-      "phone": "02242225770",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.18594609814064,
-      "longitude": 29.06124767877668,
-      "dutyStart": "2026-03-01T08:30:00.000Z",
-      "dutyEnd": "2026-03-02T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-10",
       "name": "ÖZVARLIK ECZANESİ",
       "address": "ATICILAR MAH. DAVUT SOK. NO:15,  (ATICILAR SAĞLIK OCAĞI KARŞISI) ,  0224-2733301 / 0224 2732999",
       "phone": "02242733301",
@@ -139,7 +115,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-9",
       "name": "EMEL ECZANESİ",
       "address": "ALEMDAR MAH. ORMANLAR YOLU CAD. N0:76,  (MUHTARLIK KARŞISI - EMNİYET ÇOCUK ŞUBE YAKINI) ,  0546 679 94 58",
       "phone": "05466799458",
@@ -151,19 +127,7 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
-      "name": "GÖKAY ECZANESİ",
-      "address": "HÜRRİYET MAH. SÖĞÜTLÜ SOK. NO:3-B/C,  (HÜRRİYET MERKEZ CAMİ YANI) ,  0224 249 20 40 / 02242462024",
-      "phone": "02242492040",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.22051458,
-      "longitude": 29.00342882,
-      "dutyStart": "2026-03-01T08:30:00.000Z",
-      "dutyEnd": "2026-03-02T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-13",
+      "id": "bursa-10",
       "name": "AY IŞIĞI ECZANESİ",
       "address": "EMEK ZEKAİ GÜMÜŞDİŞ MAH. GÜLER SOK. NO:23/B,  (EMEK ADNAN MENDERES SAĞLIK OCAĞI KARŞISI) ,  0224 220 02 51",
       "phone": "02242200251",
@@ -175,7 +139,19 @@
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-11",
+      "name": "GÖKAY ECZANESİ",
+      "address": "HÜRRİYET MAH. SÖĞÜTLÜ SOK. NO:3-B/C,  (HÜRRİYET MERKEZ CAMİ YANI) ,  0224 249 20 40 / 02242462024",
+      "phone": "02242492040",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.22051458,
+      "longitude": 29.00342882,
+      "dutyStart": "2026-03-01T08:30:00.000Z",
+      "dutyEnd": "2026-03-02T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-12",
       "name": "ÖZLEM ECZANESİ",
       "address": "DİKKALDIRIM MAH. DİKKALDIRIM CAD. NO:106 ,  0224-2382744 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02242382744",
@@ -183,6 +159,30 @@
       "city": "Bursa",
       "latitude": 40.20335392,
       "longitude": 29.00716782,
+      "dutyStart": "2026-03-01T08:30:00.000Z",
+      "dutyEnd": "2026-03-02T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-13",
+      "name": "YUVACI ECZANESİ",
+      "address": "YUNUSELİ MAH. YUNUSELİ BULVARI NO:199/A,  (31 NOLU ŞEVKİ AĞIRGİDEN SAĞLIK OCAĞI YANI) ,  0224 224 14 84",
+      "phone": "02242241484",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.248304,
+      "longitude": 29.015674,
+      "dutyStart": "2026-03-01T08:30:00.000Z",
+      "dutyEnd": "2026-03-02T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-14",
+      "name": "CUMHURİYET ECZANESİ",
+      "address": "NALBANTOĞLU MAH. CUMHURİYET CAD. NO:143/1,  (CUMHURİYET CAD. TRAMVAYLI CADDE - KAPALI ÇARŞI ALTI) ,  0224 222 57 70",
+      "phone": "02242225770",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.18594609814064,
+      "longitude": 29.06124767877668,
       "dutyStart": "2026-03-01T08:30:00.000Z",
       "dutyEnd": "2026-03-02T08:30:00.000Z"
     },
