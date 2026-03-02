@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-02T21:00:05.368Z",
+  "updatedAt": "2026-03-02T21:30:04.360Z",
   "date": "2026-03-03",
   "cities": [
+    {
+      "city": "antalya",
+      "cityName": "Antalya",
+      "cityId": 7,
+      "count": 40
+    },
     {
       "city": "ankara",
       "cityName": "Ankara",
@@ -9,10 +15,10 @@
       "count": 61
     },
     {
-      "city": "antalya",
-      "cityName": "Antalya",
-      "cityId": 7,
-      "count": 40
+      "city": "konya",
+      "cityName": "Konya",
+      "cityId": 42,
+      "count": 31
     },
     {
       "city": "bursa",
@@ -27,28 +33,10 @@
       "count": 34
     },
     {
-      "city": "mersin",
-      "cityName": "Mersin",
-      "cityId": 33,
-      "count": 17
-    },
-    {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 71
-    },
-    {
-      "city": "konya",
-      "cityName": "Konya",
-      "cityId": 42,
-      "count": 31
-    },
-    {
       "city": "kocaeli",
       "cityName": "Kocaeli",
       "cityId": 41,
-      "count": 21
+      "count": 18
     },
     {
       "city": "samsun",
@@ -63,6 +51,12 @@
       "count": 6
     },
     {
+      "city": "mersin",
+      "cityName": "Mersin",
+      "cityId": 33,
+      "count": 17
+    },
+    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
@@ -73,6 +67,10 @@
     {
       "city": "gaziantep",
       "error": "HTTP 503 from https://www.gaziantep.bel.tr/tr/nobetci-eczaneler"
+    },
+    {
+      "city": "izmir",
+      "error": "HTTP 522 from https://openapi.izmir.bel.tr/api/ibb/nobetcieczaneler"
     }
   ]
 }
