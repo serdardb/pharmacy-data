@@ -3,8 +3,8 @@
   "cityName": "Ankara",
   "cityId": 6,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T15:00:04.996Z",
-  "count": 60,
+  "updatedAt": "2026-03-02T15:30:05.470Z",
+  "count": 61,
   "pharmacies": [
     {
       "id": "ankara-0",
@@ -716,6 +716,18 @@
     },
     {
       "id": "ankara-59",
+      "name": "İNCEK PRESTİJ ECZANESİ",
+      "address": "Alacaatlı Mah. 3341.Sokak No:1/8-B Çankaya/ANKARA , 03125043001",
+      "phone": "03125043001",
+      "district": "Çankaya",
+      "city": "Ankara",
+      "latitude": 39.837318497597,
+      "longitude": 32.704583723098,
+      "dutyStart": "2026-03-02T08:30:00.000Z",
+      "dutyEnd": "2026-03-03T08:30:00.000Z"
+    },
+    {
+      "id": "ankara-60",
       "name": "Nöbetçi Eczane Bulunamadı",
       "address": "Aradığınız kriterlere uygun nöbetçi eczane bulunamadı. Lütfen farklı bir arama deneyin.",
       "phone": "",
