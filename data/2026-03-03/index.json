@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T22:00:06.175Z",
+  "updatedAt": "2026-03-02T22:30:04.368Z",
   "date": "2026-03-03",
   "cities": [
     {
@@ -21,28 +21,28 @@
       "count": 33
     },
     {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
-    },
-    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
       "count": 31
     },
     {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 71
+    },
+    {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
+    },
+    {
       "city": "mersin",
       "cityName": "Mersin",
       "cityId": 33,
       "count": 17
-    },
-    {
-      "city": "kocaeli",
-      "cityName": "Kocaeli",
-      "cityId": 41,
-      "count": 18
     },
     {
       "city": "samsun",
@@ -57,6 +57,12 @@
       "count": 6
     },
     {
+      "city": "kocaeli",
+      "cityName": "Kocaeli",
+      "cityId": 41,
+      "count": 18
+    },
+    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
@@ -67,10 +73,6 @@
     {
       "city": "gaziantep",
       "error": "HTTP 503 from https://www.gaziantep.bel.tr/tr/nobetci-eczaneler"
-    },
-    {
-      "city": "izmir",
-      "error": "HTTP 522 from https://openapi.izmir.bel.tr/api/ibb/nobetcieczaneler"
     }
   ]
 }
