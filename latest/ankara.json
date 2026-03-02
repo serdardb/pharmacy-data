@@ -3,8 +3,8 @@
   "cityName": "Ankara",
   "cityId": 6,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T14:30:03.745Z",
-  "count": 61,
+  "updatedAt": "2026-03-02T15:00:04.996Z",
+  "count": 60,
   "pharmacies": [
     {
       "id": "ankara-0",
@@ -536,18 +536,6 @@
     },
     {
       "id": "ankara-44",
-      "name": "NATUREL ECZANESİ",
-      "address": "Alacaatlı Mah. Kanuni Sultan Süleyman Bulvarı No:128-BF Beytepe /Çankaya/ANKARA , Migros yanı 05302453060",
-      "phone": "05302453060",
-      "district": "Çankaya",
-      "city": "Ankara",
-      "latitude": 39.831061213756,
-      "longitude": 32.708534717167,
-      "dutyStart": "2026-03-02T08:30:00.000Z",
-      "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "ankara-45",
       "name": "PINAR KAYNAR ECZANESİ",
       "address": "Prof.Dr.Ahmet Taner Kışlalı Mah. Alacaatlı Cad. No:12/10 Çayyolu/ Çankaya/ ANKARA , Alacaatlı Büyük Çağdaş Market yanı 03122402030",
       "phone": "03122402030",
@@ -559,7 +547,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-46",
+      "id": "ankara-45",
       "name": "POYRAZ ECZANESİ",
       "address": "Yavuz Selim Mah.Hükümet Cad. Reşadiye Sok. No72/A Çubuk / ANKARA , 03128386212",
       "phone": "03128386212",
@@ -571,7 +559,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-47",
+      "id": "ankara-46",
       "name": "ARINMIŞ ECZANESİ",
       "address": "Yukarı Mah. Leblebici Sok.No:19 Güdül/ ANKARA , 05301178589",
       "phone": "05301178589",
@@ -583,7 +571,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-48",
+      "id": "ankara-47",
       "name": "BALA MERKEZ ECZANESİ",
       "address": "Şentepe Mah.Atatürk Bulvarı No:86/C Bala/ ANKARA , 03128761023",
       "phone": "03128761023",
@@ -595,7 +583,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-49",
+      "id": "ankara-48",
       "name": "YILMAZ ECZANESİ",
       "address": "Menderes Bulvarı Sağlık 1. Sok. No:2 Hasanoğlan /Elmadağ/ ANKARA (2.Tel:3128661233) , 03128663771",
       "phone": "03128663771",
@@ -607,7 +595,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-50",
+      "id": "ankara-49",
       "name": "MERT ECZANESİ",
       "address": "Bozkurt Mh.Hastane Sok. No:6 Keskin/KIRIKKALE , 03185154760",
       "phone": "03185154760",
@@ -619,7 +607,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-51",
+      "id": "ankara-50",
       "name": "VERESELİ TEMELLİ ECZANESİ",
       "address": "TEMELLİ-İstiklal Mah. Hürriyet Cad. No:30/B Temelli/Sincan/ANKARA , 03126451163",
       "phone": "03126451163",
@@ -631,7 +619,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-52",
+      "id": "ankara-51",
       "name": "FEYZA ECZANESİ",
       "address": "BALIŞEYH _Yeni Mahalle Samsun Cad. No:21/A Balışeyh / KIRIKKALE (Tel:05060258662) , PTT Ve Belediye Yanı, Merkez 03187137277",
       "phone": "03187137277",
@@ -643,7 +631,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-53",
+      "id": "ankara-52",
       "name": "DELİCE ECZANESİ",
       "address": "Cumhuriyet Mah. Atatürk Bulvarı No:6/C Delice/ KIRIKKALE , 03186185609",
       "phone": "03186185609",
@@ -655,7 +643,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-54",
+      "id": "ankara-53",
       "name": "CENGİZ ECZANESİ",
       "address": "Yeni Batı Mah. Şehit Mehmet Kolcu Sok. Uğrak Çarşısı No:14/35 Batıkent / Yenimahalle / ANKARA , 03122562254",
       "phone": "03122562254",
@@ -667,7 +655,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-55",
+      "id": "ankara-54",
       "name": "FORA ECZANESİ",
       "address": "İvedik O.S.B. 1354.Cad.Fora İş Merkezi No:138/29-30 Yenimahalle/ANKARA , 03123956240",
       "phone": "03123956240",
@@ -679,7 +667,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-56",
+      "id": "ankara-55",
       "name": "DAMLA SU ECZANESİ",
       "address": "Kemalpaşa Mah.Cumhuriyet Cad. Soğukpınar Sok. No:4 Elmadağ/ANKARA , 03128633222",
       "phone": "03128633222",
@@ -691,7 +679,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-57",
+      "id": "ankara-56",
       "name": "DENİZ ECZANESİ",
       "address": "Yeni Batı Mah. 5419. Cad. No:9D/2 Yenimahalle/ ANKARA , İstanbul Yolu Metro Dur.Kar.Çağdaş Market yanı 05528755878",
       "phone": "05528755878",
@@ -703,7 +691,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-58",
+      "id": "ankara-57",
       "name": "MERT ECZANESİ",
       "address": "Saraycık Mah. 2435. Cad. No:1-OA (Saraycık Toki Konutları) Sincan/ ANKARA , A101 Market yanı 03125110720",
       "phone": "03125110720",
@@ -715,7 +703,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-59",
+      "id": "ankara-58",
       "name": "ÇOĞLU ECZANESİ",
       "address": "Çoğlu Mah. Necip Fazıl Bulvarı Laviva Konutları No:26AC Yenikent/ Sincan/ANKARA , Laviva Konutları 03125442069",
       "phone": "03125442069",
@@ -727,7 +715,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "ankara-60",
+      "id": "ankara-59",
       "name": "Nöbetçi Eczane Bulunamadı",
       "address": "Aradığınız kriterlere uygun nöbetçi eczane bulunamadı. Lütfen farklı bir arama deneyin.",
       "phone": "",

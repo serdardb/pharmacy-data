@@ -3,11 +3,23 @@
   "cityName": "Adana",
   "cityId": 1,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T14:30:03.745Z",
+  "updatedAt": "2026-03-02T15:00:04.996Z",
   "count": 34,
   "pharmacies": [
     {
       "id": "adana-0",
+      "name": "KARAKAYA ECZANESİ",
+      "address": "PINAR MAH. ŞEFİK BİRİCİK ASM YANI İSMAİL HAZAR İÖO CİVARI ALİ BOZDOĞAN BLV. SİSTEM EMLAK ARKASI KARDEŞLER PASTANESİ KARŞISI , 03222615657 Harita Konum",
+      "phone": "03222615657",
+      "district": "Seyhan",
+      "city": "Adana",
+      "latitude": 37.0179,
+      "longitude": 35.288436,
+      "dutyStart": "2026-03-02T08:00:00.000Z",
+      "dutyEnd": "2026-03-03T08:00:00.000Z"
+    },
+    {
+      "id": "adana-1",
       "name": "ÇOLAKOĞLU ECZANESİ",
       "address": "GÜRSELPAŞA MAH. 75710 SOK. UMUT APT.(ALİYA İZZET BEGOVİÇ BULV. GÜRSELPAŞA MİGROS ARKASI) , 03222616163 05324900240 Harita Konum",
       "phone": "03222616163",
@@ -19,7 +31,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "adana-1",
+      "id": "adana-2",
       "name": "ZİYAPAŞA ECZANESİ",
       "address": "ZİYAPAŞA BULVARI KAHVE DÜNYASI KARŞISI , 05324595822 Harita Konum",
       "phone": "05324595822",
@@ -31,7 +43,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "adana-2",
+      "id": "adana-3",
       "name": "ÇINAR ECZANESİ",
       "address": "DENİZLİ MAH.ŞEHİT MEHMET ÖZEL CAD.NO:60/A(YIKILAN ESKİ DENİZLİ KARAKOLU KARŞI ÇAPRAZI,KÖŞEBAŞI) , 03224363688 Harita Konum",
       "phone": "03224363688",
@@ -43,7 +55,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "adana-3",
+      "id": "adana-4",
       "name": "VENÜS ECZANESİ",
       "address": "YENİBARAJ MAH. 68019 SOK. NO:6/B EMİRA BALO SALONU YANI SEYHAN DEVLET HAST.ACİL ÇIKIŞ KARŞISI , 03222282827 Harita Konum",
       "phone": "03222282827",
@@ -55,7 +67,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "adana-4",
+      "id": "adana-5",
       "name": "BETÜL GÜNDÜZ ECZANESİ",
       "address": "YENİBEY MAH. EMİNAĞA CAD. ŞEKER TAKSİ CİVARI , 03223595052 Harita Konum",
       "phone": "03223595052",
@@ -67,7 +79,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "adana-5",
+      "id": "adana-6",
       "name": "SELDA ECZANESİ",
       "address": "DUMLUPINAR MAH. KIBRIS CAD. NO:78/B DUMLUPINAR ASM KARŞISI , 05337294824 Harita Konum",
       "phone": "05337294824",
@@ -79,7 +91,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "adana-6",
+      "id": "adana-7",
       "name": "BARAJYOLU ECZANESİ",
       "address": "BARAJYOLU 5.5 DURAK ÖZEL ADANA KOLEJİ KAVŞAĞI DOKTORUM YILMAZ ŞALGAMI YANI , 03222270227 05395411507 Harita Konum",
       "phone": "03222270227",
@@ -91,7 +103,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "adana-7",
+      "id": "adana-8",
       "name": "ÖZSAYDI ECZANESİ",
       "address": "ŞAKİRPAŞA MAH. ONUR CADDESİ ÖZEL ÖMÜR TIP MERKEZİ KARŞISI , 03224281126 03224292635 Harita Konum",
       "phone": "03224281126",
@@ -103,7 +115,7 @@
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
     {
-      "id": "adana-8",
+      "id": "adana-9",
       "name": "AYDIN AKGÖLLÜ ECZANESİ",
       "address": "HURMALI MAH. 34018 SOK. NO:7/A SEYHAN BELEDİYESİ VE İSTİKLAL TIP MERKEZİ ARKASI SÜMER ÖĞRENCİ YURDU KARŞISI BOĞA LOKANTASI ARASI , 03224331212 Harita Konum",
       "phone": "03224331212",
@@ -111,18 +123,6 @@
       "city": "Adana",
       "latitude": 36.98999,
       "longitude": 35.318878,
-      "dutyStart": "2026-03-02T08:00:00.000Z",
-      "dutyEnd": "2026-03-03T08:00:00.000Z"
-    },
-    {
-      "id": "adana-9",
-      "name": "KARAKAYA ECZANESİ",
-      "address": "PINAR MAH. ŞEFİK BİRİCİK ASM YANI İSMAİL HAZAR İÖO CİVARI ALİ BOZDOĞAN BLV. SİSTEM EMLAK ARKASI KARDEŞLER PASTANESİ KARŞISI , 03222615657 Harita Konum",
-      "phone": "03222615657",
-      "district": "Seyhan",
-      "city": "Adana",
-      "latitude": 37.0179,
-      "longitude": 35.288436,
       "dutyStart": "2026-03-02T08:00:00.000Z",
       "dutyEnd": "2026-03-03T08:00:00.000Z"
     },
