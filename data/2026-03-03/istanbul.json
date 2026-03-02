@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-02T23:00:53.978Z",
+  "updatedAt": "2026-03-02T23:30:53.944Z",
   "count": 134,
   "pharmacies": [
     {
@@ -343,18 +343,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-12930",
-      "name": "BİZİM ECZANESİ",
-      "address": "Sinanpaşa Mahallesi, Ortabahçe Caddesi, 29-B",
-      "phone": "+902122612317",
-      "district": "BEŞİKTAŞ",
-      "city": "İstanbul",
-      "latitude": 41.043170303260155,
-      "longitude": 29.003867357789076,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-33876",
       "name": "BİZİM ECZANESİ",
       "address": "Anadolu Mahallesi, Mücevher Sokak, 2/A",
@@ -363,6 +351,18 @@
       "city": "İstanbul",
       "latitude": 41.186234000007715,
       "longitude": 28.744796000097974,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-12930",
+      "name": "BİZİM ECZANESİ",
+      "address": "Sinanpaşa Mahallesi, Ortabahçe Caddesi, 29-B",
+      "phone": "+902122612317",
+      "district": "BEŞİKTAŞ",
+      "city": "İstanbul",
+      "latitude": 41.043170303260155,
+      "longitude": 29.003867357789076,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
@@ -655,18 +655,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-4446",
-      "name": "FATİH ECZANESİ",
-      "address": "İskenderpaşa Mahallesi, Macar Kardeşler Caddesi, 45/A",
-      "phone": "+902126314250",
-      "district": "FATİH",
-      "city": "İstanbul",
-      "latitude": 41.01639857862114,
-      "longitude": 28.95098359382968,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25164",
       "name": "FATİH ECZANESİ",
       "address": "Marmara Mahallesi, İhlas Caddesi, 27A",
@@ -675,6 +663,18 @@
       "city": "İstanbul",
       "latitude": 40.982010129457876,
       "longitude": 28.67261508177806,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-4446",
+      "name": "FATİH ECZANESİ",
+      "address": "İskenderpaşa Mahallesi, Macar Kardeşler Caddesi, 45/A",
+      "phone": "+902126314250",
+      "district": "FATİH",
+      "city": "İstanbul",
+      "latitude": 41.01639857862114,
+      "longitude": 28.95098359382968,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
@@ -1099,18 +1099,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-27120",
-      "name": "POLEN ECZANESİ",
-      "address": "Petroliş Mahallesi, Koray Sokak, 3A",
-      "phone": "+902164883266",
-      "district": "KARTAL",
-      "city": "İstanbul",
-      "latitude": 40.89675168946918,
-      "longitude": 29.181404113525513,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25006",
       "name": "POLEN ECZANESİ",
       "address": "Bahçelievler Mahallesi, Adnan Kahveci Bulvarı, 4A",
@@ -1119,6 +1107,18 @@
       "city": "İstanbul",
       "latitude": 41.006209754172296,
       "longitude": 28.8700613377506,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-27120",
+      "name": "POLEN ECZANESİ",
+      "address": "Petroliş Mahallesi, Koray Sokak, 3A",
+      "phone": "+902164883266",
+      "district": "KARTAL",
+      "city": "İstanbul",
+      "latitude": 40.89675168946918,
+      "longitude": 29.181404113525513,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
@@ -1327,18 +1327,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11258",
-      "name": "YAŞAM ECZANESİ",
-      "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
-      "phone": "+902127316038",
-      "district": "SİLİVRİ",
-      "city": "İstanbul",
-      "latitude": 41.055566454111926,
-      "longitude": 28.3677121953202,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17002",
       "name": "YAŞAM ECZANESİ",
       "address": "Fevzi Çakmak Mahallesi, Taş Ocakları Sokak, 2B",
@@ -1347,6 +1335,18 @@
       "city": "İstanbul",
       "latitude": 40.87881826026473,
       "longitude": 29.261771540937396,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11258",
+      "name": "YAŞAM ECZANESİ",
+      "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
+      "phone": "+902127316038",
+      "district": "SİLİVRİ",
+      "city": "İstanbul",
+      "latitude": 41.055566454111926,
+      "longitude": 28.3677121953202,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
