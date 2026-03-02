@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T05:00:02.184Z",
+  "updatedAt": "2026-03-02T05:30:02.383Z",
   "count": 134,
   "pharmacies": [
     {
@@ -247,18 +247,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-24500",
-      "name": "BİLGE ECZANESİ",
-      "address": "İstiklal Mahallesi, Marmara Caddesi, 1/ B",
-      "phone": "+905366107517",
-      "district": "ÜMRANİYE",
-      "city": "İstanbul",
-      "latitude": 41.02332002711879,
-      "longitude": 29.09613937092377,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-16520",
       "name": "BİLGE ECZANESİ",
       "address": "Karlıtepe Mahallesi, Yıldıztabya Caddesi, 25/3",
@@ -267,6 +255,18 @@
       "city": "İstanbul",
       "latitude": 41.059787864965514,
       "longitude": 28.92779047319777,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-24500",
+      "name": "BİLGE ECZANESİ",
+      "address": "İstiklal Mahallesi, Marmara Caddesi, 1/ B",
+      "phone": "+905366107517",
+      "district": "ÜMRANİYE",
+      "city": "İstanbul",
+      "latitude": 41.02332002711879,
+      "longitude": 29.09613937092377,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -355,18 +355,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29836",
-      "name": "DEMİR ECZANESİ",
-      "address": "Çamlık Mahallesi, Şehit Burak Kurtuluş Caddesi, 60/74 A Blok 37",
-      "phone": "+902165190200",
-      "district": "ÜMRANİYE",
-      "city": "İstanbul",
-      "latitude": 41.008455000013385,
-      "longitude": 29.129364000434585,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-16064",
       "name": "DEMİR ECZANESİ",
       "address": "Yüzyıl Mahallesi, 2184 Sokak, 39A",
@@ -375,6 +363,18 @@
       "city": "İstanbul",
       "latitude": 41.06449876637385,
       "longitude": 28.85311396126993,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29836",
+      "name": "DEMİR ECZANESİ",
+      "address": "Çamlık Mahallesi, Şehit Burak Kurtuluş Caddesi, 60/74 A Blok 37",
+      "phone": "+902165190200",
+      "district": "ÜMRANİYE",
+      "city": "İstanbul",
+      "latitude": 41.008455000013385,
+      "longitude": 29.129364000434585,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -895,14 +895,14 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-8680",
+      "id": "istanbul-24684",
       "name": "MERKEZ ECZANESİ",
-      "address": "Nizam Mahallesi, 23 Nisan Caddesi, 12",
-      "phone": "+902163826392",
-      "district": "ADALAR",
+      "address": "Merkez Mahallesi, Köroğlu Caddesi, 31A",
+      "phone": "+902166208991",
+      "district": "ÇEKMEKÖY",
       "city": "İstanbul",
-      "latitude": 40.87385668832126,
-      "longitude": 29.127998108028326,
+      "latitude": 41.040733549403804,
+      "longitude": 29.182511828282376,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -919,14 +919,14 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-24684",
+      "id": "istanbul-8680",
       "name": "MERKEZ ECZANESİ",
-      "address": "Merkez Mahallesi, Köroğlu Caddesi, 31A",
-      "phone": "+902166208991",
-      "district": "ÇEKMEKÖY",
+      "address": "Nizam Mahallesi, 23 Nisan Caddesi, 12",
+      "phone": "+902163826392",
+      "district": "ADALAR",
       "city": "İstanbul",
-      "latitude": 41.040733549403804,
-      "longitude": 29.182511828282376,
+      "latitude": 40.87385668832126,
+      "longitude": 29.127998108028326,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -1507,18 +1507,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-20816",
-      "name": "İKİZLER ECZANESİ",
-      "address": "Tevfik Bey Mahallesi, Kahraman Sokak, 1",
-      "phone": "+902126962016",
-      "district": "KÜÇÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.01429154405539,
-      "longitude": 28.805782017141194,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25214",
       "name": "İKİZLER ECZANESİ",
       "address": "Zekeriyaköy Mahallesi, Zekeriyaköy Caddesi, 17-A",
@@ -1527,6 +1515,18 @@
       "city": "İstanbul",
       "latitude": 41.19696337150071,
       "longitude": 29.02868181480499,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-20816",
+      "name": "İKİZLER ECZANESİ",
+      "address": "Tevfik Bey Mahallesi, Kahraman Sokak, 1",
+      "phone": "+902126962016",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.01429154405539,
+      "longitude": 28.805782017141194,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
