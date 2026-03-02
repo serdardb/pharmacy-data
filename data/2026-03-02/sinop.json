@@ -3,11 +3,11 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T17:00:08.470Z",
+  "updatedAt": "2026-03-02T17:30:04.458Z",
   "count": 6,
   "pharmacies": [
     {
-      "id": "sinop-20",
+      "id": "sinop-19",
       "name": "SERKAN  ECZANESİ",
       "address": "GELİNCİK MAH.FATİH CAD. GÜZEL SİTE A BLOK NO.23/A",
       "phone": "03682619988",
@@ -19,7 +19,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "sinop-21",
+      "id": "sinop-20",
       "name": "GÜVEN  ECZANESİ",
       "address": "YALI MAH. ATATÜRK CAD. NO:22/A",
       "phone": "03686133388",
@@ -31,7 +31,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "sinop-22",
+      "id": "sinop-21",
       "name": "ANKA ECZANESİ",
       "address": "CAMİİKEBİR MAH. ADNAN MENDERES BULVARI NO:43/F",
       "phone": "03683151808",
@@ -43,7 +43,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "sinop-23",
+      "id": "sinop-22",
       "name": "NAZLI ECZANESİ",
       "address": "MERKEZ MAH. PLEVNE CAD. NO:47/B",
       "phone": "03684161057",
@@ -55,7 +55,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "sinop-24",
+      "id": "sinop-23",
       "name": "ERFELEK ECZANESİ",
       "address": "CUMHURİYET MEYDANI NO:18",
       "phone": "03685112039",
@@ -67,7 +67,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "sinop-25",
+      "id": "sinop-24",
       "name": "YENİ GERZE ECZANESİ",
       "address": "ÇARŞI MAH. GENERAL OSMAN PAMUKOĞLU CAD. NO:2/C",
       "phone": "03687181056",
