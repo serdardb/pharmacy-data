@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T04:30:02.186Z",
-  "count": 21,
+  "updatedAt": "2026-03-02T05:00:02.184Z",
+  "count": 19,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -188,18 +188,6 @@
     },
     {
       "id": "samsun-15",
-      "name": "ALTUNDAĞ ECZANESİ",
-      "address": "BAHŞİ MAH. NO:68/A",
-      "phone": "03627713129",
-      "district": "Ladik",
-      "city": "Samsun",
-      "latitude": 40.911691,
-      "longitude": 35.894975,
-      "dutyStart": "2026-03-02T08:30:00.000Z",
-      "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-16",
       "name": "DENİZ ECZANESİ",
       "address": "PAZAR MAH. FATİH BULVARI NO:40 İÇ KAPI Z1",
       "phone": "03625113066",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "samsun-17",
+      "id": "samsun-16",
       "name": "SAĞLIK  ECZANESİ",
       "address": "GÖKÇELİ MAH. ŞEHİT HÜSEYİN ATASEVEN CAD. NO:6/A",
       "phone": "03628213233",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "samsun-18",
+      "id": "samsun-17",
       "name": "TERME ECZANESİ",
       "address": "FENK MAH. BEYOĞLU CAD. NO:2/H",
       "phone": "03628761074",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "samsun-19",
+      "id": "samsun-18",
       "name": "DEVA ECZANESİ",
       "address": "FAZIL AHMET PAŞA MAH. 121.SOKAK NO:9",
       "phone": "03626031042",
@@ -243,18 +231,6 @@
       "city": "Samsun",
       "latitude": 41.142712,
       "longitude": 35.459756,
-      "dutyStart": "2026-03-02T08:30:00.000Z",
-      "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-26",
-      "name": "ÖZLEM  ECZANESİ",
-      "address": "GÜZELYURT MAH.CUMHURİYET CAD.NO:10/B",
-      "phone": "03686712692",
-      "district": "Türkeli",
-      "city": "Samsun",
-      "latitude": 41.946565,
-      "longitude": 34.336792,
       "dutyStart": "2026-03-02T08:30:00.000Z",
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     }
