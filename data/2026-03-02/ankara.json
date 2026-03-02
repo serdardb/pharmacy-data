@@ -3,7 +3,7 @@
   "cityName": "Ankara",
   "cityId": 6,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T07:30:03.051Z",
+  "updatedAt": "2026-03-02T08:00:03.086Z",
   "count": 61,
   "pharmacies": [
     {
@@ -633,7 +633,7 @@
     {
       "id": "ankara-52",
       "name": "FEYZA ECZANESİ",
-      "address": "BALIŞEYH _Yeni Mahalle Samsun Cad. No:21/A Balışeyh / KIRIKKALE (Tel:05060258662) , PTT ve Belediye yanı, Merkez 03187137277",
+      "address": "BALIŞEYH _Yeni Mahalle Samsun Cad. No:21/A Balışeyh / KIRIKKALE (Tel:05060258662) , PTT Ve Belediye Yanı, Merkez 03187137277",
       "phone": "03187137277",
       "district": "Ankara",
       "city": "Ankara",
