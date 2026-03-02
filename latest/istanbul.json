@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T16:00:06.380Z",
+  "updatedAt": "2026-03-02T16:30:06.761Z",
   "count": 134,
   "pharmacies": [
     {
@@ -259,18 +259,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-16520",
-      "name": "BİLGE ECZANESİ",
-      "address": "Karlıtepe Mahallesi, Yıldıztabya Caddesi, 25/3",
-      "phone": "+902124187438",
-      "district": "GAZİOSMANPAŞA",
-      "city": "İstanbul",
-      "latitude": 41.059787864965514,
-      "longitude": 28.92779047319777,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-24500",
       "name": "BİLGE ECZANESİ",
       "address": "İstiklal Mahallesi, Marmara Caddesi, 1/ B",
@@ -279,6 +267,18 @@
       "city": "İstanbul",
       "latitude": 41.02332002711879,
       "longitude": 29.09613937092377,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-16520",
+      "name": "BİLGE ECZANESİ",
+      "address": "Karlıtepe Mahallesi, Yıldıztabya Caddesi, 25/3",
+      "phone": "+902124187438",
+      "district": "GAZİOSMANPAŞA",
+      "city": "İstanbul",
+      "latitude": 41.059787864965514,
+      "longitude": 28.92779047319777,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -355,18 +355,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-16064",
-      "name": "DEMİR ECZANESİ",
-      "address": "Yüzyıl Mahallesi, 2184 Sokak, 39A",
-      "phone": "+902124318313",
-      "district": "BAĞCILAR",
-      "city": "İstanbul",
-      "latitude": 41.06449876637385,
-      "longitude": 28.85311396126993,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29836",
       "name": "DEMİR ECZANESİ",
       "address": "Çamlık Mahallesi, Şehit Burak Kurtuluş Caddesi, 60/74 A Blok 37",
@@ -375,6 +363,18 @@
       "city": "İstanbul",
       "latitude": 41.008455000013385,
       "longitude": 29.129364000434585,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-16064",
+      "name": "DEMİR ECZANESİ",
+      "address": "Yüzyıl Mahallesi, 2184 Sokak, 39A",
+      "phone": "+902124318313",
+      "district": "BAĞCILAR",
+      "city": "İstanbul",
+      "latitude": 41.06449876637385,
+      "longitude": 28.85311396126993,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -559,18 +559,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-34508",
-      "name": "ELİF ECZANESİ",
-      "address": "Mehmet Akif Mahallesi, Aşık Veysel Caddesi, 65/D",
-      "phone": "+902126978700",
-      "district": "KÜÇÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.0561809998665,
-      "longitude": 28.803841999687158,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29852",
       "name": "ELİF ECZANESİ",
       "address": "Mehmet Akif Mahallesi, Fatih Bulvarı, 222/B",
@@ -579,6 +567,18 @@
       "city": "İstanbul",
       "latitude": 40.96804058762936,
       "longitude": 29.264210446974218,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-34508",
+      "name": "ELİF ECZANESİ",
+      "address": "Mehmet Akif Mahallesi, Aşık Veysel Caddesi, 65/D",
+      "phone": "+902126978700",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.0561809998665,
+      "longitude": 28.803841999687158,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -895,18 +895,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-8680",
-      "name": "MERKEZ ECZANESİ",
-      "address": "Nizam Mahallesi, 23 Nisan Caddesi, 12",
-      "phone": "+902163826392",
-      "district": "ADALAR",
-      "city": "İstanbul",
-      "latitude": 40.87385668832126,
-      "longitude": 29.127998108028326,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-24684",
       "name": "MERKEZ ECZANESİ",
       "address": "Merkez Mahallesi, Köroğlu Caddesi, 31A",
@@ -915,6 +903,18 @@
       "city": "İstanbul",
       "latitude": 41.040733549403804,
       "longitude": 29.182511828282376,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-8680",
+      "name": "MERKEZ ECZANESİ",
+      "address": "Nizam Mahallesi, 23 Nisan Caddesi, 12",
+      "phone": "+902163826392",
+      "district": "ADALAR",
+      "city": "İstanbul",
+      "latitude": 40.87385668832126,
+      "longitude": 29.127998108028326,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
