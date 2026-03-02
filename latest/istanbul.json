@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-02",
-  "updatedAt": "2026-03-02T12:00:05.242Z",
+  "updatedAt": "2026-03-02T12:30:04.050Z",
   "count": 134,
   "pharmacies": [
     {
@@ -895,6 +895,18 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
+      "id": "istanbul-8680",
+      "name": "MERKEZ ECZANESİ",
+      "address": "Nizam Mahallesi, 23 Nisan Caddesi, 12",
+      "phone": "+902163826392",
+      "district": "ADALAR",
+      "city": "İstanbul",
+      "latitude": 40.87385668832126,
+      "longitude": 29.127998108028326,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
       "id": "istanbul-24684",
       "name": "MERKEZ ECZANESİ",
       "address": "Merkez Mahallesi, Köroğlu Caddesi, 31A",
@@ -915,18 +927,6 @@
       "city": "İstanbul",
       "latitude": 41.11595518349656,
       "longitude": 28.999549063762846,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
-      "id": "istanbul-8680",
-      "name": "MERKEZ ECZANESİ",
-      "address": "Nizam Mahallesi, 23 Nisan Caddesi, 12",
-      "phone": "+902163826392",
-      "district": "ADALAR",
-      "city": "İstanbul",
-      "latitude": 40.87385668832126,
-      "longitude": 29.127998108028326,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -1507,18 +1507,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-20816",
-      "name": "İKİZLER ECZANESİ",
-      "address": "Tevfik Bey Mahallesi, Kahraman Sokak, 1",
-      "phone": "+902126962016",
-      "district": "KÜÇÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.01429154405539,
-      "longitude": 28.805782017141194,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25214",
       "name": "İKİZLER ECZANESİ",
       "address": "Zekeriyaköy Mahallesi, Zekeriyaköy Caddesi, 17-A",
@@ -1527,6 +1515,18 @@
       "city": "İstanbul",
       "latitude": 41.19696337150071,
       "longitude": 29.02868181480499,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-20816",
+      "name": "İKİZLER ECZANESİ",
+      "address": "Tevfik Bey Mahallesi, Kahraman Sokak, 1",
+      "phone": "+902126962016",
+      "district": "KÜÇÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.01429154405539,
+      "longitude": 28.805782017141194,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
@@ -1567,18 +1567,6 @@
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
     {
-      "id": "istanbul-12676",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Yeşilköy Mahallesi, İstasyon Caddesi, 41 A",
-      "phone": "+902125735967",
-      "district": "BAKIRKÖY",
-      "city": "İstanbul",
-      "latitude": 40.959572126665385,
-      "longitude": 28.823341098254648,
-      "dutyStart": "2026-03-01T21:00:00.000Z",
-      "dutyEnd": "2026-03-02T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-15602",
       "name": "ŞİFA ECZANESİ",
       "address": "Başakşehir Mahallesi, Cihangir Sokak, 1. Etap 2/C",
@@ -1587,6 +1575,18 @@
       "city": "İstanbul",
       "latitude": 41.10008510320228,
       "longitude": 28.790225587182018,
+      "dutyStart": "2026-03-01T21:00:00.000Z",
+      "dutyEnd": "2026-03-02T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-12676",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Yeşilköy Mahallesi, İstasyon Caddesi, 41 A",
+      "phone": "+902125735967",
+      "district": "BAKIRKÖY",
+      "city": "İstanbul",
+      "latitude": 40.959572126665385,
+      "longitude": 28.823341098254648,
       "dutyStart": "2026-03-01T21:00:00.000Z",
       "dutyEnd": "2026-03-02T20:59:59.000Z"
     },
