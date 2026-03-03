@@ -3,8 +3,8 @@
   "cityName": "İzmir",
   "cityId": 35,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T10:30:48.445Z",
-  "count": 71,
+  "updatedAt": "2026-03-03T11:00:48.453Z",
+  "count": 72,
   "pharmacies": [
     {
       "id": "izmir-0-4",
@@ -571,7 +571,19 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-47-71",
+      "id": "izmir-47-70",
+      "name": "MURAT ECZANESİ",
+      "address": "İNÖNÜ MAH. SARAÇOĞLU CAD. NO:67/1B",
+      "phone": "02325450977",
+      "district": "ÖDEMİŞ",
+      "city": "İzmir",
+      "latitude": 38.233562,
+      "longitude": 27.976508,
+      "dutyStart": "2026-03-03T08:00:00.000Z",
+      "dutyEnd": "2026-03-04T08:00:00.000Z"
+    },
+    {
+      "id": "izmir-48-71",
       "name": "ŞAHİN ECZANESİ",
       "address": "HIDIRLIK MAH. İNÖNÜ CAD. NO:25/A",
       "phone": "02321525060",
@@ -583,7 +595,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-48-72",
+      "id": "izmir-49-72",
       "name": "ITIR ECZANESİ",
       "address": "ATATÜRK MAH.TAHSIN BASARAN CAD. 3/1A",
       "phone": "02328926227",
@@ -595,7 +607,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-49-73",
+      "id": "izmir-50-73",
       "name": "AKTAŞ ECZANESİ",
       "address": "ALTINTAŞ MAH. ZAFER CAD. NO:142/A",
       "phone": "02327547535",
@@ -607,7 +619,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-50-74",
+      "id": "izmir-51-74",
       "name": "ESİN ECZANESİ",
       "address": "YENİ MAH. BELEDİYE HANI CAD. NO:15/D",
       "phone": "02325121278",
@@ -619,7 +631,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-51-75",
+      "id": "izmir-52-75",
       "name": "SEHER ECZANESİ",
       "address": "TEPEKÖY MH.ERDİNÇ TEKERLİ CD. NO:30/",
       "phone": "02328564099",
@@ -631,7 +643,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-52-75",
+      "id": "izmir-53-75",
       "name": "SEMRA ECZANESİ",
       "address": "ERTUĞRUL MAH. SADIK İLERİ BULVARI NO:54/A",
       "phone": "02321713173",
@@ -643,7 +655,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-53-76",
+      "id": "izmir-54-76",
       "name": "YAZAL ECZANESİ",
       "address": "SAYFIYE MAH. KAZIM DIRIK CAD.NO:58/AYENI SAKRAN-ALIAGA/IZMIR",
       "phone": "02326287143",
@@ -655,7 +667,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-54-77",
+      "id": "izmir-55-77",
       "name": "OKYANUS  ECZANESİ",
       "address": "BAHRİYE ÜÇOK MAH. LATİFE HANIM SOK. NO:22/A",
       "phone": "02323697234",
@@ -667,7 +679,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-55-78",
+      "id": "izmir-56-78",
       "name": "OASİS ECZANESİ",
       "address": "MAVİŞEHİR MAH. AZİZ NESİN BULVARI NO:127/D  ",
       "phone": "02322033302",
@@ -679,7 +691,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-56-79",
+      "id": "izmir-57-79",
       "name": "VOLKAN ECZANESİ",
       "address": "GONCALAR MH.1777/1 SK. NO:14/B",
       "phone": "02323815340",
@@ -691,7 +703,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-57-80",
+      "id": "izmir-58-80",
       "name": "ÇAKIL ECZANESİ",
       "address": "TUNA MAH. 1696 SOK. NO:41/C",
       "phone": "02323697739",
@@ -703,7 +715,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-58-83",
+      "id": "izmir-59-83",
       "name": "NEFES ECZANESİ",
       "address": "259 SOK. NO:35/A ARAPHASAN MAH.",
       "phone": "02322455511",
@@ -715,7 +727,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-59-84",
+      "id": "izmir-60-84",
       "name": "ATA MERT ECZANESİ",
       "address": "GÜZELYALI MAH. MİTHATPAŞA CAD. NO:1176/A",
       "phone": "02322855143",
@@ -727,7 +739,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-60-89",
+      "id": "izmir-61-89",
       "name": "DAĞDELEN  ECZANESİ",
       "address": "ÇANDARLI MH.HÜRRİYET MEYD.NO:16",
       "phone": "02326733046",
@@ -739,7 +751,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-61-101",
+      "id": "izmir-62-101",
       "name": "HARİKA ECZANESİ",
       "address": "ATATÜRK MAH. YAVUZ CAD. NO:148/A",
       "phone": "02323425500",
@@ -751,7 +763,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-62-101",
+      "id": "izmir-63-101",
       "name": "ÖZGECAN ECZANESİ",
       "address": "ATATÜRK MAH. ZİYA GÖKALP CAD. NO:101",
       "phone": "02329999353",
@@ -763,7 +775,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-63-102",
+      "id": "izmir-64-102",
       "name": "SABIR ECZANESİ",
       "address": "UMUT MAH.ESKIIZMIR CAD.NO.644/A KARABAGLAR-IZMIR",
       "phone": "02322713550",
@@ -775,7 +787,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-64-103",
+      "id": "izmir-65-103",
       "name": "FESLEĞEN ECZANESİ",
       "address": "İSMET KAPTAN MH. 1373 SK. NO:8/A ALSANCAK",
       "phone": "02324845020",
@@ -787,7 +799,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-65-106",
+      "id": "izmir-66-106",
       "name": "FUNDA ECZANESİ",
       "address": "DOĞANLAR MAH. 1550 SOK. NO:51/C",
       "phone": "02323429402",
@@ -799,7 +811,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-66-107",
+      "id": "izmir-67-107",
       "name": "ULUKENT ECZANESİ",
       "address": "30 AĞUSTOS MH. 7124 SK. NO:4EB",
       "phone": "02329991238",
@@ -811,7 +823,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-67-108",
+      "id": "izmir-68-108",
       "name": "URLA BAHAR ECZANESİ",
       "address": "GÜVENDİK MAH. MEHMET ALİ AYGÜVEN CAD. NO:150/A",
       "phone": "02327550102",
@@ -823,7 +835,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-68-109",
+      "id": "izmir-69-109",
       "name": "URLA BASAR ECZANESİ",
       "address": "M.FEVZI ÇAKMAK MAH. N. KEMAL BULV. NO:27/13",
       "phone": "02327663516",
@@ -835,7 +847,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-69-112",
+      "id": "izmir-70-112",
       "name": "SIĞACIK ATA ECZANESİ",
       "address": "SIĞACIK MAH. AKKUM CAD. NO:9/E",
       "phone": "02327433500",
@@ -847,7 +859,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "izmir-70-113",
+      "id": "izmir-71-113",
       "name": "GÜLCE ECZANESİ",
       "address": "CUMHURIYET MH.NO.70/B ÜRKMEZ",
       "phone": "02327421677",

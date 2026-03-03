@@ -3,7 +3,7 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T10:30:48.445Z",
+  "updatedAt": "2026-03-03T11:00:48.453Z",
   "count": 32,
   "pharmacies": [
     {
@@ -260,18 +260,6 @@
     },
     {
       "id": "konya-21",
-      "name": "ÖZDEMİR ECZANESİ",
-      "address": "ALPASLAN MAHALLESİ DR. FARUK SÜKAN CADDESİ NO:50",
-      "phone": "903327132146",
-      "district": "Ereğli̇",
-      "city": "Konya",
-      "latitude": 37.5151158,
-      "longitude": 34.0498858,
-      "dutyStart": "2026-03-03T09:00:00.000Z",
-      "dutyEnd": "2026-03-04T09:00:00.000Z"
-    },
-    {
-      "id": "konya-22",
       "name": "FAKÜLTE ECZANESİ",
       "address": "ÇÖMLEKÇİ MAHALLESİ KAZIM KARABEKİR CADDESİ NO:18E",
       "phone": "903327124664",
@@ -279,6 +267,18 @@
       "city": "Konya",
       "latitude": 37.50876,
       "longitude": 34.05789,
+      "dutyStart": "2026-03-03T09:00:00.000Z",
+      "dutyEnd": "2026-03-04T09:00:00.000Z"
+    },
+    {
+      "id": "konya-22",
+      "name": "ÖZDEMİR ECZANESİ",
+      "address": "ALPASLAN MAHALLESİ DR. FARUK SÜKAN CADDESİ NO:50",
+      "phone": "903327132146",
+      "district": "Ereğli̇",
+      "city": "Konya",
+      "latitude": 37.5151158,
+      "longitude": 34.0498858,
       "dutyStart": "2026-03-03T09:00:00.000Z",
       "dutyEnd": "2026-03-04T09:00:00.000Z"
     },
