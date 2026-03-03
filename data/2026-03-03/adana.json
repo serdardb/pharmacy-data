@@ -3,7 +3,7 @@
   "cityName": "Adana",
   "cityId": 1,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T18:31:03.151Z",
+  "updatedAt": "2026-03-03T19:01:10.744Z",
   "count": 34,
   "pharmacies": [
     {
@@ -248,6 +248,18 @@
     },
     {
       "id": "adana-20",
+      "name": "SAİMBEYLİ ECZANESİ",
+      "address": "GÜL PASTANESİ YANI , 03227612626 Harita Konum",
+      "phone": "03227612626",
+      "district": "Sai̇mbeyli̇",
+      "city": "Adana",
+      "latitude": 37.985192,
+      "longitude": 36.089414,
+      "dutyStart": "2026-03-03T08:00:00.000Z",
+      "dutyEnd": "2026-03-04T08:00:00.000Z"
+    },
+    {
+      "id": "adana-21",
       "name": "ÇAKIT ECZANESİ",
       "address": "ÇARŞI MERKEZ ZOPCUK MARKET KARŞISI , 3225513863 Harita Konum",
       "phone": "3225513863",
@@ -259,7 +271,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-21",
+      "id": "adana-22",
       "name": "SENA ECZANESİ",
       "address": "DERVİŞİYE MAH. ATATÜRK YUMURTALIK BULV.YUMURTALIK MERKEZ SAĞLIK OCAĞI KARŞISI NO:71 , 03225045699 Harita Konum",
       "phone": "03225045699",
@@ -271,7 +283,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-22",
+      "id": "adana-23",
       "name": "GÜVEN ECZANESİ",
       "address": "ÇATALAN CAD. YENİ MAH. NO.1 SALBAŞ BELDESİ KARAİSALI YOLU ÜZERİ , 03225612611 Harita Konum",
       "phone": "03225612611",
@@ -283,7 +295,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-23",
+      "id": "adana-24",
       "name": "KILIÇ ECZANESİ",
       "address": "KEMALİYE MAH. ATATÜRK CAD. TEDAŞ VE ESKİ POLİS LOJMANI ÇAPRAZ KARŞISI , 05317851033 Harita Konum",
       "phone": "05317851033",
@@ -295,7 +307,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-24",
+      "id": "adana-25",
       "name": "GİZEM ECZANESİ",
       "address": "FEKE İLÇE DEVLET HASTANESİ KARŞI ÇAPRAZI , 03227412576 Harita Konum",
       "phone": "03227412576",
@@ -307,7 +319,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-25",
+      "id": "adana-26",
       "name": "DENİZHAN ECZANESİ",
       "address": "ESKİ ÇOCUK HASTANESİ KARŞISI BOTA MAH. ALTI OCAK CAD. NO: 34 , 03226122020 Harita Konum",
       "phone": "03226122020",
@@ -319,7 +331,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-26",
+      "id": "adana-27",
       "name": "ÇALIK ECZANESİ",
       "address": "KÖPRÜBAŞI PAÇA SALONU ÇAPRAZI, ATATÜRK CAD. NO:98 , 03226123223 05052527920 Harita Konum",
       "phone": "03226123223",
@@ -331,7 +343,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-27",
+      "id": "adana-28",
       "name": "DEMİRCİOĞLU ECZANESİ",
       "address": "İSTİKLAL MAH. TUFANBEYLİ AİLE SAĞLIĞI MERKEZİ KARŞISI , 03227818787 Harita Konum",
       "phone": "03227818787",
@@ -343,7 +355,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-28",
+      "id": "adana-29",
       "name": "ARİF DÖŞLÜ ECZANESİ",
       "address": "ÖZTÜRK PASTANESİ KARŞISI , 03225813434 Harita Konum",
       "phone": "03225813434",
@@ -355,7 +367,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-29",
+      "id": "adana-30",
       "name": "İMAMOĞLU ECZANESİ",
       "address": "SALI PAZARI CİVARI HALİL AVCI ASM KARŞISI , 03228922622 Harita Konum",
       "phone": "03228922622",
@@ -367,7 +379,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-30",
+      "id": "adana-31",
       "name": "KEKLİK ECZANESİ",
       "address": "ALADAĞ SAĞLIK OCAĞI CİVARI , 03225912424 Harita Konum",
       "phone": "03225912424",
@@ -379,7 +391,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-31",
+      "id": "adana-32",
       "name": "YUSUF BAYSAL ECZANESİ",
       "address": "DEVLET HASTANESİ KARŞISI,FEKE YOLU , 03225166193 5336338783 Harita Konum",
       "phone": "03225166193",
@@ -391,7 +403,7 @@
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     },
     {
-      "id": "adana-32",
+      "id": "adana-33",
       "name": "METİN ECZANESİ",
       "address": "EMNİYET MÜDÜRLÜĞÜ ARKASI 5 NOLU SAĞLIK OCAĞI KARŞISI , 3225163680 Harita Konum",
       "phone": "3225163680",
@@ -399,18 +411,6 @@
       "city": "Adana",
       "latitude": 37.4611,
       "longitude": 35.817051,
-      "dutyStart": "2026-03-03T08:00:00.000Z",
-      "dutyEnd": "2026-03-04T08:00:00.000Z"
-    },
-    {
-      "id": "adana-33",
-      "name": "SAİMBEYLİ ECZANESİ",
-      "address": "GÜL PASTANESİ YANI , 03227612626 Harita Konum",
-      "phone": "03227612626",
-      "district": "Sai̇mbeyli̇",
-      "city": "Adana",
-      "latitude": 37.985192,
-      "longitude": 36.089414,
       "dutyStart": "2026-03-03T08:00:00.000Z",
       "dutyEnd": "2026-03-04T08:00:00.000Z"
     }
