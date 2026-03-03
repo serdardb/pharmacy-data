@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-03-03T00:30:54.582Z",
+  "updatedAt": "2026-03-03T01:00:57.496Z",
   "date": "2026-03-03",
   "cities": [
+    {
+      "city": "ankara",
+      "cityName": "Ankara",
+      "cityId": 6,
+      "count": 61
+    },
     {
       "city": "bursa",
       "cityName": "Bursa",
@@ -13,12 +19,6 @@
       "cityName": "Antalya",
       "cityId": 7,
       "count": 40
-    },
-    {
-      "city": "ankara",
-      "cityName": "Ankara",
-      "cityId": 6,
-      "count": 61
     },
     {
       "city": "konya",
