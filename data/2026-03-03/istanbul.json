@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T07:00:48.447Z",
+  "updatedAt": "2026-03-03T07:30:48.445Z",
   "count": 134,
   "pharmacies": [
     {
@@ -343,18 +343,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-33876",
-      "name": "BİZİM ECZANESİ",
-      "address": "Anadolu Mahallesi, Mücevher Sokak, 2/A",
-      "phone": "+902125979955",
-      "district": "ARNAVUTKÖY",
-      "city": "İstanbul",
-      "latitude": 41.186234000007715,
-      "longitude": 28.744796000097974,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-12930",
       "name": "BİZİM ECZANESİ",
       "address": "Sinanpaşa Mahallesi, Ortabahçe Caddesi, 29-B",
@@ -363,6 +351,18 @@
       "city": "İstanbul",
       "latitude": 41.043170303260155,
       "longitude": 29.003867357789076,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-33876",
+      "name": "BİZİM ECZANESİ",
+      "address": "Anadolu Mahallesi, Mücevher Sokak, 2/A",
+      "phone": "+902125979955",
+      "district": "ARNAVUTKÖY",
+      "city": "İstanbul",
+      "latitude": 41.186234000007715,
+      "longitude": 28.744796000097974,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
@@ -1219,18 +1219,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-30572",
-      "name": "SU ECZANESİ",
-      "address": "Paşabahçe Mahallesi, Kısayol Sokak, 4/A",
-      "phone": "+902165377070",
-      "district": "BEYKOZ",
-      "city": "İstanbul",
-      "latitude": 41.117003060091534,
-      "longitude": 29.09744561182697,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-23548",
       "name": "SU ECZANESİ",
       "address": "Yunus Emre Mahallesi, Adem Yavuz Caddesi, 1620 Sok. No:14/A",
@@ -1239,6 +1227,18 @@
       "city": "İstanbul",
       "latitude": 41.093422345511094,
       "longitude": 28.89768362453569,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-30572",
+      "name": "SU ECZANESİ",
+      "address": "Paşabahçe Mahallesi, Kısayol Sokak, 4/A",
+      "phone": "+902165377070",
+      "district": "BEYKOZ",
+      "city": "İstanbul",
+      "latitude": 41.117003060091534,
+      "longitude": 29.09744561182697,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
