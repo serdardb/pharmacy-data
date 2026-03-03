@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T17:01:04.943Z",
+  "updatedAt": "2026-03-03T17:31:05.036Z",
   "count": 134,
   "pharmacies": [
     {
@@ -355,18 +355,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-30002",
-      "name": "CAN ECZANESİ",
-      "address": "Hürriyet Mahallesi, Abdi İpekçi Caddesi, 25-A",
-      "phone": "+902163771331",
-      "district": "KARTAL",
-      "city": "İstanbul",
-      "latitude": 40.90139249216442,
-      "longitude": 29.22837906103712,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-13746",
       "name": "CAN ECZANESİ",
       "address": "Kemal Türkler Mahallesi, Yazlık Sokak, 21",
@@ -375,6 +363,18 @@
       "city": "İstanbul",
       "latitude": 41.00667211178669,
       "longitude": 29.21767387320062,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-30002",
+      "name": "CAN ECZANESİ",
+      "address": "Hürriyet Mahallesi, Abdi İpekçi Caddesi, 25-A",
+      "phone": "+902163771331",
+      "district": "KARTAL",
+      "city": "İstanbul",
+      "latitude": 40.90139249216442,
+      "longitude": 29.22837906103712,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
@@ -643,18 +643,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-4446",
-      "name": "FATİH ECZANESİ",
-      "address": "İskenderpaşa Mahallesi, Macar Kardeşler Caddesi, 45/A",
-      "phone": "+902126314250",
-      "district": "FATİH",
-      "city": "İstanbul",
-      "latitude": 41.01639857862114,
-      "longitude": 28.95098359382968,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25164",
       "name": "FATİH ECZANESİ",
       "address": "Marmara Mahallesi, İhlas Caddesi, 27A",
@@ -663,6 +651,18 @@
       "city": "İstanbul",
       "latitude": 40.982010129457876,
       "longitude": 28.67261508177806,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-4446",
+      "name": "FATİH ECZANESİ",
+      "address": "İskenderpaşa Mahallesi, Macar Kardeşler Caddesi, 45/A",
+      "phone": "+902126314250",
+      "district": "FATİH",
+      "city": "İstanbul",
+      "latitude": 41.01639857862114,
+      "longitude": 28.95098359382968,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },

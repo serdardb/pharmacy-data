@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T17:01:04.943Z",
+  "updatedAt": "2026-03-03T17:31:05.036Z",
   "count": 34,
   "pharmacies": [
     {
@@ -152,6 +152,18 @@
     },
     {
       "id": "bursa-12",
+      "name": "EŞREFOĞLU ECZANESİ",
+      "address": "SAKARYA MAH. 1.MARMARA SOK. NO:24/A ,  0506 978 40 56 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "05069784056",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.221689,
+      "longitude": 29.105541,
+      "dutyStart": "2026-03-03T18:30:00.000Z",
+      "dutyEnd": "2026-03-04T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-13",
       "name": "HANSA ECZANESİ",
       "address": "BAĞLARALTI MAH. 2.CAD. NO:26B/9,  (ŞEVKET YILMAZ HASTANESİ ARKASI - ERİKLİ ÜSTÜ) ,  0224-3414741",
       "phone": "02243414741",
@@ -163,7 +175,7 @@
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-14",
       "name": "YAVUZ ECZANESİ",
       "address": "YILDIRIM MAH. KURTULUŞ CAD. NO:106/A,  (GÖKDERE METRO İSTASYONU ARKA CADDESİ) ,  0224 360 83 49",
       "phone": "02243608349",
@@ -171,18 +183,6 @@
       "city": "Bursa",
       "latitude": 40.18843467,
       "longitude": 29.07989591,
-      "dutyStart": "2026-03-03T18:30:00.000Z",
-      "dutyEnd": "2026-03-04T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-14",
-      "name": "EŞREFOĞLU ECZANESİ",
-      "address": "SAKARYA MAH. 1.MARMARA SOK. NO:24/A ,  0506 978 40 56 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "05069784056",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.221689,
-      "longitude": 29.105541,
       "dutyStart": "2026-03-03T18:30:00.000Z",
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
