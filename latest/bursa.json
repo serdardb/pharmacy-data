@@ -3,23 +3,11 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T04:31:00.985Z",
-  "count": 33,
+  "updatedAt": "2026-03-03T05:00:58.188Z",
+  "count": 32,
   "pharmacies": [
     {
       "id": "bursa-0",
-      "name": "BALAT MERVE ECZANESİ",
-      "address": "AHMET YESEVİ MAH. FARABİ CAD. NO:4G/C,  (BALAT - BAKGÖR CITY-1 SİTESİ ALTI VE ERGİN EVLER SİTESİ YANI) ,  0224 502 10 01",
-      "phone": "02245021001",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.267402,
-      "longitude": 28.936876,
-      "dutyStart": "2026-03-02T18:30:00.000Z",
-      "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-1",
       "name": "YALVAÇ ECZANESİ",
       "address": "BARIŞ MAH. SÜMER SOK. NO:2,  (ACIBADEM HASTANESİ GİRİŞ KAPISI KARŞISI) ,  0224 452 19 95 / 0224 452 19 96",
       "phone": "02244521995",
@@ -31,7 +19,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "bursa-2",
+      "id": "bursa-1",
       "name": "ODUNLUK ECZANESİ",
       "address": "ODUNLUK MAH. MİHRAPLI CAD. MİSİA SİTESİ NO:4,  (ÖZEL JİMER HASTANESİ KARŞISI) ,  0224 999 55 32",
       "phone": "02249995532",
@@ -43,7 +31,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "bursa-3",
+      "id": "bursa-2",
       "name": "HAKAN ECZANESİ",
       "address": "ÜÇEVLER MAH. İZMİR YOLU CAD. NO:241/A-I,  (KÜÇÜK SANAYİ METRO İSTASYONU KARŞISI) ,  0224 413 04 84",
       "phone": "02244130484",
@@ -55,7 +43,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "bursa-4",
+      "id": "bursa-3",
       "name": "ADAM ECZANESİ",
       "address": "30 AĞUSTOS ZAFER MAH. 109.(520) SOK. NO:1B/E,  (KAYAPA KAZIM ÖZDİLEK ASM KARŞISI) ,  0506 856 08 99",
       "phone": "05068560899",
@@ -67,7 +55,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "bursa-5",
+      "id": "bursa-4",
       "name": "ÇELİKAKSOY ECZANESİ",
       "address": "29 EKİM MAH. UĞUR MUMCU BULVARI NO:17/B,  (ÖZLÜCE METRO DURAĞI - ASM KARŞISI) ,  0224 452 04 20",
       "phone": "02244520420",
@@ -79,55 +67,19 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
+      "id": "bursa-5",
+      "name": "BALAT MERVE ECZANESİ",
+      "address": "AHMET YESEVİ MAH. FARABİ CAD. NO:4G/C,  (BALAT - BAKGÖR CITY-1 SİTESİ ALTI VE ERGİN EVLER SİTESİ YANI) ,  0224 502 10 01",
+      "phone": "02245021001",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.267402,
+      "longitude": 28.936876,
+      "dutyStart": "2026-03-02T18:30:00.000Z",
+      "dutyEnd": "2026-03-03T08:30:00.000Z"
+    },
+    {
       "id": "bursa-6",
-      "name": "AKYILDIZ ECZANESİ",
-      "address": "YUNUSELİ MAH. 2.KARANFİL CAD. NO:47/C,  (AKYILDIZ SAĞLIK OCAĞI KARŞISI) ,  0224 248 93 33 / 0534 518 16 46",
-      "phone": "02242489333",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.2624777,
-      "longitude": 29.013099,
-      "dutyStart": "2026-03-02T18:30:00.000Z",
-      "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
-      "name": "AŞAN ECZANESİ",
-      "address": "BAĞLARBAŞI MAH. SANAYİ CAD. NO:242,  (BAĞLARBAŞI METRO İSTASYONU - DORUK TIP MERKEZİ ESENTEPE ŞB. YANI) ,  0224 247 24 79",
-      "phone": "02242472479",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.22866119,
-      "longitude": 28.98807049,
-      "dutyStart": "2026-03-02T18:30:00.000Z",
-      "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-8",
-      "name": "ŞİFA ECZANESİ",
-      "address": "KÜÇÜKBALIKLI MAH. 2.DÖKÜMHANE SOK. NO:26/A,  (KÜÇÜKBALIKLI ASM KARŞISI) ,  0224 215 62 39",
-      "phone": "02242156239",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.219873,
-      "longitude": 29.073896,
-      "dutyStart": "2026-03-02T18:30:00.000Z",
-      "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-9",
-      "name": "ASLI NUR ECZANESİ",
-      "address": "SELİMİYE MAH. 1.TAHİR SOK. NO:10/A,  (OSMANGAZİ KAYMAKAMLIĞI BİNASI KARŞISI) ,  0224 221 42 78",
-      "phone": "02242214278",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.190581720597336,
-      "longitude": 29.052275970744255,
-      "dutyStart": "2026-03-02T18:30:00.000Z",
-      "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-10",
       "name": "KAAN ECZANESİ",
       "address": "ELMASBAHÇELER MAH. ANKARA YOLU CAD. NO:42,  (ANKARA YOLU ÖZEL HAYAT HASTANESİ ÖNÜ) ,  0224-2732626",
       "phone": "02242732626",
@@ -139,7 +91,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-7",
       "name": "MERVE SAĞLIK ECZANESİ",
       "address": "EMEK FATİH SULTAN MEHMET MAH. SELİN SOK. NO:12/A,  (EMEK TAZİYE EVİ VE 24 NO'LU AİLE SAĞLIĞI MERKEZİ KARŞISI) ,  0224 242 22 18",
       "phone": "02242422218",
@@ -151,7 +103,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
+      "id": "bursa-8",
       "name": "ÇAÇAR ECZANESİ",
       "address": "HÜDAVENDİGAR MAH. 1.KANAL CAD. NO:40/A,  (ÇEKİRGE DEVLET HASTANESİ ARKASI - FORMBACK OTEL YANI) ,  0224 238 00 10 / 0501 253 00 10",
       "phone": "02242380010",
@@ -163,31 +115,55 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
+      "id": "bursa-9",
+      "name": "AKYILDIZ ECZANESİ",
+      "address": "YUNUSELİ MAH. 2.KARANFİL CAD. NO:47/C,  (AKYILDIZ SAĞLIK OCAĞI KARŞISI) ,  0224 248 93 33 / 0534 518 16 46",
+      "phone": "02242489333",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.2624777,
+      "longitude": 29.013099,
+      "dutyStart": "2026-03-02T18:30:00.000Z",
+      "dutyEnd": "2026-03-03T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-10",
+      "name": "AŞAN ECZANESİ",
+      "address": "BAĞLARBAŞI MAH. SANAYİ CAD. NO:242,  (BAĞLARBAŞI METRO İSTASYONU - DORUK TIP MERKEZİ ESENTEPE ŞB. YANI) ,  0224 247 24 79",
+      "phone": "02242472479",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.22866119,
+      "longitude": 28.98807049,
+      "dutyStart": "2026-03-02T18:30:00.000Z",
+      "dutyEnd": "2026-03-03T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "ŞİFA ECZANESİ",
+      "address": "KÜÇÜKBALIKLI MAH. 2.DÖKÜMHANE SOK. NO:26/A,  (KÜÇÜKBALIKLI ASM KARŞISI) ,  0224 215 62 39",
+      "phone": "02242156239",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.219873,
+      "longitude": 29.073896,
+      "dutyStart": "2026-03-02T18:30:00.000Z",
+      "dutyEnd": "2026-03-03T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-12",
+      "name": "ASLI NUR ECZANESİ",
+      "address": "SELİMİYE MAH. 1.TAHİR SOK. NO:10/A,  (OSMANGAZİ KAYMAKAMLIĞI BİNASI KARŞISI) ,  0224 221 42 78",
+      "phone": "02242214278",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.190581720597336,
+      "longitude": 29.052275970744255,
+      "dutyStart": "2026-03-02T18:30:00.000Z",
+      "dutyEnd": "2026-03-03T08:30:00.000Z"
+    },
+    {
       "id": "bursa-13",
-      "name": "BEYAZIT ECZANESİ",
-      "address": "BEYAZIT MAH. KASIM ÖNADIM BULVARI NO:15,  (EĞİTİM CAD. TEKNİK ÜNİVERSİTESİ VE BEYAZIT ASM YANI) ,  0224 364 10 15 / 535 632288",
-      "phone": "02243641015",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.185913315174695,
-      "longitude": 29.100584462285042,
-      "dutyStart": "2026-03-02T18:30:00.000Z",
-      "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-14",
-      "name": "AYŞE ECZANESİ",
-      "address": "MİLLET MAH. CENGİZHAN CAD. NO:26/D,  (MİLLET MAH. MUHTARLIĞI VE SAĞLIK OCAĞI KARŞISI) ,  0224 360 60 86",
-      "phone": "02243606086",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.210273054649846,
-      "longitude": 29.095187125091147,
-      "dutyStart": "2026-03-02T18:30:00.000Z",
-      "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-15",
       "name": "İKSİR ECZANESİ",
       "address": "ESENEVLER MAH. EDEBALİ SOK. NO:58,  (ESENEVLER ASM VE MUHTARLIK KARŞISI) ,  0224 342 00 00",
       "phone": "02243420000",
@@ -199,7 +175,7 @@
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
     {
-      "id": "bursa-16",
+      "id": "bursa-14",
       "name": "TELEFERİK MERKEZ ECZANESİ",
       "address": "PİREMİR MAH. TELEFERİK CAD. NO:72/A ,  (TELEFERİK MEYDANI) ,  0545 851 08 50",
       "phone": "05458510850",
@@ -207,6 +183,30 @@
       "city": "Bursa",
       "latitude": 40.172965,
       "longitude": 29.083152,
+      "dutyStart": "2026-03-02T18:30:00.000Z",
+      "dutyEnd": "2026-03-03T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-15",
+      "name": "BEYAZIT ECZANESİ",
+      "address": "BEYAZIT MAH. KASIM ÖNADIM BULVARI NO:15,  (EĞİTİM CAD. TEKNİK ÜNİVERSİTESİ VE BEYAZIT ASM YANI) ,  0224 364 10 15 / 535 632288",
+      "phone": "02243641015",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.185913315174695,
+      "longitude": 29.100584462285042,
+      "dutyStart": "2026-03-02T18:30:00.000Z",
+      "dutyEnd": "2026-03-03T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-16",
+      "name": "AYŞE ECZANESİ",
+      "address": "MİLLET MAH. CENGİZHAN CAD. NO:26/D,  (MİLLET MAH. MUHTARLIĞI VE SAĞLIK OCAĞI KARŞISI) ,  0224 360 60 86",
+      "phone": "02243606086",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.210273054649846,
+      "longitude": 29.095187125091147,
       "dutyStart": "2026-03-02T18:30:00.000Z",
       "dutyEnd": "2026-03-03T08:30:00.000Z"
     },
@@ -389,18 +389,6 @@
       "longitude": 29.096680717158733,
       "dutyStart": "2026-03-02T18:30:00.000Z",
       "dutyEnd": "2026-03-03T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-32",
-      "name": "US ECZANESİ",
-      "address": "ÇAYIR MAH. BURSA CAD. NO:55/A-B ,  0224 773 02 88 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02247730288",
-      "district": "YENİŞEHİR",
-      "city": "Bursa",
-      "latitude": 40.266221,
-      "longitude": 29.631266,
-      "dutyStart": "2026-03-02T18:00:00.000Z",
-      "dutyEnd": "2026-03-03T08:00:00.000Z"
     }
   ]
 }
