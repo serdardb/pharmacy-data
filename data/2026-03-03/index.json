@@ -1,13 +1,7 @@
 {
-  "updatedAt": "2026-03-03T12:00:48.552Z",
+  "updatedAt": "2026-03-03T12:30:48.730Z",
   "date": "2026-03-03",
   "cities": [
-    {
-      "city": "antalya",
-      "cityName": "Antalya",
-      "cityId": 7,
-      "count": 38
-    },
     {
       "city": "ankara",
       "cityName": "Ankara",
@@ -15,10 +9,10 @@
       "count": 60
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 72
+      "city": "antalya",
+      "cityName": "Antalya",
+      "cityId": 7,
+      "count": 39
     },
     {
       "city": "bursa",
@@ -39,10 +33,10 @@
       "count": 34
     },
     {
-      "city": "mersin",
-      "cityName": "Mersin",
-      "cityId": 33,
-      "count": 23
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 72
     },
     {
       "city": "gaziantep",
@@ -73,6 +67,12 @@
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 134
+    }
+  ],
+  "errors": [
+    {
+      "city": "mersin",
+      "error": "HTTP 524 from https://www.mersineczaciodasi.org.tr/nobetci-eczaneler"
     }
   ]
 }
