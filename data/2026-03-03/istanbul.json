@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T13:00:48.457Z",
+  "updatedAt": "2026-03-03T13:30:48.456Z",
   "count": 134,
   "pharmacies": [
     {
@@ -874,7 +874,7 @@
       "id": "istanbul-30928",
       "name": "KELEBEK ECZANESİ",
       "address": "Kanarya Mahallesi, Şahin Caddesi, No:45/C",
-      "phone": "+902128062114",
+      "phone": "+905333062114",
       "district": "KÜÇÜKÇEKMECE",
       "city": "İstanbul",
       "latitude": 41.01081457614943,
@@ -1087,18 +1087,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-25006",
-      "name": "POLEN ECZANESİ",
-      "address": "Bahçelievler Mahallesi, Adnan Kahveci Bulvarı, 4A",
-      "phone": "+902125050765",
-      "district": "BAHÇELİEVLER",
-      "city": "İstanbul",
-      "latitude": 41.006209754172296,
-      "longitude": 28.8700613377506,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-27120",
       "name": "POLEN ECZANESİ",
       "address": "Petroliş Mahallesi, Koray Sokak, 3A",
@@ -1107,6 +1095,18 @@
       "city": "İstanbul",
       "latitude": 40.89675168946918,
       "longitude": 29.181404113525513,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-25006",
+      "name": "POLEN ECZANESİ",
+      "address": "Bahçelievler Mahallesi, Adnan Kahveci Bulvarı, 4A",
+      "phone": "+902125050765",
+      "district": "BAHÇELİEVLER",
+      "city": "İstanbul",
+      "latitude": 41.006209754172296,
+      "longitude": 28.8700613377506,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
@@ -1315,18 +1315,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-17002",
-      "name": "YAŞAM ECZANESİ",
-      "address": "Fevzi Çakmak Mahallesi, Taş Ocakları Sokak, 2B",
-      "phone": "+902165971882",
-      "district": "PENDİK",
-      "city": "İstanbul",
-      "latitude": 40.87881826026473,
-      "longitude": 29.261771540937396,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-11258",
       "name": "YAŞAM ECZANESİ",
       "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
@@ -1335,6 +1323,18 @@
       "city": "İstanbul",
       "latitude": 41.055566454111926,
       "longitude": 28.3677121953202,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-17002",
+      "name": "YAŞAM ECZANESİ",
+      "address": "Fevzi Çakmak Mahallesi, Taş Ocakları Sokak, 2B",
+      "phone": "+902165971882",
+      "district": "PENDİK",
+      "city": "İstanbul",
+      "latitude": 40.87881826026473,
+      "longitude": 29.261771540937396,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
