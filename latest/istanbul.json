@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T15:01:06.244Z",
+  "updatedAt": "2026-03-03T15:31:06.747Z",
   "count": 134,
   "pharmacies": [
     {
@@ -1315,18 +1315,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11258",
-      "name": "YAŞAM ECZANESİ",
-      "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
-      "phone": "+902127316038",
-      "district": "SİLİVRİ",
-      "city": "İstanbul",
-      "latitude": 41.055566454111926,
-      "longitude": 28.3677121953202,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-17002",
       "name": "YAŞAM ECZANESİ",
       "address": "Fevzi Çakmak Mahallesi, Taş Ocakları Sokak, 2B",
@@ -1335,6 +1323,18 @@
       "city": "İstanbul",
       "latitude": 40.87881826026473,
       "longitude": 29.261771540937396,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11258",
+      "name": "YAŞAM ECZANESİ",
+      "address": "Selimpaşa Merkez Mahallesi, Halaskargazi Cad., 31/A",
+      "phone": "+902127316038",
+      "district": "SİLİVRİ",
+      "city": "İstanbul",
+      "latitude": 41.055566454111926,
+      "longitude": 28.3677121953202,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
