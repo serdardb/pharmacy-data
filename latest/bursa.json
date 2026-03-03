@@ -3,18 +3,18 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T10:00:48.451Z",
+  "updatedAt": "2026-03-03T10:30:48.445Z",
   "count": 35,
   "pharmacies": [
     {
       "id": "bursa-0",
-      "name": "ŞANLI ECZANESİ",
-      "address": "100.YIL MAH. PROF.DR.ERDAL İNÖNÜ CAD. NO:25/E,  (ÖZLÜCE PARK İŞ MERKEZİ - SAYGINKENT YANI) ,  0224 221 75 43 / 0224 242 21 23",
-      "phone": "02242217543",
+      "name": "VERA ECZANESİ",
+      "address": "ODUNLUK MAH. OPERATÖR SOK. NO:1/E,  (JİMER HASTANESİ ACİL ÇIKIŞI KARŞISI) ,  0224 242 83 72 / 0224 243 83 72",
+      "phone": "02242428372",
       "district": "NİLÜFER",
       "city": "Bursa",
-      "latitude": 40.22580240975573,
-      "longitude": 28.906863927841187,
+      "latitude": 40.20593384253709,
+      "longitude": 28.993154497101774,
       "dutyStart": "2026-03-03T18:30:00.000Z",
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
@@ -68,30 +68,18 @@
     },
     {
       "id": "bursa-5",
-      "name": "VERA ECZANESİ",
-      "address": "ODUNLUK MAH. OPERATÖR SOK. NO:1/E,  (JİMER HASTANESİ ACİL ÇIKIŞI KARŞISI) ,  0224 242 83 72 / 0224 243 83 72",
-      "phone": "02242428372",
+      "name": "ŞANLI ECZANESİ",
+      "address": "100.YIL MAH. PROF.DR.ERDAL İNÖNÜ CAD. NO:25/E,  (ÖZLÜCE PARK İŞ MERKEZİ - SAYGINKENT YANI) ,  0224 221 75 43 / 0224 242 21 23",
+      "phone": "02242217543",
       "district": "NİLÜFER",
       "city": "Bursa",
-      "latitude": 40.20593384253709,
-      "longitude": 28.993154497101774,
+      "latitude": 40.22580240975573,
+      "longitude": 28.906863927841187,
       "dutyStart": "2026-03-03T18:30:00.000Z",
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
     {
       "id": "bursa-6",
-      "name": "KURAL ECZANESİ",
-      "address": "DİKKALDIRIM MAH. DİKKALDIRIM CAD. 2.HOŞ SOK. NO:2,  (MİHRAPLI CAMİ KARŞISI - SAĞLIK OCAĞI YANI) ,  0224 238 08 68",
-      "phone": "02242380868",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.2037633699861,
-      "longitude": 29.005293606647907,
-      "dutyStart": "2026-03-03T18:30:00.000Z",
-      "dutyEnd": "2026-03-04T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
       "name": "AKKUŞ ECZANESİ",
       "address": "İNTİZAM MAH. 3.TABAK SOK. NO:55/A ,  0224 504 16 08 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02245041608",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-7",
       "name": "1050 KONUTLAR ECZANESİ",
       "address": "AKPINAR MAH. HANCI CAD. NO:22/1,  (AKPINAR KÜLTÜR MERKEZİ VE ASM KARŞISI) ,  0224 242 21 22 / 0224 2421902",
       "phone": "02242422122",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-8",
       "name": "GÖZDE ECZANESİ",
       "address": "KÜÇÜKBALIKLI MAH. OKUL CAD. NO:6,  (HAVUZLU MEYDAN) ,  0224 215 15 75",
       "phone": "02242151575",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-9",
       "name": "MEYDAN ECZANESİ",
       "address": "İSTİKLAL MAH. 5.DİNÇ SOK. NO:3,  (HÜRRİYET MEYDANI) ,  0534 828 32 50",
       "phone": "05348283250",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-10",
       "name": "IHLAMUR ECZANESİ",
       "address": "GEÇİT MAH. MUDANYA YOLU NO:754,  (TOTAL AKARYAKIT İSTASYONU İÇİ) ,  0224 244 75 74",
       "phone": "02242447574",
@@ -151,19 +139,19 @@
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
-      "name": "YAVUZ ECZANESİ",
-      "address": "YILDIRIM MAH. KURTULUŞ CAD. NO:106/A,  (GÖKDERE METRO İSTASYONU ARKA CADDESİ) ,  0224 360 83 49",
-      "phone": "02243608349",
-      "district": "YILDIRIM",
+      "id": "bursa-11",
+      "name": "KURAL ECZANESİ",
+      "address": "DİKKALDIRIM MAH. DİKKALDIRIM CAD. 2.HOŞ SOK. NO:2,  (MİHRAPLI CAMİ KARŞISI - SAĞLIK OCAĞI YANI) ,  0224 238 08 68",
+      "phone": "02242380868",
+      "district": "OSMANGAZİ",
       "city": "Bursa",
-      "latitude": 40.18843467,
-      "longitude": 29.07989591,
+      "latitude": 40.2037633699861,
+      "longitude": 29.005293606647907,
       "dutyStart": "2026-03-03T18:30:00.000Z",
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-12",
       "name": "EŞREFOĞLU ECZANESİ",
       "address": "SAKARYA MAH. 1.MARMARA SOK. NO:24/A ,  0506 978 40 56 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "05069784056",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-13",
       "name": "HANSA ECZANESİ",
       "address": "BAĞLARALTI MAH. 2.CAD. NO:26B/9,  (ŞEVKET YILMAZ HASTANESİ ARKASI - ERİKLİ ÜSTÜ) ,  0224-3414741",
       "phone": "02243414741",
@@ -183,6 +171,18 @@
       "city": "Bursa",
       "latitude": 40.18044715758667,
       "longitude": 29.132866859436035,
+      "dutyStart": "2026-03-03T18:30:00.000Z",
+      "dutyEnd": "2026-03-04T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-14",
+      "name": "YAVUZ ECZANESİ",
+      "address": "YILDIRIM MAH. KURTULUŞ CAD. NO:106/A,  (GÖKDERE METRO İSTASYONU ARKA CADDESİ) ,  0224 360 83 49",
+      "phone": "02243608349",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.18843467,
+      "longitude": 29.07989591,
       "dutyStart": "2026-03-03T18:30:00.000Z",
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
