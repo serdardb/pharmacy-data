@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T14:00:48.562Z",
+  "updatedAt": "2026-03-03T14:31:03.063Z",
   "count": 134,
   "pharmacies": [
     {
@@ -1207,18 +1207,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-23548",
-      "name": "SU ECZANESİ",
-      "address": "Yunus Emre Mahallesi, Adem Yavuz Caddesi, 1620 Sok. No:14/A",
-      "phone": "+902126502013",
-      "district": "SULTANGAZİ",
-      "city": "İstanbul",
-      "latitude": 41.093422345511094,
-      "longitude": 28.89768362453569,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-30572",
       "name": "SU ECZANESİ",
       "address": "Paşabahçe Mahallesi, Kısayol Sokak, 4/A",
@@ -1227,6 +1215,18 @@
       "city": "İstanbul",
       "latitude": 41.117003060091534,
       "longitude": 29.09744561182697,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-23548",
+      "name": "SU ECZANESİ",
+      "address": "Yunus Emre Mahallesi, Adem Yavuz Caddesi, 1620 Sok. No:14/A",
+      "phone": "+902126502013",
+      "district": "SULTANGAZİ",
+      "city": "İstanbul",
+      "latitude": 41.093422345511094,
+      "longitude": 28.89768362453569,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },

@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T14:00:48.562Z",
+  "updatedAt": "2026-03-03T14:31:03.063Z",
   "count": 35,
   "pharmacies": [
     {
@@ -20,18 +20,6 @@
     },
     {
       "id": "bursa-1",
-      "name": "BETÜL ŞİFA ECZANESİ",
-      "address": "23 NİSAN MAH. MİTHATPAŞA CAD. NO:1/A-A,  (ÖZHAN MARKET YANI) ,  0224 441 71 51 / 0533 088 80 20",
-      "phone": "02244417151",
-      "district": "NİLÜFER",
-      "city": "Bursa",
-      "latitude": 40.216695592354625,
-      "longitude": 28.941553999418925,
-      "dutyStart": "2026-03-03T18:30:00.000Z",
-      "dutyEnd": "2026-03-04T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-2",
       "name": "VERA ECZANESİ",
       "address": "ODUNLUK MAH. OPERATÖR SOK. NO:1/E,  (JİMER HASTANESİ ACİL ÇIKIŞI KARŞISI) ,  0224 242 83 72 / 0224 243 83 72",
       "phone": "02242428372",
@@ -39,6 +27,18 @@
       "city": "Bursa",
       "latitude": 40.20593384253709,
       "longitude": 28.993154497101774,
+      "dutyStart": "2026-03-03T18:30:00.000Z",
+      "dutyEnd": "2026-03-04T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-2",
+      "name": "BETÜL ŞİFA ECZANESİ",
+      "address": "23 NİSAN MAH. MİTHATPAŞA CAD. NO:1/A-A,  (ÖZHAN MARKET YANI) ,  0224 441 71 51 / 0533 088 80 20",
+      "phone": "02244417151",
+      "district": "NİLÜFER",
+      "city": "Bursa",
+      "latitude": 40.216695592354625,
+      "longitude": 28.941553999418925,
       "dutyStart": "2026-03-03T18:30:00.000Z",
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
@@ -152,6 +152,18 @@
     },
     {
       "id": "bursa-12",
+      "name": "YAVUZ ECZANESİ",
+      "address": "YILDIRIM MAH. KURTULUŞ CAD. NO:106/A,  (GÖKDERE METRO İSTASYONU ARKA CADDESİ) ,  0224 360 83 49",
+      "phone": "02243608349",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.18843467,
+      "longitude": 29.07989591,
+      "dutyStart": "2026-03-03T18:30:00.000Z",
+      "dutyEnd": "2026-03-04T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-13",
       "name": "EŞREFOĞLU ECZANESİ",
       "address": "SAKARYA MAH. 1.MARMARA SOK. NO:24/A ,  0506 978 40 56 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "05069784056",
@@ -163,7 +175,7 @@
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-14",
       "name": "HANSA ECZANESİ",
       "address": "BAĞLARALTI MAH. 2.CAD. NO:26B/9,  (ŞEVKET YILMAZ HASTANESİ ARKASI - ERİKLİ ÜSTÜ) ,  0224-3414741",
       "phone": "02243414741",
@@ -171,18 +183,6 @@
       "city": "Bursa",
       "latitude": 40.18044715758667,
       "longitude": 29.132866859436035,
-      "dutyStart": "2026-03-03T18:30:00.000Z",
-      "dutyEnd": "2026-03-04T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-14",
-      "name": "YAVUZ ECZANESİ",
-      "address": "YILDIRIM MAH. KURTULUŞ CAD. NO:106/A,  (GÖKDERE METRO İSTASYONU ARKA CADDESİ) ,  0224 360 83 49",
-      "phone": "02243608349",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.18843467,
-      "longitude": 29.07989591,
       "dutyStart": "2026-03-03T18:30:00.000Z",
       "dutyEnd": "2026-03-04T08:30:00.000Z"
     },
