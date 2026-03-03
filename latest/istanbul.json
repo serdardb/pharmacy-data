@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-03",
-  "updatedAt": "2026-03-03T08:00:48.448Z",
+  "updatedAt": "2026-03-03T08:30:48.445Z",
   "count": 134,
   "pharmacies": [
     {
@@ -271,18 +271,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-16578",
-      "name": "BURCU ECZANESİ",
-      "address": "İçerenköy Mahallesi, Karslı Ahmet Caddesi, 42D",
-      "phone": "+902165770204",
-      "district": "ATAŞEHİR",
-      "city": "İstanbul",
-      "latitude": 40.973584918496414,
-      "longitude": 29.114118538148173,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-2338",
       "name": "BURGAZADA ECZANESİ",
       "address": "Burgazadası Mahallesi, Çınarlık Sokak, 3",
@@ -343,18 +331,6 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-12930",
-      "name": "BİZİM ECZANESİ",
-      "address": "Sinanpaşa Mahallesi, Ortabahçe Caddesi, 29-B",
-      "phone": "+902122612317",
-      "district": "BEŞİKTAŞ",
-      "city": "İstanbul",
-      "latitude": 41.043170303260155,
-      "longitude": 29.003867357789076,
-      "dutyStart": "2026-03-02T21:00:00.000Z",
-      "dutyEnd": "2026-03-03T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-33876",
       "name": "BİZİM ECZANESİ",
       "address": "Anadolu Mahallesi, Mücevher Sokak, 2/A",
@@ -367,14 +343,14 @@
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
     {
-      "id": "istanbul-13746",
-      "name": "CAN ECZANESİ",
-      "address": "Kemal Türkler Mahallesi, Yazlık Sokak, 21",
-      "phone": "+902166219676",
-      "district": "SANCAKTEPE",
+      "id": "istanbul-12930",
+      "name": "BİZİM ECZANESİ",
+      "address": "Sinanpaşa Mahallesi, Ortabahçe Caddesi, 29-B",
+      "phone": "+902122612317",
+      "district": "BEŞİKTAŞ",
       "city": "İstanbul",
-      "latitude": 41.00667211178669,
-      "longitude": 29.21767387320062,
+      "latitude": 41.043170303260155,
+      "longitude": 29.003867357789076,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
@@ -387,6 +363,18 @@
       "city": "İstanbul",
       "latitude": 40.90139249216442,
       "longitude": 29.22837906103712,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-13746",
+      "name": "CAN ECZANESİ",
+      "address": "Kemal Türkler Mahallesi, Yazlık Sokak, 21",
+      "phone": "+902166219676",
+      "district": "SANCAKTEPE",
+      "city": "İstanbul",
+      "latitude": 41.00667211178669,
+      "longitude": 29.21767387320062,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
@@ -1539,6 +1527,18 @@
       "city": "İstanbul",
       "latitude": 40.91079500039296,
       "longitude": 29.252568000418876,
+      "dutyStart": "2026-03-02T21:00:00.000Z",
+      "dutyEnd": "2026-03-03T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-35736",
+      "name": "İLKE BASIN ECZANESİ",
+      "address": "İçerenköy Mahallesi, Karslı Ahmet Caddesi, No:42/D",
+      "phone": "+902165770204",
+      "district": "ATAŞEHİR",
+      "city": "İstanbul",
+      "latitude": 40.973584918496414,
+      "longitude": 29.114118538148173,
       "dutyStart": "2026-03-02T21:00:00.000Z",
       "dutyEnd": "2026-03-03T20:59:59.000Z"
     },
