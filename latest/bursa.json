@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-04",
-  "updatedAt": "2026-03-04T19:30:51.591Z",
+  "updatedAt": "2026-03-04T20:00:51.989Z",
   "count": 35,
   "pharmacies": [
     {
@@ -152,30 +152,6 @@
     },
     {
       "id": "bursa-12",
-      "name": "MİLLET ECZANESİ",
-      "address": "MEVLANA MAH. ŞEHİT EREN BÜLBÜL CAD. NO:8/A,  (HÜMA HATUN EVLERİ YANI) ,  0224 361 61 13",
-      "phone": "02243616113",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.206115,
-      "longitude": 29.118955,
-      "dutyStart": "2026-03-04T18:30:00.000Z",
-      "dutyEnd": "2026-03-05T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-13",
-      "name": "YILMAZ ECZANESİ",
-      "address": "ANADOLU MAH. VATAN SOK. NO:11/D,  (ŞÜKRANİYE SARI CAMİ ALTI) ,  0536 452 20 22",
-      "phone": "05364522022",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.19223343,
-      "longitude": 29.09364223,
-      "dutyStart": "2026-03-04T18:30:00.000Z",
-      "dutyEnd": "2026-03-05T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-14",
       "name": "AKSU ECZANESİ",
       "address": "SELÇUKBEY MAH. SELÇUKBEY CAD. C-BLOK NO:23/A,  (DR.SADIK AHMET SPOR TESİSLERİ YANI) ,  0224 368 12 77",
       "phone": "02243681277",
@@ -187,7 +163,7 @@
       "dutyEnd": "2026-03-05T08:30:00.000Z"
     },
     {
-      "id": "bursa-15",
+      "id": "bursa-13",
       "name": "İSABEY ECZANESİ",
       "address": "DEMETEVLER MAH. İSMETPAŞA CAD. NO:33/A ,  0224 371 34 68 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02243713468",
@@ -195,6 +171,30 @@
       "city": "Bursa",
       "latitude": 40.202440779331134,
       "longitude": 29.177977210081142,
+      "dutyStart": "2026-03-04T18:30:00.000Z",
+      "dutyEnd": "2026-03-05T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-14",
+      "name": "MİLLET ECZANESİ",
+      "address": "MEVLANA MAH. ŞEHİT EREN BÜLBÜL CAD. NO:8/A,  (HÜMA HATUN EVLERİ YANI) ,  0224 361 61 13",
+      "phone": "02243616113",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.206115,
+      "longitude": 29.118955,
+      "dutyStart": "2026-03-04T18:30:00.000Z",
+      "dutyEnd": "2026-03-05T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-15",
+      "name": "YILMAZ ECZANESİ",
+      "address": "ANADOLU MAH. VATAN SOK. NO:11/D,  (ŞÜKRANİYE SARI CAMİ ALTI) ,  0536 452 20 22",
+      "phone": "05364522022",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.19223343,
+      "longitude": 29.09364223,
       "dutyStart": "2026-03-04T18:30:00.000Z",
       "dutyEnd": "2026-03-05T08:30:00.000Z"
     },
@@ -260,6 +260,18 @@
     },
     {
       "id": "bursa-21",
+      "name": "BURCU ECZANESİ",
+      "address": "FATİH MAH. MİMAR SAMYELİ CAD. NO:18/1A,  (ALANYURT KÖYİÇİ - AHISKA PARKI KARŞISI) ,  0224 713 89 93",
+      "phone": "02247138993",
+      "district": "İNEGÖL",
+      "city": "Bursa",
+      "latitude": 40.11090364943465,
+      "longitude": 29.511980540828482,
+      "dutyStart": "2026-03-04T18:00:00.000Z",
+      "dutyEnd": "2026-03-05T01:00:00.000Z"
+    },
+    {
+      "id": "bursa-22",
       "name": "ÖZGÜN ECZANESİ",
       "address": "KEMALPAŞA MAH. ORTAOKUL SOK. NO:14/A ,  0224 711 93 62 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02247119362",
@@ -271,7 +283,7 @@
       "dutyEnd": "2026-03-05T08:30:00.000Z"
     },
     {
-      "id": "bursa-22",
+      "id": "bursa-23",
       "name": "EGE ECZANESİ",
       "address": "OSMANİYE MAH. İSTİKLAL CAD. NO:31/A,  (SOKOLLU HOTEL KARŞISI) ,  0224-7123373",
       "phone": "02247123373",
@@ -279,18 +291,6 @@
       "city": "Bursa",
       "latitude": 40.080888,
       "longitude": 29.507623999999964,
-      "dutyStart": "2026-03-04T18:00:00.000Z",
-      "dutyEnd": "2026-03-05T01:00:00.000Z"
-    },
-    {
-      "id": "bursa-23",
-      "name": "BURCU ECZANESİ",
-      "address": "FATİH MAH. MİMAR SAMYELİ CAD. NO:18/1A,  (ALANYURT KÖYİÇİ - AHISKA PARKI KARŞISI) ,  0224 713 89 93",
-      "phone": "02247138993",
-      "district": "İNEGÖL",
-      "city": "Bursa",
-      "latitude": 40.11090364943465,
-      "longitude": 29.511980540828482,
       "dutyStart": "2026-03-04T18:00:00.000Z",
       "dutyEnd": "2026-03-05T01:00:00.000Z"
     },
