@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-04T17:30:49.690Z",
+  "updatedAt": "2026-03-04T18:00:50.891Z",
   "date": "2026-03-04",
   "cities": [
     {
@@ -15,22 +15,28 @@
       "count": 35
     },
     {
+      "city": "antalya",
+      "cityName": "Antalya",
+      "cityId": 7,
+      "count": 39
+    },
+    {
       "city": "adana",
       "cityName": "Adana",
       "cityId": 1,
       "count": 37
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 72
-    },
-    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
       "count": 32
+    },
+    {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 72
     },
     {
       "city": "mersin",
@@ -67,12 +73,6 @@
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 131
-    }
-  ],
-  "errors": [
-    {
-      "city": "antalya",
-      "error": "HTTP 522 from https://www.antalyaeo.org.tr/tr/nobetci-eczaneler"
     }
   ]
 }
