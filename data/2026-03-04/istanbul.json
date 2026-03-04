@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-04",
-  "updatedAt": "2026-03-04T19:00:47.005Z",
+  "updatedAt": "2026-03-04T19:30:51.591Z",
   "count": 131,
   "pharmacies": [
     {
@@ -811,18 +811,6 @@
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
     {
-      "id": "istanbul-28160",
-      "name": "NUR ECZANESİ",
-      "address": "50. Yıl Mahallesi, 2003. Sokak, 40/A",
-      "phone": "+902126191009",
-      "district": "SULTANGAZİ",
-      "city": "İstanbul",
-      "latitude": 41.08841099995365,
-      "longitude": 28.87029000024438,
-      "dutyStart": "2026-03-03T21:00:00.000Z",
-      "dutyEnd": "2026-03-04T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-38914",
       "name": "NUR ECZANESİ",
       "address": "Orta Mahallesi, Yalnız Selvi Caddesi, 16A",
@@ -831,6 +819,18 @@
       "city": "İstanbul",
       "latitude": 40.912854175956156,
       "longitude": 29.20982158382662,
+      "dutyStart": "2026-03-03T21:00:00.000Z",
+      "dutyEnd": "2026-03-04T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-28160",
+      "name": "NUR ECZANESİ",
+      "address": "50. Yıl Mahallesi, 2003. Sokak, 40/A",
+      "phone": "+902126191009",
+      "district": "SULTANGAZİ",
+      "city": "İstanbul",
+      "latitude": 41.08841099995365,
+      "longitude": 28.87029000024438,
       "dutyStart": "2026-03-03T21:00:00.000Z",
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
@@ -1543,18 +1543,6 @@
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29154",
-      "name": "ŞEKER ECZANESİ",
-      "address": "Topçular Mahallesi, Muhtar Celil Kulaksız Sokak, No:85/A",
-      "phone": "+902125777837",
-      "district": "EYÜPSULTAN",
-      "city": "İstanbul",
-      "latitude": 41.04252505629653,
-      "longitude": 28.925300147857705,
-      "dutyStart": "2026-03-03T21:00:00.000Z",
-      "dutyEnd": "2026-03-04T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-33448",
       "name": "ŞEKER ECZANESİ",
       "address": "Göztepe Mahallesi, Fahrettin Kerim Gökay Caddesi, No:260C",
@@ -1563,6 +1551,18 @@
       "city": "İstanbul",
       "latitude": 40.98041644310323,
       "longitude": 29.073313772679043,
+      "dutyStart": "2026-03-03T21:00:00.000Z",
+      "dutyEnd": "2026-03-04T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29154",
+      "name": "ŞEKER ECZANESİ",
+      "address": "Topçular Mahallesi, Muhtar Celil Kulaksız Sokak, No:85/A",
+      "phone": "+902125777837",
+      "district": "EYÜPSULTAN",
+      "city": "İstanbul",
+      "latitude": 41.04252505629653,
+      "longitude": 28.925300147857705,
       "dutyStart": "2026-03-03T21:00:00.000Z",
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
