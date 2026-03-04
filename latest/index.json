@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-04T07:30:44.240Z",
+  "updatedAt": "2026-03-04T08:00:45.235Z",
   "date": "2026-03-04",
   "cities": [
     {
@@ -21,16 +21,16 @@
       "count": 39
     },
     {
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 72
+    },
+    {
       "city": "konya",
       "cityName": "Konya",
       "cityId": 42,
       "count": 32
-    },
-    {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 37
     },
     {
       "city": "mersin",
@@ -39,16 +39,10 @@
       "count": 23
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 72
-    },
-    {
-      "city": "kocaeli",
-      "cityName": "Kocaeli",
-      "cityId": 41,
-      "count": 23
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 37
     },
     {
       "city": "samsun",
@@ -63,16 +57,22 @@
       "count": 6
     },
     {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
+    },
+    {
+      "city": "kocaeli",
+      "cityName": "Kocaeli",
+      "cityId": 41,
+      "count": 23
+    },
+    {
       "city": "istanbul",
       "cityName": "İstanbul",
       "cityId": 34,
       "count": 131
-    }
-  ],
-  "errors": [
-    {
-      "city": "gaziantep",
-      "error": "HTTP 503 from https://www.gaziantep.bel.tr/tr/nobetci-eczaneler"
     }
   ]
 }
