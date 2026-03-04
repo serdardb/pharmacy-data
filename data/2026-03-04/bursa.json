@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-04",
-  "updatedAt": "2026-03-04T14:00:51.240Z",
+  "updatedAt": "2026-03-04T14:30:45.152Z",
   "count": 36,
   "pharmacies": [
     {
@@ -212,18 +212,6 @@
     },
     {
       "id": "bursa-17",
-      "name": "EMİN ECZANESİ",
-      "address": "DR.ZİYA KAYA MAH. İSTİKLAL CAD. NO:86/1-A,  (ESKİ DİŞ HASTANESİ KARŞISI) ,  0224 514 85 65",
-      "phone": "02245148565",
-      "district": "GEMLİK",
-      "city": "Bursa",
-      "latitude": 40.425312,
-      "longitude": 29.15558999999996,
-      "dutyStart": "2026-03-04T18:30:00.000Z",
-      "dutyEnd": "2026-03-05T00:00:00.000Z"
-    },
-    {
-      "id": "bursa-18",
       "name": "TUĞBA ECZANESİ",
       "address": "EŞREF DİNÇER MAH. IRMAK SOK. NO:289,  (YENİ GEMLİK DEVLET HASTANESİ YOLU ÜZERİ) ,  0224-5130465",
       "phone": "02245130465",
@@ -233,6 +221,18 @@
       "longitude": 29.179243892033355,
       "dutyStart": "2026-03-04T18:30:00.000Z",
       "dutyEnd": "2026-03-05T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-18",
+      "name": "EMİN ECZANESİ",
+      "address": "DR.ZİYA KAYA MAH. İSTİKLAL CAD. NO:86/1-A,  (ESKİ DİŞ HASTANESİ KARŞISI) ,  0224 514 85 65",
+      "phone": "02245148565",
+      "district": "GEMLİK",
+      "city": "Bursa",
+      "latitude": 40.425312,
+      "longitude": 29.15558999999996,
+      "dutyStart": "2026-03-04T18:30:00.000Z",
+      "dutyEnd": "2026-03-05T00:00:00.000Z"
     },
     {
       "id": "bursa-19",
