@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-04",
-  "updatedAt": "2026-03-04T10:00:46.432Z",
+  "updatedAt": "2026-03-04T11:00:53.840Z",
   "count": 131,
   "pharmacies": [
     {
@@ -451,18 +451,6 @@
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
     {
-      "id": "istanbul-19916",
-      "name": "GÜL ECZANESİ",
-      "address": "İçmeler Mahallesi, Ankara Caddesi, 2/D",
-      "phone": "+902164944698",
-      "district": "TUZLA",
-      "city": "İstanbul",
-      "latitude": 40.84699599970568,
-      "longitude": 29.301715000565164,
-      "dutyStart": "2026-03-03T21:00:00.000Z",
-      "dutyEnd": "2026-03-04T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28522",
       "name": "GÜL ECZANESİ",
       "address": "Göktürk Merkez Mahallesi, Belediye Caddesi, 10C",
@@ -471,6 +459,18 @@
       "city": "İstanbul",
       "latitude": 41.1791334332837,
       "longitude": 28.8881528376707,
+      "dutyStart": "2026-03-03T21:00:00.000Z",
+      "dutyEnd": "2026-03-04T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-19916",
+      "name": "GÜL ECZANESİ",
+      "address": "İçmeler Mahallesi, Ankara Caddesi, 2/D",
+      "phone": "+902164944698",
+      "district": "TUZLA",
+      "city": "İstanbul",
+      "latitude": 40.84699599970568,
+      "longitude": 29.301715000565164,
       "dutyStart": "2026-03-03T21:00:00.000Z",
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
@@ -535,18 +535,6 @@
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
     {
-      "id": "istanbul-19646",
-      "name": "GÜNGÖR ECZANESİ",
-      "address": "Şirinevler Mahallesi, Gaziler Sokak, 6/B",
-      "phone": "+902124518010",
-      "district": "BAHÇELİEVLER",
-      "city": "İstanbul",
-      "latitude": 41.00315771427743,
-      "longitude": 28.842752478287657,
-      "dutyStart": "2026-03-03T21:00:00.000Z",
-      "dutyEnd": "2026-03-04T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28456",
       "name": "GÜNGÖR ECZANESİ",
       "address": "19 Mayıs Mahallesi, Okur Sokak, 19A",
@@ -555,6 +543,18 @@
       "city": "İstanbul",
       "latitude": 40.977584574088695,
       "longitude": 29.093282819344477,
+      "dutyStart": "2026-03-03T21:00:00.000Z",
+      "dutyEnd": "2026-03-04T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-19646",
+      "name": "GÜNGÖR ECZANESİ",
+      "address": "Şirinevler Mahallesi, Gaziler Sokak, 6/B",
+      "phone": "+902124518010",
+      "district": "BAHÇELİEVLER",
+      "city": "İstanbul",
+      "latitude": 41.00315771427743,
+      "longitude": 28.842752478287657,
       "dutyStart": "2026-03-03T21:00:00.000Z",
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
@@ -823,18 +823,6 @@
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
     {
-      "id": "istanbul-38914",
-      "name": "NUR ECZANESİ",
-      "address": "Orta Mahallesi, Yalnız Selvi Caddesi, 16A",
-      "phone": "+905559972025",
-      "district": "KARTAL",
-      "city": "İstanbul",
-      "latitude": 40.912854175956156,
-      "longitude": 29.20982158382662,
-      "dutyStart": "2026-03-03T21:00:00.000Z",
-      "dutyEnd": "2026-03-04T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-32082",
       "name": "NUR ECZANESİ",
       "address": "Anadolu Mahallesi, Hoca Ahmet Yesevi Caddesi, 151/A",
@@ -843,6 +831,18 @@
       "city": "İstanbul",
       "latitude": 41.18822200038444,
       "longitude": 28.75313199983883,
+      "dutyStart": "2026-03-03T21:00:00.000Z",
+      "dutyEnd": "2026-03-04T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-38914",
+      "name": "NUR ECZANESİ",
+      "address": "Orta Mahallesi, Yalnız Selvi Caddesi, 16A",
+      "phone": "+905559972025",
+      "district": "KARTAL",
+      "city": "İstanbul",
+      "latitude": 40.912854175956156,
+      "longitude": 29.20982158382662,
       "dutyStart": "2026-03-03T21:00:00.000Z",
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
@@ -1279,18 +1279,6 @@
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11054",
-      "name": "YILMAZ ECZANESİ",
-      "address": "Silivrikapı Mahallesi, Koca Mustafapaşa Caddesi, 224",
-      "phone": "+902125854627",
-      "district": "FATİH",
-      "city": "İstanbul",
-      "latitude": 41.00367400281657,
-      "longitude": 28.929727000031356,
-      "dutyStart": "2026-03-03T21:00:00.000Z",
-      "dutyEnd": "2026-03-04T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29718",
       "name": "YILMAZ ECZANESİ",
       "address": "Selahaddin Eyyubi Mahallesi, 1551. Sokak, 52/A",
@@ -1299,6 +1287,18 @@
       "city": "İstanbul",
       "latitude": 41.04619168078185,
       "longitude": 28.66157760908698,
+      "dutyStart": "2026-03-03T21:00:00.000Z",
+      "dutyEnd": "2026-03-04T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11054",
+      "name": "YILMAZ ECZANESİ",
+      "address": "Silivrikapı Mahallesi, Koca Mustafapaşa Caddesi, 224",
+      "phone": "+902125854627",
+      "district": "FATİH",
+      "city": "İstanbul",
+      "latitude": 41.00367400281657,
+      "longitude": 28.929727000031356,
       "dutyStart": "2026-03-03T21:00:00.000Z",
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
