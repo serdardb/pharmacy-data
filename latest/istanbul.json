@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-04",
-  "updatedAt": "2026-03-04T04:00:50.822Z",
+  "updatedAt": "2026-03-04T04:30:47.626Z",
   "count": 131,
   "pharmacies": [
     {
@@ -1279,18 +1279,6 @@
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
     {
-      "id": "istanbul-11054",
-      "name": "YILMAZ ECZANESİ",
-      "address": "Silivrikapı Mahallesi, Koca Mustafapaşa Caddesi, 224",
-      "phone": "+902125854627",
-      "district": "FATİH",
-      "city": "İstanbul",
-      "latitude": 41.00367400281657,
-      "longitude": 28.929727000031356,
-      "dutyStart": "2026-03-03T21:00:00.000Z",
-      "dutyEnd": "2026-03-04T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29718",
       "name": "YILMAZ ECZANESİ",
       "address": "Selahaddin Eyyubi Mahallesi, 1551. Sokak, 52/A",
@@ -1299,6 +1287,18 @@
       "city": "İstanbul",
       "latitude": 41.04619168078185,
       "longitude": 28.66157760908698,
+      "dutyStart": "2026-03-03T21:00:00.000Z",
+      "dutyEnd": "2026-03-04T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-11054",
+      "name": "YILMAZ ECZANESİ",
+      "address": "Silivrikapı Mahallesi, Koca Mustafapaşa Caddesi, 224",
+      "phone": "+902125854627",
+      "district": "FATİH",
+      "city": "İstanbul",
+      "latitude": 41.00367400281657,
+      "longitude": 28.929727000031356,
       "dutyStart": "2026-03-03T21:00:00.000Z",
       "dutyEnd": "2026-03-04T20:59:59.000Z"
     },
