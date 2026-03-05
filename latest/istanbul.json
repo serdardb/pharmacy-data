@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-05",
-  "updatedAt": "2026-03-05T05:00:45.459Z",
+  "updatedAt": "2026-03-05T05:30:44.933Z",
   "count": 133,
   "pharmacies": [
     {
@@ -595,18 +595,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-13762",
-      "name": "HAYAT ECZANESİ",
-      "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
-      "phone": "+902163519907",
-      "district": "ADALAR",
-      "city": "İstanbul",
-      "latitude": 40.87805005093138,
-      "longitude": 29.099723346130244,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-27240",
       "name": "HAYAT ECZANESİ",
       "address": "Alibeyköy Merkez Mahallesi, Namık Kemal Caddesi, 81-83C",
@@ -615,6 +603,18 @@
       "city": "İstanbul",
       "latitude": 41.076724714120644,
       "longitude": 28.943565934550506,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-13762",
+      "name": "HAYAT ECZANESİ",
+      "address": "Heybeliada Mahallesi, Ayyıldız Caddesi, 43",
+      "phone": "+902163519907",
+      "district": "ADALAR",
+      "city": "İstanbul",
+      "latitude": 40.87805005093138,
+      "longitude": 29.099723346130244,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
@@ -727,18 +727,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-35616",
-      "name": "LİLYUM ECZANESİ",
-      "address": "Barış Mahallesi, Necip Fazıl Kısakürek Sokak, No:1E/23",
-      "phone": "+902128905136",
-      "district": "BEYLİKDÜZÜ",
-      "city": "İstanbul",
-      "latitude": 41.00935999978791,
-      "longitude": 28.654029999883534,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-31756",
       "name": "LİLYUM ECZANESİ",
       "address": "Atalar Mahallesi, Halit Paşa Caddesi, 80-82B",
@@ -747,6 +735,18 @@
       "city": "İstanbul",
       "latitude": 40.902159999814785,
       "longitude": 29.17315700042367,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-35616",
+      "name": "LİLYUM ECZANESİ",
+      "address": "Barış Mahallesi, Necip Fazıl Kısakürek Sokak, No:1E/23",
+      "phone": "+902128905136",
+      "district": "BEYLİKDÜZÜ",
+      "city": "İstanbul",
+      "latitude": 41.00935999978791,
+      "longitude": 28.654029999883534,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
@@ -847,18 +847,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29344",
-      "name": "MEYDAN ECZANESİ",
-      "address": "Arnavutköy Merkez Mahallesi, Nenehatun Caddesi, 8A",
-      "phone": "+902125974383",
-      "district": "ARNAVUTKÖY",
-      "city": "İstanbul",
-      "latitude": 41.182691000127484,
-      "longitude": 28.739539999712765,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-28436",
       "name": "MEYDAN ECZANESİ",
       "address": "Nine Hatun Mahallesi, İnönü Caddesi, 19C",
@@ -867,6 +855,18 @@
       "city": "İstanbul",
       "latitude": 41.03799279326678,
       "longitude": 28.881096790855835,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29344",
+      "name": "MEYDAN ECZANESİ",
+      "address": "Arnavutköy Merkez Mahallesi, Nenehatun Caddesi, 8A",
+      "phone": "+902125974383",
+      "district": "ARNAVUTKÖY",
+      "city": "İstanbul",
+      "latitude": 41.182691000127484,
+      "longitude": 28.739539999712765,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
@@ -1267,18 +1267,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-22102",
-      "name": "YAŞAM ECZANESİ",
-      "address": "Yayla Mahallesi, Şinasi Dural Caddesi, 31/A",
-      "phone": "+902164464605",
-      "district": "TUZLA",
-      "city": "İstanbul",
-      "latitude": 40.83156557919431,
-      "longitude": 29.305687321745214,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-19076",
       "name": "YAŞAM ECZANESİ",
       "address": "Mevlana Mahallesi, Türkiş B Blk. 7293. Sokak, 1",
@@ -1287,6 +1275,18 @@
       "city": "İstanbul",
       "latitude": 40.98936903303123,
       "longitude": 29.152117943448978,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-22102",
+      "name": "YAŞAM ECZANESİ",
+      "address": "Yayla Mahallesi, Şinasi Dural Caddesi, 31/A",
+      "phone": "+902164464605",
+      "district": "TUZLA",
+      "city": "İstanbul",
+      "latitude": 40.83156557919431,
+      "longitude": 29.305687321745214,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
@@ -1567,18 +1567,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-31222",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Dumlupınar Mahallesi, Mektep Sokak, 16/D",
-      "phone": "+902165045453",
-      "district": "KADIKÖY",
-      "city": "İstanbul",
-      "latitude": 40.98922573143077,
-      "longitude": 29.05876055434932,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-8976",
       "name": "ŞİFA ECZANESİ",
       "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
@@ -1587,6 +1575,18 @@
       "city": "İstanbul",
       "latitude": 41.139166752321906,
       "longitude": 29.85684207593813,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-31222",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Dumlupınar Mahallesi, Mektep Sokak, 16/D",
+      "phone": "+902165045453",
+      "district": "KADIKÖY",
+      "city": "İstanbul",
+      "latitude": 40.98922573143077,
+      "longitude": 29.05876055434932,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
