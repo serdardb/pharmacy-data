@@ -1,24 +1,12 @@
 {
-  "updatedAt": "2026-03-05T06:30:42.671Z",
+  "updatedAt": "2026-03-05T07:00:42.834Z",
   "date": "2026-03-05",
   "cities": [
-    {
-      "city": "antalya",
-      "cityName": "Antalya",
-      "cityId": 7,
-      "count": 39
-    },
     {
       "city": "ankara",
       "cityName": "Ankara",
       "cityId": 6,
       "count": 61
-    },
-    {
-      "city": "konya",
-      "cityName": "Konya",
-      "cityId": 42,
-      "count": 32
     },
     {
       "city": "bursa",
@@ -27,22 +15,28 @@
       "count": 35
     },
     {
+      "city": "konya",
+      "cityName": "Konya",
+      "cityId": 42,
+      "count": 32
+    },
+    {
       "city": "adana",
       "cityName": "Adana",
       "cityId": 1,
       "count": 34
     },
     {
-      "city": "kocaeli",
-      "cityName": "Kocaeli",
-      "cityId": 41,
-      "count": 23
+      "city": "izmir",
+      "cityName": "İzmir",
+      "cityId": 35,
+      "count": 73
     },
     {
-      "city": "gaziantep",
-      "cityName": "Gaziantep",
-      "cityId": 27,
-      "count": 21
+      "city": "antalya",
+      "cityName": "Antalya",
+      "cityId": 7,
+      "count": 39
     },
     {
       "city": "mersin",
@@ -51,10 +45,10 @@
       "count": 23
     },
     {
-      "city": "izmir",
-      "cityName": "İzmir",
-      "cityId": 35,
-      "count": 73
+      "city": "kocaeli",
+      "cityName": "Kocaeli",
+      "cityId": 41,
+      "count": 23
     },
     {
       "city": "samsun",
@@ -67,6 +61,12 @@
       "cityName": "Sinop",
       "cityId": 57,
       "count": 6
+    },
+    {
+      "city": "gaziantep",
+      "cityName": "Gaziantep",
+      "cityId": 27,
+      "count": 21
     },
     {
       "city": "istanbul",
