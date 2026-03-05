@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-05",
-  "updatedAt": "2026-03-05T04:00:52.734Z",
+  "updatedAt": "2026-03-05T04:30:47.725Z",
   "count": 32,
   "pharmacies": [
     {
@@ -80,18 +80,6 @@
     },
     {
       "id": "bursa-6",
-      "name": "FAHRİYE ECZANESİ",
-      "address": "ÇİRİŞHANE MAH. DR.SADIK AHMET CAD. NO:358/A,  (ETİBANK DOLMUŞ DURAĞI YANI) ,  0224 254 07 83",
-      "phone": "02242540783",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.2023,
-      "longitude": 29.049049,
-      "dutyStart": "2026-03-04T18:30:00.000Z",
-      "dutyEnd": "2026-03-05T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
       "name": "GÖKÇEN ECZANESİ",
       "address": "HAMİTLER MAH. 1.FATİH CAD. NO:23/A,  (HAMİTLER YENİ KAPALI PAZAR KARŞISI) ,  0536 951 91 95",
       "phone": "05369519195",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-03-05T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-7",
       "name": "SAKARYA ECZANESİ",
       "address": "SAKARYA MAH. UĞURLU SOK. NO:9/A,  (ULUYOL SAKARYA ASM VE CAMİ KARŞISI) ,  0224 251 85 92 / 0224 272 16 54",
       "phone": "02242518592",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-03-05T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-8",
       "name": "GEÇİT ÖZEL ECZANESİ",
       "address": "GEÇİT MAH. GÜRBÜZ SOK. BELEN-1 SİTESİ NO:59/A-1,  (GEÇİT ÖZDİLEK ARKA ÇIKIŞ KAPISI KARŞISI) ,  0224 244 70 77",
       "phone": "02242447077",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-03-05T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-9",
       "name": "CÖMERT ECZANESİ",
       "address": "KÜKÜRTLÜ MAH. KÜKÜRTLÜ CAD. NO:28/C,  (KÜKÜRTLÜ TİCARET VE SANAYİ ODASI ORTAOKULU KARŞISI) ,  0224 242 32 92",
       "phone": "02242423292",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-03-05T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-10",
       "name": "ALTINOLUK ECZANESİ",
       "address": "BAŞARAN MAH. 3.BAŞARAN SOK. NO:4,  (BAŞARAN SAĞLIK OCAĞI YANI) ,  0224 272 11 77",
       "phone": "02242721177",
@@ -147,6 +135,18 @@
       "city": "Bursa",
       "latitude": 40.20964813062368,
       "longitude": 29.072735072160313,
+      "dutyStart": "2026-03-04T18:30:00.000Z",
+      "dutyEnd": "2026-03-05T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "FAHRİYE ECZANESİ",
+      "address": "ÇİRİŞHANE MAH. DR.SADIK AHMET CAD. NO:358/A,  (ETİBANK DOLMUŞ DURAĞI YANI) ,  0224 254 07 83",
+      "phone": "02242540783",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.2023,
+      "longitude": 29.049049,
       "dutyStart": "2026-03-04T18:30:00.000Z",
       "dutyEnd": "2026-03-05T08:30:00.000Z"
     },
