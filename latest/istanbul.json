@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-05",
-  "updatedAt": "2026-03-05T00:00:45.527Z",
+  "updatedAt": "2026-03-05T00:30:42.141Z",
   "count": 133,
   "pharmacies": [
     {
@@ -391,18 +391,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29696",
-      "name": "EMEK ECZANESİ",
-      "address": "Ortaçeşme Mahallesi, Çayır Caddesi, 204/A",
-      "phone": "+902163234441",
-      "district": "BEYKOZ",
-      "city": "İstanbul",
-      "latitude": 41.14716338005208,
-      "longitude": 29.087340261858763,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25324",
       "name": "EMEK ECZANESİ",
       "address": "Emek Mahallesi, Fatih Caddesi, 21/B",
@@ -411,6 +399,18 @@
       "city": "İstanbul",
       "latitude": 41.00286101495404,
       "longitude": 29.19679432407578,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29696",
+      "name": "EMEK ECZANESİ",
+      "address": "Ortaçeşme Mahallesi, Çayır Caddesi, 204/A",
+      "phone": "+902163234441",
+      "district": "BEYKOZ",
+      "city": "İstanbul",
+      "latitude": 41.14716338005208,
+      "longitude": 29.087340261858763,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
@@ -799,18 +799,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-23162",
-      "name": "MAYA ECZANESİ",
-      "address": "Barbaros Mahallesi, Şebboy Sokak, 1G1D",
-      "phone": "+902165101050",
-      "district": "ATAŞEHİR",
-      "city": "İstanbul",
-      "latitude": 40.99842992371718,
-      "longitude": 29.100533906961463,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-30574",
       "name": "MAYA ECZANESİ",
       "address": "Yunus Emre Mahallesi, Lutfu Aykac Bulvarı, No:80H Kat:Zemin Bağımsız Bölüm No:7",
@@ -819,6 +807,18 @@
       "city": "İstanbul",
       "latitude": 41.092450995228226,
       "longitude": 28.90561639578607,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-23162",
+      "name": "MAYA ECZANESİ",
+      "address": "Barbaros Mahallesi, Şebboy Sokak, 1G1D",
+      "phone": "+902165101050",
+      "district": "ATAŞEHİR",
+      "city": "İstanbul",
+      "latitude": 40.99842992371718,
+      "longitude": 29.100533906961463,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
@@ -1567,18 +1567,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-8976",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
-      "phone": "+902167218169",
-      "district": "ŞİLE",
-      "city": "İstanbul",
-      "latitude": 41.139166752321906,
-      "longitude": 29.85684207593813,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-31222",
       "name": "ŞİFA ECZANESİ",
       "address": "Dumlupınar Mahallesi, Mektep Sokak, 16/D",
@@ -1587,6 +1575,18 @@
       "city": "İstanbul",
       "latitude": 40.98922573143077,
       "longitude": 29.05876055434932,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-8976",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Ağva Merkez Mahallesi, Yakuplu Caddesi, 7",
+      "phone": "+902167218169",
+      "district": "ŞİLE",
+      "city": "İstanbul",
+      "latitude": 41.139166752321906,
+      "longitude": 29.85684207593813,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
