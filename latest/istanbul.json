@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-05",
-  "updatedAt": "2026-03-05T02:00:45.236Z",
+  "updatedAt": "2026-03-05T02:30:44.634Z",
   "count": 133,
   "pharmacies": [
     {
@@ -367,18 +367,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-17370",
-      "name": "ELİF ECZANESİ",
-      "address": "Cerrahpaşa Mahallesi, Koca Mustafapaşa Caddesi, 80A",
-      "phone": "+902126336119",
-      "district": "FATİH",
-      "city": "İstanbul",
-      "latitude": 41.00631899978226,
-      "longitude": 28.93937999984443,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-29100",
       "name": "ELİF ECZANESİ",
       "address": "Cebeci Mahallesi, Canakkale Sehıtlerı Caddesi, 7/A",
@@ -391,14 +379,14 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-29696",
-      "name": "EMEK ECZANESİ",
-      "address": "Ortaçeşme Mahallesi, Çayır Caddesi, 204/A",
-      "phone": "+902163234441",
-      "district": "BEYKOZ",
+      "id": "istanbul-17370",
+      "name": "ELİF ECZANESİ",
+      "address": "Cerrahpaşa Mahallesi, Koca Mustafapaşa Caddesi, 80A",
+      "phone": "+902126336119",
+      "district": "FATİH",
       "city": "İstanbul",
-      "latitude": 41.14716338005208,
-      "longitude": 29.087340261858763,
+      "latitude": 41.00631899978226,
+      "longitude": 28.93937999984443,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
@@ -411,6 +399,18 @@
       "city": "İstanbul",
       "latitude": 41.00286101495404,
       "longitude": 29.19679432407578,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-29696",
+      "name": "EMEK ECZANESİ",
+      "address": "Ortaçeşme Mahallesi, Çayır Caddesi, 204/A",
+      "phone": "+902163234441",
+      "district": "BEYKOZ",
+      "city": "İstanbul",
+      "latitude": 41.14716338005208,
+      "longitude": 29.087340261858763,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
@@ -799,18 +799,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-30574",
-      "name": "MAYA ECZANESİ",
-      "address": "Yunus Emre Mahallesi, Lutfu Aykac Bulvarı, No:80H Kat:Zemin Bağımsız Bölüm No:7",
-      "phone": "+902128018342",
-      "district": "SULTANGAZİ",
-      "city": "İstanbul",
-      "latitude": 41.092450995228226,
-      "longitude": 28.90561639578607,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-23162",
       "name": "MAYA ECZANESİ",
       "address": "Barbaros Mahallesi, Şebboy Sokak, 1G1D",
@@ -819,6 +807,18 @@
       "city": "İstanbul",
       "latitude": 40.99842992371718,
       "longitude": 29.100533906961463,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-30574",
+      "name": "MAYA ECZANESİ",
+      "address": "Yunus Emre Mahallesi, Lutfu Aykac Bulvarı, No:80H Kat:Zemin Bağımsız Bölüm No:7",
+      "phone": "+902128018342",
+      "district": "SULTANGAZİ",
+      "city": "İstanbul",
+      "latitude": 41.092450995228226,
+      "longitude": 28.90561639578607,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
@@ -1267,18 +1267,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-19076",
-      "name": "YAŞAM ECZANESİ",
-      "address": "Mevlana Mahallesi, Türkiş B Blk. 7293. Sokak, 1",
-      "phone": "+902163640402",
-      "district": "ATAŞEHİR",
-      "city": "İstanbul",
-      "latitude": 40.98936903303123,
-      "longitude": 29.152117943448978,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-22102",
       "name": "YAŞAM ECZANESİ",
       "address": "Yayla Mahallesi, Şinasi Dural Caddesi, 31/A",
@@ -1287,6 +1275,18 @@
       "city": "İstanbul",
       "latitude": 40.83156557919431,
       "longitude": 29.305687321745214,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-19076",
+      "name": "YAŞAM ECZANESİ",
+      "address": "Mevlana Mahallesi, Türkiş B Blk. 7293. Sokak, 1",
+      "phone": "+902163640402",
+      "district": "ATAŞEHİR",
+      "city": "İstanbul",
+      "latitude": 40.98936903303123,
+      "longitude": 29.152117943448978,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
@@ -1435,18 +1435,6 @@
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21572",
-      "name": "ÇINAR ECZANESİ",
-      "address": "Türkoba Mahallesi, Atatürk Caddesi, 247/B",
-      "phone": "+902128590710",
-      "district": "BÜYÜKÇEKMECE",
-      "city": "İstanbul",
-      "latitude": 41.03383983802346,
-      "longitude": 28.52220334580865,
-      "dutyStart": "2026-03-04T21:00:00.000Z",
-      "dutyEnd": "2026-03-05T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-25266",
       "name": "ÇINAR ECZANESİ",
       "address": "İçmeler Mahallesi, Zinnur Sokak, 3/7",
@@ -1455,6 +1443,18 @@
       "city": "İstanbul",
       "latitude": 40.8460922924991,
       "longitude": 29.300956848550513,
+      "dutyStart": "2026-03-04T21:00:00.000Z",
+      "dutyEnd": "2026-03-05T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21572",
+      "name": "ÇINAR ECZANESİ",
+      "address": "Türkoba Mahallesi, Atatürk Caddesi, 247/B",
+      "phone": "+902128590710",
+      "district": "BÜYÜKÇEKMECE",
+      "city": "İstanbul",
+      "latitude": 41.03383983802346,
+      "longitude": 28.52220334580865,
       "dutyStart": "2026-03-04T21:00:00.000Z",
       "dutyEnd": "2026-03-05T20:59:59.000Z"
     },
