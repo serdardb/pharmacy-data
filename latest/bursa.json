@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-05",
-  "updatedAt": "2026-03-05T07:00:42.834Z",
+  "updatedAt": "2026-03-05T07:30:42.533Z",
   "count": 35,
   "pharmacies": [
     {
@@ -200,18 +200,6 @@
     },
     {
       "id": "bursa-16",
-      "name": "DENİZYILDIZI ECZANESİ",
-      "address": "DEMİRSUBAŞI MAH. SEMERCİLER YOKUŞU NO:18/A ,  0224 512 00 63 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02245120063",
-      "district": "GEMLİK",
-      "city": "Bursa",
-      "latitude": 40.432348,
-      "longitude": 29.154517,
-      "dutyStart": "2026-03-05T18:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-17",
       "name": "ALTUNİZADE ECZANESİ",
       "address": "BALIKPAZARI MAH. YEDİEVLER SOK. NO:59/A,  (ATATÜRK İLKOKULU YANI) ,  0555 768 16 16",
       "phone": "05557681616",
@@ -221,6 +209,18 @@
       "longitude": 29.154011,
       "dutyStart": "2026-03-05T18:30:00.000Z",
       "dutyEnd": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "bursa-17",
+      "name": "DENİZYILDIZI ECZANESİ",
+      "address": "DEMİRSUBAŞI MAH. SEMERCİLER YOKUŞU NO:18/A ,  0224 512 00 63 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02245120063",
+      "district": "GEMLİK",
+      "city": "Bursa",
+      "latitude": 40.432348,
+      "longitude": 29.154517,
+      "dutyStart": "2026-03-05T18:30:00.000Z",
+      "dutyEnd": "2026-03-06T08:30:00.000Z"
     },
     {
       "id": "bursa-18",
