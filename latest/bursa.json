@@ -3,8 +3,8 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-06",
-  "updatedAt": "2026-03-06T04:30:52.980Z",
-  "count": 31,
+  "updatedAt": "2026-03-06T05:00:52.984Z",
+  "count": 30,
   "pharmacies": [
     {
       "id": "bursa-0",
@@ -80,18 +80,6 @@
     },
     {
       "id": "bursa-6",
-      "name": "OĞUZ ECZANESİ",
-      "address": "ALACAHIRKA MAH. ORHANELİ CAD. NO:1/A,  (1 NOLU ALACAHIRKA AİLE SAĞLIĞI MERKEZİ KARŞISI) ,  0224 225 01 16",
-      "phone": "02242250116",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.18303736176448,
-      "longitude": 29.0468430519104,
-      "dutyStart": "2026-03-05T18:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
       "name": "SEHERKENT ECZANESİ",
       "address": "ÇIRPAN MAH. GÜÇLÜ SOK. NO:3/A,  (OSMANGAZİ METRO İSTASYONU ÜSTÜ) ,  0224 271 32 13",
       "phone": "02242713213",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-03-06T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-7",
       "name": "DEMİRCAN ECZANESİ",
       "address": "GEÇİT MAH. 3.BAĞ SOK. NO:12/A,  (GEÇİT ASM YANI - GEÇİT CAMİ ARKASI) ,  0224 244 72 31",
       "phone": "02242447231",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-03-06T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-8",
       "name": "AKPINAR ECZANESİ",
       "address": "AKPINAR MAH. HANCI CAD. NO:25/1,  (MAL HATUN CAMİ ALTI) ,  0224 242 89 11",
       "phone": "02242428911",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-03-06T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-9",
       "name": "KÜKÜRTLÜ DOĞA ECZANESİ",
       "address": "KÜKÜRTLÜ MAH. BAŞARAN SOK. NO:3/A,  (PEMBE ÇARŞI KARŞISI) ,  0224-2322127 / 5532296637",
       "phone": "02242322127",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-03-06T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-10",
       "name": "ÇELİK ECZANESİ",
       "address": "YEŞİLOVA MAH. 22.ÇEŞME SOK. NO:34,  (YEŞİLOVA SAĞLIK OCAĞI YANI) ,  0224-2516102",
       "phone": "02242516102",
@@ -147,6 +135,18 @@
       "city": "Bursa",
       "latitude": 40.211585,
       "longitude": 29.066753000000062,
+      "dutyStart": "2026-03-05T18:30:00.000Z",
+      "dutyEnd": "2026-03-06T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-11",
+      "name": "OĞUZ ECZANESİ",
+      "address": "ALACAHIRKA MAH. ORHANELİ CAD. NO:1/A,  (1 NOLU ALACAHIRKA AİLE SAĞLIĞI MERKEZİ KARŞISI) ,  0224 225 01 16",
+      "phone": "02242250116",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.18303736176448,
+      "longitude": 29.0468430519104,
       "dutyStart": "2026-03-05T18:30:00.000Z",
       "dutyEnd": "2026-03-06T08:30:00.000Z"
     },
@@ -365,18 +365,6 @@
       "longitude": 29.0969014,
       "dutyStart": "2026-03-05T18:30:00.000Z",
       "dutyEnd": "2026-03-06T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-30",
-      "name": "ACAR ECZANESİ",
-      "address": "KURTULUŞ MAH. İZNİK CAD. NO:21 ,  0224 773 05 06 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02247730506",
-      "district": "YENİŞEHİR",
-      "city": "Bursa",
-      "latitude": 40.27516291097589,
-      "longitude": 29.654296338558197,
-      "dutyStart": "2026-03-05T18:00:00.000Z",
-      "dutyEnd": "2026-03-06T08:00:00.000Z"
     }
   ]
 }
