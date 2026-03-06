@@ -3,23 +3,11 @@
   "cityName": "Adana",
   "cityId": 1,
   "date": "2026-03-06",
-  "updatedAt": "2026-03-06T02:00:52.985Z",
+  "updatedAt": "2026-03-06T02:30:52.984Z",
   "count": 34,
   "pharmacies": [
     {
       "id": "adana-0",
-      "name": "ÖZDOĞRU ECZANESİ",
-      "address": "ŞAKİRPAŞA MAHALLESİ ONUR CAD. ÖMÜR TIP MERKEZİ KARŞISI SİVASLI KAHVESİ CİVARI , 03224291110 Harita Konum",
-      "phone": "03224291110",
-      "district": "Seyhan",
-      "city": "Adana",
-      "latitude": 36.98802,
-      "longitude": 35.275037,
-      "dutyStart": "2026-03-06T08:00:00.000Z",
-      "dutyEnd": "2026-03-07T08:00:00.000Z"
-    },
-    {
-      "id": "adana-1",
       "name": "KARDELEN ECZANESİ",
       "address": "İBO OSMAN CAD. SÜMER TAKSİ KARŞISI GÜLEK CAMİ CİVARI , 03222244433 Harita Konum",
       "phone": "03222244433",
@@ -31,7 +19,7 @@
       "dutyEnd": "2026-03-07T08:00:00.000Z"
     },
     {
-      "id": "adana-2",
+      "id": "adana-1",
       "name": "YÜKSEKDAĞ ECZANESİ",
       "address": "YÜREĞİR DEVLET HASTANESİ AKKAPI EK HİZMET BİNASI ACİL ÇIKIŞI ÇAPRAZI , 05070231022 03223616061 Harita Konum",
       "phone": "05070231022",
@@ -43,7 +31,7 @@
       "dutyEnd": "2026-03-07T08:00:00.000Z"
     },
     {
-      "id": "adana-3",
+      "id": "adana-2",
       "name": "KADIOĞLU ECZANESİ",
       "address": "ZİYAPAŞA BULVARI TCDD İŞLETME BİNASI ARKASI CEBESOY İLKÖĞRETİM OKULU SOKAĞI , 03224589075 03224584027 Harita Konum",
       "phone": "03224589075",
@@ -55,7 +43,7 @@
       "dutyEnd": "2026-03-07T08:00:00.000Z"
     },
     {
-      "id": "adana-4",
+      "id": "adana-3",
       "name": "TUFAN GÜVEL ECZANESİ",
       "address": "DENİZLİ İSMETPAŞA MH.51010 SK. NO: 33/A İSMETPAŞA SAĞLIK OCAĞI KARŞISI , 03224316861 Harita Konum",
       "phone": "03224316861",
@@ -67,7 +55,7 @@
       "dutyEnd": "2026-03-07T08:00:00.000Z"
     },
     {
-      "id": "adana-5",
+      "id": "adana-4",
       "name": "FEHİMAN ECZANESİ",
       "address": "ATATÜRK CAD. NO.40 SABANCI KIZ MESLEK LİSESİ CİVARI , 03224578330 05332784883 Harita Konum",
       "phone": "03224578330",
@@ -79,7 +67,7 @@
       "dutyEnd": "2026-03-07T08:00:00.000Z"
     },
     {
-      "id": "adana-6",
+      "id": "adana-5",
       "name": "NUMUNE ŞİFA ECZANESİ",
       "address": "YENİ BARAJ MAH. SEYHAN DEVLET HASTANESİ VE HASTANELER KAVŞAĞI ARASI, CADDE ÜZERİ. ESKİ ASKERİ HASTANE BAHÇESİ KARŞISI , 03222253340 Harita Konum",
       "phone": "03222253340",
@@ -91,7 +79,7 @@
       "dutyEnd": "2026-03-07T08:00:00.000Z"
     },
     {
-      "id": "adana-7",
+      "id": "adana-6",
       "name": "DOĞUŞ ECZANESİ",
       "address": "ESKİ DOĞUMEVİ HASTANESİ BAKIMYURDU CAD. ÜZERİNDEKİ ÇOCUK HASTANESİ KARŞISI NO:90/ B , 03224358384 Harita Konum",
       "phone": "03224358384",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-03-07T08:00:00.000Z"
     },
     {
-      "id": "adana-8",
+      "id": "adana-7",
       "name": "RENGİN ECZANESİ",
       "address": "2000 EVLER MAH. BÜLENT ECEVİT BULVARI ALPTEKİN EKMEKÇİLİK KARŞISI , 03222260227 Harita Konum",
       "phone": "03222260227",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-03-07T08:00:00.000Z"
     },
     {
-      "id": "adana-9",
+      "id": "adana-8",
       "name": "CANBOLAT ECZANESİ",
       "address": "PINAR MAH. ALİ BOZDOĞANOĞLU GROSERİDEN(PINAR ŞUBESİ) TELLİDEREYE ÇIKAN NAZIM HİKMET CADDESİ ÜZERİ USTA ELLER FIRIN KARŞISI(İLÇE SAĞLIK MÜDÜRLÜĞÜ CİVARI) , 03229992542 Harita Konum",
       "phone": "03229992542",
@@ -123,6 +111,18 @@
       "city": "Adana",
       "latitude": 0,
       "longitude": 0,
+      "dutyStart": "2026-03-06T08:00:00.000Z",
+      "dutyEnd": "2026-03-07T08:00:00.000Z"
+    },
+    {
+      "id": "adana-9",
+      "name": "ÖZDOĞRU ECZANESİ",
+      "address": "ŞAKİRPAŞA MAHALLESİ ONUR CAD. ÖMÜR TIP MERKEZİ KARŞISI SİVASLI KAHVESİ CİVARI , 03224291110 Harita Konum",
+      "phone": "03224291110",
+      "district": "Seyhan",
+      "city": "Adana",
+      "latitude": 36.98802,
+      "longitude": 35.275037,
       "dutyStart": "2026-03-06T08:00:00.000Z",
       "dutyEnd": "2026-03-07T08:00:00.000Z"
     },
