@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-06",
-  "updatedAt": "2026-03-06T20:00:11.751Z",
+  "updatedAt": "2026-03-06T20:30:09.143Z",
   "count": 133,
   "pharmacies": [
     {
@@ -1543,30 +1543,6 @@
       "dutyEnd": "2026-03-06T20:59:59.000Z"
     },
     {
-      "id": "istanbul-9200",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Şifa Mahallesi Egemenlik Caddesi 40/A",
-      "phone": "+902164230053",
-      "district": "TUZLA",
-      "city": "İstanbul",
-      "latitude": 40.82875898590278,
-      "longitude": 29.355065609445898,
-      "dutyStart": "2026-03-05T21:00:00.000Z",
-      "dutyEnd": "2026-03-06T20:59:59.000Z"
-    },
-    {
-      "id": "istanbul-18964",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Mahmut Şevket Paşa Mahallesi, Fevzi Çakmak Caddesi, 13/B",
-      "phone": "+902122978531",
-      "district": "ŞİŞLİ",
-      "city": "İstanbul",
-      "latitude": 41.05399058756593,
-      "longitude": 28.96250522312359,
-      "dutyStart": "2026-03-05T21:00:00.000Z",
-      "dutyEnd": "2026-03-06T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-34000",
       "name": "ŞİFA ECZANESİ",
       "address": "Anadolu Mahallesi, Necip Fazıl Caddesi, 3/A",
@@ -1587,6 +1563,30 @@
       "city": "İstanbul",
       "latitude": 40.99476899967879,
       "longitude": 28.840781000597705,
+      "dutyStart": "2026-03-05T21:00:00.000Z",
+      "dutyEnd": "2026-03-06T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-9200",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Şifa Mahallesi Egemenlik Caddesi 40/A",
+      "phone": "+902164230053",
+      "district": "TUZLA",
+      "city": "İstanbul",
+      "latitude": 40.82875898590278,
+      "longitude": 29.355065609445898,
+      "dutyStart": "2026-03-05T21:00:00.000Z",
+      "dutyEnd": "2026-03-06T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-18964",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Mahmut Şevket Paşa Mahallesi, Fevzi Çakmak Caddesi, 13/B",
+      "phone": "+902122978531",
+      "district": "ŞİŞLİ",
+      "city": "İstanbul",
+      "latitude": 41.05399058756593,
+      "longitude": 28.96250522312359,
       "dutyStart": "2026-03-05T21:00:00.000Z",
       "dutyEnd": "2026-03-06T20:59:59.000Z"
     },
