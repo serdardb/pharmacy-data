@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-06",
-  "updatedAt": "2026-03-06T17:30:13.854Z",
+  "updatedAt": "2026-03-06T18:00:19.655Z",
   "count": 35,
   "pharmacies": [
     {
@@ -152,30 +152,6 @@
     },
     {
       "id": "bursa-12",
-      "name": "GÜL ECZANESİ",
-      "address": "SAMANLI MAH. KOCAALİ CAD. NO:106 ,  0224 351 12 62 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02243511262",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.22974812055591,
-      "longitude": 29.12513401637864,
-      "dutyStart": "2026-03-06T18:30:00.000Z",
-      "dutyEnd": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-13",
-      "name": "TÜLAY ECZANESİ",
-      "address": "BAĞLARALTI MAH. A-309 SOK. NO:5/A,  (PAZAR PAZARI-BAĞLARALTI ASM YANI) ,  0224 341 61 62",
-      "phone": "02243416162",
-      "district": "YILDIRIM",
-      "city": "Bursa",
-      "latitude": 40.18436521290417,
-      "longitude": 29.138307720422745,
-      "dutyStart": "2026-03-06T18:30:00.000Z",
-      "dutyEnd": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-14",
       "name": "AHISKA ECZANESİ",
       "address": "SIRACEVİZLER MAH. KURTBASAN CAD. NO:33/A,  (KURTBASAN CAD. ESKİ PTT YERİ) ,  0501 298 16 22",
       "phone": "05012981622",
@@ -187,7 +163,7 @@
       "dutyEnd": "2026-03-07T10:00:00.000Z"
     },
     {
-      "id": "bursa-15",
+      "id": "bursa-13",
       "name": "FURKAN ECZANESİ",
       "address": "ORTABAĞLAR MAH. ÇELİK SOK. NO:4,  (ESKİ FAKÜLTE KARŞISI - GÖZLÜKÇÜLER ÜSTÜ) ,  0224 366 59 31 / 0224366578",
       "phone": "02243665931",
@@ -195,6 +171,30 @@
       "city": "Bursa",
       "latitude": 40.19064398223581,
       "longitude": 29.111188906125562,
+      "dutyStart": "2026-03-06T18:30:00.000Z",
+      "dutyEnd": "2026-03-07T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-14",
+      "name": "GÜL ECZANESİ",
+      "address": "SAMANLI MAH. KOCAALİ CAD. NO:106 ,  0224 351 12 62 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02243511262",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.22974812055591,
+      "longitude": 29.12513401637864,
+      "dutyStart": "2026-03-06T18:30:00.000Z",
+      "dutyEnd": "2026-03-07T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-15",
+      "name": "TÜLAY ECZANESİ",
+      "address": "BAĞLARALTI MAH. A-309 SOK. NO:5/A,  (PAZAR PAZARI-BAĞLARALTI ASM YANI) ,  0224 341 61 62",
+      "phone": "02243416162",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.18436521290417,
+      "longitude": 29.138307720422745,
       "dutyStart": "2026-03-06T18:30:00.000Z",
       "dutyEnd": "2026-03-07T10:00:00.000Z"
     },
@@ -260,18 +260,6 @@
     },
     {
       "id": "bursa-21",
-      "name": "ATMACA ECZANESİ",
-      "address": "MESUDİYE MAH. SEVGİ SOK. NO:4 ,  0224 711 04 24 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02247110424",
-      "district": "İNEGÖL",
-      "city": "Bursa",
-      "latitude": 40.08124837589111,
-      "longitude": 29.53299880027771,
-      "dutyStart": "2026-03-06T18:00:00.000Z",
-      "dutyEnd": "2026-03-07T01:00:00.000Z"
-    },
-    {
-      "id": "bursa-22",
       "name": "TUBA GÜMÜŞ ECZANESİ",
       "address": "BURHANİYE MAH. KEMALETTİN SAMİ PAŞA CAD. NO:33 ,  0224 715 63 68 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02247156368",
@@ -283,7 +271,7 @@
       "dutyEnd": "2026-03-07T10:30:00.000Z"
     },
     {
-      "id": "bursa-23",
+      "id": "bursa-22",
       "name": "ELİF ECZANESİ",
       "address": "HAMİDİYE MAH. KASIMEFENDİ CAD. NO:102-1/A ,  0224 711 24 17 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02247112417",
@@ -291,6 +279,18 @@
       "city": "Bursa",
       "latitude": 40.07331,
       "longitude": 29.51391,
+      "dutyStart": "2026-03-06T18:00:00.000Z",
+      "dutyEnd": "2026-03-07T01:00:00.000Z"
+    },
+    {
+      "id": "bursa-23",
+      "name": "ATMACA ECZANESİ",
+      "address": "MESUDİYE MAH. SEVGİ SOK. NO:4 ,  0224 711 04 24 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02247110424",
+      "district": "İNEGÖL",
+      "city": "Bursa",
+      "latitude": 40.08124837589111,
+      "longitude": 29.53299880027771,
       "dutyStart": "2026-03-06T18:00:00.000Z",
       "dutyEnd": "2026-03-07T01:00:00.000Z"
     },
