@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-06",
-  "updatedAt": "2026-03-06T17:00:13.259Z",
+  "updatedAt": "2026-03-06T17:30:13.854Z",
   "count": 133,
   "pharmacies": [
     {
@@ -1291,18 +1291,6 @@
       "dutyEnd": "2026-03-06T20:59:59.000Z"
     },
     {
-      "id": "istanbul-25998",
-      "name": "TUĞBA ECZANESİ",
-      "address": "Hamidiye Mahallesi, Karaman Sokak, 7A",
-      "phone": "+902122951646",
-      "district": "KAĞITHANE",
-      "city": "İstanbul",
-      "latitude": 41.09440564506929,
-      "longitude": 28.969772488428287,
-      "dutyStart": "2026-03-05T21:00:00.000Z",
-      "dutyEnd": "2026-03-06T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-27004",
       "name": "TUĞBA ECZANESİ",
       "address": "Bağcılar Merkez Mahallesi, İstanbul Caddesi, 46/A",
@@ -1311,6 +1299,18 @@
       "city": "İstanbul",
       "latitude": 41.03362799983366,
       "longitude": 28.862358000016194,
+      "dutyStart": "2026-03-05T21:00:00.000Z",
+      "dutyEnd": "2026-03-06T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-25998",
+      "name": "TUĞBA ECZANESİ",
+      "address": "Hamidiye Mahallesi, Karaman Sokak, 7A",
+      "phone": "+902122951646",
+      "district": "KAĞITHANE",
+      "city": "İstanbul",
+      "latitude": 41.09440564506929,
+      "longitude": 28.969772488428287,
       "dutyStart": "2026-03-05T21:00:00.000Z",
       "dutyEnd": "2026-03-06T20:59:59.000Z"
     },
@@ -1543,30 +1543,6 @@
       "dutyEnd": "2026-03-06T20:59:59.000Z"
     },
     {
-      "id": "istanbul-30034",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Hürriyet Mahallesi, Sedef Sokak, 14C",
-      "phone": "+902124420034",
-      "district": "BAHÇELİEVLER",
-      "city": "İstanbul",
-      "latitude": 40.99476899967879,
-      "longitude": 28.840781000597705,
-      "dutyStart": "2026-03-05T21:00:00.000Z",
-      "dutyEnd": "2026-03-06T20:59:59.000Z"
-    },
-    {
-      "id": "istanbul-34000",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Anadolu Mahallesi, Necip Fazıl Caddesi, 3/A",
-      "phone": "+902125972421",
-      "district": "ARNAVUTKÖY",
-      "city": "İstanbul",
-      "latitude": 41.18448999997214,
-      "longitude": 28.741965999462348,
-      "dutyStart": "2026-03-05T21:00:00.000Z",
-      "dutyEnd": "2026-03-06T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-18964",
       "name": "ŞİFA ECZANESİ",
       "address": "Mahmut Şevket Paşa Mahallesi, Fevzi Çakmak Caddesi, 13/B",
@@ -1587,6 +1563,30 @@
       "city": "İstanbul",
       "latitude": 40.82875898590278,
       "longitude": 29.355065609445898,
+      "dutyStart": "2026-03-05T21:00:00.000Z",
+      "dutyEnd": "2026-03-06T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-30034",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Hürriyet Mahallesi, Sedef Sokak, 14C",
+      "phone": "+902124420034",
+      "district": "BAHÇELİEVLER",
+      "city": "İstanbul",
+      "latitude": 40.99476899967879,
+      "longitude": 28.840781000597705,
+      "dutyStart": "2026-03-05T21:00:00.000Z",
+      "dutyEnd": "2026-03-06T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-34000",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Anadolu Mahallesi, Necip Fazıl Caddesi, 3/A",
+      "phone": "+902125972421",
+      "district": "ARNAVUTKÖY",
+      "city": "İstanbul",
+      "latitude": 41.18448999997214,
+      "longitude": 28.741965999462348,
       "dutyStart": "2026-03-05T21:00:00.000Z",
       "dutyEnd": "2026-03-06T20:59:59.000Z"
     },
