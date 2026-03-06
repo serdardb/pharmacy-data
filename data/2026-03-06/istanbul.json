@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-06",
-  "updatedAt": "2026-03-06T16:00:13.543Z",
+  "updatedAt": "2026-03-06T16:30:14.750Z",
   "count": 133,
   "pharmacies": [
     {
@@ -1543,18 +1543,6 @@
       "dutyEnd": "2026-03-06T20:59:59.000Z"
     },
     {
-      "id": "istanbul-34000",
-      "name": "ŞİFA ECZANESİ",
-      "address": "Anadolu Mahallesi, Necip Fazıl Caddesi, 3/A",
-      "phone": "+902125972421",
-      "district": "ARNAVUTKÖY",
-      "city": "İstanbul",
-      "latitude": 41.18448999997214,
-      "longitude": 28.741965999462348,
-      "dutyStart": "2026-03-05T21:00:00.000Z",
-      "dutyEnd": "2026-03-06T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-30034",
       "name": "ŞİFA ECZANESİ",
       "address": "Hürriyet Mahallesi, Sedef Sokak, 14C",
@@ -1567,14 +1555,14 @@
       "dutyEnd": "2026-03-06T20:59:59.000Z"
     },
     {
-      "id": "istanbul-9200",
+      "id": "istanbul-34000",
       "name": "ŞİFA ECZANESİ",
-      "address": "Şifa Mahallesi Egemenlik Caddesi 40/A",
-      "phone": "+902164230053",
-      "district": "TUZLA",
+      "address": "Anadolu Mahallesi, Necip Fazıl Caddesi, 3/A",
+      "phone": "+902125972421",
+      "district": "ARNAVUTKÖY",
       "city": "İstanbul",
-      "latitude": 40.82875898590278,
-      "longitude": 29.355065609445898,
+      "latitude": 41.18448999997214,
+      "longitude": 28.741965999462348,
       "dutyStart": "2026-03-05T21:00:00.000Z",
       "dutyEnd": "2026-03-06T20:59:59.000Z"
     },
@@ -1587,6 +1575,18 @@
       "city": "İstanbul",
       "latitude": 41.05399058756593,
       "longitude": 28.96250522312359,
+      "dutyStart": "2026-03-05T21:00:00.000Z",
+      "dutyEnd": "2026-03-06T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-9200",
+      "name": "ŞİFA ECZANESİ",
+      "address": "Şifa Mahallesi Egemenlik Caddesi 40/A",
+      "phone": "+902164230053",
+      "district": "TUZLA",
+      "city": "İstanbul",
+      "latitude": 40.82875898590278,
+      "longitude": 29.355065609445898,
       "dutyStart": "2026-03-05T21:00:00.000Z",
       "dutyEnd": "2026-03-06T20:59:59.000Z"
     },
