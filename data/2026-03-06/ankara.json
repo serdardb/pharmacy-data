@@ -3,7 +3,7 @@
   "cityName": "Ankara",
   "cityId": 6,
   "date": "2026-03-06",
-  "updatedAt": "2026-03-06T08:00:53.033Z",
+  "updatedAt": "2026-03-06T08:30:52.982Z",
   "count": 61,
   "pharmacies": [
     {
@@ -201,8 +201,8 @@
     {
       "id": "ankara-16",
       "name": "GÜNAY ECZANESİ",
-      "address": "Ekin Mah. Bostancık Cad. No:232/C (Yeni No:100/A)Hüseyingazi / Mamak/ANKARA (tel:3123753320) , Bostancık Cad.Vestel Bayisi Kar. 03123751002",
-      "phone": "03123751002",
+      "address": "Ekin Mah. Bostancık Cad. No:232/C (Yeni No:100/A)Hüseyingazi / Mamak/ANKARA (tel:3751002)) , Bostancık Cad.Vestel Bayisi Kar. 0312 375 33 20",
+      "phone": "03123753320",
       "district": "Mamak",
       "city": "Ankara",
       "latitude": 39.961659839902,
