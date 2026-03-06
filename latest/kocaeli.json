@@ -3,7 +3,7 @@
   "cityName": "Kocaeli",
   "cityId": 41,
   "date": "2026-03-06",
-  "updatedAt": "2026-03-05T23:30:52.983Z",
+  "updatedAt": "2026-03-06T00:30:52.991Z",
   "count": 20,
   "pharmacies": [
     {
@@ -15,8 +15,8 @@
       "city": "Kocaeli",
       "latitude": 40.764191,
       "longitude": 29.928471,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-1",
@@ -27,8 +27,8 @@
       "city": "Kocaeli",
       "latitude": 40.767692,
       "longitude": 29.946859,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-2",
@@ -39,8 +39,8 @@
       "city": "Kocaeli",
       "latitude": 40.770198,
       "longitude": 29.960642,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-3",
@@ -51,8 +51,8 @@
       "city": "Kocaeli",
       "latitude": 40.764093,
       "longitude": 29.887777,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-4",
@@ -63,8 +63,8 @@
       "city": "Kocaeli",
       "latitude": 40.823133,
       "longitude": 29.926727,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-5",
@@ -75,8 +75,8 @@
       "city": "Kocaeli",
       "latitude": 40.720351,
       "longitude": 29.948794,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-6",
@@ -87,8 +87,8 @@
       "city": "Kocaeli",
       "latitude": 40.817544,
       "longitude": 29.369425,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-7",
@@ -99,8 +99,8 @@
       "city": "Kocaeli",
       "latitude": 40.78953,
       "longitude": 29.366469,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-8",
@@ -111,8 +111,8 @@
       "city": "Kocaeli",
       "latitude": 40.771865,
       "longitude": 29.405452,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-9",
@@ -123,8 +123,8 @@
       "city": "Kocaeli",
       "latitude": 40.784501,
       "longitude": 29.541721,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-10",
@@ -135,8 +135,8 @@
       "city": "Kocaeli",
       "latitude": 40.731515,
       "longitude": 30.04608,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-11",
@@ -147,8 +147,8 @@
       "city": "Kocaeli",
       "latitude": 40.799678,
       "longitude": 29.439747,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-12",
@@ -159,8 +159,8 @@
       "city": "Kocaeli",
       "latitude": 40.803948,
       "longitude": 29.439929,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-13",
@@ -171,8 +171,8 @@
       "city": "Kocaeli",
       "latitude": 40.789148,
       "longitude": 29.420116,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-14",
@@ -183,8 +183,8 @@
       "city": "Kocaeli",
       "latitude": 40.718914,
       "longitude": 29.822356,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-15",
@@ -195,8 +195,8 @@
       "city": "Kocaeli",
       "latitude": 40.720301,
       "longitude": 29.793914,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-16",
@@ -207,8 +207,8 @@
       "city": "Kocaeli",
       "latitude": 41.070302,
       "longitude": 30.152024,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-17",
@@ -219,8 +219,8 @@
       "city": "Kocaeli",
       "latitude": 40.689445,
       "longitude": 29.606726,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-18",
@@ -231,8 +231,8 @@
       "city": "Kocaeli",
       "latitude": 40.762832,
       "longitude": 29.777085,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     },
     {
       "id": "kocaeli-19",
@@ -243,8 +243,8 @@
       "city": "Kocaeli",
       "latitude": 40.757164,
       "longitude": 29.833529,
-      "dutyStart": "2026-03-05T08:30:00.000Z",
-      "dutyEnd": "2026-03-06T08:30:00.000Z"
+      "dutyStart": "2026-03-06T08:30:00.000Z",
+      "dutyEnd": "2026-03-07T08:30:00.000Z"
     }
   ]
 }
