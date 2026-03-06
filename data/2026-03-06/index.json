@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T11:00:52.983Z",
+  "updatedAt": "2026-03-06T11:30:52.982Z",
   "date": "2026-03-06",
   "cities": [
     {
@@ -27,12 +27,6 @@
       "count": 40
     },
     {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 34
-    },
-    {
       "city": "izmir",
       "cityName": "İzmir",
       "cityId": 35,
@@ -49,6 +43,12 @@
       "cityName": "Kocaeli",
       "cityId": 41,
       "count": 24
+    },
+    {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 34
     },
     {
       "city": "samsun",
