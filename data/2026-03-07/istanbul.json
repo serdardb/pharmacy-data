@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-07",
-  "updatedAt": "2026-03-07T12:00:21.094Z",
+  "updatedAt": "2026-03-07T12:30:20.899Z",
   "count": 132,
   "pharmacies": [
     {
@@ -211,18 +211,6 @@
       "dutyEnd": "2026-03-07T20:59:59.000Z"
     },
     {
-      "id": "istanbul-27440",
-      "name": "BURCU ECZANESİ",
-      "address": "Süleymaniye Mahallesi, Ispartakule Caddesi, 91/A",
-      "phone": "+905528576775",
-      "district": "ESENYURT",
-      "city": "İstanbul",
-      "latitude": 41.04440199965013,
-      "longitude": 28.68752799981297,
-      "dutyStart": "2026-03-06T21:00:00.000Z",
-      "dutyEnd": "2026-03-07T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-15122",
       "name": "BURCU ECZANESİ",
       "address": "Çobançeşme Mahallesi, Fatih Caddesi, 103B",
@@ -231,6 +219,18 @@
       "city": "İstanbul",
       "latitude": 41.00733903613065,
       "longitude": 28.830912219850404,
+      "dutyStart": "2026-03-06T21:00:00.000Z",
+      "dutyEnd": "2026-03-07T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-27440",
+      "name": "BURCU ECZANESİ",
+      "address": "Süleymaniye Mahallesi, Ispartakule Caddesi, 91/A",
+      "phone": "+905528576775",
+      "district": "ESENYURT",
+      "city": "İstanbul",
+      "latitude": 41.04440199965013,
+      "longitude": 28.68752799981297,
       "dutyStart": "2026-03-06T21:00:00.000Z",
       "dutyEnd": "2026-03-07T20:59:59.000Z"
     },
@@ -1519,18 +1519,6 @@
       "dutyEnd": "2026-03-07T20:59:59.000Z"
     },
     {
-      "id": "istanbul-22958",
-      "name": "İSTANBUL ECZANESİ",
-      "address": "Hırka-i Şerif Mahallesi, Kocasinan Caddesi, 90/A",
-      "phone": "+902126219227",
-      "district": "FATİH",
-      "city": "İstanbul",
-      "latitude": 41.01985744351712,
-      "longitude": 28.939924340784945,
-      "dutyStart": "2026-03-06T21:00:00.000Z",
-      "dutyEnd": "2026-03-07T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-27286",
       "name": "İSTANBUL ECZANESİ",
       "address": "Yeni Mahallesi, Varnalı Caddesi, 32B",
@@ -1539,6 +1527,18 @@
       "city": "İstanbul",
       "latitude": 41.08631148234861,
       "longitude": 28.2483997128512,
+      "dutyStart": "2026-03-06T21:00:00.000Z",
+      "dutyEnd": "2026-03-07T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-22958",
+      "name": "İSTANBUL ECZANESİ",
+      "address": "Hırka-i Şerif Mahallesi, Kocasinan Caddesi, 90/A",
+      "phone": "+902126219227",
+      "district": "FATİH",
+      "city": "İstanbul",
+      "latitude": 41.01985744351712,
+      "longitude": 28.939924340784945,
       "dutyStart": "2026-03-06T21:00:00.000Z",
       "dutyEnd": "2026-03-07T20:59:59.000Z"
     },
