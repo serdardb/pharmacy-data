@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-07",
-  "updatedAt": "2026-03-07T10:30:21.489Z",
+  "updatedAt": "2026-03-07T11:00:21.594Z",
   "count": 36,
   "pharmacies": [
     {
@@ -260,6 +260,18 @@
     },
     {
       "id": "bursa-21",
+      "name": "ZERRİN ECZANESİ",
+      "address": "HAMİDİYE MAH. ATATÜRK BULVARI HASTANE MEYDANI NO:1/A ,  0224-7111215 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
+      "phone": "02247111215",
+      "district": "İNEGÖL",
+      "city": "Bursa",
+      "latitude": 40.073532,
+      "longitude": 29.51048800000001,
+      "dutyStart": "2026-03-07T17:00:00.000Z",
+      "dutyEnd": "2026-03-08T01:00:00.000Z"
+    },
+    {
+      "id": "bursa-22",
       "name": "YAŞAM ECZANESİ",
       "address": "YENİ MAH. KENT CAD. NO:9/B ALANYURT,  (SGK KAVŞAĞI) ,  0224 719 27 26",
       "phone": "02247192726",
@@ -271,7 +283,7 @@
       "dutyEnd": "2026-03-08T01:00:00.000Z"
     },
     {
-      "id": "bursa-22",
+      "id": "bursa-23",
       "name": "BULVAR ŞİMŞEK ECZANESİ",
       "address": "SÜLEYMANİYE MAH. PARK YOLU CAD. NO:76/A ,  0224 711 45 05 / 0224 715 18 04 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02247114505",
@@ -281,18 +293,6 @@
       "longitude": 29.49717,
       "dutyStart": "2026-03-07T17:00:00.000Z",
       "dutyEnd": "2026-03-08T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-23",
-      "name": "ZERRİN ECZANESİ",
-      "address": "HAMİDİYE MAH. ATATÜRK BULVARI HASTANE MEYDANI NO:1/A ,  0224-7111215 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
-      "phone": "02247111215",
-      "district": "İNEGÖL",
-      "city": "Bursa",
-      "latitude": 40.073532,
-      "longitude": 29.51048800000001,
-      "dutyStart": "2026-03-07T17:00:00.000Z",
-      "dutyEnd": "2026-03-08T01:00:00.000Z"
     },
     {
       "id": "bursa-24",

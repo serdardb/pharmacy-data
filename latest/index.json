@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-07T10:30:21.489Z",
+  "updatedAt": "2026-03-07T11:00:21.594Z",
   "date": "2026-03-07",
   "cities": [
     {
@@ -9,16 +9,16 @@
       "count": 36
     },
     {
-      "city": "konya",
-      "cityName": "Konya",
-      "cityId": 42,
-      "count": 34
-    },
-    {
       "city": "ankara",
       "cityName": "Ankara",
       "cityId": 6,
       "count": 63
+    },
+    {
+      "city": "konya",
+      "cityName": "Konya",
+      "cityId": 42,
+      "count": 34
     },
     {
       "city": "antalya",
@@ -33,12 +33,6 @@
       "count": 72
     },
     {
-      "city": "adana",
-      "cityName": "Adana",
-      "cityId": 1,
-      "count": 36
-    },
-    {
       "city": "mersin",
       "cityName": "Mersin",
       "cityId": 33,
@@ -49,6 +43,12 @@
       "cityName": "Kocaeli",
       "cityId": 41,
       "count": 33
+    },
+    {
+      "city": "adana",
+      "cityName": "Adana",
+      "cityId": 1,
+      "count": 36
     },
     {
       "city": "samsun",
