@@ -3,8 +3,8 @@
   "cityName": "Samsun",
   "cityId": 55,
   "date": "2026-03-07",
-  "updatedAt": "2026-03-07T17:00:16.668Z",
-  "count": 22,
+  "updatedAt": "2026-03-07T17:30:16.367Z",
+  "count": 21,
   "pharmacies": [
     {
       "id": "samsun-0",
@@ -80,18 +80,6 @@
     },
     {
       "id": "samsun-6",
-      "name": "TAFLAN ECZANESİ",
-      "address": "YALI MAH. ATATÜRK BULVARI 8. KISIM NO:67/A",
-      "phone": "03624670268",
-      "district": "Atakum Sayfiye",
-      "city": "Samsun",
-      "latitude": 41.429987,
-      "longitude": 36.151313,
-      "dutyStart": "2026-03-07T08:30:00.000Z",
-      "dutyEnd": "2026-03-08T08:30:00.000Z"
-    },
-    {
-      "id": "samsun-7",
       "name": "TEKKEKÖY  ECZANESİ",
       "address": "19 MAYIS MAH. HACI ALİ EKİNCİ BUL.NO:30/1 A",
       "phone": "03622561166",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-8",
+      "id": "samsun-7",
       "name": "YAVUZ ECZANESİ",
       "address": "YENİCAMİ MAH. ATATÜRK CAD. NI:8/A",
       "phone": "03626213440",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-9",
+      "id": "samsun-8",
       "name": "ASARCIK ECZANESİ",
       "address": "CUMHURİYET MEYDANI. NO:38/B",
       "phone": "03627912784",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-10",
+      "id": "samsun-9",
       "name": "YAŞAM ECZANESİ",
       "address": "EYUP SULTAN MAH. MUSTAFA GÜLER SOK. NO.6",
       "phone": "03628132050",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-11",
+      "id": "samsun-10",
       "name": "DİDEM ECZANESİ",
       "address": "ISMET PASA MAH. HASTANE SOK. NO:30/B",
       "phone": "03625424742",
@@ -151,7 +139,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-12",
+      "id": "samsun-11",
       "name": "BULVAR ECZANESİ",
       "address": "HACI NABİ MAH. BULVAR CAD. NO:24/G",
       "phone": "03625435557",
@@ -163,7 +151,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-13",
+      "id": "samsun-12",
       "name": "AKBULUT ECZANESİ",
       "address": "KIRAZLIK ÇAY MAH. DEGIRMENBASI CAD. NO:43/A",
       "phone": "03628337296",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-14",
+      "id": "samsun-13",
       "name": "YENİ HAVZA ECZANESİ",
       "address": "İCADİYE MAH. KAZIMPAŞA CAD. NO:48/1",
       "phone": "03627141953",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-15",
+      "id": "samsun-14",
       "name": "KUZEY ECZANESİ",
       "address": "SOĞUKSU MAH. 217. SOK. NO. 2/13",
       "phone": "03627412101",
@@ -199,7 +187,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-16",
+      "id": "samsun-15",
       "name": "LADİK MUTLU ECZANESİ",
       "address": "BAHŞİ MAH. GAZİLER CAD.NO:36/C",
       "phone": "03627714534",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-17",
+      "id": "samsun-16",
       "name": "DEVA ECZANESİ",
       "address": "PAZAR MAH.FATİH CAD. NO:51",
       "phone": "03625115051",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-18",
+      "id": "samsun-17",
       "name": "SAĞLIK  ECZANESİ",
       "address": "GÖKÇELİ MAH. ŞEHİT HÜSEYİN ATASEVEN CAD. NO:6/A",
       "phone": "03628213233",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-19",
+      "id": "samsun-18",
       "name": "ANADOLU ECZANESİ",
       "address": "FENK MAH.LİSE CAD. NO:29/A",
       "phone": "03628762203",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-20",
+      "id": "samsun-19",
       "name": "ÖZGÜR ECZANESİ",
       "address": "FAZIL AHMET PAŞA MAH. 121. SOK. NO.66",
       "phone": "03626472050",
@@ -259,7 +247,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "samsun-27",
+      "id": "samsun-26",
       "name": "GİZEM ECZANESİ",
       "address": "GÜZELYURT MAH ERDEMBEY CAD.NO:13/B",
       "phone": "03686712792",

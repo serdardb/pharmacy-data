@@ -3,11 +3,11 @@
   "cityName": "Sinop",
   "cityId": 57,
   "date": "2026-03-07",
-  "updatedAt": "2026-03-07T17:00:16.668Z",
+  "updatedAt": "2026-03-07T17:30:16.367Z",
   "count": 6,
   "pharmacies": [
     {
-      "id": "sinop-21",
+      "id": "sinop-20",
       "name": "YAĞMUR ECZANESİ",
       "address": "YENİ MAH.KEMALETTİN SAMİ PAŞA CAD.NO:6/A",
       "phone": "03682602944",
@@ -19,7 +19,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "sinop-22",
+      "id": "sinop-21",
       "name": "YAVUZ  ECZANESİ",
       "address": "YALI MAH.ATATÜRK CAD. HASTANE SOK. NO:1/A",
       "phone": "03686131311",
@@ -31,7 +31,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "sinop-23",
+      "id": "sinop-22",
       "name": "ELİF ECZANESİ",
       "address": "ÇAMLICA MAH.EROL DEMIRKOL CAD NO:3/F",
       "phone": "03683155882",
@@ -43,7 +43,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "sinop-24",
+      "id": "sinop-23",
       "name": "TEK ECZANESİ",
       "address": "MERKEZ MAH. YUSUF KEMAL TENGİRŞEK CAD. NO:28/A",
       "phone": "03684161152",
@@ -55,7 +55,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "sinop-25",
+      "id": "sinop-24",
       "name": "ŞİFA ECZANESİ",
       "address": "MERKEZ MAH. CUMHURİYET CAD. NO:2",
       "phone": "03685112115",
@@ -67,7 +67,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "sinop-26",
+      "id": "sinop-25",
       "name": "SERAY ECZANESİ",
       "address": "ÇARŞI MAH. CUMHURİYET MEYDANINO:1/A",
       "phone": "03687182020",
