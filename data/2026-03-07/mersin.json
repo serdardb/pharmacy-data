@@ -3,8 +3,8 @@
   "cityName": "Mersin",
   "cityId": 33,
   "date": "2026-03-07",
-  "updatedAt": "2026-03-07T15:30:15.764Z",
-  "count": 25,
+  "updatedAt": "2026-03-07T16:00:17.561Z",
+  "count": 24,
   "pharmacies": [
     {
       "id": "mersin-0",
@@ -188,18 +188,6 @@
     },
     {
       "id": "mersin-15",
-      "name": "GÜVEN ECZANESİ",
-      "address": "ATAKENT MAH. ALPARSLAN TÜRKEŞ (SAZBAŞI) BULV. NO:383 A/18",
-      "phone": "03247225197",
-      "district": "Si̇li̇fke",
-      "city": "Mersin",
-      "latitude": 36.405557,
-      "longitude": 34.070173,
-      "dutyStart": "2026-03-07T08:30:00.000Z",
-      "dutyEnd": "2026-03-08T08:30:00.000Z"
-    },
-    {
-      "id": "mersin-16",
       "name": "TAŞUCU ECZANESİ",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1",
       "phone": "03247414986",
@@ -211,7 +199,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "mersin-17",
+      "id": "mersin-16",
       "name": "ZEYNEL ÇOBAN ECZANESİ",
       "address": "SARICALAR MH. TÜRKMENLİ CD. NO:12/Z01",
       "phone": "03247141200",
@@ -223,7 +211,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "mersin-18",
+      "id": "mersin-17",
       "name": "ÖZTÜRK ECZANESİ",
       "address": "PINARBAŞI MAH. KARACAOĞLAN CAD. NO:13/A",
       "phone": "03247748187",
@@ -235,7 +223,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "mersin-19",
+      "id": "mersin-18",
       "name": "NADİR ECZANESİ",
       "address": "SARAY MAH. AKKAVAK CAD. NO:14/C",
       "phone": "03247512116",
@@ -247,7 +235,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "mersin-20",
+      "id": "mersin-19",
       "name": "ERDEMLİ ECZANESİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR CD. MUSTAFA AKSAY PLAZA NO:86/C",
       "phone": "03245152020",
@@ -259,7 +247,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "mersin-21",
+      "id": "mersin-20",
       "name": "GÜNEŞ ECZANESİ",
       "address": "MERKEZ MH. HOCA AHMET YESEVİ SK. NO:5E",
       "phone": "03245161019",
@@ -271,7 +259,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "mersin-22",
+      "id": "mersin-21",
       "name": "NİL ECZANESİ",
       "address": "MERKEZ MH. SAĞLIK SK. NO:8/7",
       "phone": "03248516988",
@@ -283,7 +271,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "mersin-23",
+      "id": "mersin-22",
       "name": "AYDINCIK ECZANESİ",
       "address": "CUMHURİYET MH. HASTANE CD. NO:7/A",
       "phone": "03248414112",
@@ -295,7 +283,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "mersin-24",
+      "id": "mersin-23",
       "name": "UFUK ECZANESİ",
       "address": "SAGLIK MAH.TAHSIN SOYLU CAD.NO:134",
       "phone": "03248145228",
