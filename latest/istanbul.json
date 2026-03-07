@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-07",
-  "updatedAt": "2026-03-07T14:00:15.966Z",
+  "updatedAt": "2026-03-07T14:30:15.865Z",
   "count": 132,
   "pharmacies": [
     {
@@ -55,18 +55,6 @@
       "dutyEnd": "2026-03-07T20:59:59.000Z"
     },
     {
-      "id": "istanbul-21988",
-      "name": "ARDA ECZANESİ",
-      "address": "Hürriyet Mahallesi, Paşaçayırı Caddesi, 45",
-      "phone": "+902126092007",
-      "district": "GAZİOSMANPAŞA",
-      "city": "İstanbul",
-      "latitude": 41.06976224998692,
-      "longitude": 28.897535568566965,
-      "dutyStart": "2026-03-06T21:00:00.000Z",
-      "dutyEnd": "2026-03-07T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-11394",
       "name": "ARDA ECZANESİ",
       "address": "İnönü Mahallesi, Maslak Çeşme Caddesi, 92",
@@ -75,6 +63,18 @@
       "city": "İstanbul",
       "latitude": 41.021394464809795,
       "longitude": 28.797043711797873,
+      "dutyStart": "2026-03-06T21:00:00.000Z",
+      "dutyEnd": "2026-03-07T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-21988",
+      "name": "ARDA ECZANESİ",
+      "address": "Hürriyet Mahallesi, Paşaçayırı Caddesi, 45",
+      "phone": "+902126092007",
+      "district": "GAZİOSMANPAŞA",
+      "city": "İstanbul",
+      "latitude": 41.06976224998692,
+      "longitude": 28.897535568566965,
       "dutyStart": "2026-03-06T21:00:00.000Z",
       "dutyEnd": "2026-03-07T20:59:59.000Z"
     },
