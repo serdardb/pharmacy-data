@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-07",
-  "updatedAt": "2026-03-07T02:30:22.300Z",
+  "updatedAt": "2026-03-07T03:00:25.579Z",
   "count": 31,
   "pharmacies": [
     {
@@ -80,6 +80,18 @@
     },
     {
       "id": "bursa-6",
+      "name": "MERKEZ SAĞLIK ECZANESİ",
+      "address": "ALAADDİN MAH. ORTAPAZAR CAD. NO:47/2,  (MURADİYE DEVLET VE ALİ OSMAN SÖNMEZ ONKOLOJİ HASTANESİ ÜSTÜ) ,  0224 222 40 68",
+      "phone": "02242224068",
+      "district": "OSMANGAZİ",
+      "city": "Bursa",
+      "latitude": 40.18593893,
+      "longitude": 29.0538919,
+      "dutyStart": "2026-03-06T18:30:00.000Z",
+      "dutyEnd": "2026-03-07T10:00:00.000Z"
+    },
+    {
+      "id": "bursa-7",
       "name": "TUNA BEGÜM ECZANESİ",
       "address": "TUNA MAH. GÜRDAL CAD. NO:27,  (TUNA SAĞLIK OCAĞI KARŞISI) ,  0224-2721626",
       "phone": "02242721626",
@@ -91,7 +103,7 @@
       "dutyEnd": "2026-03-07T10:00:00.000Z"
     },
     {
-      "id": "bursa-7",
+      "id": "bursa-8",
       "name": "YENİKALE ECZANESİ",
       "address": "DİKKALDIRIM MAH. HAT CAD. NO:1/1-B,  (ZÜBEYDE HANIM DOĞUMEVİ KARŞISI) ,  0224 236 46 98",
       "phone": "02242364698",
@@ -103,7 +115,7 @@
       "dutyEnd": "2026-03-07T10:00:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-9",
       "name": "HİPODROM ECZANESİ",
       "address": "ATICILAR MAH. 2.GÜLER SOK. NO:22/B ,  0224 254 04 14 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02242540414",
@@ -115,7 +127,7 @@
       "dutyEnd": "2026-03-07T10:00:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-10",
       "name": "HUZUR ECZANESİ",
       "address": "HAMİTLER MAH. HARBİYE CAD. NO:88/B,  (DOĞA KOLEJ YAKINI - YENİBAĞLAR TAKSİ DURAĞI KARŞISI) ,  0224 251 10 80",
       "phone": "02242511080",
@@ -127,7 +139,7 @@
       "dutyEnd": "2026-03-07T10:00:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-11",
       "name": "AY IŞIĞI ECZANESİ",
       "address": "EMEK ZEKAİ GÜMÜŞDİŞ MAH. GÜLER SOK. NO:23/B,  (EMEK ADNAN MENDERES SAĞLIK OCAĞI KARŞISI) ,  0224 220 02 51",
       "phone": "02242200251",
@@ -135,18 +147,6 @@
       "city": "Bursa",
       "latitude": 40.254178843302114,
       "longitude": 28.956924257667044,
-      "dutyStart": "2026-03-06T18:30:00.000Z",
-      "dutyEnd": "2026-03-07T10:00:00.000Z"
-    },
-    {
-      "id": "bursa-11",
-      "name": "MERKEZ SAĞLIK ECZANESİ",
-      "address": "ALAADDİN MAH. ORTAPAZAR CAD. NO:47/2,  (MURADİYE DEVLET VE ALİ OSMAN SÖNMEZ ONKOLOJİ HASTANESİ ÜSTÜ) ,  0224 222 40 68",
-      "phone": "02242224068",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.18593893,
-      "longitude": 29.0538919,
       "dutyStart": "2026-03-06T18:30:00.000Z",
       "dutyEnd": "2026-03-07T10:00:00.000Z"
     },
