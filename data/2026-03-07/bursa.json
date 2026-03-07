@@ -3,7 +3,7 @@
   "cityName": "Bursa",
   "cityId": 16,
   "date": "2026-03-07",
-  "updatedAt": "2026-03-07T09:30:21.781Z",
+  "updatedAt": "2026-03-07T10:00:21.985Z",
   "count": 36,
   "pharmacies": [
     {
@@ -80,18 +80,6 @@
     },
     {
       "id": "bursa-6",
-      "name": "BİRSEL ECZANESİ",
-      "address": "KOĞUKÇINAR MAH. GÜZEL SOK. NO:38/A,  (ÇINAR LİSESİ ALTI-BAHAR ASM KARŞISI) ,  0224 273 08 45 / 0224 273 08 46",
-      "phone": "02242730845",
-      "district": "OSMANGAZİ",
-      "city": "Bursa",
-      "latitude": 40.203192852147744,
-      "longitude": 29.067323057969247,
-      "dutyStart": "2026-03-07T17:00:00.000Z",
-      "dutyEnd": "2026-03-08T08:30:00.000Z"
-    },
-    {
-      "id": "bursa-7",
       "name": "HÜRRİYET ECZANESİ",
       "address": "İSTİKLAL MAH. EDİRNE SOK. N0:21 HÜRRİYET,  (B.D.H. HÜRRİYET POLİKLİNİĞİ KARŞISI) ,  0224 247 87 99 / 0224 247 87 00",
       "phone": "02242478799",
@@ -103,7 +91,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "bursa-8",
+      "id": "bursa-7",
       "name": "BULVAR ECZANESİ",
       "address": "AKTARHÜSSAM MAH. 1.DEĞİRMEN SOK. NO:6/A,  (GÖKTAŞ GÜNDOĞDU İŞ HANI - FOMARA KERVANSARAY OTELİ ARKASI) ,  0224 224 42 77",
       "phone": "02242244277",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "bursa-9",
+      "id": "bursa-8",
       "name": "YÜKSEL ECZANESİ",
       "address": "KÜKÜRTLÜ MAH. KÜKÜRTLÜ CAD. NO:14/B ,  0224-2365254 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02242365254",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "bursa-10",
+      "id": "bursa-9",
       "name": "TURAN ECZANESİ",
       "address": "EMEK ZEKAİ GÜMÜŞDİŞ MAH. SANAYİ CAD. NO:612/A,  (ÖZEL CEYLAN HASTANESİ YANI) ,  0224 253 10 11",
       "phone": "02242531011",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "bursa-11",
+      "id": "bursa-10",
       "name": "GÜLSOY ECZANESİ",
       "address": "SOĞANLI MAH. 3.MELTEM SOK. NO:4/B ,  (SOĞANLI MEZARLIĞI KARŞISI) ,  0224 502 77 40",
       "phone": "02245027740",
@@ -151,19 +139,19 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "bursa-12",
-      "name": "ŞİFANUR ECZANESİ",
-      "address": "152 EVLER MAH. 1.NUR SOK. NO:11 ,  (BURSA TEKNİK ÜNİVERSİTESİ YANI) ,  0224 361 28 27",
-      "phone": "02243612827",
-      "district": "YILDIRIM",
+      "id": "bursa-11",
+      "name": "BİRSEL ECZANESİ",
+      "address": "KOĞUKÇINAR MAH. GÜZEL SOK. NO:38/A,  (ÇINAR LİSESİ ALTI-BAHAR ASM KARŞISI) ,  0224 273 08 45 / 0224 273 08 46",
+      "phone": "02242730845",
+      "district": "OSMANGAZİ",
       "city": "Bursa",
-      "latitude": 40.18681183,
-      "longitude": 29.10456419,
+      "latitude": 40.203192852147744,
+      "longitude": 29.067323057969247,
       "dutyStart": "2026-03-07T17:00:00.000Z",
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "bursa-13",
+      "id": "bursa-12",
       "name": "EKREM ECZANESİ",
       "address": "SELİMZADE MAH. (YENİ) BEYAZIT CAD. NO:37/1-B ,  0224 362 22 62 / 5532291610 ,  Eczaneyi haritada görüntülemek için tıklayınız...",
       "phone": "02243622262",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "bursa-14",
+      "id": "bursa-13",
       "name": "İKSİR ECZANESİ",
       "address": "ESENEVLER MAH. EDEBALİ SOK. NO:58,  (ESENEVLER ASM VE MUHTARLIK KARŞISI) ,  0224 342 00 00",
       "phone": "02243420000",
@@ -187,7 +175,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "bursa-15",
+      "id": "bursa-14",
       "name": "MİLLET IŞIK ECZANESİ",
       "address": "MİLLET MAH. DERYA CAD. NO:142/A,  (ÇEVRE YOLU ALTI VİLLA) ,  0224-3512526",
       "phone": "02243512526",
@@ -195,6 +183,18 @@
       "city": "Bursa",
       "latitude": 40.22107706693134,
       "longitude": 29.10165366268916,
+      "dutyStart": "2026-03-07T17:00:00.000Z",
+      "dutyEnd": "2026-03-08T08:30:00.000Z"
+    },
+    {
+      "id": "bursa-15",
+      "name": "ŞİFANUR ECZANESİ",
+      "address": "152 EVLER MAH. 1.NUR SOK. NO:11 ,  (BURSA TEKNİK ÜNİVERSİTESİ YANI) ,  0224 361 28 27",
+      "phone": "02243612827",
+      "district": "YILDIRIM",
+      "city": "Bursa",
+      "latitude": 40.18681183,
+      "longitude": 29.10456419,
       "dutyStart": "2026-03-07T17:00:00.000Z",
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },

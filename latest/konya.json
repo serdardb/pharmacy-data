@@ -3,8 +3,8 @@
   "cityName": "Konya",
   "cityId": 42,
   "date": "2026-03-07",
-  "updatedAt": "2026-03-07T09:30:21.781Z",
-  "count": 35,
+  "updatedAt": "2026-03-07T10:00:21.985Z",
+  "count": 34,
   "pharmacies": [
     {
       "id": "konya-0",
@@ -380,30 +380,18 @@
     },
     {
       "id": "konya-31",
-      "name": "GONCA ECZANESİ",
-      "address": "ALAYLAR BİR MAHALLESİ ATATÜRK CADDESİ NO:25B",
-      "phone": "903325824655",
+      "name": "YASİN ECZANESİ",
+      "address": "STAT MAHALLESİ CEVHER DUDAYEV CADDESİ NO:85A",
+      "phone": "903323224247",
       "district": "Seydi̇şehi̇r",
       "city": "Konya",
-      "latitude": 37.4238035,
-      "longitude": 31.8444691,
+      "latitude": 37.4081021,
+      "longitude": 31.8435884,
       "dutyStart": "2026-03-07T09:00:00.000Z",
       "dutyEnd": "2026-03-08T09:00:00.000Z"
     },
     {
       "id": "konya-32",
-      "name": "YENİ GÜL ECZANESİ",
-      "address": "ALAYLAR İKİ MAHALLESİ MİLLİ EGEMENLİK CADDESİ NO:10A",
-      "phone": "903325825221",
-      "district": "Seydi̇şehi̇r",
-      "city": "Konya",
-      "latitude": 37.423881,
-      "longitude": 31.8458776,
-      "dutyStart": "2026-03-07T09:00:00.000Z",
-      "dutyEnd": "2026-03-08T09:00:00.000Z"
-    },
-    {
-      "id": "konya-33",
       "name": "ELÇİN ECZANESİ",
       "address": "PAZAR MAHALLESİ AKŞEHİR CADDESİ NO: 43A",
       "phone": "903328612747",
@@ -415,7 +403,7 @@
       "dutyEnd": "2026-03-08T09:00:00.000Z"
     },
     {
-      "id": "konya-34",
+      "id": "konya-33",
       "name": "ÖZ SAĞLIK ECZANESİ",
       "address": "YENİ MAHALLE ANKARA CADDESİ NO:711",
       "phone": "903328510307",
