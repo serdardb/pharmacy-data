@@ -3,8 +3,8 @@
   "cityName": "Kocaeli",
   "cityId": 41,
   "date": "2026-03-08",
-  "updatedAt": "2026-03-07T21:00:16.404Z",
-  "count": 23,
+  "updatedAt": "2026-03-07T21:30:16.289Z",
+  "count": 20,
   "pharmacies": [
     {
       "id": "kocaeli-0",
@@ -92,18 +92,6 @@
     },
     {
       "id": "kocaeli-7",
-      "name": "AKKUZU ECZANESİ",
-      "address": "İNÖNÜ MAH.145. SOK. NO:14/A ÇAYIROVA",
-      "phone": "02627444142",
-      "district": "Çayırova",
-      "city": "Kocaeli",
-      "latitude": 40.823558,
-      "longitude": 29.392928,
-      "dutyStart": "2026-03-07T08:30:00.000Z",
-      "dutyEnd": "2026-03-08T08:30:00.000Z"
-    },
-    {
-      "id": "kocaeli-8",
       "name": "DARICA LEYLA ECZANESİ",
       "address": "OSMANGAZI MAH. FATIH SULTAN MEHMET CAD. NO:73",
       "phone": "02626540608",
@@ -115,7 +103,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-9",
+      "id": "kocaeli-8",
       "name": "ÇINAR ECZANESİ",
       "address": "FEVZİ ÇAKMAK MAH.İSTASYON CAD. NO:404 DARICA",
       "phone": "02626550257",
@@ -127,7 +115,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-10",
+      "id": "kocaeli-9",
       "name": "HARUN ECZANESİ",
       "address": "DİLİSKELESİ MAH.CUMHURİYET CAD.NO:67/C",
       "phone": "02627547617",
@@ -139,7 +127,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-11",
+      "id": "kocaeli-10",
       "name": "BALLI ÇİÇEK ECZANESİ",
       "address": "ATAEVLER MAH. SAPANCA YOLU CAD. NO:26/F KARTEPE",
       "phone": "02625033341",
@@ -151,7 +139,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-12",
+      "id": "kocaeli-11",
       "name": "DEMİRTAŞ ECZANESİ",
       "address": "GÜZELLER MAH.YENİBAĞDAT CAD.NO:583/A GEBZE",
       "phone": "02626429091",
@@ -163,7 +151,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-13",
+      "id": "kocaeli-12",
       "name": "YENİ HAYAT ECZANESİ",
       "address": "MUSTAFA PASA MAH. BAGDAT CAD. 712. SOK. NO:2",
       "phone": "02626423232",
@@ -175,7 +163,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-14",
+      "id": "kocaeli-13",
       "name": "PİYALEPAŞA ECZANESİ",
       "address": "PİYALEPAŞA MAH.471.SOK.NO:10/A GÖLCÜK",
       "phone": "02624149434",
@@ -187,19 +175,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-15",
-      "name": "BARIŞ ECZANESİ",
-      "address": "BEYLIKBAGI MAH.ANKARA CD.NO:40/B",
-      "phone": "02627444001",
-      "district": "Gebze",
-      "city": "Kocaeli",
-      "latitude": 40.80616,
-      "longitude": 29.385643,
-      "dutyStart": "2026-03-07T08:30:00.000Z",
-      "dutyEnd": "2026-03-08T08:30:00.000Z"
-    },
-    {
-      "id": "kocaeli-16",
+      "id": "kocaeli-14",
       "name": "HACETTEPE ECZANESİ",
       "address": "YÜZBAŞILAR MAH. AMİRAL KAYACAN CAD. NO:76/B GÖLCÜK",
       "phone": "05413994616",
@@ -211,7 +187,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-17",
+      "id": "kocaeli-15",
       "name": "AZAT ECZANESİ",
       "address": "ÇİFTLİK MAH. KAZIM KARABEKİR CAD.NO:16/C GÖLCÜK",
       "phone": "02624358030",
@@ -223,7 +199,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-18",
+      "id": "kocaeli-16",
       "name": "KANDIRA ECZANESİ",
       "address": "ÇARSI MAH. İSMAİL ŞENOĞLU CAD. NO:39/E KANDIRA",
       "phone": "02625512285",
@@ -235,7 +211,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-19",
+      "id": "kocaeli-17",
       "name": "HANDAN ECZANESİ",
       "address": "KAYACIK MAH. HÜSEYIN KARADENIZ SOK. NO: 11",
       "phone": "02624525411",
@@ -247,7 +223,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-20",
+      "id": "kocaeli-18",
       "name": "DEMET ECZANESİ",
       "address": "GÜNEY MAH. ALBAY SOK. NO:6/B-C-D KÖRFEZ",
       "phone": "02625266100",
@@ -259,19 +235,7 @@
       "dutyEnd": "2026-03-08T08:30:00.000Z"
     },
     {
-      "id": "kocaeli-21",
-      "name": "BANU ECZANESİ",
-      "address": "ATALAR MAH. MEHMET AKIF ERSOY CAD. 10/B KÖRFEZ",
-      "phone": "02625287017",
-      "district": "Körfez",
-      "city": "Kocaeli",
-      "latitude": 40.773438,
-      "longitude": 29.734422,
-      "dutyStart": "2026-03-07T08:30:00.000Z",
-      "dutyEnd": "2026-03-08T08:30:00.000Z"
-    },
-    {
-      "id": "kocaeli-22",
+      "id": "kocaeli-19",
       "name": "GÜNEŞ ECZANESİ",
       "address": "İBNİ SİNA MAH. LOJMAN SOK. NO:18/B DERİNCE",
       "phone": "02622331223",
