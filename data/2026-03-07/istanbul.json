@@ -3,7 +3,7 @@
   "cityName": "İstanbul",
   "cityId": 34,
   "date": "2026-03-07",
-  "updatedAt": "2026-03-07T19:00:17.365Z",
+  "updatedAt": "2026-03-07T19:30:16.059Z",
   "count": 132,
   "pharmacies": [
     {
@@ -211,18 +211,6 @@
       "dutyEnd": "2026-03-07T20:59:59.000Z"
     },
     {
-      "id": "istanbul-15122",
-      "name": "BURCU ECZANESİ",
-      "address": "Çobançeşme Mahallesi, Fatih Caddesi, 103B",
-      "phone": "+902126545644",
-      "district": "BAHÇELİEVLER",
-      "city": "İstanbul",
-      "latitude": 41.00733903613065,
-      "longitude": 28.830912219850404,
-      "dutyStart": "2026-03-06T21:00:00.000Z",
-      "dutyEnd": "2026-03-07T20:59:59.000Z"
-    },
-    {
       "id": "istanbul-27440",
       "name": "BURCU ECZANESİ",
       "address": "Süleymaniye Mahallesi, Ispartakule Caddesi, 91/A",
@@ -231,6 +219,18 @@
       "city": "İstanbul",
       "latitude": 41.04440199965013,
       "longitude": 28.68752799981297,
+      "dutyStart": "2026-03-06T21:00:00.000Z",
+      "dutyEnd": "2026-03-07T20:59:59.000Z"
+    },
+    {
+      "id": "istanbul-15122",
+      "name": "BURCU ECZANESİ",
+      "address": "Çobançeşme Mahallesi, Fatih Caddesi, 103B",
+      "phone": "+902126545644",
+      "district": "BAHÇELİEVLER",
+      "city": "İstanbul",
+      "latitude": 41.00733903613065,
+      "longitude": 28.830912219850404,
       "dutyStart": "2026-03-06T21:00:00.000Z",
       "dutyEnd": "2026-03-07T20:59:59.000Z"
     },
